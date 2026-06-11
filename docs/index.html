@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Trustname.com / Fewmoretaps OU — Registrar Abuse Investigation | PhishDestroy</title>
+<meta name="description" content="Complete zone scan of Fewmoretaps OU / Trustname.com — 7,641 domains. 1,114 HIGH severity. 86% of active content is malicious. Phishing, crypto drains, carding, malware, illegal drugs.">
+<meta name="keywords" content="trustname, fewmoretaps, registrar abuse, ICANN, phishing, carding, crypto drainer, threat intelligence, IOC, phishdestroy">
+<meta name="author" content="PhishDestroy Research">
+<meta name="robots" content="index,follow">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="PhishDestroy">
+<meta property="og:title" content="Fewmoretaps OU / Trustname.com — 1,114 Malicious Domains">
+<meta property="og:description" content="Complete zone scan: 7,641 domains. 86% of active content is malicious. Phishing, crypto drains, carding, RAT shops, illegal drugs.">
+<meta property="og:image" content="https://phishdestroy.github.io/trustname-evidence/assets/og-card.jpg">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="720">
+<meta name="twitter:image" content="https://phishdestroy.github.io/trustname-evidence/assets/og-card.jpg">
+<meta property="og:url" content="https://phishdestroy.github.io/trustname-evidence/">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Trustname.com — 86% of Active Domains are Malicious">
+<meta name="twitter:description" content="Complete-zone scan of an ICANN-accredited registrar. 7,641 domains, 1,114 HIGH, 1,107 MEDIUM. Evidence package for law enforcement.">
+
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/icon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/icon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="canonical" href="https://phishdestroy.github.io/trustname-evidence/">
+<link rel="sitemap" type="application/xml" href="sitemap.xml">
+<style>
+:root{--bg:#000;--s1:#070b12;--s2:#0c1018;--s3:#111720;--bdr:rgba(255,255,255,.08);--bdr2:rgba(255,255,255,.12);--tx:#f0f6fc;--tx2:#8b949e;--tx3:#484f58;--cy:#6ea8d7;--rd:#da3633;--gn:#3fb950;--or:#c0a060;--vi:#8b5cf6}
+*{box-sizing:border-box;margin:0;padding:0}html{font-size:14px;scroll-behavior:smooth}
+body{background:var(--bg);color:var(--tx);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Inter",sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:var(--cy);text-decoration:none}a:hover{opacity:.8;text-decoration:none}
+
+.nav{position:sticky;top:0;z-index:100;background:rgba(7,11,18,.95);backdrop-filter:blur(8px);border-bottom:1px solid var(--bdr);padding:0 28px;height:52px;display:flex;align-items:center;gap:6px}
+.nav-brand{font-weight:700;font-size:14px;color:var(--tx);margin-right:auto}
+.nav-brand em{color:var(--rd);font-style:normal}
+.btn{display:inline-flex;align-items:center;gap:5px;padding:6px 14px;border-radius:5px;font-size:12px;font-weight:600;border:1px solid;text-decoration:none;white-space:nowrap;transition:.12s}
+.btn:hover{filter:brightness(1.12);text-decoration:none}
+.btn.red{background:var(--rd);border-color:var(--rd);color:#fff}
+.btn.ghost{background:rgba(255,255,255,.04);border-color:var(--bdr);color:var(--tx2)}
+.btn.ghost:hover{border-color:var(--bdr2);color:var(--tx)}
+.btn.grn{background:rgba(63,185,80,.08);border-color:rgba(63,185,80,.3);color:var(--gn)}
+
+.hero{padding:48px 28px 40px;border-bottom:1px solid var(--bdr);position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background-image:radial-gradient(circle,rgba(110,168,215,.1) 1px,transparent 1px);background-size:28px 28px;pointer-events:none}
+.hero-inner{position:relative;z-index:1;max-width:1100px;margin:0 auto}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
+.hb{font-size:10px;font-weight:600;padding:3px 10px;border:1px solid;text-transform:uppercase;letter-spacing:.06em;font-family:monospace}
+.hb.live{color:var(--rd);border-color:rgba(218,54,51,.3);background:rgba(218,54,51,.05)}
+.hb.live::before{content:"● ";animation:blink 2s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.hb.pl{color:var(--tx2);border-color:var(--bdr)}
+.hb.cy{color:var(--cy);border-color:rgba(110,168,215,.25);background:rgba(110,168,215,.04)}
+h1{font-size:30px;font-weight:300;letter-spacing:-.03em;line-height:1.2;margin-bottom:6px}
+h1 strong{font-weight:800}
+.hero-sub{font-size:11px;color:var(--tx3);font-family:monospace;letter-spacing:.03em;margin-bottom:30px}
+.bignums{display:flex;flex-wrap:wrap;gap:26px}
+.bignums .b .n{font-size:2rem;font-weight:800;line-height:1}
+.bignums .b .l{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3);margin-top:2px}
+.bignums .b.r .n{color:var(--rd)}.bignums .b.o .n{color:var(--or)}.bignums .b.c .n{color:var(--cy)}.bignums .b.g .n{color:var(--gn)}
+
+.wrap{max-width:1100px;margin:0 auto;padding:0 28px 32px}
+.sec{display:flex;align-items:center;gap:12px;margin:40px 0 16px}
+.sec h2{font-size:11px;font-weight:700;color:var(--tx);font-family:monospace;text-transform:uppercase;letter-spacing:.08em;white-space:nowrap}
+.sec-sub{font-size:11px;color:var(--tx2);margin:-8px 0 16px;max-width:780px;line-height:1.65}
+.sec .ln{flex:1;height:1px;background:var(--bdr)}
+
+.hub{display:grid;grid-template-columns:repeat(4,1fr);gap:11px}
+@media(max-width:880px){.hub{grid-template-columns:repeat(2,1fr)}}
+.hcard{background:var(--s2);border:1px solid var(--bdr);border-radius:7px;padding:16px 18px;display:flex;flex-direction:column;transition:.14s;text-decoration:none;color:inherit;min-width:0}
+.hcard:hover{background:var(--s3);border-color:rgba(255,255,255,.14);transform:translateY(-1px)}
+.hcard.pri{border-color:rgba(110,168,215,.3);background:rgba(110,168,215,.04)}
+.hcard.dan{border-color:rgba(218,54,51,.3);background:rgba(218,54,51,.04)}
+.hcard.war{border-color:rgba(192,160,96,.3);background:rgba(192,160,96,.04)}
+.hc-ico{font-size:18px;margin-bottom:7px}
+.hc-tit{font-size:12px;font-weight:700;color:var(--tx);margin-bottom:4px}
+.hc-dsc{font-size:11px;color:var(--tx3);line-height:1.5;flex:1;margin-bottom:9px}
+.hc-st{font-size:10px;font-family:monospace;color:var(--cy);border-top:1px solid var(--bdr);padding-top:6px;margin-top:auto}
+.hc-st.r{color:var(--rd)}.hc-st.o{color:var(--or)}.hc-st.g{color:var(--gn)}
+
+.charts{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:680px){.charts{grid-template-columns:1fr}}
+.panel{background:var(--s2);border:1px solid var(--bdr);border-radius:6px;padding:16px 18px}
+.ptit{font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:var(--tx3);font-family:monospace;margin-bottom:12px}
+
+.catg{display:grid;grid-template-columns:repeat(6,1fr);gap:5px}
+@media(max-width:880px){.catg{grid-template-columns:repeat(4,1fr)}}
+@media(max-width:480px){.catg{grid-template-columns:repeat(3,1fr)}}
+.cc{background:var(--s2);border:1px solid var(--bdr);border-radius:5px;padding:9px 6px;text-align:center}
+.cc .n{font-size:18px;font-weight:800;line-height:1}
+.cc .l{font-size:9px;text-transform:uppercase;letter-spacing:.04em;color:var(--tx3);margin-top:2px;font-family:monospace}
+.cc.r .n{color:var(--rd)}.cc.o .n{color:var(--or)}.cc.v .n{color:var(--vi)}.cc.c .n{color:var(--cy)}
+
+.evg{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+@media(max-width:900px){.evg{grid-template-columns:repeat(4,1fr)}}
+@media(max-width:560px){.evg{grid-template-columns:repeat(3,1fr)}}
+.ecard{background:var(--s2);border:1px solid var(--bdr);border-radius:5px;overflow:hidden;cursor:zoom-in}
+.ecard img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;opacity:.85;transition:.2s}
+.ecard img:hover{opacity:1;transform:scale(1.02)}
+.ecap{padding:8px 10px;font-size:10px;color:var(--tx3);border-top:1px solid var(--bdr);line-height:1.4}
+.ecap strong{color:var(--tx);display:block;font-size:13px;font-weight:700;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ebadge{display:inline-block;font-size:9px;font-weight:700;padding:1px 5px;border-radius:2px;margin-bottom:2px;font-family:monospace}
+.eb-r{background:rgba(218,54,51,.15);color:#f88;border:1px solid rgba(218,54,51,.2)}
+.eb-o{background:rgba(192,160,96,.12);color:var(--or);border:1px solid rgba(192,160,96,.2)}
+.eb-m{background:rgba(255,149,0,.1);color:#ff9500;border:1px solid rgba(255,149,0,.2)}
+.eb-g{background:rgba(63,185,80,.08);color:var(--gn);border:1px solid rgba(63,185,80,.15)}
+.eb-v{background:rgba(139,92,246,.1);color:#c084fc;border:1px solid rgba(139,92,246,.2)}
+
+.adult-wrap{position:relative;overflow:hidden}
+.adult-wrap img{filter:blur(14px);transition:filter .35s}
+.adult-wrap.shown img{filter:none}
+.adult-ov{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(0,0,0,.6);cursor:pointer;gap:5px;transition:opacity .25s}
+.adult-ov .age{font-size:13px;font-weight:800;color:#fff;background:rgba(218,54,51,.85);padding:4px 12px;border-radius:3px;letter-spacing:.04em}
+.adult-ov .agtxt{font-size:10px;color:rgba(255,255,255,.65)}
+.adult-wrap.shown .adult-ov{opacity:0;pointer-events:none}
+
+.clcard{background:var(--s2);border:1px solid var(--bdr);border-radius:7px;overflow:hidden}
+.clhdr{padding:12px 14px;border-bottom:1px solid var(--bdr);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.clcnt{font-family:monospace;font-size:14px;font-weight:800;color:var(--rd)}
+.clfp{font-family:monospace;font-size:10px;color:var(--tx3);word-break:break-all}
+.cldoms{padding:8px 12px;display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+.cld{font-family:monospace;font-size:10px;padding:2px 6px;background:var(--s3);border-radius:3px;color:var(--tx2);display:inline-flex;align-items:center;gap:4px}
+.clfav{width:24px;height:24px;border-radius:3px;border:1px solid var(--bdr);background:var(--s3)}
+
+.clg{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}
+@media(max-width:880px){.clg{grid-template-columns:repeat(2,1fr)}}
+.clcard{background:var(--s2);border:1px solid var(--bdr);border-radius:5px;overflow:hidden}
+.clhdr{padding:8px 11px;border-bottom:1px solid var(--bdr);display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.clcnt{font-family:monospace;font-size:11px;font-weight:700;color:var(--rd)}
+.clfp{font-family:monospace;font-size:9px;color:var(--tx3)}
+.cldoms{padding:7px 11px;display:flex;flex-wrap:wrap;gap:3px}
+.cld{font-family:monospace;font-size:10px;padding:1px 5px;background:var(--s3);border-radius:2px;color:var(--tx2)}
+
+.meth{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+@media(max-width:880px){.meth{grid-template-columns:repeat(2,1fr)}}
+.mc{font-size:11px;color:var(--tx2);line-height:1.65}
+.mc .mt{font-size:9px;text-transform:uppercase;letter-spacing:.07em;color:var(--tx3);font-family:monospace;margin-bottom:7px;border-bottom:1px solid var(--bdr);padding-bottom:5px}
+.mc strong{color:var(--tx)}
+
+.mirg{display:grid;grid-template-columns:repeat(6,1fr);gap:7px}
+@media(max-width:880px){.mirg{grid-template-columns:repeat(3,1fr)}}
+.mirc{background:var(--s2);border:1px solid var(--bdr);border-radius:5px;padding:9px 11px}
+.mirc .ml{font-size:9px;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3);margin-bottom:3px;font-family:monospace}
+.mirc a{font-size:11px;font-family:monospace;word-break:break-all;color:var(--cy)}
+
+#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.9);z-index:999;align-items:center;justify-content:center;backdrop-filter:blur(4px)}
+#lb.show{display:flex}
+#lb img{max-width:88vw;max-height:88vh;border-radius:6px;border:1px solid var(--bdr2)}
+#lbx{position:fixed;top:12px;right:14px;width:30px;height:30px;background:var(--s2);border:1px solid var(--bdr);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:16px;cursor:pointer;color:var(--tx2)}
+footer{border-top:1px solid var(--bdr);padding:20px 28px;text-align:center;font-size:11px;font-family:monospace;color:var(--tx3)}
+footer a{color:var(--cy)}
+
+.disclaimer{background:rgba(218,54,51,.08);border-bottom:1px solid rgba(218,54,51,.2);padding:8px 22px;font-size:11px;color:var(--tx2);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.disclaimer .ico{font-size:13px;flex-shrink:0;color:var(--rd)}
+.disclaimer .tx{flex:1;min-width:240px;color:var(--tx2)}
+.disclaimer b{color:var(--tx)}
+.disclaimer .x{background:transparent;border:1px solid var(--bdr);color:var(--tx3);width:22px;height:22px;border-radius:4px;cursor:pointer;font-size:11px;line-height:1;flex-shrink:0;font-family:monospace}
+.disclaimer .x:hover{color:var(--tx);border-color:var(--bdr2)}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "InvestigativeReport",
+  "headline": "Fewmoretaps OÜ / Trustname.com — Registrar Zone Evidence (Phase II)",
+  "alternativeHeadline": "86% of Active Domains Under IANA Registrar #4318 Are Confirmed Malicious",
+  "datePublished": "2026-06-10",
+  "dateModified": "2026-06-10",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "ReportSeries",
+    "name": "PhishDestroy Trustname Investigation",
+    "url": "https://phishdestroy.io/trustname-bulletproof-exposed/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "PhishDestroy",
+    "url": "https://phishdestroy.io/",
+    "sameAs": ["https://github.com/phishdestroy"]
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "PhishDestroy Research",
+    "url": "https://phishdestroy.io/"
+  },
+  "about": [
+    {"@type":"Organization","name":"Fewmoretaps OÜ","identifier":"Estonian registration 16354846"},
+    {"@type":"Organization","name":"Trustname.com","identifier":"IANA registrar ID #4318"}
+  ],
+  "license": "https://opensource.org/licenses/MIT",
+  "url": "https://phishdestroy.github.io/trustname-evidence/",
+  "mainEntityOfPage": "https://phishdestroy.github.io/trustname-evidence/",
+  "relatedLink": [
+    "https://phishdestroy.io/trustname-bulletproof-exposed/",
+    "https://github.com/phishdestroy/trustname-evidence",
+    "https://github.com/phishdestroy/namesilo-evidence"
+  ],
+  "keywords": "trustname, fewmoretaps, ICANN registrar #4318, registrar abuse, phishing, carding, crypto drainer, IOC, evidence package, threat intelligence, bulletproof registrar"
+}
+</script>
+</head>
+<body>
+<div class="disclaimer" id="disclaimer">
+  <span class="ico">⚠</span>
+  <span class="tx"><b>Raw scan data — not moderated.</b> This page renders the unedited output of a complete-zone scan. Page titles, descriptions, screenshots may contain NSFW imagery, profanity, scam content, and brand-impersonation material. Adult-category captures are blurred by default. Inclusion is forensic, not endorsement.</span>
+  <button class="x" onclick="document.getElementById('disclaimer').style.display='none'" title="Dismiss">✕</button>
+</div>
+<nav class="nav">
+  <span class="nav-brand">PhishDestroy <em>/</em> Trustname.com</span>
+  <a href="domains.html" class="btn red">🗂 All 7,641 Domains →</a>
+  <a href="domains.html?cat=PHISHING_FINANCE" class="btn ghost">🏦 Phishing</a>
+  <a href="domains.html?cat=CARDING" class="btn ghost">💳 Carding</a>
+  <a href="domains.html?cat=MALWARE_DIST" class="btn ghost">☣ Malware</a>
+  <a href="../ioc/domains_high.txt" class="btn grn">⬇ IOC</a>
+</nav>
+
+<div class="hero">
+<div class="hero-inner">
+  <div class="badges">
+    <span class="hb live">Active Investigation</span>
+    <span class="hb pl">TLP:CLEAR</span>
+    <span class="hb cy">ICANN RAA Complaint</span>
+    <span class="hb pl">Complete Zone Scan · June 2026</span>
+    <span class="hb pl">Zero Sampling</span>
+  </div>
+  <h1>Fewmoretaps OU / Trustname.com<br><strong>Registrar Abuse Investigation</strong></h1>
+  <p class="hero-sub">7,641 domains scanned · Complete registrar zone · PhishDestroy Research · June 2026</p>
+  <div class="bignums">
+    <div class="b r"><div class="n">1,114</div><div class="l">HIGH severity</div></div>
+    <div class="b o"><div class="n">1,107</div><div class="l">MEDIUM severity</div></div>
+    <div class="b r"><div class="n">62.1%</div><div class="l">Dead / Parked</div></div>
+    <div class="b c"><div class="n">2,072</div><div class="l">Cloudflare-protected</div></div>
+    <div class="b c"><div class="n">1,953</div><div class="l">Screenshots</div></div>
+    <div class="b g"><div class="n">7,641</div><div class="l">Total scanned</div></div>
+  </div>
+</div>
+</div>
+
+<div class="wrap">
+
+<div class="sec"><h2>Investigation Reports</h2><div class="ln"></div></div>
+<p class="sec-sub">Drill-down pages by abuse category. Each card links into the searchable domain table with the category filter pre-applied.</p>
+<div class="hub">
+  <a href="domains.html" class="hcard pri"><div class="hc-ico">🗂</div><div class="hc-tit">Full Domain List</div><div class="hc-dsc">All 7,641 domains. Searchable by category, severity, Cloudflare. AI descriptions, form analysis, favicon hashes, screenshots.</div><div class="hc-st r">1,114 HIGH · 1,107 MEDIUM · 1,953 screenshots</div></a>
+  <a href="domains.html?cat=PHISHING_FINANCE" class="hcard dan"><div class="hc-ico">🏦</div><div class="hc-tit">Financial Phishing</div><div class="hc-dsc">236 domains harvesting card numbers + CVV. Confirmed by browser form analysis. Amex cluster: 5 domains same operator WHOIS identity.</div><div class="hc-st r">236 domains · card_number+cvv confirmed</div></a>
+  <a href="domains.html?cat=PHISHING_GENERIC" class="hcard dan"><div class="hc-ico">🎣</div><div class="hc-tit">Credential Harvesting</div><div class="hc-dsc">396 domains with login forms collecting passwords, OTP codes, account credentials. Detected via browser form field analysis.</div><div class="hc-st r">396 domains · password+OTP detected</div></a>
+  <a href="domains.html?cat=PHISHING_CRYPTO" class="hcard war"><div class="hc-ico">🪙</div><div class="hc-tit">Crypto Phishing &amp; Drains</div><div class="hc-dsc">178 crypto wallet/exchange phishing pages. Confirmed drainers: fragapi.com (seed phrase form), instasolana.bond, purnp-fun.com (Solflare).</div><div class="hc-st o">178 phishing · seed phrase confirmed</div></a>
+  <a href="domains.html?cat=CARDING" class="hcard dan"><div class="hc-ico">💳</div><div class="hc-tit">Carding Infrastructure</div><div class="hc-dsc">182 domains: clone card shops, dumps markets, money mule. buyclonecards.bond explicit. rollmaneycontrol.bond fund transfer fraud.</div><div class="hc-st r">182 domains · card shops · dumps</div></a>
+  <a href="domains.html?cat=MALWARE_DIST" class="hcard"><div class="hc-ico">☣</div><div class="hc-tit">Malware Distribution</div><div class="hc-dsc">105 domains: thebtmob.com (active BT-MOB RAT shop), kmspico.zip (crack), fake Ledger firmware updaters. Shared 1,674-domain infra cluster.</div><div class="hc-st r">105 domains · RAT shop · crackware</div></a>
+  <a href="domains.html?cat=GAMBLING" class="hcard"><div class="hc-ico">🎰</div><div class="hc-tit">Gambling Network</div><div class="hc-dsc">733 casino/betting domains. 8 language variants same-day registration. Turkish bahis cluster 160+ domains on shared server fingerprint.</div><div class="hc-st">733 domains · multilingual · unlicensed</div></a>
+  <a href="../ioc/domains_high.txt" class="hcard"><div class="hc-ico">📋</div><div class="hc-tit">IOC Blocklist &amp; SIEM</div><div class="hc-dsc">Production blocklist. SIEM CSV: IP, server fingerprint SHA-256, favicon MurmurHash3 (Shodan), registration date, AI description.</div><div class="hc-st g">1,114 HIGH · indicators.csv · SIEM-ready</div></a>
+</div>
+
+
+<div class="sec"><h2>Executive Summary</h2><div class="ln"></div></div>
+<p class="sec-sub">Quantitative summary of the registrar's zone health, written for ICANN compliance, abuse desks, and EU/US law-enforcement intake.</p>
+<div class="panel" style="margin-bottom:12px">
+  <p style="font-size:13px;line-height:1.8;color:var(--tx2);max-width:860px">
+    <strong style="color:var(--tx)">Fewmoretaps OU</strong> (d/b/a <strong style="color:var(--tx)">Trustname.com</strong>) is an ICANN-accredited domain registrar
+    registered in Estonia (reg. 16569837). This report presents the results of a <strong style="color:var(--rd)">complete zone scan
+    of all 7,641 domains</strong> under registrar management, conducted in June 2026 using automated
+    HTTP fingerprinting, headless browser analysis, and AI-assisted classification.
+  </p>
+  <p style="font-size:13px;line-height:1.8;color:var(--tx2);max-width:860px;margin-top:12px">
+    <strong style="color:var(--rd)">86% of domains with active content (2,221 of 2,583)</strong> is confirmed malicious —
+    hosting financial phishing, crypto drains, carding infrastructure, malware distribution,
+    illegal drug markets, and unlicensed gambling. The remaining 5,058 domains (66.2%) are dead or parked,
+    indicating bulk registration abuse patterns. Of domains that actually serve content,
+    only <strong style="color:var(--tx)">1 in 7 is legitimate</strong>.
+    <strong style="color:var(--rd)">Zero evidence of abuse response or proactive takedown was found</strong>
+    across the entire scanned zone. Among the 207 domains classified as "active/safe," manual review
+    revealed no genuinely clean content — the category reflects only the absence of confirmed malicious
+    signals, not legitimacy.
+  </p>
+</div>
+
+<div class="sec"><h2>Enforcement Landscape</h2><div class="ln"></div></div>
+<p class="sec-sub">Why ICANN is a paper trail, not enforcement — and which agencies actually carry jurisdiction over the financial and criminal layers of this operation.</p>
+<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:10px">
+
+  <div class="panel" style="border-top:3px solid var(--tx3)">
+    <div class="ptit" style="margin-bottom:10px">What ICANN Actually Is</div>
+    <p style="font-size:12px;line-height:1.8;color:var(--tx2)">
+      ICANN was created in 1998 when the internet was an academic project, not a battlefield.
+      Its mandate is <strong style="color:var(--tx)">technical stability</strong> — DNS resolution,
+      IP allocation, protocol standards. Without ICANN the internet fragments.
+      That is why it exists.
+    </p>
+    <p style="font-size:12px;line-height:1.8;color:var(--tx3);margin-top:8px;font-style:italic">
+      Not to police fraud. Not to protect victims. Not to investigate money laundering.
+    </p>
+  </div>
+
+  <div class="panel" style="border-top:3px solid var(--or)">
+    <div class="ptit" style="color:var(--or);margin-bottom:10px">RAA Is a Contract, Not a Law</div>
+    <p style="font-size:12px;line-height:1.8;color:var(--tx2)">
+      Violating RAA §3.18 is <strong style="color:var(--tx)">breach of contract, not a crime.</strong>
+      ICANN's ultimate sanction — accreditation revocation — takes years, creates precedent
+      the organization fears, and leaves thousands of domains in limbo.
+    </p>
+    <p style="font-size:12px;line-height:1.8;color:var(--or);margin-top:8px;font-weight:600">
+      An ICANN complaint is a paper trail, not a solution. File it — but don't mistake it for action.
+    </p>
+  </div>
+
+  <div class="panel" style="border-top:3px solid var(--rd)">
+    <div class="ptit" style="color:var(--rd);margin-bottom:10px">Real Enforcers</div>
+    <p style="font-size:12px;line-height:1.7;color:var(--tx2);margin-bottom:8px">
+      Fewmoretaps OU collects fees from operators running wire fraud, carding, and crypto drains —
+      a <strong style="color:var(--tx)">knowing participant in the money flow.</strong>
+    </p>
+    <ul style="font-size:11px;line-height:2;color:var(--tx2);padding-left:14px">
+      <li><strong style="color:var(--cy)">Politsei- ja Piirivalveamet</strong> — primary, EU AML</li>
+      <li><strong style="color:var(--cy)">Europol EC3</strong> — cross-border coordination</li>
+      <li><strong style="color:var(--cy)">FBI IC3</strong> — wire fraud §1343, CFAA</li>
+      <li><strong style="color:var(--cy)">FinCEN</strong> — MSB violations, USD flow</li>
+      <li><strong style="color:var(--cy)">CERT-EE / RIA</strong> — Estonian CERT</li>
+    </ul>
+  </div>
+
+</div>
+<div class="panel" style="border-left:3px solid var(--gn)">
+  <p style="font-size:12px;line-height:1.8;color:var(--tx2)">
+    ICANN accreditation is a technical credential, not a shield.
+    <strong style="color:var(--tx)">Criminal liability does not require ICANN to act first.</strong>
+    This report is structured as a complete evidence package for law enforcement and financial
+    intelligence units — SHA-256-hashed screenshots, enriched IOC CSV, AI-classified domain
+    descriptions suitable for warrant applications and regulatory referrals.
+  </p>
+</div>
+
+<div class="sec"><h2>Key Findings</h2><div class="ln"></div></div>
+<p class="sec-sub">Confirmed criminal infrastructure and registrar liability indicators from the complete zone scan.</p>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:4px">
+  <div class="panel">
+    <div class="ptit" style="color:var(--rd);margin-bottom:10px">Criminal Infrastructure</div>
+    <ul style="font-size:12px;color:var(--tx2);line-height:1.9;padding-left:16px">
+      <li><strong style="color:var(--tx)">buyclonecards.bond</strong> — explicit clone card shop, CVV dumps market</li>
+      <li><strong style="color:var(--tx)">thebtmob.com</strong> — active BT-MOB RAT shop, malware-as-a-service</li>
+      <li><strong style="color:var(--tx)">fragapi.com</strong> — crypto drainer with seed phrase harvesting form</li>
+      <li><strong style="color:var(--tx)">instasolana.bond</strong> — Solana wallet drainer, 1,674-domain shared infra</li>
+      <li><strong style="color:var(--tx)">purnp-fun.com</strong> — fake Pump.fun / Solflare phishing page</li>
+      <li><strong style="color:var(--tx)">kmspico.zip</strong> — malware distribution under crack/keygen disguise</li>
+      <li><strong style="color:var(--tx)">rollmaneycontrol.bond</strong> — money mule / fund transfer fraud</li>
+    </ul>
+  </div>
+  <div class="panel">
+    <div class="ptit" style="color:var(--or);margin-bottom:10px">Registrar Liability Indicators</div>
+    <ul style="font-size:12px;color:var(--tx2);line-height:1.9;padding-left:16px">
+      <li><strong style="color:var(--tx)">62.1%</strong> dead/parked domains — bulk registration abuse pattern</li>
+      <li><strong style="color:var(--tx)">1,674-domain cluster</strong> on single server fingerprint <code style="font-size:10px;color:var(--tx3)">811e0897f489</code></li>
+      <li><strong style="color:var(--tx)">305-domain gambling cluster</strong> — same operator, same infrastructure</li>
+      <li><strong style="color:var(--tx)">92 CAPTCHAs bypassed</strong> — active Cloudflare evasion on malicious sites</li>
+      <li><strong style="color:var(--tx)">47 domains</strong> with credential harvesting forms (password, OTP, CVV, IBAN)</li>
+      <li><strong style="color:var(--tx)">No abuse@ response</strong> detected across full zone scan</li>
+      <li>Domains registered <strong style="color:var(--tx)">.bond / .zip / .pro</strong> — high-abuse TLDs</li>
+    </ul>
+  </div>
+</div>
+<div class="panel" style="margin-bottom:4px">
+  <div class="ptit" style="color:var(--cy);margin-bottom:8px">Intended Use — ICANN RAA Complaint &amp; Law Enforcement</div>
+  <p style="font-size:12px;color:var(--tx2);line-height:1.8;max-width:900px">
+    This report is prepared as evidence for an <strong style="color:var(--tx)">ICANN Registrar Accreditation Agreement (RAA) complaint</strong>
+    against Fewmoretaps OU / Trustname.com under §3.18 (Abuse Prevention) and §3.7.7 (Accuracy of WHOIS).
+    All findings are TLP:CLEAR and may be shared with ICANN, national cybercrime units (Europol EC3,
+    FBI IC3, Politsei- ja Piirivalveamet), and threat intelligence platforms.
+    SHA-256 hashes of all 1,953 screenshots are recorded in <code style="font-size:10px">evidence/HASHES.txt</code>.
+    Raw scan data available in <code style="font-size:10px">data/enriched.csv</code>.
+  </p>
+</div>
+<div class="sec"><h2>Statistics</h2><div class="ln"></div></div>
+<p class="sec-sub">Distribution charts derived from 7,641 scanned domains. Severity classification follows PhishDestroy taxonomy v2.</p>
+<div class="charts">
+  <div class="panel">
+    <div class="ptit">Malicious domains by category</div>
+    <div id="barchart"></div>
+  </div>
+  <div class="panel">
+    <div class="ptit">Severity distribution</div>
+    <div style="display:flex;gap:18px;align-items:flex-start;margin-bottom:16px">
+      <canvas id="donut" width="110" height="110" style="flex-shrink:0"></canvas>
+      <div id="legend" style="font-size:11px;font-family:monospace;padding-top:2px"></div>
+    </div>
+    <div class="ptit">Zone composition</div>
+    <div id="zonebars"></div>
+  </div>
+</div>
+
+<div class="sec"><h2>Category Breakdown</h2><div class="ln"></div></div>
+<p class="sec-sub">Domain counts per abuse category. Colour coding: red = phishing/carding (HIGH), orange = scam/malware (HIGH), violet = brand abuse / adult, cyan = benign / dead.</p>
+<div class="catg">
+  <div class="cc r"><div class="n">396</div><div class="l">Phish Generic</div></div>
+  <div class="cc r"><div class="n">236</div><div class="l">Phish Finance</div></div>
+  <div class="cc r"><div class="n">182</div><div class="l">Carding</div></div>
+  <div class="cc r"><div class="n">178</div><div class="l">Phish Crypto</div></div>
+  <div class="cc o"><div class="n">146</div><div class="l">Crypto Scam</div></div>
+  <div class="cc o"><div class="n">105</div><div class="l">Malware</div></div>
+  <div class="cc v"><div class="n">83</div><div class="l">Brand Abuse</div></div>
+  <div class="cc v"><div class="n">81</div><div class="l">Adult</div></div>
+  <div class="cc o"><div class="n">733</div><div class="l">Gambling</div></div>
+  <div class="cc c"><div class="n">207</div><div class="l">Active/Safe</div></div>
+  <div class="cc c"><div class="n">286</div><div class="l">Error/5xx</div></div>
+  <div class="cc"><div class="n" style="color:var(--tx3)">4745</div><div class="l">Dead/Parked</div></div>
+</div>
+
+<div class="sec"><h2>Screenshot Evidence</h2><div class="ln"></div>
+  <span style="font-size:10px;color:var(--tx3);font-family:monospace;white-space:nowrap">200 HIGH / MEDIUM samples · captured June 2026</span>
+</div>
+<p class="sec-sub">200 representative HIGH and MEDIUM severity captures from the full 1,953-screenshot corpus, sorted by severity. Click any thumbnail to view at full resolution. Adult-category captures are blurred and require explicit click-through.</p>
+<div class="evg" id="gallery"></div>
+<div style="text-align:center;margin:18px 0 4px"><a href="domains.html" style="display:inline-flex;align-items:center;gap:7px;padding:10px 22px;border-radius:6px;font-size:13px;font-weight:700;background:var(--rd);border:1px solid var(--rd);color:#fff;text-decoration:none">📷 View all 1,953 screenshots in the full domain table →</a></div>
+
+<div class="sec"><h2>Operator Clusters — by favicon mmh3 &amp; server fingerprint</h2><div class="ln"></div></div>
+<p class="sec-sub">Domains grouped by shared technical fingerprints — identical favicon MurmurHash3 or HTTP response stack — confirming coordinated infrastructure rather than independent registrants.</p>
+<div class="clg" id="clusters"></div>
+
+<div class="sec"><h2>Methodology</h2><div class="ln"></div></div>
+<p class="sec-sub">Four-stage technical pipeline. Every domain processed end-to-end; no sampling. Full procedural detail in <a href="https://github.com/phishdestroy/trustname-evidence#4-methodology">README §4</a>.</p>
+<div class="panel"><div class="meth">
+  <div class="mc"><div class="mt">Phase 1 — HTTP Fingerprint</div><strong>AWS Lambda</strong> · aiohttp · 80 req/invocation · 77 parallel executions · Googlebot UA.<br><br>Fingerprints: <strong>MurmurHash3</strong> on favicon bytes (Shodan-compatible), SHA-256 server stack, SimHash body.</div>
+  <div class="mc"><div class="mt">Phase 2 — Browser Scan</div><strong>Playwright + stealth v2</strong> · headless Chromium · isolated context per domain · 1,725 alive.<br><br>Form analysis: <strong>seed_phrase, card_number, CVV, IBAN, password, OTP/2FA, SSN, wallet_addr</strong>.</div>
+  <div class="mc"><div class="mt">Phase 3 — Protected Deep Scan</div><strong>2,182 blocked / challenged domains</strong> re-scanned. 2,600+ SOCKS5 proxies · playwright-stealth · <strong>2captcha: 92 CAPTCHAs solved</strong> (hCaptcha / reCAPTCHA / Turnstile). Result: 1,953 screenshots.</div>
+  <div class="mc"><div class="mt">Phase 4 — AI Classification</div><strong>Llama 3.1 (Groq)</strong> · 2,434 domains with natural language descriptions.<br><br>Threat Intel: <strong>Spamhaus DBL · SURBL · URLhaus · ThreatFox</strong> (7,641 domains cross-referenced).</div>
+</div></div>
+
+<div class="sec"><h2>Downloads &amp; Mirrors</h2><div class="ln"></div></div>
+<p class="sec-sub">Source datasets, IOC blocklists, raw scan output, and cryptographic provenance. All artefacts content-addressed by SHA-256.</p>
+<div class="mirg">
+  <div class="mirc"><div class="ml">GitHub</div><a href="https://github.com/phishdestroy/trustname-evidence">phishdestroy/trustname-evidence</a></div>
+  <div class="mirc"><div class="ml">Related</div><a href="https://github.com/phishdestroy/namesilo-evidence">namesilo-evidence (5.2M)</a></div>
+  <div class="mirc"><div class="ml">HIGH Blocklist</div><a href="../ioc/domains_high.txt">domains_high.txt (1,114)</a></div>
+  <div class="mirc"><div class="ml">SIEM Indicators</div><a href="../ioc/indicators.csv">indicators.csv</a></div>
+  <div class="mirc"><div class="ml">Full Dataset</div><a href="../data/enriched.csv">enriched.csv (7,641)</a></div>
+  <div class="mirc"><div class="ml">Raw Data</div><a href="../pkg/raw_data/enriched.csv.gz">enriched.csv.gz</a></div>
+</div>
+
+</div>
+
+<div class="sec"><h2>About PhishDestroy</h2><div class="ln"></div></div>
+<p class="sec-sub">Independent anti-phishing and anti-fraud research collective publishing public evidence packages, IOC feeds, and threat-actor attribution dossiers.</p>
+<div class="panel" style="border-left:3px solid var(--rd)">
+  <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px">
+    <div>
+      <div class="ptit" style="margin-bottom:8px;color:var(--rd)">What we do</div>
+      <p style="font-size:12px;line-height:1.75;color:var(--tx2)">
+        Complete-zone scans of accused-bulletproof registrars. Real-time IOC publication.
+        Operator attribution via corporate-registry forensics, payment-rail tracing,
+        and infrastructure clustering.
+      </p>
+    </div>
+    <div>
+      <div class="ptit" style="margin-bottom:8px;color:var(--cy)">Open publication</div>
+      <p style="font-size:12px;line-height:1.75;color:var(--tx2)">
+        Every dataset is TLP:CLEAR and MIT-licensed. Designed for ICANN compliance,
+        law-enforcement intake, regulatory referral, and academic citation.
+        SHA-256-anchored chain of custody.
+      </p>
+    </div>
+    <div>
+      <div class="ptit" style="margin-bottom:8px;color:var(--gn)">Where to find us</div>
+      <p style="font-size:12px;line-height:1.85;color:var(--tx2)">
+        🌐 <a href="https://phishdestroy.io" target="_blank" rel="noopener">phishdestroy.io</a> — main site &amp; investigation archive<br>
+        🐙 <a href="https://github.com/phishdestroy" target="_blank" rel="noopener">github.com/phishdestroy</a> — code &amp; datasets<br>
+        📰 <a href="https://phishdestroy.io/trustname-bulletproof-exposed/" target="_blank" rel="noopener">Phase I — Bulletproof Exposed</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+<footer><strong style="color:var(--tx)">PhishDestroy Research</strong> · TLP:CLEAR · MIT License<br>
+  <a href="https://phishdestroy.io">phishdestroy.io</a> ·
+  <a href="https://github.com/phishdestroy/trustname-evidence">GitHub</a> ·
+  <a href="https://github.com/phishdestroy/namesilo-evidence">NameSilo Investigation (5.2M)</a> ·
+  <a href="https://phishdestroy.io/trustname-bulletproof-exposed/">Phase I</a>
+</footer>
+
+<div id="lb" onclick="closeLB()"><span id="lbx" onclick="closeLB()">✕</span><img id="lbi" src="" alt=""></div>
+
+<script>
+var CAT_COLORS={PHISHING_GENERIC:"#f88",PHISHING_FINANCE:"#ff7b72",CARDING:"#f78166",PHISHING_CRYPTO:"#ffa657",CRYPTO_SCAM:"#fb923c",MALWARE_DIST:"#ff9500",BRAND_ABUSE:"#34d399",ADULT:"#c084fc",GAMBLING:"#e3b341",PROXY_VPN:"#79c0ff"};
+var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"eb-o",CARDING:"eb-r",MALWARE_DIST:"eb-m",CRYPTO_SCAM:"eb-o",ILLEGAL_DRUGS:"eb-v",CRYPTO_DRAIN:"eb-r",GAMBLING:"eb-g",BRAND_ABUSE:"eb-g"};
+
+// ── BAR CHART ──
+(function(){
+  var data=[["PHISHING_GENERIC",396],["PHISHING_FINANCE",236],["CARDING",182],["PHISHING_CRYPTO",178],["CRYPTO_SCAM",146],["MALWARE_DIST",105],["BRAND_ABUSE",83],["ADULT",81],["GAMBLING",733],["PROXY_VPN",48]];
+  var mx=Math.max.apply(null,data.map(function(x){return x[1];}));
+  var bc=document.getElementById("barchart");
+  data.forEach(function(d){
+    var rw=document.createElement("div");rw.style.cssText="display:flex;align-items:center;gap:7px;margin-bottom:5px";
+    var lb=document.createElement("div");lb.style.cssText="width:140px;font-size:10px;font-family:monospace;color:var(--tx3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex-shrink:0";lb.textContent=d[0].replace(/_/g," ");
+    var bw=document.createElement("div");bw.style.cssText="flex:1;background:rgba(255,255,255,.04);border-radius:2px;height:13px;overflow:hidden";
+    var br=document.createElement("div");var cl=CAT_COLORS[d[0]]||"#6e7681";br.style.cssText="height:100%;border-radius:2px;background:"+cl+";width:0%;transition:width .65s ease";
+    bw.appendChild(br);
+    var nm=document.createElement("div");nm.style.cssText="font-size:10px;font-family:monospace;color:"+cl+";width:30px;text-align:right;flex-shrink:0";nm.textContent=d[1];
+    rw.appendChild(lb);rw.appendChild(bw);rw.appendChild(nm);bc.appendChild(rw);
+    setTimeout(function(b,v,m){b.style.width=Math.round(v/m*100)+"%";}(br,d[1],mx),60);
+  });
+})();
+
+// ── DONUT ──
+(function(){
+  var cv=document.getElementById("donut");
+  var ctx=cv.getContext("2d");
+  var cx=55,cy=55,R=48,ri=28;
+  var segs=[{v:1114,c:"#da3633",l:"HIGH (1,114)"},{v:1107,c:"#d29922",l:"MEDIUM (1,107)"},{v:420,c:"#3fb950",l:"LOW / INFO (420)"},{v:5000,c:"#1c2128",l:"DEAD (5,000)"}];
+  var tot=segs.reduce(function(s,x){return s+x.v;},0);
+  var a=-Math.PI/2;
+  segs.forEach(function(s){
+    var sw=s.v/tot*Math.PI*2;
+    ctx.beginPath();ctx.moveTo(cx,cy);ctx.arc(cx,cy,R,a,a+sw);ctx.closePath();ctx.fillStyle=s.c;ctx.fill();a+=sw;
+  });
+  ctx.beginPath();ctx.arc(cx,cy,ri,0,Math.PI*2);ctx.fillStyle="#0c1018";ctx.fill();
+  ctx.fillStyle="#f0f6fc";ctx.font="bold 13px Inter,system-ui,sans-serif";ctx.textAlign="center";ctx.textBaseline="middle";ctx.fillText("7,641",cx,cy);
+  var leg=document.getElementById("legend");
+  segs.forEach(function(s){
+    var rw=document.createElement("div");rw.style.cssText="display:flex;align-items:center;gap:5px;margin-bottom:5px";
+    var dt=document.createElement("div");dt.style.cssText="width:7px;height:7px;border-radius:50%;background:"+s.c+";flex-shrink:0";
+    var tx=document.createElement("span");tx.style.color="var(--tx2)";tx.textContent=s.l;
+    rw.appendChild(dt);rw.appendChild(tx);leg.appendChild(rw);
+  });
+})();
+
+// ── ZONE BARS ──
+(function(){
+  var zb=document.getElementById("zonebars");
+  [[62.1,"Dead / Parked (4,745)","#374151"],[29.2,"Malicious HIGH+MED (2,221)","#da3633"],[8.7,"Active / Safe (672)","#3fb950"]].forEach(function(z){
+    var rw=document.createElement("div");rw.style.marginBottom="7px";
+    var hd=document.createElement("div");hd.style.cssText="display:flex;justify-content:space-between;font-size:10px;font-family:monospace;color:var(--tx3);margin-bottom:2px";
+    var hl=document.createElement("span");hl.textContent=z[1];
+    var hr=document.createElement("span");hr.style.color=z[2];hr.textContent=z[0]+"%";
+    hd.appendChild(hl);hd.appendChild(hr);
+    var bw=document.createElement("div");bw.style.cssText="background:rgba(255,255,255,.04);border-radius:2px;height:6px;overflow:hidden";
+    var br=document.createElement("div");br.style.cssText="height:100%;border-radius:2px;background:"+z[2]+";width:0%;transition:width .65s ease";
+    bw.appendChild(br);rw.appendChild(hd);rw.appendChild(bw);zb.appendChild(rw);
+    setTimeout(function(b,v){b.style.width=v+"%";}(br,z[0]),120);
+  });
+})();
+
+// ── GALLERY ──
+(function(){
+  var SS=[{"domain":"buffallowildswlng.com","screenshot_url":"screenshots/buffallowildswlng.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"buffallowildswlngs.com","screenshot_url":"screenshots/buffallowildswlngs.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"buffallowilldswing.com","screenshot_url":"screenshots/buffallowilldswing.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"buffallowwildswings.com","screenshot_url":"screenshots/buffallowwildswings.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"buffalowildswingss.com","screenshot_url":"screenshots/buffalowildswingss.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"buffalowildvings.com","screenshot_url":"screenshots/buffalowildvings.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"buffalowildwinggs.com","screenshot_url":"screenshots/buffalowildwinggs.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"burgerkg.com","screenshot_url":"screenshots/burgerkg.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Burger King","severity":3},{"domain":"buuffallowildswings.com","screenshot_url":"screenshots/buuffallowildswings.com.png","category":"BRAND_ABUSE","severity_label":"HIGH","title":"Buffalo Wild Wings | Wings. Beer. Sports","severity":3},{"domain":"1280betebet.com","screenshot_url":"screenshots/1280betebet.com.png","category":"CARDING","severity_label":"HIGH","title":"Giriş Yap - BizimSystem","severity":3},{"domain":"bop-main.com","screenshot_url":"screenshots/bop-main.com.png","category":"CARDING","severity_label":"HIGH","title":"Telegram: Join Group Chat","severity":3},{"domain":"bop-videos.com","screenshot_url":"screenshots/bop-videos.com.png","category":"CARDING","severity_label":"HIGH","title":"Telegram: Join Group Chat","severity":3},{"domain":"bopaccess.com","screenshot_url":"screenshots/bopaccess.com.png","category":"CARDING","severity_label":"HIGH","title":"Telegram: Join Group Chat","severity":3},{"domain":"bt-mob.org","screenshot_url":"screenshots/bt-mob.org.png","category":"CARDING","severity_label":"HIGH","title":"BTMOB Android Family Safety","severity":3},{"domain":"buyclonecards.bond","screenshot_url":"screenshots/buyclonecards.bond.png","category":"CARDING","severity_label":"HIGH","title":"cloned credit cards for sale - Buy clone cards online","severity":3},{"domain":"engineown.ing","screenshot_url":"screenshots/engineown.ing.png","category":"CARDING","severity_label":"HIGH","title":"EngineOwning - Undetected and full-featured cheats","severity":3},{"domain":"eurochoicepharmacy.com","screenshot_url":"screenshots/eurochoicepharmacy.com.png","category":"CARDING","severity_label":"HIGH","title":"Home -","severity":3},{"domain":"frostysmm.com","screenshot_url":"screenshots/frostysmm.com.png","category":"CARDING","severity_label":"HIGH","title":"FrostySMM — Замораживаем конкурентов. Продвигаем тебя в","severity":3},{"domain":"garantpasport.com","screenshot_url":"screenshots/garantpasport.com.png","category":"CARDING","severity_label":"HIGH","title":"Хочешь купить паспорт РФ? Сделаем за неделю без предопл","severity":3},{"domain":"modafinil-buy-online.com","screenshot_url":"screenshots/modafinil-buy-online.com.png","category":"CARDING","severity_label":"HIGH","title":"DDoS-Guard","severity":3},{"domain":"modafinilcat.com","screenshot_url":"screenshots/modafinilcat.com.png","category":"CARDING","severity_label":"HIGH","title":"Buy Modafinil Online [No Rx] with Fast Shipping - Modaf","severity":3},{"domain":"network-access.systems","screenshot_url":"screenshots/network-access.systems.png","category":"CARDING","severity_label":"HIGH","title":"Sorry, the website has been stopped","severity":3},{"domain":"onlipravaz.com","screenshot_url":"screenshots/onlipravaz.com.png","category":"CARDING","severity_label":"HIGH","title":"Купить права официально ГИБДД","severity":3},{"domain":"pizzalhat.com","screenshot_url":"screenshots/pizzalhat.com.png","category":"CARDING","severity_label":"HIGH","title":"","severity":3},{"domain":"rf-pasport-pokupka.org","screenshot_url":"screenshots/rf-pasport-pokupka.org.png","category":"CARDING","severity_label":"HIGH","title":"Паспорт РФ купить с достакой в Москве и всей России - б","severity":3},{"domain":"vaxtaflow.com","screenshot_url":"screenshots/vaxtaflow.com.png","category":"CARDING","severity_label":"HIGH","title":"Работа охранником вахтой на нефтяном месторождении — 20","severity":3},{"domain":"vaxtaservice.com","screenshot_url":"screenshots/vaxtaservice.com.png","category":"CARDING","severity_label":"HIGH","title":"Требуются водители категории B для работы вахтовым мето","severity":3},{"domain":"wiingstops.com","screenshot_url":"screenshots/wiingstops.com.png","category":"CARDING","severity_label":"HIGH","title":"Wingstop | Cooked to Order: Flavor Packed Wings, Tender","severity":3},{"domain":"394823-ledger.com","screenshot_url":"screenshots/394823-ledger.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"","severity":3},{"domain":"bazowin781.pro","screenshot_url":"screenshots/bazowin781.pro.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Bazowin781: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"beastake.com","screenshot_url":"screenshots/beastake.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Beastake: Most Popular Online Crypto Casino Based on Bl","severity":3},{"domain":"beastduels.com","screenshot_url":"screenshots/beastduels.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Beastduels: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"bezowin159.pro","screenshot_url":"screenshots/bezowin159.pro.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Bezowin159: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"borswin.com","screenshot_url":"screenshots/borswin.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Borswin: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"caemux.com","screenshot_url":"screenshots/caemux.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Caemux: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"cash-casino.app","screenshot_url":"screenshots/cash-casino.app.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Cash-casino: Most Popular Online Crypto Casino Based on","severity":3},{"domain":"doxycycline-hyclate100mg.org","screenshot_url":"screenshots/doxycycline-hyclate100mg.org.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"DDoS-Guard","severity":3},{"domain":"doxycycline-hyclatepurchase.com","screenshot_url":"screenshots/doxycycline-hyclatepurchase.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"DDoS-Guard","severity":3},{"domain":"doxycyclinebuy.info","screenshot_url":"screenshots/doxycyclinebuy.info.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"DDoS-Guard","severity":3},{"domain":"dozacoin.com","screenshot_url":"screenshots/dozacoin.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Just a moment...","severity":3},{"domain":"etherexfinance.net","screenshot_url":"screenshots/etherexfinance.net.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Etherex Finance — Concentrated Liquidity DEX on Linea","severity":3},{"domain":"falcon-finances.org","screenshot_url":"screenshots/falcon-finances.org.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Falcon Finance — Mint USDf Synthetic Dollar","severity":3},{"domain":"fragapi.com","screenshot_url":"screenshots/fragapi.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"FragAPI","severity":3},{"domain":"instasolana.bond","screenshot_url":"screenshots/instasolana.bond.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Instasolana: Most Popular Online Crypto Casino Based on","severity":3},{"domain":"join-vaulto.com","screenshot_url":"screenshots/join-vaulto.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Maintenance","severity":3},{"domain":"newtexcapital.com","screenshot_url":"screenshots/newtexcapital.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Just a moment...","severity":3},{"domain":"tectonicfinance.net","screenshot_url":"screenshots/tectonicfinance.net.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Tectonic Finance | Cross-chain Money Market","severity":3},{"domain":"ubeswap.net","screenshot_url":"screenshots/ubeswap.net.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Ubeswap — DeFi Exchange on Celo","severity":3},{"domain":"vandamining.net","screenshot_url":"screenshots/vandamining.net.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"vandamining.net","severity":3},{"domain":"vvs-finance.app","screenshot_url":"screenshots/vvs-finance.app.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"VVS Finance — Simple DeFi Trading on Cronos","severity":3},{"domain":"winna-crypto-casino.com","screenshot_url":"screenshots/winna-crypto-casino.com.png","category":"CRYPTO_DRAIN","severity_label":"HIGH","title":"Winna Crypto Casino: rakeback, hry a okamžité výběry","severity":3},{"domain":"bitmixers.net","screenshot_url":"screenshots/bitmixers.net.png","category":"CRYPTO_MIXER","severity_label":"HIGH","title":"Bitcoin Mixers 2026 — BTC Mixers - Best Crypto mixers","severity":3},{"domain":"ffsend.com","screenshot_url":"screenshots/ffsend.com.png","category":"CRYPTO_MIXER","severity_label":"HIGH","title":"Fast File Send - Home","severity":3},{"domain":"trading-plus2026.com","screenshot_url":"screenshots/trading-plus2026.com.png","category":"CRYPTO_MIXER","severity_label":"HIGH","title":"Website trading-plus2026.com is ready. The content is t","severity":3},{"domain":"whirmix.com","screenshot_url":"screenshots/whirmix.com.png","category":"CRYPTO_MIXER","severity_label":"HIGH","title":"Whir Bitcoin Mixer | Whir BTC Blender & Whir Tumbler","severity":3},{"domain":"aml-tracer.com","screenshot_url":"screenshots/aml-tracer.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"403 Forbidden","severity":3},{"domain":"aresbet-egiris.icu","screenshot_url":"screenshots/aresbet-egiris.icu.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Just a moment...","severity":3},{"domain":"aresbet-hepgir.icu","screenshot_url":"screenshots/aresbet-hepgir.icu.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Just a moment...","severity":3},{"domain":"aster-trade.net","screenshot_url":"screenshots/aster-trade.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Aster Trade — Perpetual DEX Trading Platform","severity":3},{"domain":"aura-finance.org","screenshot_url":"screenshots/aura-finance.org.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Aura Finance — DeFi Yield & Governance Protocol","severity":3},{"domain":"boostcapexxr.com","screenshot_url":"screenshots/boostcapexxr.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Opportunità di mercato sbloccate – Boost Capex Xr","severity":3},{"domain":"boostdiamoxai.com","screenshot_url":"screenshots/boostdiamoxai.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Boost Diamox Ai - Opportunità di trading in tempo reale","severity":3},{"domain":"boostiplexfin.com","screenshot_url":"screenshots/boostiplexfin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Boost iPlex Fin: Sbloccare il potenziale dei mercati","severity":3},{"domain":"boostlexipro2u.com","screenshot_url":"screenshots/boostlexipro2u.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Opportunità di mercato avanzate – Boost Lexipro 2U","severity":3},{"domain":"cladehub.com","screenshot_url":"screenshots/cladehub.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Download Claude | Claude by Anthropic","severity":3},{"domain":"clipfiofficial.com","screenshot_url":"screenshots/clipfiofficial.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"ClipFi - The Creator Economy, Powered by AI & Crypto","severity":3},{"domain":"crypto-beacon.net","screenshot_url":"screenshots/crypto-beacon.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Финансовый гид FinAdvisor","severity":3},{"domain":"easyswape.org","screenshot_url":"screenshots/easyswape.org.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"USDT to ETH | Instant Crypto Swap","severity":3},{"domain":"ervestiumhungary.com","screenshot_url":"screenshots/ervestiumhungary.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Attention Required! | Cloudflare","severity":3},{"domain":"espace-ca-pro.com","screenshot_url":"screenshots/espace-ca-pro.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Attention Required! | Cloudflare","severity":3},{"domain":"eyeknown-platform.com","screenshot_url":"screenshots/eyeknown-platform.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Eyeknown — Secure Cryptocurrency Exchange | Buy, Sell &","severity":3},{"domain":"faowox.com","screenshot_url":"screenshots/faowox.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Faowox: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"faufax.com","screenshot_url":"screenshots/faufax.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Faufax: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"ferro-protocol.com","screenshot_url":"screenshots/ferro-protocol.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Ferro Protocol | Stablecoin DEX on Cronos","severity":3},{"domain":"ferro-protocol.net","screenshot_url":"screenshots/ferro-protocol.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Ferro Protocol | Decentralized Stable Swap","severity":3},{"domain":"feudox.com","screenshot_url":"screenshots/feudox.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Feudox: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"fortunejack-casino.org","screenshot_url":"screenshots/fortunejack-casino.org.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Fortunejack Casino | Online Casino & Crypto Slots","severity":3},{"domain":"fusionminepro.com","screenshot_url":"screenshots/fusionminepro.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"FusionMinePro — 3.2% Daily USDT Returns","severity":3},{"domain":"gadaihuat.xyz","screenshot_url":"screenshots/gadaihuat.xyz.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Gadaihuat: Most Popular Online Crypto Casino Based on B","severity":3},{"domain":"gamesofbeast.com","screenshot_url":"screenshots/gamesofbeast.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Gamesofbeast: Most Popular Online Crypto Casino Based o","severity":3},{"domain":"gaohux.com","screenshot_url":"screenshots/gaohux.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Gaohux: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"gedofex.com","screenshot_url":"screenshots/gedofex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Gedofex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"gemobex.com","screenshot_url":"screenshots/gemobex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Gemobex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"genofex.com","screenshot_url":"screenshots/genofex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Genofex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"genudex.com","screenshot_url":"screenshots/genudex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Genudex — Online Games & Rewards","severity":3},{"domain":"gepofex.com","screenshot_url":"screenshots/gepofex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Gepofex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"geporex.com","screenshot_url":"screenshots/geporex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Geporex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"gesowin77.pro","screenshot_url":"screenshots/gesowin77.pro.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Gesowin77: Most Popular Online Crypto Casino Based on B","severity":3},{"domain":"guapwin.com","screenshot_url":"screenshots/guapwin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Guapwin: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"gusewin.com","screenshot_url":"screenshots/gusewin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Pazewin: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"hanivex.com","screenshot_url":"screenshots/hanivex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Hanivex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"henofex.com","screenshot_url":"screenshots/henofex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Henofex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"heuvux.com","screenshot_url":"screenshots/heuvux.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Heuvux: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"hexowin167.pro","screenshot_url":"screenshots/hexowin167.pro.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Hexowin167: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"honevex.com","screenshot_url":"screenshots/honevex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Honevex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"hoxplay.com","screenshot_url":"screenshots/hoxplay.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Hoxplay: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"hypeemax.com","screenshot_url":"screenshots/hypeemax.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Hypeemax: Most Popular Online Crypto Casino Based on Bl","severity":3},{"domain":"icedwex.com","screenshot_url":"screenshots/icedwex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Icedwex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"italovio.com","screenshot_url":"screenshots/italovio.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Italovio: Most Popular Online Crypto Casino Based on Bl","severity":3},{"domain":"jastwin144.pro","screenshot_url":"screenshots/jastwin144.pro.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Jastwin144: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"joincollabland.com","screenshot_url":"screenshots/joincollabland.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"rhode · the creator program","severity":3},{"domain":"juajox.com","screenshot_url":"screenshots/juajox.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Juajox: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"konivex.com","screenshot_url":"screenshots/konivex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Suspected Phishing | Cloudflare","severity":3},{"domain":"kuofax.com","screenshot_url":"screenshots/kuofax.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Kuofax: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"kupidex.com","screenshot_url":"screenshots/kupidex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Kupidex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"lekawex.com","screenshot_url":"screenshots/lekawex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Lekawex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"loraxplay.com","screenshot_url":"screenshots/loraxplay.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Suspected Phishing | Cloudflare","severity":3},{"domain":"lunarmex.com","screenshot_url":"screenshots/lunarmex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Suspected Phishing | Cloudflare","severity":3},{"domain":"lunocasino.xyz","screenshot_url":"screenshots/lunocasino.xyz.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Lunocasino: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"marsodex.com","screenshot_url":"screenshots/marsodex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Marsodex: Elon Musk’s Official Crypto Casino Powered by","severity":3},{"domain":"maxroll.pro","screenshot_url":"screenshots/maxroll.pro.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Suspected Phishing | Cloudflare","severity":3},{"domain":"meth-protocol.com","screenshot_url":"screenshots/meth-protocol.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Meth Protocol — ETH Liquid Staking & Restaking Protocol","severity":3},{"domain":"near-intents.net","screenshot_url":"screenshots/near-intents.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Near Intents | Cross-Chain Token Swap Platform","severity":3},{"domain":"netorex.com","screenshot_url":"screenshots/netorex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Netorex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"neuropeakcapital.com","screenshot_url":"screenshots/neuropeakcapital.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"NeuroPeak Capital | Algorithmic Gold Trading Platform","severity":3},{"domain":"nozawin.com","screenshot_url":"screenshots/nozawin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Nozawin: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"nuemex.com","screenshot_url":"screenshots/nuemex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Nuemex: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"nv-casino3.com","screenshot_url":"screenshots/nv-casino3.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"NV Casino 2026 – 150% bonus 200€ + 50 tours gratuits sa","severity":3},{"domain":"nyzaron.com","screenshot_url":"screenshots/nyzaron.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Nyzaron: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"olovion.com","screenshot_url":"screenshots/olovion.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Olovion: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"onlyxwin.net","screenshot_url":"screenshots/onlyxwin.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Onlyxwin: Donald Trump’s Leading Blockchain Crypto Casi","severity":3},{"domain":"poxewin.com","screenshot_url":"screenshots/poxewin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Poxewin: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"purnp-fun.com","screenshot_url":"screenshots/purnp-fun.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Manage your free Solflare wallet with ease | Solflare","severity":3},{"domain":"royalvanta.org","screenshot_url":"screenshots/royalvanta.org.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Royalvanta: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"runoplay.com","screenshot_url":"screenshots/runoplay.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Suspected Phishing | Cloudflare","severity":3},{"domain":"sakewex.com","screenshot_url":"screenshots/sakewex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Sakewex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"sarevex.com","screenshot_url":"screenshots/sarevex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Sarevex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"satevex.com","screenshot_url":"screenshots/satevex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Satevex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"shadowexchange.net","screenshot_url":"screenshots/shadowexchange.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Shadow Exchange — Concentrated Liquidity Exchange on So","severity":3},{"domain":"sipmieswap.com","screenshot_url":"screenshots/sipmieswap.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"SimpleSwap Review 2024: Anonymous Crypto Exchange Guide","severity":3},{"domain":"slotsbeast.org","screenshot_url":"screenshots/slotsbeast.org.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Slotsbeast: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"soawin.com","screenshot_url":"screenshots/soawin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Soawin: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"sorewin149.pro","screenshot_url":"screenshots/sorewin149.pro.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Sorewin149: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"sorewin187.pro","screenshot_url":"screenshots/sorewin187.pro.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Sorewin187: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"sparkdex-app.net","screenshot_url":"screenshots/sparkdex-app.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Sparkdex - Flare Network Exchange","severity":3},{"domain":"spinlox.com","screenshot_url":"screenshots/spinlox.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Suspected Phishing | Cloudflare","severity":3},{"domain":"spinvision.pro","screenshot_url":"screenshots/spinvision.pro.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Spinvision: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"stake-panel.com","screenshot_url":"screenshots/stake-panel.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Stake-panel: Elon Musk’s Official Crypto Casino Powered","severity":3},{"domain":"stake-pump.com","screenshot_url":"screenshots/stake-pump.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Stake-pump: Elon Musk’s Official Crypto Casino Powered ","severity":3},{"domain":"tanodex.com","screenshot_url":"screenshots/tanodex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Tanodex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"tasowin.com","screenshot_url":"screenshots/tasowin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Tasowin - A Leading Online Crypto Casino Built on Block","severity":3},{"domain":"trump-amerika.com","screenshot_url":"screenshots/trump-amerika.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Biggest CRYPTO giveaway of $100,000,000","severity":3},{"domain":"tydro-v2.com","screenshot_url":"screenshots/tydro-v2.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Tydro — Decentralized Lending on Ink","severity":3},{"domain":"v3-morpho.com","screenshot_url":"screenshots/v3-morpho.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Morpho — Lending & Borrowing Protocol","severity":3},{"domain":"vaekex.com","screenshot_url":"screenshots/vaekex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Vaekex: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"vesenox.com","screenshot_url":"screenshots/vesenox.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Vesenox: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"vikingbet.app","screenshot_url":"screenshots/vikingbet.app.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Vikingbet: Most Popular Online Crypto Casino Based on B","severity":3},{"domain":"vimewex.com","screenshot_url":"screenshots/vimewex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Vimewex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"virunes.com","screenshot_url":"screenshots/virunes.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Virunes: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"volovon.com","screenshot_url":"screenshots/volovon.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Volovon: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"wettora.com","screenshot_url":"screenshots/wettora.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Wettora: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"winace777.com","screenshot_url":"screenshots/winace777.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Winace777: Most Popular Online Crypto Casino Based on B","severity":3},{"domain":"wincas.net","screenshot_url":"screenshots/wincas.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Wincas: Elon Musk’s Official Crypto Casino Powered by B","severity":3},{"domain":"wincas.org","screenshot_url":"screenshots/wincas.org.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Wincas: Elon Musk’s Official Crypto Casino Powered by B","severity":3},{"domain":"winodex.com","screenshot_url":"screenshots/winodex.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Winodex: Elon Musk’s Official Crypto Casino Powered by ","severity":3},{"domain":"winplay.cam","screenshot_url":"screenshots/winplay.cam.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Winplay: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"wuasox.com","screenshot_url":"screenshots/wuasox.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Wuasox: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"x-stocks.app","screenshot_url":"screenshots/x-stocks.app.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"XStocks — Tokenized Stocks","severity":3},{"domain":"xaawin.com","screenshot_url":"screenshots/xaawin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Xaawin: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"xaspaze.com","screenshot_url":"screenshots/xaspaze.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Xaspaze: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"xbitspin.com","screenshot_url":"screenshots/xbitspin.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Xbitspin: Most Popular Online Crypto Casino Based on Bl","severity":3},{"domain":"xgameon.net","screenshot_url":"screenshots/xgameon.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Xgameon: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"xhodes.com","screenshot_url":"screenshots/xhodes.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Xhodes: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"yecas.net","screenshot_url":"screenshots/yecas.net.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Yecas: Most Popular Online Crypto Casino Based on Block","severity":3},{"domain":"zekume.com","screenshot_url":"screenshots/zekume.com.png","category":"CRYPTO_SCAM","severity_label":"HIGH","title":"Zekume: Most Popular Online Crypto Casino Based on Bloc","severity":3},{"domain":"3xcas.com","screenshot_url":"screenshots/3xcas.com.png","category":"GAMBLING","severity_label":"HIGH","title":"3xcas: Most Popular Online Crypto Casino Based on Block","severity":3},{"domain":"alfabahis-firsat.icu","screenshot_url":"screenshots/alfabahis-firsat.icu.png","category":"GAMBLING","severity_label":"HIGH","title":"Just a moment...","severity":3},{"domain":"allyspin-casino3.com","screenshot_url":"screenshots/allyspin-casino3.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Ally Spin Casino: Jeux & Fun en Ligne","severity":3},{"domain":"alternative-bet.com","screenshot_url":"screenshots/alternative-bet.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Alternative Bet: Asia Casino Reviews & Comparisons","severity":3},{"domain":"amazon-slotes.com","screenshot_url":"screenshots/amazon-slotes.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Amazon-slotes: Most Popular Online Crypto Casino Based ","severity":3},{"domain":"ameriode.com","screenshot_url":"screenshots/ameriode.com.png","category":"GAMBLING","severity_label":"HIGH","title":"ameriocasinos im Test: Starke Slots, hohe RTPs und mehr","severity":3},{"domain":"argent-reel-casino1.com","screenshot_url":"screenshots/argent-reel-casino1.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Casino argent reel en ligne en France - Jeux de casino ","severity":3},{"domain":"argonex.net","screenshot_url":"screenshots/argonex.net.png","category":"GAMBLING","severity_label":"HIGH","title":"Argonex: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"artemex.app","screenshot_url":"screenshots/artemex.app.png","category":"GAMBLING","severity_label":"HIGH","title":"Artemex: Most Popular Online Crypto Casino Based on Blo","severity":3},{"domain":"asiabet-alternatif.com","screenshot_url":"screenshots/asiabet-alternatif.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Top 5 Casino Sites Singapore | BK8 M88 W88","severity":3},{"domain":"az-olymp-casino.com","screenshot_url":"screenshots/az-olymp-casino.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Olymp Casino Azərbaycan — Glavnaya stranica / SEO mətn","severity":3},{"domain":"azerbaycan-mostbet-casino.com","screenshot_url":"screenshots/azerbaycan-mostbet-casino.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Mostbet AZ ᐈ Rəsmi Bukmeker və Kazino Saytı Azərbaycand","severity":3},{"domain":"beastcasi.org","screenshot_url":"screenshots/beastcasi.org.png","category":"GAMBLING","severity_label":"HIGH","title":"Beastcasi: Most Popular Online Crypto Casino Based on B","severity":3},{"domain":"betzino-casino2.com","screenshot_url":"screenshots/betzino-casino2.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Betzino Casino France : Pack 600€ + 100 FS sur 4 Dépôts","severity":3},{"domain":"betzino-casino4.com","screenshot_url":"screenshots/betzino-casino4.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Betzino Casino France : Pack 600€ + 100 FS sur 4 Dépôts","severity":3},{"domain":"betzu-game.com","screenshot_url":"screenshots/betzu-game.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Betzu-game: Most Popular Online Crypto Casino Based on ","severity":3},{"domain":"blindluck-casino.org","screenshot_url":"screenshots/blindluck-casino.org.png","category":"GAMBLING","severity_label":"HIGH","title":"Blindluck Casino | Online Casino & Slots","severity":3},{"domain":"br4betde.com","screenshot_url":"screenshots/br4betde.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Br 4 Bet Casino: Große Spielauswahl, Krypto & schnelle ","severity":3},{"domain":"broxusbet.com","screenshot_url":"screenshots/broxusbet.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Broxusbet: Most Popular Online Crypto Casino Based on B","severity":3},{"domain":"bsb007-aus.com","screenshot_url":"screenshots/bsb007-aus.com.png","category":"GAMBLING","severity_label":"HIGH","title":"BSB007 Casino AU | Official Site","severity":3},{"domain":"bwin2026.org","screenshot_url":"screenshots/bwin2026.org.png","category":"GAMBLING","severity_label":"HIGH","title":"bwin Review 2026 — Europe's Top Sportsbook & Casino","severity":3},{"domain":"bycasino597.com","screenshot_url":"screenshots/bycasino597.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Bycasino","severity":3},{"domain":"call96-au.com","screenshot_url":"screenshots/call96-au.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Call96 Casino AU | Official Site, Slots & 96% Register ","severity":3},{"domain":"candy96-australia.com","screenshot_url":"screenshots/candy96-australia.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Candy96 Casino | Top Real Money Online Casino 2026","severity":3},{"domain":"casino-azur-france.com","screenshot_url":"screenshots/casino-azur-france.com.png","category":"GAMBLING","severity_label":"HIGH","title":"Azur Casino France – Casino en ligne au thème méditerra","severity":3},{"domain":"bodybuilding-extreme.com","screenshot_url":"screenshots/bodybuilding-extreme.com.png","category":"ADULT","severity_label":"HIGH","title":"Esteroides Anabolicos en Mexico - Body Building Extreme","severity":3},{"domain":"camsvn.com","screenshot_url":"screenshots/camsvn.com.png","category":"ADULT","severity_label":"HIGH","title":"Работа веб-моделью во Вьетнаме — от $3000, вилла у моря","severity":3},{"domain":"deocox.com","screenshot_url":"screenshots/deocox.com.png","category":"ADULT","severity_label":"HIGH","title":"Suspected Phishing | Cloudflare","severity":3},{"domain":"funsly.sbs","screenshot_url":"screenshots/funsly.sbs.png","category":"ADULT","severity_label":"HIGH","title":"Asif","severity":3},{"domain":"modafinia.com","screenshot_url":"screenshots/modafinia.com.png","category":"ADULT","severity_label":"HIGH","title":"Attention Required! | Cloudflare","severity":3},{"domain":"moreforce.com","screenshot_url":"screenshots/moreforce.com.png","category":"ADULT","severity_label":"HIGH","title":"Major Resource to Improve Your Sexual Health - MoreForc","severity":3},{"domain":"porndepfile.com","screenshot_url":"screenshots/porndepfile.com.png","category":"ADULT","severity_label":"HIGH","title":"PornDepfile - Download Flashbit, Fboom, Fileboom Porn","severity":3},{"domain":"pornk2scity.com","screenshot_url":"screenshots/pornk2scity.com.png","category":"ADULT","severity_label":"HIGH","title":"Free Porn Videos Download or Watch K2S Keep2share Onlin","severity":3},{"domain":"riotzed.lol","screenshot_url":"screenshots/riotzed.lol.png","category":"ADULT","severity_label":"HIGH","title":"riotzed.lol","severity":3},{"domain":"wikitubes.com","screenshot_url":"screenshots/wikitubes.com.png","category":"ADULT","severity_label":"HIGH","title":"Wikitubes Com — Stream Unlimited Music","severity":3}];
+  var g=document.getElementById("gallery");
+  function buildCard(r){
+    var card=document.createElement("div");card.className="ecard";
+    var isAdult=(r.category==="ADULT");
+    var imgWrap=document.createElement("div");imgWrap.className="adult-wrap"+(isAdult?"":" shown");
+    var img=document.createElement("img");
+    img.src=r.screenshot_url;img.alt=r.domain;img.loading="lazy";
+    img.onclick=function(){if(imgWrap.classList.contains("shown"))openLB(r.screenshot_url,r.domain);};
+    img.onerror=function(){card.style.display="none";};
+    imgWrap.appendChild(img);
+    if(isAdult){
+      var ov=document.createElement("div");ov.className="adult-ov";
+      var ag=document.createElement("div");ag.className="age";ag.textContent="18+";
+      var at=document.createElement("div");at.className="agtxt";at.textContent="Click to reveal";
+      ov.appendChild(ag);ov.appendChild(at);
+      ov.onclick=function(){imgWrap.classList.add("shown");};
+      imgWrap.appendChild(ov);
+    }
+    card.appendChild(imgWrap);
+    var cap=document.createElement("div");cap.className="ecap";
+    var bc=CAT_BADGE[r.category]||"eb-g";
+    var bd=document.createElement("div");bd.className="ebadge "+bc;bd.textContent=(r.category||"").replace(/_/g," ");cap.appendChild(bd);
+    var dn=document.createElement("strong");dn.textContent=r.domain;cap.appendChild(dn);
+    if(r.title){var ti=document.createElement("div");ti.style.cssText="margin-top:3px;font-size:10px;color:var(--tx2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap";ti.textContent=r.title;cap.appendChild(ti);}
+    return card;
+  }
+  var PG=15,pg=0;
+  function renderGal(){
+    while(g.firstChild)g.removeChild(g.firstChild);
+    SS.slice(pg*PG,(pg+1)*PG).forEach(function(r){g.appendChild(buildCard(r));});
+    buildGalPager();
+  }
+  function buildGalPager(){
+    var old=document.getElementById("gpg");if(old)old.remove();
+    var tot=Math.ceil(SS.length/PG);if(tot<=1)return;
+    var row=document.createElement("div");row.id="gpg";
+    row.style.cssText="display:flex;gap:5px;align-items:center;margin-top:10px;flex-wrap:wrap";
+    function pb(txt,dis,active,cb){
+      var b=document.createElement("button");
+      b.style.cssText="padding:4px 11px;border-radius:4px;font-size:11px;font-family:monospace;cursor:pointer;border:1px solid var(--bdr);background:"+(active?"var(--cy)":"var(--s2)")+";color:"+(active?"#000":"var(--tx2)")+";font-weight:"+(active?"700":"400");
+      b.textContent=txt;b.disabled=dis;b.onclick=cb;return b;
+    }
+    row.appendChild(pb("← Prev",pg===0,false,function(){pg--;renderGal();}));
+    var s=Math.max(0,pg-3),e=Math.min(tot,s+7);
+    for(var i=s;i<e;i++){(function(idx){row.appendChild(pb(idx+1,false,idx===pg,function(){pg=idx;renderGal();}));})(i);}
+    row.appendChild(pb("Next →",pg>=tot-1,false,function(){pg++;renderGal();}));
+    var inf=document.createElement("span");inf.style.cssText="font-size:10px;font-family:monospace;color:var(--tx3);margin-left:auto";
+    inf.textContent=(pg*PG+1)+"–"+Math.min((pg+1)*PG,SS.length)+" / "+SS.length;
+    row.appendChild(inf);
+    g.parentNode.insertBefore(row,g.nextSibling);
+  }
+  renderGal();
+})();
+
+// ── CLUSTERS ──
+(function(){
+  var CL=[{"key":"811e0897f489","label":"server_fp","count":1674,"domains":["001kpayments.com","0exallieviagraria.org","0nwin3156.com","100-no-deposit-bonus.com","10690marsbahis.com","11354marsbahis.com","1185madridbet.com","1200nakitbahis.com","1280betebet.com","135874coinbase.com","1468mbets10.com","1472bet10.com","1481bet10.com","1482bet10.com","1485mbets10.com","1486mbets10.com","1489bet10.com","1491bet10.com","1494bet10.com","1501bet10.com"],"category":"GAMBLING"},{"key":"0ab5f121ab0d","label":"server_fp","count":305,"domains":["1royal-reels-australia.com","22bet-casino-cz.net","7-bit-casino.net","7-bit-casino.org","argent-reel-casino1.com","bdg-win-casino-cz.com","besovex.com","best-au-onlinecasino.com","betafex.com","betalice-casino-cz.com","betamo-casino-cz.com","betbaronlab.com","betonred-casino1.com","betonredcasino7.com","betzino-casino-enligne.com","betzino-casino2.com","betzino-casino4.com","bsb007-aus.com","call96-au.com","candy96-australia.com"],"category":"GAMBLING"},{"key":"4492f7f3e69c","label":"server_fp","count":161,"domains":["11141tempobet.com","ablepak-cn.com","aktifdenemebonusu.icu","alphaglobalt.com","ammoforsaleonline.net","amykathrynduncan.com","aquazzera.com","aquazzora.com","avvabetguncel22.icu","bahisgiris.icu","bahiskorumam.icu","betcuphizli.icu","betkolik.icu","betmanigiris.icu","betmoneygirisi.icu","betparigiris.icu","betpipogirisi.icu","bettiltgirisi1.icu","betvoleerisim.icu","boktrustfinance.com"],"category":"CARDING"},{"key":"d8c33640a2fc","label":"server_fp","count":149,"domains":["1271mobilbahis.com","1winbets-egypt.com","2167y2mdle.net","accsmail.org","at-identifier.com","atualizemeuinss.com","aviaanaccounting.net","bancabogota-casas.com","belbachirconcept.com","bergafarmsequipment.com","bestforwork.com","bestpharmacyreviews.com","betpuanagiris.icu","bingetrix.net","bit-mix.org","bitgearworkshop.com","bitwrenchstudio.com","bmailer.org","brinoxx.com","buyjerseysstore.com"],"category":"CARDING"},{"key":"4b8db6e031cc","label":"server_fp","count":122,"domains":["100mg-doxycycline-hyclate.info","100mg-hyclate-doxycycline.org","1win-mobiletr.com","1win2o26.com","1xbet-103tr.com","1xbet-2026guncel.com","1xbet-2026mobi.com","1xbet-2026mobil.com","1xbet-live101.com","1xbet-mobitr.com","1xbet-tr101.com","1xbet-tr102.com","1xlite-14788.pro","1xlite-41202.pro","24hourpharmacyhub.com","500mg-metronidazole-flagyl.info","500mg-metronidazoleflagyl.info","663proxy.com","afinil.com","alphamegapharmacy.com"],"category":"PHISHING_FINANCE"},{"key":"24be2aa9d598","label":"server_fp","count":104,"domains":["alexsmartmoneyguide.com","bestdiscountpromos.com","bestpromorewards.com","besttoprewards.com","boacux.com","boegux.com","buymodafinilwholesale.com","caozax.com","cartmeadowhub.com","cilckbus.com","clckbus.com","clickbrus.com","clickbusd.com","clickbusj.com","clickcbus.com","clickibus.com","clickibuss.com","clickpromosbr.com","clickrpromos.com","clicksbuss.com"],"category":"ERROR"},{"key":"-736095526","label":"favicon_mmh3","count":88,"domains":["3xcas.com","amazon-slotes.com","argonex.net","artemex.app","bazowin781.pro","beastcasi.org","beastduels.com","beastwin.org","benomexy.com","betmeme.net","betportal.pro","bezowin159.pro","borswin.com","broxusbet.com","cash-casino.app","faowox.com","gadaihuat.xyz","gamesofbeast.com","gaohux.com","gesowin77.pro"],"category":"CRYPTO_SCAM"},{"key":"1869784862","label":"favicon_mmh3","count":34,"domains":["begowex.com","betovex.com","derewex.com","desovex.com","devumex.com","elonbeastx.com","geporex.com","gerovex.com","gewomex.com","hemivex.com","icedwex.com","kedovex.com","kegodex.com","kemivex.com","kenovex.com","kirawex.com","kitonex.com","lekawex.com","luxefex.com","macewex.com"],"category":"PHISHING_CRYPTO"},{"key":"a1b77bce0100","label":"server_fp","count":28,"domains":["1069celtabet.com","531tech.com","alluvi.info","amlpro.ing","arabiancoffeeshop.com","binance-fans.com","binance-fly.com","binance-hq.com","bit-bank.net","cyberjanitor.org","dollyofficehours.com","dsfghjgfty.com","fh6-torrent.com","getprizenow.info","hreffy.com","linkcasihash.info","maximaintermedia.com","moneyinside.info","myantrim.com","openingnow.info"],"category":"MALWARE_DIST"},{"key":"310865488d64","label":"server_fp","count":25,"domains":["abcinvestmgt.com","aeroworldflight.com","agencyroyalfamilydubia.com","alafelpartners.com","apexfirmcapitals.com","cheapetextbook.com","faqbitcoin.com","firstheritagecinc.com","firstswissheritage.com","firsttrustswiss.com","ironcladcapitals.com","ldb7.com","lostonroads.com","lucky16.org","modafinilxp.net","neonflix.xyz","pageregisete.com","primediamondcapital.com","quebecholdingshq.com","rnbaccountants.com"],"category":"CARDING"},{"key":"6c3f896f1852","label":"server_fp","count":23,"domains":["484vipslot.com","863021.com","applycollabland.com","atlasparcela.com","avvoalert.com","bets10orjinalgiris.com","disto-place.com","error-panel.com","extracanlitahmin.com","fusionchess.org","fusionhouse.org","joincollabland.com","marchstead.com","marketcreditglobal.com","meeronex.com","pandexcrress.com","pandexperess.com","pandexpfress.com","pandexptress.com","pandexxrress.com"],"category":"PHISHING_GENERIC"},{"key":"a25c77c601d0","label":"server_fp","count":23,"domains":["ai-lightchain.com","bankid-felsok.com","bankrlist.com","busdescontoshoje.com","clickbussbrasil.com","clickpassagemonibus.com","clickpassagensbr.com","clickpasspromo.com","cllicksbus.com","clubepassagensdescontos.com","crowntruckdepot.com","diginov.net","examspeaking.com","olexweb.com","parquemonica.com","pascoashow.com","principiaskinm.com","promopassagembus.com","promovoosbrasil.com","smartfitbr.com"],"category":"ERROR"},{"key":"c7cc5bd0c92d","label":"server_fp","count":16,"domains":["bastwin.com","besowin156.pro","bezowin159.pro","bozawin.com","cebowin.com","gesowin77.pro","gusewin.com","hestwin255.pro","jastwin144.pro","mescaz.com","nensen.net","ovowins.com","soawin.com","sorewin149.pro","tezawin.com","vuzewin.com"],"category":"CRYPTO_SCAM"},{"key":"-1378036481","label":"favicon_mmh3","count":14,"domains":["hapevex.com","harudex.com","kepovex.com","keriwex.com","kizutex.com","latenox.com","lekowex.com","lucowex.com","lunarwex.com","nemudex.com","nerudex.com","rofumex.com","satovex.com","zenarex.com"],"category":"PHISHING_GENERIC"},{"key":"6a5775a063a2","label":"server_fp","count":13,"domains":["anabolenxxl.com","betterpainreliefhub.com","buyzopicloneonlineuk.net","cenforce-onlineuk.com","checkout-terminal.com","dutchanabolen.com","gleevecgeneric.com","medsinga.com","modastoreaustralia.com","oleencorcoltd.com","painreliefhub24.com","steroidwarehouse.sale","swisssarm.com"],"category":"PHISHING_FINANCE"}];
+  var cg=document.getElementById("clusters");
+  CL.forEach(function(cl){
+    var card=document.createElement("div");card.className="clcard";
+    var hdr=document.createElement("div");hdr.className="clhdr";
+    var firstDom=(cl.domains&&cl.domains[0])||"";
+    if(firstDom){var fav=document.createElement("img");fav.className="clfav";fav.src="https://www.google.com/s2/favicons?domain="+firstDom+"&sz=32";fav.alt="";fav.onerror=function(){this.style.display="none";};hdr.appendChild(fav);}
+    var meta=document.createElement("div");meta.style.cssText="display:flex;flex-direction:column;gap:2px;flex:1;min-width:0";
+    var cn=document.createElement("span");cn.className="clcnt";cn.textContent=cl.count+" domains";
+    var fp=document.createElement("span");fp.className="clfp";fp.textContent=(cl.label||"")+": "+(cl.key||"").slice(0,16);
+    meta.appendChild(cn);meta.appendChild(fp);hdr.appendChild(meta);
+    if(cl.category){var ct=document.createElement("span");ct.style.cssText="font-size:9px;padding:2px 7px;border:1px solid var(--bdr);border-radius:3px;color:var(--cy);font-family:monospace;white-space:nowrap";ct.textContent=cl.category.replace(/_/g," ");hdr.appendChild(ct);}
+    card.appendChild(hdr);
+    var doms=document.createElement("div");doms.className="cldoms";
+    (cl.domains||[]).slice(0,10).forEach(function(d){
+      var s=document.createElement("span");s.className="cld";
+      var fi=document.createElement("img");fi.src="https://www.google.com/s2/favicons?domain="+d+"&sz=16";fi.alt="";fi.onerror=function(){this.style.display="none";};fi.style.cssText="width:14px;height:14px;border-radius:1px;flex-shrink:0";
+      s.appendChild(fi);var dt=document.createTextNode(d);s.appendChild(dt);doms.appendChild(s);
+    });
+    if(cl.count>10){var s=document.createElement("span");s.className="cld";s.style.color="var(--tx3)";s.textContent="+"+(cl.count-10)+" more";doms.appendChild(s);}
+    card.appendChild(doms);cg.appendChild(card);
+  });
+})();
+
+function openLB(src,alt){document.getElementById("lbi").src=src;document.getElementById("lbi").alt=alt;document.getElementById("lb").className="show";}
+function closeLB(){document.getElementById("lb").className="";}
+document.addEventListener("keydown",function(e){if(e.key==="Escape")closeLB();});
+</script>
+</body>
+</html>

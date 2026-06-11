@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this evidence package, cite it using the metadata below."
+title: "Trustname.com / Fewmoretaps OU Registrar Abuse Evidence"
+version: "Phase II"
+date-released: "2026-06-10"
+license: "MIT"
+authors:
+  - name: "PhishDestroy Research"
+repository-code: "https://github.com/phishdestroy/trustname-evidence"
+url: "https://phishdestroy.github.io/trustname-evidence/"
+abstract: "Complete-zone evidence package documenting registrar abuse indicators, IOC datasets, rendered evidence metadata, and chain-of-custody hashes for Trustname.com / Fewmoretaps OU."
+keywords:
+  - phishing
+  - registrar-abuse
+  - threat-intelligence
+  - indicators-of-compromise
+  - chain-of-custody

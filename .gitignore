@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.venv/
+venv/
+
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+
+# Raw uncompressed scan output is too large for git.
+data/lambda_results.jsonl
+data/deep_results.jsonl
+data/threat_intel.jsonl
+data/geoip_cache.json
+
+# Keep compressed public evidence packages.
+!pkg/raw_data/*.gz
+
+# Local screenshot mirrors. Publish via S3/Git LFS, keep hashes in git.
+docs/screenshots/
+evidence/screenshots/
+!evidence/HASHES.txt

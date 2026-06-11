@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /screenshots/
+
+# AI crawlers — investigative research, public TLP:CLEAR, MIT-licensed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://phishdestroy.github.io/trustname-evidence/sitemap.xml

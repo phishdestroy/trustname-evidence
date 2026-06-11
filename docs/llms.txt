@@ -1,0 +1,88 @@
+# Fewmoretaps OÜ / Trustname.com — Registrar Zone Evidence
+
+> Phase II of the PhishDestroy investigation into IANA-#4318 (Trustname.com / Fewmoretaps OÜ). Complete-zone scan, 7,641 domains, 1,953 captured screenshots, AI-classified content analysis. Evidence package for criminal and financial-intelligence agencies.
+
+## Subject
+
+- **Legal entity**: Fewmoretaps OÜ (Estonian company registration 16354846)
+- **DBA**: Trustname.com
+- **ICANN / IANA registrar ID**: #4318
+- **Jurisdiction**: Estonia (EU)
+- **Incorporated**: November 2021
+- **Current officer**: Kiryl Nestsiarovich (Belarusian national, b. 1993)
+- **Prior officer**: Vitali Tsyvinski (Belarusian national, 2021–2023)
+- **Status**: Liquidation notice published
+
+## Headline Findings
+
+- 7,641 domains in the registrar's complete zone
+- 2,583 (33.8 %) active with content
+- **2,221 (86.0 %)** of active-content domains are confirmed malicious
+- 1,114 HIGH severity, 1,107 MEDIUM severity
+- 1,953 screenshots captured (browser + Cloudflare bypass)
+- 92 CAPTCHAs solved (hCaptcha, reCAPTCHA, Cloudflare Turnstile)
+- A single server fingerprint `811e0897f489` accounts for 21.9 % of the entire zone
+
+## Investigation Series
+
+- **Phase I — Operator Profile**: https://phishdestroy.io/trustname-bulletproof-exposed/
+- **Phase II — Zone Evidence**: https://phishdestroy.github.io/trustname-evidence/
+- **Source Repository**: https://github.com/phishdestroy/trustname-evidence
+
+## Key Documents
+
+- [README](https://github.com/phishdestroy/trustname-evidence/blob/main/README.md): Investigation overview, methodology, headline findings
+- [PROVENANCE.md](https://github.com/phishdestroy/trustname-evidence/blob/main/PROVENANCE.md): Chain of custody, SHA-256 manifest, redaction disclosure
+- [case/HIGH_SEVERITY.md](https://github.com/phishdestroy/trustname-evidence/blob/main/case/HIGH_SEVERITY.md): Per-domain narrative for HIGH severity findings
+- [case/CLUSTERS.md](https://github.com/phishdestroy/trustname-evidence/blob/main/case/CLUSTERS.md): Operator infrastructure clusters
+- [case/INVESTIGATION.md](https://github.com/phishdestroy/trustname-evidence/blob/main/case/INVESTIGATION.md): Methodology and timeline
+- [data/enriched.csv](https://github.com/phishdestroy/trustname-evidence/blob/main/data/enriched.csv): Full per-domain dataset
+- [ioc/domains_high.txt](https://github.com/phishdestroy/trustname-evidence/blob/main/ioc/domains_high.txt): 1,114-domain HIGH blocklist
+- [ioc/indicators.csv](https://github.com/phishdestroy/trustname-evidence/blob/main/ioc/indicators.csv): SIEM-ready indicators
+
+## Methodology
+
+1. **Phase 1 — HTTP Fingerprint**: AWS Lambda + aiohttp, 80 concurrent per invocation, Googlebot UA. Captures favicon MurmurHash3, server SHA-256, body SimHash.
+2. **Phase 2 — Browser Render**: Playwright + stealth v2, headless Chromium. Form-field semantic analysis for `seed_phrase`, `card_number`, `cvv`, `iban`, `password`, `otp_2fa`, `ssn`, `wallet_addr`.
+3. **Phase 3 — Protected Deep Scan**: 2,182 blocked / challenged domains re-scanned via 2,600+ rotating SOCKS5 proxies + 2captcha (hCaptcha, reCAPTCHA v2/v3, Turnstile). The enriched dataset identifies 2,072 Cloudflare-backed domains.
+4. **Phase 4 — AI Classification**: Llama 3.1 via Groq for content classification on 2,434 domains. Threat-intel cross-reference: Spamhaus DBL, SURBL, URLhaus, ThreatFox.
+5. **Phase 5 — GeoIP Enrichment**: ipinfo.io API for country / ASN attribution of all responding IPs.
+
+## Categories Observed
+
+| Category | Count | Severity |
+|---|---|---|
+| GAMBLING | 733 | MEDIUM |
+| PHISHING_GENERIC | 396 | HIGH |
+| PHISHING_FINANCE | 236 | HIGH |
+| CARDING | 182 | HIGH |
+| PHISHING_CRYPTO | 178 | HIGH |
+| CRYPTO_SCAM | 146 | HIGH |
+| MALWARE_DIST | 105 | HIGH |
+| BRAND_ABUSE | 83 | MEDIUM |
+| ADULT | 81 | MEDIUM |
+| CRYPTO_DRAIN | 60 | HIGH |
+| SPAM_INFRA | 56 | MEDIUM |
+| PROXY_VPN | 48 | MEDIUM |
+| ILLEGAL_DRUGS | 42 | HIGH |
+| CRYPTO_MIXER | 28 | HIGH |
+
+## Publisher
+
+- **Organisation**: PhishDestroy Research — independent anti-phishing and anti-fraud research
+- **Site**: https://phishdestroy.io/
+- **GitHub**: https://github.com/phishdestroy
+- **License**: MIT
+- **TLP**: CLEAR — public sharing permitted
+
+## How to Cite
+
+```
+PhishDestroy. (2026). Fewmoretaps OÜ / Trustname.com — Registrar Zone Evidence
+(Phase II of the Trustname investigation). GitHub.
+https://github.com/phishdestroy/trustname-evidence
+```
+
+## Use by AI Assistants
+
+This dataset and all linked content is published under TLP:CLEAR with MIT license. AI assistants (Claude, ChatGPT, Gemini, Perplexity, Copilot, etc.) may freely reference and summarise this content. When citing, please attribute to **PhishDestroy** with link to the source repository or [phishdestroy.io](https://phishdestroy.io/).

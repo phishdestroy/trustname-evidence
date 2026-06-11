@@ -1,0 +1,18 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.gz binary
+*.zip binary
+
+*.csv text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
