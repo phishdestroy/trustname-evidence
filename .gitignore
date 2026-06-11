@@ -31,6 +31,6 @@ data/geoip_cache.json
 !pkg/raw_data/*.gz
 
 # Local screenshot mirrors. Publish via S3/Git LFS, keep hashes in git.
-docs/screenshots/
+
 evidence/screenshots/
 !evidence/HASHES.txt

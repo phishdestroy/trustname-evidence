@@ -73,10 +73,10 @@ SS_DIR = Path(__file__).parent / "screenshots"
 
 def screenshot_url(domain: str, local_path: str, ss_base: str) -> str:
     if ss_base:
-        return ss_base.rstrip("/") + "/" + domain + ".png"
+        return ss_base.rstrip("/") + "/" + domain + ".jpg"
     # relative path used by docs/index.html and docs/domains.html
-    if (SS_DIR / (domain + ".png")).exists():
-        return "screenshots/" + domain + ".png"
+    if (SS_DIR / (domain + ".jpg")).exists():
+        return "screenshots/" + domain + ".jpg"
     return ""
 
 
