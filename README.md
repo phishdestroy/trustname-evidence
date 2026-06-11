@@ -75,24 +75,14 @@
 
 ## 1 · Background
 
-This repository is the **Phase II evidence package** of the PhishDestroy investigation into **Trustname.com / Fewmoretaps OÜ** (IANA registrar ID **#4318**), publicly disclosed in June 2026.
+This repository is the **Phase II evidence package** of the PhishDestroy investigation into **Trustname.com / Fewmoretaps OÜ** (IANA registrar ID **#4318**).
 
-> ### 📰 Phase I — *Trustname Bulletproof Exposed*
-> Operator profile, corporate-registry findings, financial discrepancies, infrastructure mapping.
-> [**→ phishdestroy.io/trustname-bulletproof-exposed**](https://phishdestroy.io/trustname-bulletproof-exposed/)
+> **Phase I — operator profile and corporate forensics** is published as a standalone article on the PhishDestroy site:
+> [📰 phishdestroy.io/trustname-bulletproof-exposed](https://phishdestroy.io/trustname-bulletproof-exposed/)
+>
+> *This README does not duplicate Phase I material. Refer to the Phase I article for entity, officer, financial, and infrastructure findings.*
 
-Key Phase I findings, summarised:
-
-| Aspect | Finding |
-|---|---|
-| **Corporate entity** | Fewmoretaps OÜ (Estonian registration *16354846*), incorporated November 2021 |
-| **Operators** | Kiryl Nestsiarovich (Belarus, CEO since May 2023) · Vitali Tsyvinski (Belarus, 2021–2023) |
-| **Declared revenue** | €0 (2022) · €0 (2023) · €120 (2024) — against minimum operating cost €35–50K/year |
-| **Equity** | Negative −€71,648 · €175,310 unexplained long-term liabilities · liquidation notice |
-| **Self-identification** | DNS TXT record explicitly advertising *"bulletproof domain registrar"* for *"sensitive niches"* |
-| **Payments** | Monero · Zcash · Litecoin · Stripe — no documented Estonian FIU AML licensing |
-
-**Phase II — this repository — quantifies the abuse footprint by enumerating every domain in the registrar's zone.** Rather than sampling, every domain is subjected to a four-stage technical pipeline:
+**Phase II — this repository — quantifies the abuse footprint by enumerating every domain in the registrar's zone.** Rather than sampling, every domain is processed through a four-stage technical pipeline:
 
 ```
        ╭────────────────────╮      ╭────────────────────╮      ╭────────────────────╮      ╭────────────────────╮
@@ -104,20 +94,7 @@ Key Phase I findings, summarised:
               domains                     domains                     protected targets           classified
 ```
 
-### What the Two Phases Show, Together
-
-Phase I named the operators. Phase II measured what those operators built.
-
-The pattern is now documented end-to-end:
-
-- An **ICANN-accredited registrar** is being operated as a **bulletproof service** — and self-identifies as such in its own DNS TXT record. ICANN's accreditation system, designed for technical stability of the DNS in 1998, is here repurposed as **legal cover for a registrar whose declared revenue (€120 in 2024) cannot mathematically support its operating costs**. The accreditation has become the shield. The shield was never designed to stop what is now hiding behind it.
-- Two named Belarusian nationals control the corporate vehicle, an Estonian shell at the verge of liquidation, accepting payment in Monero and Zcash. **86 % of the domains they sell that actually serve content are confirmed malicious.** This is not a moderation failure or a tolerated minority — it is the business model. Trustname is not a registrar with an abuse problem; trustname **is** the abuse infrastructure.
-- And yet — for a registrar whose entire commercial proposition is *"we won't notice and we won't disclose"* — the result is conspicuously unsuccessful. Negative equity of −€71,648, €175,310 of unexplained long-term liabilities, a liquidation notice on file, and a single full-time employee against marketing that claims "over 35 people" and "trusted by millions since 1997". **The operation is detectable from every direction at once**: corporate registry, DNS, infrastructure clustering, ICANN compliance records, on-page content, payment rails, fake review forensics, and now a complete zone scan. The only reason it continues to exist is that **the agencies with jurisdiction haven't been handed the file yet**. This repository is that file.
-- The wider pattern matters more than the single case. **Belarusian-operated, Estonian-domiciled, ICANN-accredited bulletproof infrastructure** — with crypto-native payment rails and a shell-company veneer — is a recurring template, not an anomaly. Phase I documented the operator. Phase II provides the statistical and forensic evidence that the operator's product is, in aggregate, criminal. The world is welcome to draw the inference.
-
-> The takeaway: an ICANN registrar accreditation, by itself, no longer carries any signal about whether the registrant population is legitimate. In this case the signal is inverted.
-
-> 😏 **Side observation.** Trustname's growth has visibly stalled over the recent months — new-domain volume is flat, sometimes negative, and the registry filed a liquidation notice. The most parsimonious explanation: the threat-actor customer base has independently figured out that registering through this particular registrar now comes with an unusually fast PhishDestroy detection time. Even the scammers are reading the writing on the wall.
+**Phase II in one sentence:** of the 2,583 domains under this registrar that actually serve content, **2,221 (86 %) are confirmed malicious** — phishing, carding, crypto drainers, malware distribution, illegal-drug sales, and unlicensed gambling. The remaining 5,058 are dead or parked. The complete per-domain dataset, screenshots, and operator-cluster analysis live in this repository.
 
 ---
 
@@ -128,11 +105,10 @@ The pattern is now documented end-to-end:
 | 🏢 Legal entity | **Fewmoretaps OÜ** |
 | 🌐 DBA | Trustname.com |
 | 🆔 ICANN / IANA ID | **#4318** |
-| 📋 Estonian registry no. | 16354846 |
-| 📅 Incorporated | November 2021 |
-| 👤 Current officer | Kiryl Nestsiarovich (Belarus, b. 1993) |
 | 🇪🇪 Jurisdiction | Estonia (EU) |
-| ⚠ Status (registry) | **Liquidation notice published** |
+
+*Operator identity, corporate-registry details, and financial profile are covered in Phase I:*
+[phishdestroy.io/trustname-bulletproof-exposed](https://phishdestroy.io/trustname-bulletproof-exposed/)
 
 ---
 
