@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/docs/assets/banner.gif" width="100%"/>
+</div>
+
+<div align="center">
 
 <img src="docs/assets/hero.jpg" width="100%" alt="Trustname.com / Fewmoretaps OÜ — Registrar Zone Evidence (Phase II)"/>
 
@@ -513,6 +517,9 @@ If Trustname disputes any finding: submit documented evidence via [phishdestroy.
 
 <div align="center">
 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ea8d7,100:da3633&height=80&section=footer" width="100%" alt="footer"/>
 
 **PhishDestroy Research** · Phase II · June 2026 · TLP:CLEAR
