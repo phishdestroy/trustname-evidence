@@ -73,6 +73,9 @@
 
 ---
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 1 · Background
 
 This repository is the **Phase II evidence package** of the PhishDestroy investigation into **Trustname.com / Fewmoretaps OÜ** (IANA registrar ID **#4318**).
@@ -98,6 +101,9 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 ---
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 2 · Subject
 
 | Field | Value |
@@ -111,6 +117,9 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 [phishdestroy.io/trustname-bulletproof-exposed](https://phishdestroy.io/trustname-bulletproof-exposed/)
 
 ---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 3 · Scope and Coverage
 
@@ -129,6 +138,9 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 </table>
 
 ---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 4 · Methodology
 
@@ -187,6 +199,9 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 ---
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 📊 Headline Findings
 
 <div align="center">
@@ -235,6 +250,9 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 ---
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🕸 Operator Clusters
 
 Domains grouped by shared **server fingerprint (SHA-256 prefix)** and **favicon MurmurHash3**.
@@ -258,6 +276,9 @@ Shared fingerprint = same hosting stack / same operator template — evidence of
 Full cluster data: [`case/CLUSTERS.md`](case/CLUSTERS.md)
 
 ---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📦 Evidence Archive
 
@@ -292,6 +313,9 @@ cd docs/screenshots && sha256sum -c ../../evidence/HASHES.txt
 
 ---
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🎯 Notable Confirmed Cases
 
 | Domain | Category | Evidence |
@@ -307,6 +331,9 @@ cd docs/screenshots && sha256sum -c ../../evidence/HASHES.txt
 Full per-domain narrative: [`case/HIGH_SEVERITY.md`](case/HIGH_SEVERITY.md)
 
 ---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ⚖ Enforcement Posture
 
@@ -325,6 +352,9 @@ Fewmoretaps OÜ collects registration revenue from operators conducting wire fra
 | 🇺🇸 **FinCEN** | Money-services business violations · USD flow tracing |
 
 ---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📂 Repository Structure
 
@@ -369,6 +399,9 @@ trustname-evidence/
 
 ---
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🌐 PhishDestroy
 
 [![PhishDestroy.io](https://img.shields.io/badge/Main_Site-phishdestroy.io-da3633?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0c1018)](https://phishdestroy.io/)
@@ -385,6 +418,9 @@ trustname-evidence/
 > 📚 Investigation archive: **[phishdestroy.io/articles](https://phishdestroy.io/)**
 > 🐙 Code & datasets: **[github.com/phishdestroy](https://github.com/phishdestroy)**
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🌐 Mirrors and Long-Term Access
 
 | Channel | Identifier |
@@ -396,6 +432,9 @@ trustname-evidence/
 | ⏳ Wayback Machine | snapshot pinned on publication |
 
 ---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📚 Citation
 
@@ -421,18 +460,49 @@ https://github.com/phishdestroy/trustname-evidence
 
 ---
 
-## ⚖ License and Use
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ⚖️ Legal Notice & Responsible Disclosure
+
+All data in this repository was collected exclusively from **publicly accessible sources**:
+
+| Source | Method |
+|---|---|
+| Zone file | ICANN CZDS — accredited access, permissible use |
+| WHOIS | Public WHOIS protocol (RFC 3912) |
+| HTTP responses | Passive crawl of publicly reachable URLs |
+| DNS records | Passive DNS / authoritative queries |
+| Screenshots | Rendered pages accessible to any browser |
+
+**No non-public systems were accessed. No credentials were tested. No authentication was bypassed. No victim data was processed.**
+
+This publication is conducted under:
+- ICANN Registrar Accreditation Agreement §3.18 (abuse response obligations)
+- [CISA Coordinated Vulnerability Disclosure guidelines](https://www.cisa.gov/coordinated-vulnerability-disclosure-process)
+- [FIRST.org TLP:CLEAR definition](https://www.first.org/tlp/) — unlimited public sharing permitted
+
+### Regarding Reputational Impact
+
+This research documents objectively verifiable facts: domain registration patterns, HTTP response content, and registrar abuse-response latency. Trustname.com / Fewmoretaps OÜ is an ICANN-accredited registrar bound by public accountability obligations.
+
+Publication of factual evidence of contractual non-compliance with ICANN's abuse-response requirements is not defamation — it is the function those requirements were designed to enable. Registrars that maintain functional abuse response pipelines have nothing to fear from this disclosure.
+
+If Trustname disputes any finding: submit documented evidence via [phishdestroy.io](https://phishdestroy.io). Findings supported by evidence will be corrected in a timestamped update.
 
 | | |
 |---|---|
 | 📜 License | **MIT** — see [`LICENSE`](LICENSE) |
-| 🏷 TLP | **CLEAR** — public sharing permitted |
-| 🤝 Sharing | Researchers, journalists, and law-enforcement officers are welcome to use this dataset; attribution is appreciated but not required |
+| 🏷 TLP | **CLEAR** — unlimited distribution, no restrictions |
+| 🤝 Sharing | Researchers, journalists, law enforcement, brand protection teams — use freely |
+| 📋 Evidence notice | [`NOTICE.md`](NOTICE.md) |
+| 🔏 Verification | [`VERIFY.md`](VERIFY.md) |
 | 🌐 Contact | [phishdestroy.io](https://phishdestroy.io) |
 
-Evidence-use notice: [`NOTICE.md`](NOTICE.md). Verification and release-signing instructions: [`VERIFY.md`](VERIFY.md).
-
 ---
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🔗 Related Investigations
 
