@@ -31,6 +31,7 @@
 
 <br/>
 
+[![New Today](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/today.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/tree/main/data/new) [![Collected](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/total.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/blob/main/data/all.txt) [![Last Fetch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/last_fetch.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/actions)
 <img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%234318;7%2C641+domains+enumerated+%E2%80%94+zero+sampling;86%25+of+active+content+is+malicious;Evidence+package+for+law+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
 
 </div>
