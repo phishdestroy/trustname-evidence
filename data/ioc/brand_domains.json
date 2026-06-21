@@ -327,24 +327,6 @@
       "transfersconnection.com",
       "transfersconnections.com"
     ],
-    "wallet": [
-      "basecoldwallet.com",
-      "bitpandawebwallet.com",
-      "e-wallet-casino-login.com",
-      "ewallet-casino-login-au.com",
-      "htxwallets.com",
-      "kripwallet.com",
-      "movvewallet.icu",
-      "sparrowswallet.com",
-      "trustwallet-digital.com",
-      "wallet-premium.net",
-      "walletedinar.com",
-      "walletedinar.net",
-      "walletsguard.com",
-      "xrpwalletdoff.com",
-      "zkxwallet.app",
-      "zkxwallet.org"
-    ],
     "verify": [
       "bets10-guncelverify.com",
       "bmo1verify.com",
@@ -363,6 +345,24 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
+    "wallet": [
+      "basecoldwallet.com",
+      "bitpandawebwallet.com",
+      "e-wallet-casino-login.com",
+      "ewallet-casino-login-au.com",
+      "htxwallets.com",
+      "kripwallet.com",
+      "movvewallet.icu",
+      "sparrowswallet.com",
+      "trustwallet-digital.com",
+      "wallet-premium.net",
+      "walletedinar.com",
+      "walletedinar.net",
+      "walletsguard.com",
+      "xrpwalletdoff.com",
+      "zkxwallet.app",
+      "zkxwallet.org"
+    ],
     "bridge": [
       "avalanchebridge.org",
       "binance-bridge.net",
@@ -378,20 +378,6 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "account": [
-      "accountcherled.com",
-      "accountsassociated.com",
-      "accountshemig.com",
-      "accountshidden.com",
-      "accountsinformationses.com",
-      "aviaanaccounting.net",
-      "faceit-verify-account.com",
-      "highriskmerchantaccounter.com",
-      "id-myaccount.com",
-      "myaccountdpus.com",
-      "rnbaccountants.com",
-      "thebulkaccounts.com"
-    ],
     "swap": [
       "any-swap.net",
       "blaze-swap.net",
@@ -405,6 +391,20 @@
       "swapx-app.com",
       "ubeswap.net",
       "zenexswap.com"
+    ],
+    "account": [
+      "accountcherled.com",
+      "accountsassociated.com",
+      "accountshemig.com",
+      "accountshidden.com",
+      "accountsinformationses.com",
+      "aviaanaccounting.net",
+      "faceit-verify-account.com",
+      "highriskmerchantaccounter.com",
+      "id-myaccount.com",
+      "myaccountdpus.com",
+      "rnbaccountants.com",
+      "thebulkaccounts.com"
     ],
     "claim": [
       "claim-benefits-now-mycra.com",
