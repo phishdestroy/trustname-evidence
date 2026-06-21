@@ -43,6 +43,10 @@
 [![Deployed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/deployed.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
 [![Long Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/longreg.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
 [![Top TLDs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/tld_top.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![Top $ TLD](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/top_tld_rev.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![Fresh Catch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/freshness.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![Serial Regs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/serial_regs.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![Top Targets](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/brands.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
 <img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%234318;7%2C641+domains+enumerated+%E2%80%94+zero+sampling;86%25+of+active+content+is+malicious;Evidence+package+for+law+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
 
 </div>
