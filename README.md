@@ -8,6 +8,10 @@
 
 <br/>
 
+<!-- LIVE_STATS:START -->
+> 🔴 **LIVE INVESTIGATION FEED** — populating after first workflow run.
+<!-- LIVE_STATS:END -->
+
 # Trustname.com / Fewmoretaps OÜ
 ### Registrar Zone Evidence — Phase II
 
