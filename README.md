@@ -11,39 +11,20 @@
 
 <br/>
 
-[![Phase II](https://img.shields.io/badge/Phase-II-da3633?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.io/trustname-bulletproof-exposed/)
 [![IANA #4318](https://img.shields.io/badge/IANA-%234318-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
 [![TLP CLEAR](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.first.org/tlp/)
 [![MIT](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
 
 <br/>
-
-[![Domains Scanned](https://img.shields.io/badge/domains_scanned-7%2C641-6ea8d7?style=flat-square&logo=googleearth&logoColor=white&labelColor=0c1018)](#-scope-and-coverage)
-[![HIGH severity](https://img.shields.io/badge/HIGH_severity-1%2C114-da3633?style=flat-square&logo=warning&logoColor=white&labelColor=0c1018)](#-headline-findings)
-[![MEDIUM severity](https://img.shields.io/badge/MEDIUM_severity-1%2C107-c0a060?style=flat-square&logo=alert&logoColor=white&labelColor=0c1018)](#-headline-findings)
-[![Malicious of Active](https://img.shields.io/badge/malicious_%2F_active-86%25-da3633?style=flat-square&logo=shieldslashed&logoColor=white&labelColor=0c1018)](#-headline-findings)
-[![Screenshots](https://img.shields.io/badge/screenshots-1%2C953-3fb950?style=flat-square&logo=googleimages&logoColor=white&labelColor=0c1018)](#-evidence-archive)
-[![Cloudflare bypass](https://img.shields.io/badge/Cloudflare_bypass-92_captchas-c0a060?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0c1018)](#-methodology)
-
-<br/>
-
 [![Live Report](https://img.shields.io/badge/▶_LIVE_REPORT-phishdestroy.github.io%2Ftrustname--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/trustname-evidence)
-&nbsp;
+
 [![Phase I Article](https://img.shields.io/badge/📰_PHASE_I-Bulletproof_Exposed-6ea8d7?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.io/trustname-bulletproof-exposed/)
 
 <br/>
 
-[![New Today](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/today.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/tree/main/data/new) [![Total](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/total.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/blob/main/data/all.txt) [![Last Fetch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/last_fetch.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/actions) [![Confirmed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/correlation.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Fresh Catch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/freshness.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence)
-
-[![Est. Revenue](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/revenue.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Top $ TLD](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/top_tld_rev.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Avg Period](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/lifetime.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Long Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/longreg.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Top TLDs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/tld_top.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence)
-
-[![Deployed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/deployed.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![No IP at Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/no_ip.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Top Hosting](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/hosting.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Serial Regs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/serial_regs.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Top Targets](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/brands.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence) [![Unranked](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/unranked.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence)
-<img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%234318;7%2C641+domains+enumerated+%E2%80%94+zero+sampling;86%25+of+active+content+is+malicious;Evidence+package+for+law+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
-
 </div>
 
 ---
-
 
 <!-- LIVE_STATS:START -->
 
