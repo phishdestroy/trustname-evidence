@@ -16,6 +16,7 @@
 [![MIT](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
 
 <br/>
+
 [![Live Report](https://img.shields.io/badge/▶_LIVE_REPORT-phishdestroy.github.io%2Ftrustname--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/trustname-evidence) [![Phase I Article](https://img.shields.io/badge/📰_PHASE_I-Bulletproof_Exposed-6ea8d7?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.io/trustname-bulletproof-exposed/)
 
 <br/>
