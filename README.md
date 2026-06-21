@@ -39,6 +39,10 @@
 [![Revenue](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/revenue.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
 [![Avg Period](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/lifetime.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
 [![Top Hosting](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/hosting.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![No IP at Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/no_ip.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![Deployed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/deployed.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![Long Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/longreg.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
+[![Top TLDs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/tld_top.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
 <img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%234318;7%2C641+domains+enumerated+%E2%80%94+zero+sampling;86%25+of+active+content+is+malicious;Evidence+package+for+law+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
 
 </div>
