@@ -36,17 +36,6 @@
 <br/>
 
 [![New Today](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/today.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/tree/main/data/new) [![Collected](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/total.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/blob/main/data/all.txt) [![Last Fetch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/last_fetch.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/trustname-evidence/actions)
-[![Revenue](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/revenue.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Avg Period](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/lifetime.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Top Hosting](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/hosting.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![No IP at Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/no_ip.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Deployed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/deployed.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Long Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/longreg.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Top TLDs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/tld_top.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Top $ TLD](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/top_tld_rev.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Fresh Catch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/freshness.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Serial Regs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/serial_regs.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
-[![Top Targets](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/stats/brands.json&style=flat-square)](https://github.com/phishdestroy/trustname-evidence)
 <img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%234318;7%2C641+domains+enumerated+%E2%80%94+zero+sampling;86%25+of+active+content+is+malicious;Evidence+package+for+law+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
 
 </div>
@@ -89,7 +78,6 @@
 
 ---
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 1 · Background
@@ -117,7 +105,6 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 ---
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 2 · Subject
@@ -133,7 +120,6 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 [phishdestroy.io/trustname-bulletproof-exposed](https://phishdestroy.io/trustname-bulletproof-exposed/)
 
 ---
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -154,7 +140,6 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 </table>
 
 ---
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -215,7 +200,6 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 ---
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 Headline Findings
@@ -266,7 +250,6 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 ---
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🕸 Operator Clusters
@@ -292,7 +275,6 @@ Shared fingerprint = same hosting stack / same operator template — evidence of
 Full cluster data: [`case/CLUSTERS.md`](case/CLUSTERS.md)
 
 ---
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -329,7 +311,6 @@ cd docs/screenshots && sha256sum -c ../../evidence/HASHES.txt
 
 ---
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 Notable Confirmed Cases
@@ -347,7 +328,6 @@ cd docs/screenshots && sha256sum -c ../../evidence/HASHES.txt
 Full per-domain narrative: [`case/HIGH_SEVERITY.md`](case/HIGH_SEVERITY.md)
 
 ---
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -368,7 +348,6 @@ Fewmoretaps OÜ collects registration revenue from operators conducting wire fra
 | 🇺🇸 **FinCEN** | Money-services business violations · USD flow tracing |
 
 ---
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -415,7 +394,6 @@ trustname-evidence/
 
 ---
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌐 PhishDestroy
@@ -434,7 +412,6 @@ trustname-evidence/
 > 📚 Investigation archive: **[phishdestroy.io/articles](https://phishdestroy.io/)**
 > 🐙 Code & datasets: **[github.com/phishdestroy](https://github.com/phishdestroy)**
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌐 Mirrors and Long-Term Access
@@ -448,7 +425,6 @@ trustname-evidence/
 | ⏳ Wayback Machine | snapshot pinned on publication |
 
 ---
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -475,7 +451,6 @@ https://github.com/phishdestroy/trustname-evidence
 ```
 
 ---
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -517,7 +492,6 @@ If Trustname disputes any finding: submit documented evidence via [phishdestroy.
 
 ---
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🔗 Related Investigations
@@ -527,8 +501,6 @@ If Trustname disputes any finding: submit documented evidence via [phishdestroy.
 ---
 
 <div align="center">
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ea8d7,100:da3633&height=80&section=footer" width="100%" alt="footer"/>
