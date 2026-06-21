@@ -9,7 +9,85 @@
 <br/>
 
 <!-- LIVE_STATS:START -->
-> 🔴 **LIVE INVESTIGATION FEED** — populating after first workflow run.
+
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-06-21`
+
+<table><tr>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>9,108</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$76,738</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>65.7%</code></sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>37.4%</code> (3,406)</sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>6.6%</code></sub></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>3</code></sub></td>
+</tr></table>
+
+### 🏷️ Top TLD Zones
+
+| TLD | Count | Avg Reg Period | Est. Revenue |
+|:--|--:|--:|--:|
+| `.com` | 7,204 | 420d | $64,764 |
+| `.icu` | 572 | 365d | $566 |
+| `.net` | 423 | 436d | $4,226 |
+| `.org` | 355 | 515d | $3,546 |
+| `.app` | 80 | 365d | $1,120 |
+| `.pro` | 54 | 425d | $431 |
+| `.cyou` | 50 | 365d | $50 |
+| `.cam` | 49 | 365d | $245 |
+| `.info` | 34 | 483d | $136 |
+| `.cfd` | 33 | 365d | $165 |
+
+### 🌍 Top Hosting Countries
+
+```
+US  ██████████████████        489 (32.7%)
+RU  █████░░░░░░░░░░░░░        152 (10.2%)
+GB  ████░░░░░░░░░░░░░░        124 (8.3%)
+DE  ████░░░░░░░░░░░░░░        111 (7.4%)
+NL  ███░░░░░░░░░░░░░░░         94 (6.3%)
+CA  ███░░░░░░░░░░░░░░░         83 (5.6%)
+BZ  ██░░░░░░░░░░░░░░░░         72 (4.8%)
+UA  ██░░░░░░░░░░░░░░░░         59 (3.9%)
+```
+
+### 📈 Registration Burst Days
+
+| Date | Domains | × Average |
+|:--|--:|--:|
+| `2026-06-15` | 232 | **11.6×** 🚨 |
+| `2026-06-08` | 202 | **10.1×** 🚨 |
+| `2026-06-17` | 202 | **10.1×** 🚨 |
+| `2026-06-10` | 191 | **9.6×** 🚨 |
+| `2026-06-04` | 169 | **8.5×** 🚨 |
+
+### 🎯 Top Targeted Brands & Keywords
+
+`login (41)` &middot; `binance (35)` &middot; `ledger (31)` &middot; `trust (29)` &middot; `secure (29)` &middot; `support (28)` &middot; `official (27)` &middot; `crypto (22)` &middot; `vault (22)` &middot; `coinbase (21)` &middot; `connect (19)` &middot; `wallet (16)` &middot; `verify (16)` &middot; `bridge (13)` &middot; `account (12)`
+
+### 🕵️ Top Serial Registrants — 5 emails with ≥5 domains
+
+| # | Registrant Email (redacted) | Domains |
+|--:|:--|--:|
+| 1 | `m***@unternehmen.de` | **23** |
+| 2 | `sup***@mxl.zendesk.com` | **18** |
+| 3 | `sup***@stake.com` | **12** |
+| 4 | `hel***@wingstop.com` | **7** |
+| 5 | `s***@email.com` | **5** |
+
+### 📥 Download Threat Intelligence
+
+| File | Format | Description |
+|:--|:--:|:--|
+| [`data/all.txt`](data/all.txt) | TXT | All tracked domains |
+| [`data/index.json`](data/index.json) | JSON | Full analytics snapshot |
+| [`data/ioc/serial_registrants.json`](data/ioc/serial_registrants.json) | JSON | Repeat registrants + their domains |
+| [`data/ioc/shared_ips.json`](data/ioc/shared_ips.json) | JSON | Bulletproof hosting clusters |
+| [`data/ioc/brand_domains.json`](data/ioc/brand_domains.json) | JSON | Domains by targeted brand |
+| [`data/ioc/stix-bundle.json`](data/ioc/stix-bundle.json) | STIX 2.1 | MISP/OpenCTI ready bundle |
+| [`data/ioc/serial_emails.txt`](data/ioc/serial_emails.txt) | TXT | grep-friendly: `email⇥count` |
+| [`data/ioc/shared_ips.txt`](data/ioc/shared_ips.txt) | TXT | grep-friendly: `ip⇥count⇥country` |
+
+> 📊 Live web dashboard: see Pages link at top · Updated daily 06:00 UTC
+
 <!-- LIVE_STATS:END -->
 
 # Trustname.com / Fewmoretaps OÜ
