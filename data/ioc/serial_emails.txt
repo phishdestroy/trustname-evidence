@@ -1,0 +1,5 @@
+max@unternehmen.de	23
+support@mxl.zendesk.com	18
+support@stake.com	12
+helpdesk@wingstop.com	7
+seu@email.com	5
