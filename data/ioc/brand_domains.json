@@ -384,20 +384,6 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "swap": [
-      "any-swap.net",
-      "blaze-swap.net",
-      "blaze-swap.org",
-      "blazeswaps.net",
-      "easyswape.org",
-      "getswapforge.com",
-      "nzddswap.com",
-      "sipmieswap.com",
-      "swap-foundation.com",
-      "swapx-app.com",
-      "ubeswap.net",
-      "zenexswap.com"
-    ],
     "account": [
       "accountcherled.com",
       "accountsassociated.com",
@@ -412,6 +398,20 @@
       "rnbaccountants.com",
       "thebulkaccounts.com"
     ],
+    "swap": [
+      "any-swap.net",
+      "blaze-swap.net",
+      "blaze-swap.org",
+      "blazeswaps.net",
+      "easyswape.org",
+      "getswapforge.com",
+      "nzddswap.com",
+      "sipmieswap.com",
+      "swap-foundation.com",
+      "swapx-app.com",
+      "ubeswap.net",
+      "zenexswap.com"
+    ],
     "kraken": [
       "kraken-darknet-market.org",
       "kraken-link-onion.org",
@@ -425,19 +425,6 @@
       "krakensix.com",
       "razer-kraken-onion.com"
     ],
-    "claim": [
-      "claim-benefits-now-mycra.com",
-      "claim-cgeb-ab.help",
-      "claim-yom.com",
-      "claimflarexrp.com",
-      "claimscotiabank.com",
-      "claimxrpflare.com",
-      "essentialsclaim-cra6.com",
-      "infocgeb-claimnow1.com",
-      "latitude-claims.com",
-      "profileclaim-acc30.com",
-      "profileclaim-conf26.com"
-    ],
     "farm": [
       "bergafarmsequipment.com",
       "bored-farm.com",
@@ -450,6 +437,19 @@
       "royfrittsfarmequipments.com",
       "thcafarmersmarket.com",
       "zurifarm.com"
+    ],
+    "claim": [
+      "claim-benefits-now-mycra.com",
+      "claim-cgeb-ab.help",
+      "claim-yom.com",
+      "claimflarexrp.com",
+      "claimscotiabank.com",
+      "claimxrpflare.com",
+      "essentialsclaim-cra6.com",
+      "infocgeb-claimnow1.com",
+      "latitude-claims.com",
+      "profileclaim-acc30.com",
+      "profileclaim-conf26.com"
     ],
     "update": [
       "1bmonlinesupportupdate.com",
