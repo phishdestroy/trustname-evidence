@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-21",
+  "generated": "2026-06-22",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1111,
+      "count": 1123,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1021,
+      "count": 1045,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -183,12 +183,14 @@
         "alvynnn.com",
         "amex-security.app",
         "amgbahis1165.com",
+        "amqbahis244.com",
         "amunra-casino-fr1.com",
         "anonfilesnew.com",
         "anonheaven.com",
         "aoshearman.attorney",
         "apexcapital-ai.com",
         "api-chromium.com",
+        "app-fylelnq.com",
         "app-mileopayments.com",
         "app-sparkdex.org",
         "app-spectrafinance.com",
@@ -210,10 +212,8 @@
         "az-olymp-casino.com",
         "baazirank.com",
         "bahiscasino-sayfa.icu",
-        "bahiscasino1106.com",
-        "bahiscasino1107.com",
-        "bahiscasino1109.com",
-        "bahiscasino1110.com"
+        "bahiscasino0688.com",
+        "bahiscasino1106.com"
       ]
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 76,
+      "count": 77,
       "country": "",
       "domains": [
         "betgarantiresmiadres.com",
@@ -341,6 +341,7 @@
         "bettiltturkiyeadres.com",
         "cashwinguncelgiris.com",
         "cashwinresmiadres.com",
+        "girisadres.xyz",
         "guncelyeniadresgiris.com",
         "guncelyenigirisadres.com",
         "jojobetguvenligirisadres.com",
@@ -537,7 +538,7 @@
     },
     {
       "ip": "216.150.1.1",
-      "count": 50,
+      "count": 51,
       "country": "CA",
       "domains": [
         "busdescontoshoje.com",
@@ -565,6 +566,7 @@
         "clikcbus.com",
         "clikckbus.com",
         "clubepassagensdescontos.com",
+        "emmacoichoes.com",
         "emmacolcheos.com",
         "isdimn.com",
         "isdinm.com",
@@ -835,7 +837,7 @@
     },
     {
       "ip": "23.227.38.65",
-      "count": 15,
+      "count": 16,
       "country": "CA",
       "domains": [
         "brainifymindfuel.com",
@@ -847,6 +849,7 @@
         "krewsew.com",
         "nbaparisgame.com",
         "sorarides.com",
+        "sparmagasinet.com",
         "spelbutikerna.com",
         "tricotita.com",
         "ubergenz.com",
@@ -878,6 +881,26 @@
       ]
     },
     {
+      "ip": "130.12.180.244",
+      "count": 13,
+      "country": "",
+      "domains": [
+        "bets10tradresgiris.com",
+        "bettiltturkiyegiris.com",
+        "casibomtrgirisadres.com",
+        "grandpashabetguvenligiris.com",
+        "kingroyalguncelturkiyegiris.com",
+        "meritbetgiris.xyz",
+        "meritbetresmiguncelturkiyegiris.com",
+        "meritbetturkiyeguncelresmiadres.com",
+        "meritbetvipadres.com",
+        "meritbetyeniturkiyegiris.com",
+        "trmeritbetturkiye.com",
+        "trmeritbetyeni.com",
+        "xyz-adresgiris.com"
+      ]
+    },
+    {
       "ip": "186.2.163.247",
       "count": 13,
       "country": "NL",
@@ -898,33 +921,15 @@
       ]
     },
     {
-      "ip": "130.12.180.244",
-      "count": 12,
-      "country": "",
-      "domains": [
-        "bets10tradresgiris.com",
-        "bettiltturkiyegiris.com",
-        "casibomtrgirisadres.com",
-        "grandpashabetguvenligiris.com",
-        "kingroyalguncelturkiyegiris.com",
-        "meritbetresmiguncelturkiyegiris.com",
-        "meritbetturkiyeguncelresmiadres.com",
-        "meritbetvipadres.com",
-        "meritbetyeniturkiyegiris.com",
-        "trmeritbetturkiye.com",
-        "trmeritbetyeni.com",
-        "xyz-adresgiris.com"
-      ]
-    },
-    {
       "ip": "178.238.236.172",
-      "count": 11,
+      "count": 12,
       "country": "DE",
       "domains": [
         "corbysandwitches.com",
         "derlwynltd.com",
         "hiscocklimited.com",
         "huysmanagementltd.com",
+        "onsitesafetysolutionsltd.com",
         "owennurseriesltd.com",
         "perdonorganics.com",
         "remedybarsltd.com",
@@ -936,13 +941,14 @@
     },
     {
       "ip": "185.158.133.1",
-      "count": 10,
+      "count": 11,
       "country": "DE",
       "domains": [
         "aucryptosummit.com",
         "bangkoklovehotels.com",
         "chipextras.com",
         "hkcryptosummit.com",
+        "incryptosummit.com",
         "innercirclelabs.net",
         "nootropicsadvice.app",
         "nootropicsuk.org",
@@ -1262,6 +1268,32 @@
       ]
     },
     {
+      "ip": "104.21.55.113",
+      "count": 6,
+      "country": "",
+      "domains": [
+        "favorisen836.com",
+        "favorisen837.com",
+        "favorisen840.com",
+        "favorisen842.com",
+        "favorisen844.com",
+        "favorisen845.com"
+      ]
+    },
+    {
+      "ip": "193.30.241.15",
+      "count": 6,
+      "country": "GB",
+      "domains": [
+        "guncelresmigirisadres.com",
+        "haftasonu.xyz",
+        "meritbetguncelturkiyeresmiadresgiris.com",
+        "meritbetguvenliguncelresmiadres.com",
+        "meritbetguvenliguncelresmigiris.com",
+        "meritbetresmiturkiyeadresgiris.com"
+      ]
+    },
+    {
       "ip": "216.24.57.1",
       "count": 5,
       "country": "US",
@@ -1322,18 +1354,6 @@
       ]
     },
     {
-      "ip": "193.30.241.15",
-      "count": 5,
-      "country": "GB",
-      "domains": [
-        "guncelresmigirisadres.com",
-        "meritbetguncelturkiyeresmiadresgiris.com",
-        "meritbetguvenliguncelresmiadres.com",
-        "meritbetguvenliguncelresmigiris.com",
-        "meritbetresmiturkiyeadresgiris.com"
-      ]
-    },
-    {
       "ip": "67.223.119.175",
       "count": 5,
       "country": "US",
@@ -1343,17 +1363,6 @@
         "hetnieuws.org",
         "indexnovosti.org",
         "lemondeactualites.org"
-      ]
-    },
-    {
-      "ip": "64.89.161.6",
-      "count": 4,
-      "country": "",
-      "domains": [
-        "bitpandacases.com",
-        "bitpandawebwallet.com",
-        "keepkey.help",
-        "keepkeycases.com"
       ]
     }
   ]
