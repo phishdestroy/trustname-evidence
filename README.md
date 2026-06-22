@@ -576,22 +576,93 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 
 ## 🇷🇺 Russian Connection & Complicity Record
 
-### Russian Presence
+### The Operators — Belarusian, Not Estonian
 
-**Fewmoretaps ÖÜ is registered in Estonia** â a jurisdiction frequently used by Russian nationals to access EU legitimacy and ICANN accreditation while operating outside effective regulatory reach. Corporate forensics from the [Phase I investigation](https://phishdestroy.io/trustname-bulletproof-exposed/) document Russian-connected operators behind the Fewmoretaps entity.
+**Fewmoretaps ÖÜ** is registered in Estonia but operated entirely by Belarusian nationals with zero legitimate business activity:
 
-Trustname functions as a **purpose-built bulletproof registrar** for Russian-speaking fraud networks: 86% of alive content is confirmed malicious, serial registrants cluster around a small set of Russian-language phishing operators, and domain survival time post-abuse-report is operationally indistinguishable from zero enforcement.
+**Original Founder (2021–2023):**
+| Field | Detail |
+|--|--|
+| Name | **Vitali Tsyvinski** |
+| Nationality | Belarus |
+| Personal ID | 39403090187 |
+| Role | Sole board member & shareholder |
+| Signed | 2022 annual report on 13.01.2023 |
+
+**Current Owner / CEO (since 23.05.2023):**
+| Field | Detail |
+|--|--|
+| Name | **Kiryl Nestsiarovich** ("Kir N.") |
+| DOB | 09.09.1993 |
+| Nationality | Belarus |
+| Phone | +375 29 2964411 (MTS mobile, Belarusian carrier) |
+| Shareholding | 100% |
+| Status | Listed as CEO on trustname.com/about |
+
+Estonia is used exclusively as a jurisdiction of convenience. The company has **one employee** (Nestsiarovich himself), €120 declared revenue in 2024 against **€175,310 in long-term liabilities**, and is currently **under liquidation**.
+
+### Financial Reality vs. Marketing Claims
+
+**What Trustname.com claims:**
+- "#1 fastest growing independent registrar in 2025"
+- "Trusted by millions"
+- Fortune 500 clients: McDonald's, Vodafone, Adidas, Yahoo, BCG
+- "Team of over 35 people"
+- Offices in London, Beverly Hills, Melbourne
+- "Since 1997"
+
+**What Estonian tax filings show:**
+- €120 total revenue (2024)
+- 1 employee (Nestsiarovich)
+- Incorporated 2021 — not 1997
+- Company under liquidation proceedings
+- Virtual office address only
+- 30 fake website testimonials — only 11 unique first names ("Jack" ×5, "Lily" ×6)
+
+The gap between the marketing front and the corporate reality is not a discrepancy — it is the business model.
+
+### Crypto Wallets (Accept Monero — Untraceable)
+
+| Asset | Address |
+|--|--|
+| ETH | `0xdee6582dc53fa56180311393018121c6f1e8bd7c` |
+| LTC | `MEREvHtzqAUTJ1XvEevmci8UqMnDvfe2ri` |
+| ZEC | `t1d19KevpcXpesr9XA9UUyMW9XGYVDxkK9S` |
+| **XMR** | `8B5N29BocrTjkRCeGCARnkhKgBeHBhg4oH7ay4RfXfnL7RqBdyiuL4k6iN4GVUVxt1EQJvZRqLg8n4qgCNWmYHQQDZmfytM` |
+
+Accepting **Monero (XMR)** — a cryptocurrency specifically designed to be untraceable — while declaring €120 annual revenue and holding an ICANN accreditation is not a compliance edge case. It is a structural violation of Estonian AML law and VASP licensing requirements.
+
+### Russian-Language Fraud Infrastructure
+
+Active scam casino domains registered through IANA #4318 in April 2026, all shielded by registrar-owned privacy proxies:
+
+| Domain | Registered | Notes |
+|--|--|--|
+| noawin.com | 04-12-2026 | Privacy: Perfect Privacy LLC (St Kitts & Nevis) |
+| henofex.com | 04-09-2026 | "Elon Musk" Casino scheme |
+| jopexplay.com | 04-10-2026 | Cloudflare-blocked |
+| bezowin159.pro | 04-13-2026 | Privacy: WHOIS Privacy Protection LLC |
+| noswin152.pro | 04-08-2026 | — |
+| bazowin781.pro | 04-08-2026 | — |
+
+**Shared backend:** `gambler-partners.is` — Russian-language admin panel titled **"Gambler | Главная"**
+
+Trustname operates **two registrar-owned privacy proxy services** to shield its fraud customers:
+- **harakiri.org** — Perfect Privacy LLC, Saint Kitts & Nevis — accepts BTC, LTC, XMR, ZEC
+- **whoispps.com** — WHOIS Privacy Protection LLC, Orlando FL — "Physical mail is discarded"
 
 ### Documented Obstruction
 
 - Domains with full evidence packages survive abuse reports **without suspension**.
-- Registration revenue flows from operators engaged in wire fraud, credential theft, carding, and cryptocurrency theft â a **knowing position in the criminal money flow**.
-- Estonian jurisdiction chosen precisely because local authorities lack operational bandwidth for individual domain abuse cases.
-- As an EU-registered entity, Fewmoretaps ÖÜ is subject to **EU AML Directive** â receiving proceeds from fraud operators constitutes a reportable transaction.
-- Criminal liability under Estonian law **does not require prior ICANN action** as a prerequisite.
-- Direct abuse reports backed by evidence packages: **ignored or met with form-letter non-responses.**
+- Registration revenue and crypto payments flow from operators running wire fraud, credential theft, and casino scams — **knowing position in criminal money flow**.
+- Company is under liquidation, yet ICANN accreditation remains active — enforcement lag creates an operational window for ongoing abuse.
+- As an EU-registered entity subject to **Estonian AML/CFT law** and the EU's VASP framework, Fewmoretaps is operating a de facto unlicensed crypto exchange.
+- Direct abuse reports with evidence: **ignored or met with form-letter non-responses.**
+- Criminal liability under Estonian law does not require prior ICANN action.
 
-> *"An ICANN accreditation number is not a licence to profit from wire fraud. Estonia knows where Fewmoretaps is registered."*
+> *"€120 revenue. €175,310 liabilities. Monero accepted. One employee. ICANN-accredited. Under liquidation. This is not a registrar — it is a fraud infrastructure service with a compliance veneer."*
+
+**Full Phase I investigation:** [phishdestroy.io/trustname-bulletproof-exposed](https://phishdestroy.io/trustname-bulletproof-exposed/)
 
 
 ## 🔗 Related Investigations
