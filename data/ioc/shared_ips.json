@@ -4,7 +4,7 @@
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1123,
+      "count": 1144,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -64,6 +64,7 @@
         "84918-coinspot.com",
         "869oslobet.com",
         "873jetbahis.com",
+        "874kareasbet.com",
         "875jetbahis.com",
         "882palacebet.com",
         "886favorisen.com",
@@ -105,13 +106,12 @@
         "app996-aus.com",
         "appiebees.com",
         "applyaeperkspromo.com",
-        "appmeliopanel.com",
-        "aquapark-canarias.com"
+        "appmeliopanel.com"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1045,
+      "count": 1064,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -212,8 +212,8 @@
         "az-olymp-casino.com",
         "baazirank.com",
         "bahiscasino-sayfa.icu",
-        "bahiscasino0688.com",
-        "bahiscasino1106.com"
+        "bahiscasino-vipgiris.icu",
+        "bahiscasino0688.com"
       ]
     },
     {
@@ -596,9 +596,10 @@
     },
     {
       "ip": "130.12.180.238",
-      "count": 31,
+      "count": 32,
       "country": "",
       "domains": [
+        "adresgiris.xyz",
         "bets10trresmiadres.com",
         "bets10trresmigiris.com",
         "bets10vipgiris.com",
@@ -706,7 +707,7 @@
     },
     {
       "ip": "130.12.180.242",
-      "count": 24,
+      "count": 25,
       "country": "",
       "domains": [
         "bets10-trmobilgiris.com",
@@ -730,6 +731,7 @@
         "meritking-trgiris.icu",
         "trmeritbetadres.com",
         "trmeritbetgiris.com",
+        "turkiyegiris.xyz",
         "xyz-giris.com",
         "xyz-guncelgiris.com",
         "xyz-turkiyegiris.com"
@@ -860,7 +862,7 @@
     },
     {
       "ip": "130.12.180.241",
-      "count": 15,
+      "count": 16,
       "country": "",
       "domains": [
         "bets10resmigunceladres.com",
@@ -874,6 +876,7 @@
         "meritbetresmiguncelyenigirisadres.com",
         "meritbetresmiyeniadresgiris.com",
         "meritbetresmiyenigirisadres.com",
+        "turkiyeadres.xyz",
         "xyz-resmi.com",
         "xyz-resmigiris.com",
         "xyz-turkiye.com",
@@ -921,6 +924,25 @@
       ]
     },
     {
+      "ip": "185.158.133.1",
+      "count": 12,
+      "country": "DE",
+      "domains": [
+        "aucryptosummit.com",
+        "bangkoklovehotels.com",
+        "chipextras.com",
+        "hkcryptosummit.com",
+        "incryptosummit.com",
+        "innercirclelabs.net",
+        "nootropicsadvice.app",
+        "nootropicsuk.org",
+        "nzcryptosummit.com",
+        "nzethereumsummit.com",
+        "sgcryptosummit.com",
+        "xdiamond.xyz"
+      ]
+    },
+    {
       "ip": "178.238.236.172",
       "count": 12,
       "country": "DE",
@@ -940,21 +962,21 @@
       ]
     },
     {
-      "ip": "185.158.133.1",
+      "ip": "66.198.225.39",
       "count": 11,
-      "country": "DE",
+      "country": "US",
       "domains": [
-        "aucryptosummit.com",
-        "bangkoklovehotels.com",
-        "chipextras.com",
-        "hkcryptosummit.com",
-        "incryptosummit.com",
-        "innercirclelabs.net",
-        "nootropicsadvice.app",
-        "nootropicsuk.org",
-        "nzcryptosummit.com",
-        "sgcryptosummit.com",
-        "xdiamond.xyz"
+        "beastgamb.com",
+        "golden-era.app",
+        "golden-era.bond",
+        "golden-era777.com",
+        "kesowin.com",
+        "olimpaura.cfd",
+        "olimpaura.icu",
+        "planet-play.net",
+        "pragmatic-bets.com",
+        "rakespin.com",
+        "wasowin.com"
       ]
     },
     {
@@ -987,22 +1009,6 @@
         "referral-link-opdl2linkd31.org",
         "referral-link-owi3kd4link30.org",
         "stop-lohotronshiki.com"
-      ]
-    },
-    {
-      "ip": "66.198.225.39",
-      "count": 9,
-      "country": "US",
-      "domains": [
-        "beastgamb.com",
-        "golden-era.app",
-        "golden-era.bond",
-        "golden-era777.com",
-        "kesowin.com",
-        "olimpaura.cfd",
-        "olimpaura.icu",
-        "planet-play.net",
-        "wasowin.com"
       ]
     },
     {
@@ -1354,15 +1360,15 @@
       ]
     },
     {
-      "ip": "67.223.119.175",
+      "ip": "216.198.79.65",
       "count": 5,
       "country": "US",
       "domains": [
-        "corrierenotize.org",
-        "elmundonoticias.org",
-        "hetnieuws.org",
-        "indexnovosti.org",
-        "lemondeactualites.org"
+        "aliancadobem.net",
+        "creditocolumbia.com",
+        "olexweb.com",
+        "trucklotamerica.com",
+        "tukyy.com"
       ]
     }
   ]

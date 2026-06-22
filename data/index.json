@@ -1712,8 +1712,8 @@
     },
     {
       "date": "2025-12-24",
-      "count": 8,
-      "revenue": 72.92,
+      "count": 9,
+      "revenue": 82.91,
       "path": "data/new/2025/12/2025-12-24.txt"
     },
     {
@@ -2024,8 +2024,8 @@
     },
     {
       "date": "2026-02-19",
-      "count": 13,
-      "revenue": 110.87,
+      "count": 14,
+      "revenue": 119.86,
       "path": "data/new/2026/02/2026-02-19.txt"
     },
     {
@@ -2450,8 +2450,8 @@
     },
     {
       "date": "2026-05-02",
-      "count": 70,
-      "revenue": 622.82,
+      "count": 71,
+      "revenue": 631.81,
       "path": "data/new/2026/05/2026-05-02.txt"
     },
     {
@@ -2738,75 +2738,81 @@
     },
     {
       "date": "2026-06-19",
-      "count": 18,
-      "revenue": 123.32,
+      "count": 98,
+      "revenue": 830.02,
       "path": "data/new/2026/06/2026-06-19.txt"
+    },
+    {
+      "date": "2026-06-20",
+      "count": 34,
+      "revenue": 125.66,
+      "path": "data/new/2026/06/2026-06-20.txt"
     }
   ],
-  "total_new_all_time": 9226,
-  "total_revenue_estimate": 77758.54,
-  "avg_registration_days": 420,
+  "total_new_all_time": 9343,
+  "total_revenue_estimate": 78618.87,
+  "avg_registration_days": 419,
   "ip_countries": {
-    "US": 490,
+    "US": 493,
     "RU": 152,
-    "GB": 128,
-    "DE": 115,
-    "NL": 96,
+    "GB": 130,
+    "DE": 117,
+    "NL": 97,
     "CA": 86,
     "BZ": 72,
-    "UA": 60,
-    "BG": 55,
-    "IR": 32
+    "UA": 63,
+    "BG": 57,
+    "IR": 33
   },
   "top_shared_ips": {
-    "188.114.96.3": 1123,
-    "188.114.97.3": 1045,
+    "188.114.96.3": 1144,
+    "188.114.97.3": 1064,
     "131.222.213.13": 165,
     "130.12.180.245": 77,
     "190.115.31.173": 60,
     "45.10.243.69": 55,
     "216.150.1.1": 51,
-    "130.12.180.238": 31,
+    "130.12.180.238": 32,
     "130.12.180.239": 30,
     "45.10.243.15": 28,
-    "130.12.180.242": 24,
+    "130.12.180.242": 25,
     "131.222.213.25": 19,
     "89.117.51.233": 18,
     "34.111.179.208": 18,
     "130.12.180.243": 17,
     "23.227.38.65": 16,
-    "130.12.180.241": 15,
+    "130.12.180.241": 16,
     "130.12.180.244": 13,
     "186.2.163.247": 13,
-    "178.238.236.172": 12
+    "185.158.133.1": 12
   },
-  "deployed_count": 6076,
-  "no_ip_count": 3150,
-  "deployment_rate": 65.9,
+  "deployed_count": 6176,
+  "no_ip_count": 3167,
+  "deployment_rate": 66.1,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 8875,
+    "eq_1yr": 8992,
     "yr_2": 141,
     "yr_3plus": 210
   },
   "pct_gt_1yr": 3.8,
-  "pct_gt_2yr": 2.3,
+  "pct_gt_2yr": 2.2,
   "tld_stats": {
     "com": {
-      "count": 7305,
-      "avg_days": 419
+      "count": 7387,
+      "avg_days": 418
     },
     "icu": {
-      "count": 572,
+      "count": 594,
       "avg_days": 365
     },
     "net": {
-      "count": 425,
-      "avg_days": 436
+      "count": 428,
+      "avg_days": 435
     },
     "org": {
-      "count": 361,
-      "avg_days": 512
+      "count": 366,
+      "avg_days": 510
     },
     "app": {
       "count": 80,
@@ -2828,13 +2834,13 @@
       "count": 34,
       "avg_days": 483
     },
+    "xyz": {
+      "count": 33,
+      "avg_days": 398
+    },
     "cfd": {
       "count": 33,
       "avg_days": 365
-    },
-    "xyz": {
-      "count": 32,
-      "avg_days": 399
     },
     "sbs": {
       "count": 27,
@@ -2849,7 +2855,7 @@
       "avg_days": 365
     },
     "bet": {
-      "count": 10,
+      "count": 12,
       "avg_days": 365
     },
     "dev": {
@@ -2875,28 +2881,28 @@
   },
   "revenue_by_tld": {
     "com": {
-      "count": 7305,
+      "count": 7387,
       "price": 8.99,
-      "revenue": 65671.95,
+      "revenue": 66409.13,
       "pct": 84.5
     },
     "icu": {
-      "count": 572,
+      "count": 594,
       "price": 0.99,
-      "revenue": 566.28,
+      "revenue": 588.06,
       "pct": 0.7
     },
     "net": {
-      "count": 425,
+      "count": 428,
       "price": 9.99,
-      "revenue": 4245.75,
-      "pct": 5.5
+      "revenue": 4275.72,
+      "pct": 5.4
     },
     "org": {
-      "count": 361,
+      "count": 366,
       "price": 9.99,
-      "revenue": 3606.39,
-      "pct": 4.6
+      "revenue": 3656.34,
+      "pct": 4.7
     },
     "app": {
       "count": 80,
@@ -2908,7 +2914,7 @@
       "count": 54,
       "price": 7.99,
       "revenue": 431.46,
-      "pct": 0.6
+      "pct": 0.5
     },
     "cam": {
       "count": 50,
@@ -2928,17 +2934,17 @@
       "revenue": 135.66,
       "pct": 0.2
     },
+    "xyz": {
+      "count": 33,
+      "price": 1.49,
+      "revenue": 49.17,
+      "pct": 0.1
+    },
     "cfd": {
       "count": 33,
       "price": 4.99,
       "revenue": 164.67,
       "pct": 0.2
-    },
-    "xyz": {
-      "count": 32,
-      "price": 1.49,
-      "revenue": 47.68,
-      "pct": 0.1
     },
     "sbs": {
       "count": 27,
@@ -2959,9 +2965,9 @@
       "pct": 0.1
     },
     "bet": {
-      "count": 10,
+      "count": 12,
       "price": 4.99,
-      "revenue": 49.9,
+      "revenue": 59.88,
       "pct": 0.1
     },
     "dev": {
@@ -2997,47 +3003,47 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 641,
+    "within_week": 755,
     "within_month": 2680,
-    "older": 5905
+    "older": 5908
   },
-  "avg_catch_age_days": 819,
-  "fresh_pct": 6.9,
+  "avg_catch_age_days": 817,
+  "fresh_pct": 8.1,
   "burst_days": [
     {
       "date": "2026-06-15",
       "count": 232,
-      "x_avg": 11.5
+      "x_avg": 11.4
     },
     {
       "date": "2026-06-08",
       "count": 202,
-      "x_avg": 10.0
+      "x_avg": 9.9
     },
     {
       "date": "2026-06-17",
       "count": 202,
-      "x_avg": 10.0
+      "x_avg": 9.9
     },
     {
       "date": "2026-06-10",
       "count": 191,
-      "x_avg": 9.5
+      "x_avg": 9.4
     },
     {
       "date": "2026-06-04",
       "count": 169,
-      "x_avg": 8.4
+      "x_avg": 8.3
     },
     {
       "date": "2026-06-11",
       "count": 169,
-      "x_avg": 8.4
+      "x_avg": 8.3
     },
     {
       "date": "2026-06-05",
       "count": 158,
-      "x_avg": 7.8
+      "x_avg": 7.7
     },
     {
       "date": "2026-05-28",
@@ -3073,9 +3079,9 @@
     "hello@gohighway.com": 2,
     "hello@highway.com": 2,
     "contato@colchoesemma.com.br": 2,
+    "streamedpk@gmail.com": 2,
     "john@yourcompany.com": 2,
-    "donotreply@dairyqueen.com": 2,
-    "genericosomega@protonmail.com": 2
+    "donotreply@dairyqueen.com": 2
   },
   "top_registrant_phones": {
     "9-18-15-12-9": 29,
@@ -3091,30 +3097,30 @@
   },
   "serial_email_count": 3,
   "brand_heatmap": {
-    "login": 41,
+    "login": 43,
     "binance": 35,
     "ledger": 31,
-    "trust": 29,
     "secure": 29,
+    "trust": 29,
     "support": 28,
     "official": 27,
     "crypto": 23,
     "vault": 22,
     "coinbase": 21,
-    "connect": 20,
-    "wallet": 16,
+    "connect": 21,
+    "wallet": 17,
     "verify": 16,
     "bridge": 13,
     "swap": 12,
     "account": 12,
-    "claim": 11,
+    "farm": 11,
     "kraken": 11,
-    "farm": 10,
+    "claim": 11,
     "update": 10
   },
   "unranked_pct": 99.8,
-  "ranked_count": 15,
-  "correlation_count": 3410,
-  "correlation_pct": 37.0,
-  "last_updated": "2026-06-19"
+  "ranked_count": 16,
+  "correlation_count": 3413,
+  "correlation_pct": 36.5,
+  "last_updated": "2026-06-20"
 }
