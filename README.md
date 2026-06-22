@@ -561,6 +561,39 @@ If Trustname disputes any finding: submit documented evidence via [phishdestroy.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
+## 🕸️ Network of Complicit Registrars
+
+This investigation is part of a series documenting ICANN-accredited registrars that systematically obstruct anti-phishing enforcement or directly profit from fraud infrastructure.
+
+| # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
+|--|--|--|--|--|--|--|
+| 1 | **NICENIC INTERNATIONAL GROUP** | #3765 | 349,376 | **18,927 (50% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
+| 2 | **Trustname.com / Fewmoretaps ÖÜ** *(this)* | #4318 | 9,343 | **1,114 HIGH (86% alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
+| 3 | **NameSilo, LLC** | #1479 | 5,251,494 | **183,419** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
+
+---
+
+## 🇷🇺 Russian Connection & Complicity Record
+
+### Russian Presence
+
+**Fewmoretaps ÖÜ is registered in Estonia** â a jurisdiction frequently used by Russian nationals to access EU legitimacy and ICANN accreditation while operating outside effective regulatory reach. Corporate forensics from the [Phase I investigation](https://phishdestroy.io/trustname-bulletproof-exposed/) document Russian-connected operators behind the Fewmoretaps entity.
+
+Trustname functions as a **purpose-built bulletproof registrar** for Russian-speaking fraud networks: 86% of alive content is confirmed malicious, serial registrants cluster around a small set of Russian-language phishing operators, and domain survival time post-abuse-report is operationally indistinguishable from zero enforcement.
+
+### Documented Obstruction
+
+- Domains with full evidence packages survive abuse reports **without suspension**.
+- Registration revenue flows from operators engaged in wire fraud, credential theft, carding, and cryptocurrency theft â a **knowing position in the criminal money flow**.
+- Estonian jurisdiction chosen precisely because local authorities lack operational bandwidth for individual domain abuse cases.
+- As an EU-registered entity, Fewmoretaps ÖÜ is subject to **EU AML Directive** â receiving proceeds from fraud operators constitutes a reportable transaction.
+- Criminal liability under Estonian law **does not require prior ICANN action** as a prerequisite.
+- Direct abuse reports backed by evidence packages: **ignored or met with form-letter non-responses.**
+
+> *"An ICANN accreditation number is not a licence to profit from wire fraud. Estonia knows where Fewmoretaps is registered."*
+
+
 ## 🔗 Related Investigations
 
 [![NameSilo Investigation](https://img.shields.io/badge/Related-namesilo--evidence_(5.2M_domains)-6ea8d7?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1018)](https://github.com/phishdestroy/namesilo-evidence)
