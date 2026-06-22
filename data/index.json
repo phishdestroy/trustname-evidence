@@ -3111,11 +3111,11 @@
     "wallet": 17,
     "verify": 16,
     "bridge": 13,
-    "swap": 12,
     "account": 12,
+    "swap": 12,
+    "claim": 11,
     "farm": 11,
     "kraken": 11,
-    "claim": 11,
     "update": 10
   },
   "unranked_pct": 99.8,
