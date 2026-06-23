@@ -3,6 +3,7 @@
   "keywords": {
     "login": [
       "58293-login-coinbase.com",
+      "bets10-locklogin.com",
       "e-wallet-casino-login.com",
       "emu-casino-login-au.com",
       "emu-casino-login.com",
@@ -286,29 +287,6 @@
       "vaultouk.com",
       "web3guardvault.com"
     ],
-    "coinbase": [
-      "1017-coinbase.com",
-      "135874coinbase.com",
-      "3149-coinbase.com",
-      "3195-coinbase.com",
-      "3415-coinbase.com",
-      "342109coinbase.com",
-      "3758-coinbase.com",
-      "429532-coinbase.com",
-      "429535-coinbase.com",
-      "458295-coinbase.com",
-      "482942-log-coinbase.com",
-      "5299324-coinbase.com",
-      "58293-login-coinbase.com",
-      "902346coinbase.com",
-      "auth-user-coinbase.com",
-      "case58728-coinbase.com",
-      "case83924-coinbase.com",
-      "coinbasestakes.com",
-      "coinbaseyield.com",
-      "login52884-coinbase.com",
-      "ui-coinbase.com"
-    ],
     "connect": [
       "auth-connector.com",
       "connect-if-y.com",
@@ -331,6 +309,29 @@
       "transfer-connection.com",
       "transfersconnection.com",
       "transfersconnections.com"
+    ],
+    "coinbase": [
+      "1017-coinbase.com",
+      "135874coinbase.com",
+      "3149-coinbase.com",
+      "3195-coinbase.com",
+      "3415-coinbase.com",
+      "342109coinbase.com",
+      "3758-coinbase.com",
+      "429532-coinbase.com",
+      "429535-coinbase.com",
+      "458295-coinbase.com",
+      "482942-log-coinbase.com",
+      "5299324-coinbase.com",
+      "58293-login-coinbase.com",
+      "902346coinbase.com",
+      "auth-user-coinbase.com",
+      "case58728-coinbase.com",
+      "case83924-coinbase.com",
+      "coinbasestakes.com",
+      "coinbaseyield.com",
+      "login52884-coinbase.com",
+      "ui-coinbase.com"
     ],
     "wallet": [
       "basecoldwallet.com",
@@ -369,6 +370,21 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
+    "swap": [
+      "any-swap.net",
+      "blaze-swap.net",
+      "blaze-swap.org",
+      "blazeswaps.net",
+      "cowswaps.net",
+      "easyswape.org",
+      "getswapforge.com",
+      "nzddswap.com",
+      "sipmieswap.com",
+      "swap-foundation.com",
+      "swapx-app.com",
+      "ubeswap.net",
+      "zenexswap.com"
+    ],
     "bridge": [
       "avalanchebridge.org",
       "binance-bridge.net",
@@ -384,26 +400,13 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "swap": [
-      "any-swap.net",
-      "blaze-swap.net",
-      "blaze-swap.org",
-      "blazeswaps.net",
-      "easyswape.org",
-      "getswapforge.com",
-      "nzddswap.com",
-      "sipmieswap.com",
-      "swap-foundation.com",
-      "swapx-app.com",
-      "ubeswap.net",
-      "zenexswap.com"
-    ],
     "account": [
       "accountcherled.com",
       "accountsassociated.com",
       "accountshemig.com",
       "accountshidden.com",
       "accountsinformationses.com",
+      "accountsprotectionfdic.com",
       "aviaanaccounting.net",
       "faceit-verify-account.com",
       "highriskmerchantaccounter.com",
@@ -411,19 +414,6 @@
       "myaccountdpus.com",
       "rnbaccountants.com",
       "thebulkaccounts.com"
-    ],
-    "farm": [
-      "bergafarmsequipment.com",
-      "bored-farm.com",
-      "brackettfarmsupply.com",
-      "catfarmandequipment.com",
-      "enterfarmerstates.com",
-      "farmaciadellesostanze.com",
-      "farmasi-bk.com",
-      "farmerfx.net",
-      "royfrittsfarmequipments.com",
-      "thcafarmersmarket.com",
-      "zurifarm.com"
     ],
     "kraken": [
       "kraken-darknet-market.org",
@@ -450,6 +440,19 @@
       "latitude-claims.com",
       "profileclaim-acc30.com",
       "profileclaim-conf26.com"
+    ],
+    "farm": [
+      "bergafarmsequipment.com",
+      "bored-farm.com",
+      "brackettfarmsupply.com",
+      "catfarmandequipment.com",
+      "enterfarmerstates.com",
+      "farmaciadellesostanze.com",
+      "farmasi-bk.com",
+      "farmerfx.net",
+      "royfrittsfarmequipments.com",
+      "thcafarmersmarket.com",
+      "zurifarm.com"
     ],
     "update": [
       "1bmonlinesupportupdate.com",

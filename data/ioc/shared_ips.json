@@ -4,7 +4,7 @@
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1144,
+      "count": 1155,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1064,
+      "count": 1086,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -153,6 +153,7 @@
         "401ibizabet.com",
         "405ibizabet.com",
         "4187bets10.com",
+        "420netbahis.cam",
         "481955-ledger.com",
         "48294-ledger.com",
         "482942-log-coinbase.com",
@@ -165,6 +166,7 @@
         "582953-coinspot.com",
         "595betzula.com",
         "882betcio.com",
+        "887favorisen.com",
         "888starzuk.com",
         "932884-ledger.com",
         "956matbett.com",
@@ -196,12 +198,14 @@
         "app-spectrafinance.com",
         "app-yom.net",
         "aquarabiatickets.com",
+        "aresbet-giris.cam",
         "argent-reel-casino1.com",
         "argentinaplinko.com",
         "argonex.net",
         "asiaflyandtravel.com",
         "atlasbet-megaoyun.icu",
         "aura-finance.org",
+        "auroraspel.com",
         "aus-casino-chip-no-deposit.com",
         "ausvip-au.com",
         "auth-connector.com",
@@ -209,11 +213,7 @@
         "autorsecure.com",
         "avindatapaper.com",
         "avvoalert.com",
-        "az-olymp-casino.com",
-        "baazirank.com",
-        "bahiscasino-sayfa.icu",
-        "bahiscasino-vipgiris.icu",
-        "bahiscasino0688.com"
+        "az-olymp-casino.com"
       ]
     },
     {
@@ -1287,6 +1287,19 @@
       ]
     },
     {
+      "ip": "31.57.216.88",
+      "count": 6,
+      "country": "IR",
+      "domains": [
+        "betasus1410.com",
+        "betcio1522.com",
+        "betzula711.com",
+        "extrabet2335.com",
+        "extrabet2351.com",
+        "extrabet2453.com"
+      ]
+    },
+    {
       "ip": "193.30.241.15",
       "count": 6,
       "country": "GB",
@@ -1357,18 +1370,6 @@
         "profilereview-acc16.com",
         "revnuagncd05.com",
         "revnucdagn0515.com"
-      ]
-    },
-    {
-      "ip": "216.198.79.65",
-      "count": 5,
-      "country": "US",
-      "domains": [
-        "aliancadobem.net",
-        "creditocolumbia.com",
-        "olexweb.com",
-        "trucklotamerica.com",
-        "tukyy.com"
       ]
     }
   ]
