@@ -27,14 +27,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-06-23`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-06-24`
 
 <table><tr>
 <td align="center"><b>📦 Domains tracked</b><br/><sub><code>9,465</code></sub></td>
 <td align="center"><b>💰 Est. revenue</b><br/><sub><code>$79,412</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>66.1%</code></sub></td>
 <td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>36.1%</code> (3,415)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>6.8%</code></sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>6.0%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>3</code></sub></td>
 </tr></table>
 
@@ -78,7 +78,7 @@ UA  ██░░░░░░░░░░░░░░░░         65 (4.2%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`login (44)` &middot; `binance (35)` &middot; `ledger (31)` &middot; `secure (29)` &middot; `trust (29)` &middot; `support (28)` &middot; `official (27)` &middot; `crypto (23)` &middot; `vault (22)` &middot; `coinbase (21)` &middot; `connect (21)` &middot; `wallet (17)` &middot; `verify (16)` &middot; `account (13)` &middot; `swap (13)`
+`login (44)` &middot; `binance (35)` &middot; `ledger (31)` &middot; `secure (29)` &middot; `trust (29)` &middot; `support (28)` &middot; `official (27)` &middot; `crypto (23)` &middot; `vault (22)` &middot; `connect (21)` &middot; `coinbase (21)` &middot; `wallet (17)` &middot; `verify (16)` &middot; `account (13)` &middot; `swap (13)`
 
 ### 🕵️ Top Serial Registrants — 5 emails with ≥5 domains
 
