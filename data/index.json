@@ -3021,12 +3021,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 637,
-    "within_month": 2809,
-    "older": 6090
+    "within_week": 435,
+    "within_month": 2873,
+    "older": 6228
   },
-  "avg_catch_age_days": 815,
-  "fresh_pct": 6.7,
+  "avg_catch_age_days": 816,
+  "fresh_pct": 4.6,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3128,12 +3128,12 @@
     "connect": 21,
     "wallet": 17,
     "verify": 16,
-    "swap": 13,
-    "bridge": 13,
     "account": 13,
+    "bridge": 13,
+    "swap": 13,
     "claim": 11,
-    "farm": 11,
     "kraken": 11,
+    "farm": 11,
     "update": 10
   },
   "unranked_pct": 99.8,
