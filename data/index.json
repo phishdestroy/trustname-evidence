@@ -3128,17 +3128,17 @@
     "connect": 21,
     "wallet": 17,
     "verify": 16,
-    "account": 13,
-    "bridge": 13,
     "swap": 13,
+    "bridge": 13,
+    "account": 13,
+    "farm": 11,
     "claim": 11,
     "kraken": 11,
-    "farm": 11,
     "update": 10
   },
   "unranked_pct": 99.8,
   "ranked_count": 16,
-  "correlation_count": 3428,
-  "correlation_pct": 35.9,
+  "correlation_count": 3429,
+  "correlation_pct": 36.0,
   "last_updated": "2026-06-22"
 }

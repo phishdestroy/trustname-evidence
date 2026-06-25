@@ -372,20 +372,20 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
-    "account": [
-      "accountcherled.com",
-      "accountsassociated.com",
-      "accountshemig.com",
-      "accountshidden.com",
-      "accountsinformationses.com",
-      "accountsprotectionfdic.com",
-      "aviaanaccounting.net",
-      "faceit-verify-account.com",
-      "highriskmerchantaccounter.com",
-      "id-myaccount.com",
-      "myaccountdpus.com",
-      "rnbaccountants.com",
-      "thebulkaccounts.com"
+    "swap": [
+      "any-swap.net",
+      "blaze-swap.net",
+      "blaze-swap.org",
+      "blazeswaps.net",
+      "cowswaps.net",
+      "easyswape.org",
+      "getswapforge.com",
+      "nzddswap.com",
+      "sipmieswap.com",
+      "swap-foundation.com",
+      "swapx-app.com",
+      "ubeswap.net",
+      "zenexswap.com"
     ],
     "bridge": [
       "avalanchebridge.org",
@@ -402,20 +402,33 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "swap": [
-      "any-swap.net",
-      "blaze-swap.net",
-      "blaze-swap.org",
-      "blazeswaps.net",
-      "cowswaps.net",
-      "easyswape.org",
-      "getswapforge.com",
-      "nzddswap.com",
-      "sipmieswap.com",
-      "swap-foundation.com",
-      "swapx-app.com",
-      "ubeswap.net",
-      "zenexswap.com"
+    "account": [
+      "accountcherled.com",
+      "accountsassociated.com",
+      "accountshemig.com",
+      "accountshidden.com",
+      "accountsinformationses.com",
+      "accountsprotectionfdic.com",
+      "aviaanaccounting.net",
+      "faceit-verify-account.com",
+      "highriskmerchantaccounter.com",
+      "id-myaccount.com",
+      "myaccountdpus.com",
+      "rnbaccountants.com",
+      "thebulkaccounts.com"
+    ],
+    "farm": [
+      "bergafarmsequipment.com",
+      "bored-farm.com",
+      "brackettfarmsupply.com",
+      "catfarmandequipment.com",
+      "enterfarmerstates.com",
+      "farmaciadellesostanze.com",
+      "farmasi-bk.com",
+      "farmerfx.net",
+      "royfrittsfarmequipments.com",
+      "thcafarmersmarket.com",
+      "zurifarm.com"
     ],
     "claim": [
       "claim-benefits-now-mycra.com",
@@ -442,19 +455,6 @@
       "krakensite1.net",
       "krakensix.com",
       "razer-kraken-onion.com"
-    ],
-    "farm": [
-      "bergafarmsequipment.com",
-      "bored-farm.com",
-      "brackettfarmsupply.com",
-      "catfarmandequipment.com",
-      "enterfarmerstates.com",
-      "farmaciadellesostanze.com",
-      "farmasi-bk.com",
-      "farmerfx.net",
-      "royfrittsfarmequipments.com",
-      "thcafarmersmarket.com",
-      "zurifarm.com"
     ],
     "update": [
       "1bmonlinesupportupdate.com",
