@@ -264,30 +264,6 @@
       "v-cryptotrade.com",
       "winna-crypto-casino.com"
     ],
-    "vault": [
-      "btrvault.com",
-      "chieftainvault.com",
-      "hellovaulto.com",
-      "insidevaulto.com",
-      "join-vaulto.com",
-      "joinvaulto.com",
-      "tenzvault.net",
-      "vault-bridge.net",
-      "vault-hustle.com",
-      "vaultjack.net",
-      "vaulto-bank.com",
-      "vaulto-newsletter.com",
-      "vaulto-notification.com",
-      "vaulto-uk.com",
-      "vaultobanking.com",
-      "vaultofin.com",
-      "vaultofintech.com",
-      "vaultoltd.com",
-      "vaultonails.com",
-      "vaultonews.com",
-      "vaultouk.com",
-      "web3guardvault.com"
-    ],
     "coinbase": [
       "1017-coinbase.com",
       "135874coinbase.com",
@@ -311,6 +287,30 @@
       "coinbaseyield.com",
       "login52884-coinbase.com",
       "ui-coinbase.com"
+    ],
+    "vault": [
+      "btrvault.com",
+      "chieftainvault.com",
+      "hellovaulto.com",
+      "insidevaulto.com",
+      "join-vaulto.com",
+      "joinvaulto.com",
+      "tenzvault.net",
+      "vault-bridge.net",
+      "vault-hustle.com",
+      "vaultjack.net",
+      "vaulto-bank.com",
+      "vaulto-newsletter.com",
+      "vaulto-notification.com",
+      "vaulto-uk.com",
+      "vaultobanking.com",
+      "vaultofin.com",
+      "vaultofintech.com",
+      "vaultoltd.com",
+      "vaultonails.com",
+      "vaultonews.com",
+      "vaultouk.com",
+      "web3guardvault.com"
     ],
     "connect": [
       "auth-connector.com",
@@ -373,21 +373,6 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
-    "bridge": [
-      "avalanchebridge.org",
-      "binance-bridge.net",
-      "koyotesbridgefor.com",
-      "mantle-bridge.org",
-      "nexusbridge19.com",
-      "optimismbridge.net",
-      "portal-bridge.org",
-      "safelinkbridge.com",
-      "squidbridge.com",
-      "starknet-bridge.com",
-      "superbridge-app.com",
-      "superbridge-app.net",
-      "vault-bridge.net"
-    ],
     "swap": [
       "any-swap.net",
       "blaze-swap.net",
@@ -402,6 +387,21 @@
       "swapx-app.com",
       "ubeswap.net",
       "zenexswap.com"
+    ],
+    "bridge": [
+      "avalanchebridge.org",
+      "binance-bridge.net",
+      "koyotesbridgefor.com",
+      "mantle-bridge.org",
+      "nexusbridge19.com",
+      "optimismbridge.net",
+      "portal-bridge.org",
+      "safelinkbridge.com",
+      "squidbridge.com",
+      "starknet-bridge.com",
+      "superbridge-app.com",
+      "superbridge-app.net",
+      "vault-bridge.net"
     ],
     "account": [
       "accountcherled.com",
@@ -431,19 +431,6 @@
       "profileclaim-acc30.com",
       "profileclaim-conf26.com"
     ],
-    "kraken": [
-      "kraken-darknet-market.org",
-      "kraken-link-onion.org",
-      "kraken-link-tor.org",
-      "kraken-onion.org",
-      "kraken-verifizierung.com",
-      "krakenenter.com",
-      "krakenofftech.com",
-      "krakensite1.com",
-      "krakensite1.net",
-      "krakensix.com",
-      "razer-kraken-onion.com"
-    ],
     "farm": [
       "bergafarmsequipment.com",
       "bored-farm.com",
@@ -456,6 +443,19 @@
       "royfrittsfarmequipments.com",
       "thcafarmersmarket.com",
       "zurifarm.com"
+    ],
+    "kraken": [
+      "kraken-darknet-market.org",
+      "kraken-link-onion.org",
+      "kraken-link-tor.org",
+      "kraken-onion.org",
+      "kraken-verifizierung.com",
+      "krakenenter.com",
+      "krakenofftech.com",
+      "krakensite1.com",
+      "krakensite1.net",
+      "krakensix.com",
+      "razer-kraken-onion.com"
     ],
     "update": [
       "1bmonlinesupportupdate.com",
