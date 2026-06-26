@@ -33,7 +33,7 @@
 <td align="center"><b>📦 Domains tracked</b><br/><sub><code>9,737</code></sub></td>
 <td align="center"><b>💰 Est. revenue</b><br/><sub><code>$81,728</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>65.6%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>35.3%</code> (3,433)</sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>35.3%</code> (3,434)</sub></td>
 <td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>5.3%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>3</code></sub></td>
 </tr></table>
@@ -78,7 +78,7 @@ UA  ██░░░░░░░░░░░░░░░░         66 (4.2%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`login (44)` &middot; `binance (35)` &middot; `ledger (31)` &middot; `trust (30)` &middot; `secure (30)` &middot; `support (29)` &middot; `official (27)` &middot; `crypto (23)` &middot; `vault (22)` &middot; `coinbase (22)` &middot; `connect (21)` &middot; `wallet (19)` &middot; `verify (16)` &middot; `account (13)` &middot; `swap (13)`
+`login (44)` &middot; `binance (35)` &middot; `ledger (31)` &middot; `trust (30)` &middot; `secure (30)` &middot; `support (29)` &middot; `official (27)` &middot; `crypto (23)` &middot; `vault (22)` &middot; `coinbase (22)` &middot; `connect (21)` &middot; `wallet (19)` &middot; `verify (16)` &middot; `account (13)` &middot; `bridge (13)`
 
 ### 🕵️ Top Serial Registrants — 5 emails with ≥5 domains
 

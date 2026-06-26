@@ -391,21 +391,6 @@
       "rnbaccountants.com",
       "thebulkaccounts.com"
     ],
-    "swap": [
-      "any-swap.net",
-      "blaze-swap.net",
-      "blaze-swap.org",
-      "blazeswaps.net",
-      "cowswaps.net",
-      "easyswape.org",
-      "getswapforge.com",
-      "nzddswap.com",
-      "sipmieswap.com",
-      "swap-foundation.com",
-      "swapx-app.com",
-      "ubeswap.net",
-      "zenexswap.com"
-    ],
     "bridge": [
       "avalanchebridge.org",
       "binance-bridge.net",
@@ -420,6 +405,21 @@
       "superbridge-app.com",
       "superbridge-app.net",
       "vault-bridge.net"
+    ],
+    "swap": [
+      "any-swap.net",
+      "blaze-swap.net",
+      "blaze-swap.org",
+      "blazeswaps.net",
+      "cowswaps.net",
+      "easyswape.org",
+      "getswapforge.com",
+      "nzddswap.com",
+      "sipmieswap.com",
+      "swap-foundation.com",
+      "swapx-app.com",
+      "ubeswap.net",
+      "zenexswap.com"
     ],
     "kraken": [
       "kraken-darknet-market.org",

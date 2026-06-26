@@ -3159,8 +3159,8 @@
     "wallet": 19,
     "verify": 16,
     "account": 13,
-    "swap": 13,
     "bridge": 13,
+    "swap": 13,
     "kraken": 11,
     "claim": 11,
     "farm": 11,
@@ -3168,7 +3168,7 @@
   },
   "unranked_pct": 99.8,
   "ranked_count": 19,
-  "correlation_count": 3433,
+  "correlation_count": 3434,
   "correlation_pct": 35.3,
   "last_updated": "2026-06-24"
 }
