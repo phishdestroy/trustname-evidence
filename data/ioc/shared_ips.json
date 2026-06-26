@@ -4,7 +4,7 @@
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1173,
+      "count": 1177,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -14,6 +14,7 @@
         "11526bets10.com",
         "11527bets10.com",
         "11530bets10.com",
+        "12114marsbahis.com",
         "1283bet10.com",
         "1335vdcasino.com",
         "1342vdcasino.com",
@@ -105,17 +106,17 @@
         "anonymixers.net",
         "any-swap.net",
         "app996-aus.com",
-        "appiebees.com",
-        "applyaeperkspromo.com"
+        "appiebees.com"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1103,
+      "count": 1109,
       "country": "",
       "domains": [
         "001kpayments.com",
         "10109bets10.com",
+        "10110bets10.com",
         "10678marsbahis.com",
         "11354marsbahis.com",
         "1185madridbet.com",
@@ -212,8 +213,7 @@
         "auth-connector.com",
         "auth-rackspace.icu",
         "autorsecure.com",
-        "avindatapaper.com",
-        "avvoalert.com"
+        "avindatapaper.com"
       ]
     },
     {
@@ -707,7 +707,7 @@
     },
     {
       "ip": "130.12.180.242",
-      "count": 25,
+      "count": 27,
       "country": "",
       "domains": [
         "bets10-trmobilgiris.com",
@@ -728,6 +728,8 @@
         "meritbetturkiyeadresguncel.com",
         "meritbetyenigunceladres.com",
         "meritking-giris26.icu",
+        "meritking-girisadresi.icu",
+        "meritking-hizliadres.icu",
         "meritking-trgiris.icu",
         "trmeritbetadres.com",
         "trmeritbetgiris.com",
@@ -904,6 +906,26 @@
       ]
     },
     {
+      "ip": "185.158.133.1",
+      "count": 13,
+      "country": "DE",
+      "domains": [
+        "aucryptosummit.com",
+        "bangkoklovehotels.com",
+        "chipextras.com",
+        "hkcryptosummit.com",
+        "incryptosummit.com",
+        "innercirclelabs.net",
+        "nootropicsadvice.app",
+        "nootropicsuk.org",
+        "nzcryptosummit.com",
+        "nzethereumsummit.com",
+        "sgcryptosummit.com",
+        "swyftxwallet.com",
+        "xdiamond.xyz"
+      ]
+    },
+    {
       "ip": "186.2.163.247",
       "count": 13,
       "country": "NL",
@@ -921,25 +943,6 @@
         "modafinilxl.com",
         "neomodafinil.org",
         "usamodafinil.com"
-      ]
-    },
-    {
-      "ip": "185.158.133.1",
-      "count": 12,
-      "country": "DE",
-      "domains": [
-        "aucryptosummit.com",
-        "bangkoklovehotels.com",
-        "chipextras.com",
-        "hkcryptosummit.com",
-        "incryptosummit.com",
-        "innercirclelabs.net",
-        "nootropicsadvice.app",
-        "nootropicsuk.org",
-        "nzcryptosummit.com",
-        "nzethereumsummit.com",
-        "sgcryptosummit.com",
-        "xdiamond.xyz"
       ]
     },
     {
