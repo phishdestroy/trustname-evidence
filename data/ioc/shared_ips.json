@@ -4,7 +4,7 @@
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1177,
+      "count": 1184,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -23,6 +23,7 @@
         "1501bet10.com",
         "1503bet10.com",
         "1821bet10.com",
+        "1909casibom.com",
         "1rbc-sapt.com",
         "1winder.life",
         "1wineu.com",
@@ -89,6 +90,7 @@
         "albareeqa.com",
         "alexander-casino-france1.com",
         "alfabahis-egiris.icu",
+        "alobet2026-resmigirisi.icu",
         "alphavertex34.com",
         "amazon-slotes.com",
         "amex-check.com",
@@ -104,14 +106,12 @@
         "aml-screening.org",
         "aml-tracer.com",
         "anonymixers.net",
-        "any-swap.net",
-        "app996-aus.com",
-        "appiebees.com"
+        "any-swap.net"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1109,
+      "count": 1120,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -179,6 +179,7 @@
         "aeperkscardsapply.com",
         "aerodrome.qpon",
         "airoprive.com",
+        "aisi-box.com",
         "aksoyalisveris.com",
         "allslotscasinowinca.com",
         "allyspin-casino-france.com",
@@ -212,8 +213,7 @@
         "ausvip-au.com",
         "auth-connector.com",
         "auth-rackspace.icu",
-        "autorsecure.com",
-        "avindatapaper.com"
+        "autorsecure.com"
       ]
     },
     {
@@ -325,11 +325,15 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 77,
+      "count": 81,
       "country": "",
       "domains": [
         "betgarantiresmiadres.com",
         "betgarantiresmigiris.com",
+        "bets10-girisadresi26.com",
+        "bets10-giristr26.com",
+        "bets10-orjgirisadresi.com",
+        "bets10-vipgirisadresi26.com",
         "bets10resmiturkiyeadresgiris.com",
         "bets10tradres.com",
         "bets10trgirisadres.com",
@@ -1079,6 +1083,22 @@
       ]
     },
     {
+      "ip": "31.57.216.88",
+      "count": 9,
+      "country": "IR",
+      "domains": [
+        "atlasbet1885.com",
+        "betasus1410.com",
+        "betcio1522.com",
+        "betzula711.com",
+        "casinoroyal603.com",
+        "extrabet2335.com",
+        "extrabet2351.com",
+        "extrabet2453.com",
+        "hiltonbet1791.com"
+      ]
+    },
+    {
       "ip": "69.5.189.120",
       "count": 9,
       "country": "US",
@@ -1287,19 +1307,6 @@
         "favorisen842.com",
         "favorisen844.com",
         "favorisen845.com"
-      ]
-    },
-    {
-      "ip": "31.57.216.88",
-      "count": 6,
-      "country": "IR",
-      "domains": [
-        "betasus1410.com",
-        "betcio1522.com",
-        "betzula711.com",
-        "extrabet2335.com",
-        "extrabet2351.com",
-        "extrabet2453.com"
       ]
     },
     {
