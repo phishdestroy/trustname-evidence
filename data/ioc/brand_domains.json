@@ -376,20 +376,20 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
-    "account": [
-      "accountcherled.com",
-      "accountsassociated.com",
-      "accountshemig.com",
-      "accountshidden.com",
-      "accountsinformationses.com",
-      "accountsprotectionfdic.com",
-      "aviaanaccounting.net",
-      "faceit-verify-account.com",
-      "highriskmerchantaccounter.com",
-      "id-myaccount.com",
-      "myaccountdpus.com",
-      "rnbaccountants.com",
-      "thebulkaccounts.com"
+    "swap": [
+      "any-swap.net",
+      "blaze-swap.net",
+      "blaze-swap.org",
+      "blazeswaps.net",
+      "cowswaps.net",
+      "easyswape.org",
+      "getswapforge.com",
+      "nzddswap.com",
+      "sipmieswap.com",
+      "swap-foundation.com",
+      "swapx-app.com",
+      "ubeswap.net",
+      "zenexswap.com"
     ],
     "bridge": [
       "avalanchebridge.org",
@@ -406,33 +406,20 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "swap": [
-      "any-swap.net",
-      "blaze-swap.net",
-      "blaze-swap.org",
-      "blazeswaps.net",
-      "cowswaps.net",
-      "easyswape.org",
-      "getswapforge.com",
-      "nzddswap.com",
-      "sipmieswap.com",
-      "swap-foundation.com",
-      "swapx-app.com",
-      "ubeswap.net",
-      "zenexswap.com"
-    ],
-    "claim": [
-      "claim-benefits-now-mycra.com",
-      "claim-cgeb-ab.help",
-      "claim-yom.com",
-      "claimflarexrp.com",
-      "claimscotiabank.com",
-      "claimxrpflare.com",
-      "essentialsclaim-cra6.com",
-      "infocgeb-claimnow1.com",
-      "latitude-claims.com",
-      "profileclaim-acc30.com",
-      "profileclaim-conf26.com"
+    "account": [
+      "accountcherled.com",
+      "accountsassociated.com",
+      "accountshemig.com",
+      "accountshidden.com",
+      "accountsinformationses.com",
+      "accountsprotectionfdic.com",
+      "aviaanaccounting.net",
+      "faceit-verify-account.com",
+      "highriskmerchantaccounter.com",
+      "id-myaccount.com",
+      "myaccountdpus.com",
+      "rnbaccountants.com",
+      "thebulkaccounts.com"
     ],
     "farm": [
       "bergafarmsequipment.com",
@@ -446,6 +433,19 @@
       "royfrittsfarmequipments.com",
       "thcafarmersmarket.com",
       "zurifarm.com"
+    ],
+    "claim": [
+      "claim-benefits-now-mycra.com",
+      "claim-cgeb-ab.help",
+      "claim-yom.com",
+      "claimflarexrp.com",
+      "claimscotiabank.com",
+      "claimxrpflare.com",
+      "essentialsclaim-cra6.com",
+      "infocgeb-claimnow1.com",
+      "latitude-claims.com",
+      "profileclaim-acc30.com",
+      "profileclaim-conf26.com"
     ],
     "kraken": [
       "kraken-darknet-market.org",
