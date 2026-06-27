@@ -268,30 +268,6 @@
       "v-cryptotrade.com",
       "winna-crypto-casino.com"
     ],
-    "vault": [
-      "btrvault.com",
-      "chieftainvault.com",
-      "hellovaulto.com",
-      "insidevaulto.com",
-      "join-vaulto.com",
-      "joinvaulto.com",
-      "tenzvault.net",
-      "vault-bridge.net",
-      "vault-hustle.com",
-      "vaultjack.net",
-      "vaulto-bank.com",
-      "vaulto-newsletter.com",
-      "vaulto-notification.com",
-      "vaulto-uk.com",
-      "vaultobanking.com",
-      "vaultofin.com",
-      "vaultofintech.com",
-      "vaultoltd.com",
-      "vaultonails.com",
-      "vaultonews.com",
-      "vaultouk.com",
-      "web3guardvault.com"
-    ],
     "coinbase": [
       "1017-coinbase.com",
       "135874coinbase.com",
@@ -315,6 +291,30 @@
       "coinbaseyield.com",
       "login52884-coinbase.com",
       "ui-coinbase.com"
+    ],
+    "vault": [
+      "btrvault.com",
+      "chieftainvault.com",
+      "hellovaulto.com",
+      "insidevaulto.com",
+      "join-vaulto.com",
+      "joinvaulto.com",
+      "tenzvault.net",
+      "vault-bridge.net",
+      "vault-hustle.com",
+      "vaultjack.net",
+      "vaulto-bank.com",
+      "vaulto-newsletter.com",
+      "vaulto-notification.com",
+      "vaulto-uk.com",
+      "vaultobanking.com",
+      "vaultofin.com",
+      "vaultofintech.com",
+      "vaultoltd.com",
+      "vaultonails.com",
+      "vaultonews.com",
+      "vaultouk.com",
+      "web3guardvault.com"
     ],
     "connect": [
       "auth-connector.com",
@@ -424,19 +424,6 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "kraken": [
-      "kraken-darknet-market.org",
-      "kraken-link-onion.org",
-      "kraken-link-tor.org",
-      "kraken-onion.org",
-      "kraken-verifizierung.com",
-      "krakenenter.com",
-      "krakenofftech.com",
-      "krakensite1.com",
-      "krakensite1.net",
-      "krakensix.com",
-      "razer-kraken-onion.com"
-    ],
     "claim": [
       "claim-benefits-now-mycra.com",
       "claim-cgeb-ab.help",
@@ -449,6 +436,19 @@
       "latitude-claims.com",
       "profileclaim-acc30.com",
       "profileclaim-conf26.com"
+    ],
+    "kraken": [
+      "kraken-darknet-market.org",
+      "kraken-link-onion.org",
+      "kraken-link-tor.org",
+      "kraken-onion.org",
+      "kraken-verifizierung.com",
+      "krakenenter.com",
+      "krakenofftech.com",
+      "krakensite1.com",
+      "krakensite1.net",
+      "krakensix.com",
+      "razer-kraken-onion.com"
     ],
     "farm": [
       "bergafarmsequipment.com",
