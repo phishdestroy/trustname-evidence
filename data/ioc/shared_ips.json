@@ -4,7 +4,7 @@
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1184,
+      "count": 1198,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1120,
+      "count": 1133,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -138,6 +138,7 @@
         "1515bet10.com",
         "1864matbet.com",
         "1922extrabet.com",
+        "1almostfreeautosales.com",
         "1st-choiceautosales.com",
         "1win-kg.buzz",
         "1winds.life",
@@ -212,8 +213,7 @@
         "aus-casino-chip-no-deposit.com",
         "ausvip-au.com",
         "auth-connector.com",
-        "auth-rackspace.icu",
-        "autorsecure.com"
+        "auth-rackspace.icu"
       ]
     },
     {
@@ -867,6 +867,29 @@
       ]
     },
     {
+      "ip": "130.12.180.244",
+      "count": 16,
+      "country": "",
+      "domains": [
+        "bets10aktifgiris.com",
+        "bets10aktifgiris26.com",
+        "bets10tradresgiris.com",
+        "bets10trguncelgiris.com",
+        "bettiltturkiyegiris.com",
+        "casibomtrgirisadres.com",
+        "grandpashabetguvenligiris.com",
+        "kingroyalguncelturkiyegiris.com",
+        "meritbetgiris.xyz",
+        "meritbetresmiguncelturkiyegiris.com",
+        "meritbetturkiyeguncelresmiadres.com",
+        "meritbetvipadres.com",
+        "meritbetyeniturkiyegiris.com",
+        "trmeritbetturkiye.com",
+        "trmeritbetyeni.com",
+        "xyz-adresgiris.com"
+      ]
+    },
+    {
       "ip": "130.12.180.241",
       "count": 16,
       "country": "",
@@ -890,28 +913,8 @@
       ]
     },
     {
-      "ip": "130.12.180.244",
-      "count": 13,
-      "country": "",
-      "domains": [
-        "bets10tradresgiris.com",
-        "bettiltturkiyegiris.com",
-        "casibomtrgirisadres.com",
-        "grandpashabetguvenligiris.com",
-        "kingroyalguncelturkiyegiris.com",
-        "meritbetgiris.xyz",
-        "meritbetresmiguncelturkiyegiris.com",
-        "meritbetturkiyeguncelresmiadres.com",
-        "meritbetvipadres.com",
-        "meritbetyeniturkiyegiris.com",
-        "trmeritbetturkiye.com",
-        "trmeritbetyeni.com",
-        "xyz-adresgiris.com"
-      ]
-    },
-    {
       "ip": "185.158.133.1",
-      "count": 13,
+      "count": 14,
       "country": "DE",
       "domains": [
         "aucryptosummit.com",
@@ -920,6 +923,7 @@
         "hkcryptosummit.com",
         "incryptosummit.com",
         "innercirclelabs.net",
+        "lumennetwork.vip",
         "nootropicsadvice.app",
         "nootropicsuk.org",
         "nzcryptosummit.com",
@@ -966,6 +970,25 @@
         "southernlandsholdings.com",
         "stantonholdingltd.com",
         "tomandtandytransport.com"
+      ]
+    },
+    {
+      "ip": "131.222.213.216",
+      "count": 12,
+      "country": "US",
+      "domains": [
+        "adres-xyz.com",
+        "meritbet-xyz.com",
+        "meritbetadres-xyz.com",
+        "meritbetadresxyz.com",
+        "meritbetgirisxyz.com",
+        "meritbetguncel-xyz.com",
+        "meritbetguncelxyz.com",
+        "resmi-xyz.com",
+        "xyz-resmiyeni.com",
+        "xyz-yeniresmi.com",
+        "yeniadres-xyz.com",
+        "yenigiris-xyz.com"
       ]
     },
     {
@@ -1368,18 +1391,6 @@
         "revnuagncd02.com",
         "revnucdagn3.com",
         "revnucdagnc0526.com"
-      ]
-    },
-    {
-      "ip": "31.76.240.133",
-      "count": 5,
-      "country": "GB",
-      "domains": [
-        "cdrevnagnc0526.com",
-        "mytdonlinesupport.com",
-        "profilereview-acc16.com",
-        "revnuagncd05.com",
-        "revnucdagn0515.com"
       ]
     }
   ]

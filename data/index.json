@@ -1148,8 +1148,8 @@
     },
     {
       "date": "2025-07-01",
-      "count": 2,
-      "revenue": 17.98,
+      "count": 3,
+      "revenue": 26.97,
       "path": "data/new/2025/07/2025-07-01.txt"
     },
     {
@@ -2186,8 +2186,8 @@
     },
     {
       "date": "2026-03-15",
-      "count": 26,
-      "revenue": 232.74,
+      "count": 27,
+      "revenue": 241.73,
       "path": "data/new/2026/03/2026-03-15.txt"
     },
     {
@@ -2264,8 +2264,8 @@
     },
     {
       "date": "2026-03-28",
-      "count": 30,
-      "revenue": 269.7,
+      "count": 31,
+      "revenue": 278.69,
       "path": "data/new/2026/03/2026-03-28.txt"
     },
     {
@@ -2798,29 +2798,35 @@
     },
     {
       "date": "2026-06-25",
-      "count": 18,
-      "revenue": 108.82,
+      "count": 222,
+      "revenue": 1953.79,
       "path": "data/new/2026/06/2026-06-25.txt"
+    },
+    {
+      "date": "2026-06-26",
+      "count": 20,
+      "revenue": 144.8,
+      "path": "data/new/2026/06/2026-06-26.txt"
     }
   ],
-  "total_new_all_time": 9822,
-  "total_revenue_estimate": 82441.09,
-  "avg_registration_days": 417,
+  "total_new_all_time": 10049,
+  "total_revenue_estimate": 84457.83,
+  "avg_registration_days": 416,
   "ip_countries": {
-    "US": 519,
+    "US": 536,
     "RU": 152,
-    "GB": 132,
-    "DE": 119,
-    "NL": 98,
+    "GB": 136,
+    "DE": 121,
+    "NL": 99,
     "CA": 87,
     "BZ": 72,
     "UA": 66,
     "BG": 57,
-    "IR": 39
+    "IR": 40
   },
   "top_shared_ips": {
-    "188.114.96.3": 1184,
-    "188.114.97.3": 1120,
+    "188.114.96.3": 1198,
+    "188.114.97.3": 1133,
     "131.222.213.13": 165,
     "130.12.180.245": 81,
     "190.115.31.173": 60,
@@ -2835,45 +2841,45 @@
     "34.111.179.208": 18,
     "130.12.180.243": 17,
     "23.227.38.65": 16,
+    "130.12.180.244": 16,
     "130.12.180.241": 16,
-    "130.12.180.244": 13,
-    "185.158.133.1": 13,
+    "185.158.133.1": 14,
     "186.2.163.247": 13
   },
-  "deployed_count": 6435,
-  "no_ip_count": 3387,
-  "deployment_rate": 65.5,
+  "deployed_count": 6522,
+  "no_ip_count": 3527,
+  "deployment_rate": 64.9,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 9463,
-    "yr_2": 147,
+    "eq_1yr": 9687,
+    "yr_2": 150,
     "yr_3plus": 212
   },
-  "pct_gt_1yr": 3.7,
-  "pct_gt_2yr": 2.2,
+  "pct_gt_1yr": 3.6,
+  "pct_gt_2yr": 2.1,
   "tld_stats": {
     "com": {
-      "count": 7749,
-      "avg_days": 416
+      "count": 7962,
+      "avg_days": 415
     },
     "icu": {
-      "count": 638,
+      "count": 641,
       "avg_days": 365
     },
     "net": {
-      "count": 447,
+      "count": 450,
       "avg_days": 432
     },
     "org": {
-      "count": 378,
-      "avg_days": 508
+      "count": 382,
+      "avg_days": 506
     },
     "app": {
-      "count": 81,
+      "count": 82,
       "avg_days": 365
     },
     "cam": {
-      "count": 79,
+      "count": 81,
       "avg_days": 365
     },
     "pro": {
@@ -2924,50 +2930,50 @@
       "count": 7,
       "avg_days": 469
     },
-    "group": {
-      "count": 6,
+    "vip": {
+      "count": 7,
       "avg_days": 365
     },
-    "vip": {
+    "group": {
       "count": 6,
       "avg_days": 365
     }
   },
   "revenue_by_tld": {
     "com": {
-      "count": 7749,
+      "count": 7962,
       "price": 8.99,
-      "revenue": 69663.51,
-      "pct": 84.5
+      "revenue": 71578.38,
+      "pct": 84.8
     },
     "icu": {
-      "count": 638,
+      "count": 641,
       "price": 0.99,
-      "revenue": 631.62,
+      "revenue": 634.59,
       "pct": 0.8
     },
     "net": {
-      "count": 447,
+      "count": 450,
       "price": 9.99,
-      "revenue": 4465.53,
-      "pct": 5.4
+      "revenue": 4495.5,
+      "pct": 5.3
     },
     "org": {
-      "count": 378,
+      "count": 382,
       "price": 9.99,
-      "revenue": 3776.22,
-      "pct": 4.6
+      "revenue": 3816.18,
+      "pct": 4.5
     },
     "app": {
-      "count": 81,
+      "count": 82,
       "price": 14.0,
-      "revenue": 1134.0,
+      "revenue": 1148.0,
       "pct": 1.4
     },
     "cam": {
-      "count": 79,
+      "count": 81,
       "price": 4.99,
-      "revenue": 394.21,
+      "revenue": 404.19,
       "pct": 0.5
     },
     "pro": {
@@ -3042,77 +3048,77 @@
       "revenue": 69.93,
       "pct": 0.1
     },
+    "vip": {
+      "count": 7,
+      "price": 4.99,
+      "revenue": 34.93,
+      "pct": 0.0
+    },
     "group": {
       "count": 6,
       "price": 11.99,
       "revenue": 71.94,
       "pct": 0.1
-    },
-    "vip": {
-      "count": 6,
-      "price": 4.99,
-      "revenue": 29.94,
-      "pct": 0.0
     }
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 403,
+    "within_week": 627,
     "within_month": 2811,
-    "older": 6608
+    "older": 6611
   },
-  "avg_catch_age_days": 814,
-  "fresh_pct": 4.1,
+  "avg_catch_age_days": 812,
+  "fresh_pct": 6.2,
   "burst_days": [
     {
       "date": "2026-06-15",
       "count": 232,
-      "x_avg": 11.0
+      "x_avg": 10.8
+    },
+    {
+      "date": "2026-06-25",
+      "count": 222,
+      "x_avg": 10.3
     },
     {
       "date": "2026-06-08",
       "count": 202,
-      "x_avg": 9.6
+      "x_avg": 9.4
     },
     {
       "date": "2026-06-17",
       "count": 202,
-      "x_avg": 9.6
+      "x_avg": 9.4
     },
     {
       "date": "2026-06-10",
       "count": 191,
-      "x_avg": 9.1
+      "x_avg": 8.9
     },
     {
       "date": "2026-06-04",
       "count": 169,
-      "x_avg": 8.0
+      "x_avg": 7.9
     },
     {
       "date": "2026-06-11",
       "count": 169,
-      "x_avg": 8.0
+      "x_avg": 7.9
     },
     {
       "date": "2026-06-05",
       "count": 158,
-      "x_avg": 7.5
+      "x_avg": 7.4
     },
     {
       "date": "2026-05-28",
       "count": 150,
-      "x_avg": 7.1
+      "x_avg": 7.0
     },
     {
       "date": "2026-06-09",
       "count": 142,
-      "x_avg": 6.8
-    },
-    {
-      "date": "2026-06-23",
-      "count": 141,
-      "x_avg": 6.7
+      "x_avg": 6.6
     }
   ],
   "top_registrant_emails": {
@@ -3134,8 +3140,8 @@
     "hello@gohighway.com": 2,
     "hello@highway.com": 2,
     "contato@colchoesemma.com.br": 2,
-    "streamedpk@gmail.com": 2,
-    "john@yourcompany.com": 2
+    "auratg@proton.me": 2,
+    "streamedpk@gmail.com": 2
   },
   "top_registrant_phones": {
     "9-18-15-12-9": 29,
@@ -3153,28 +3159,28 @@
   "brand_heatmap": {
     "login": 44,
     "binance": 35,
-    "secure": 32,
+    "secure": 33,
+    "trust": 32,
     "ledger": 31,
-    "trust": 30,
-    "support": 29,
+    "support": 31,
     "official": 27,
     "crypto": 23,
     "coinbase": 22,
     "vault": 22,
     "connect": 21,
     "wallet": 19,
-    "verify": 16,
+    "verify": 18,
+    "swap": 15,
     "account": 14,
     "bridge": 13,
-    "swap": 13,
+    "farm": 12,
     "claim": 11,
     "kraken": 11,
-    "farm": 11,
     "update": 10
   },
   "unranked_pct": 99.8,
   "ranked_count": 18,
-  "correlation_count": 3441,
-  "correlation_pct": 35.0,
-  "last_updated": "2026-06-25"
+  "correlation_count": 3445,
+  "correlation_pct": 34.3,
+  "last_updated": "2026-06-26"
 }
