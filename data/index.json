@@ -3165,8 +3165,8 @@
     "support": 31,
     "official": 27,
     "crypto": 23,
-    "coinbase": 22,
     "vault": 22,
+    "coinbase": 22,
     "connect": 21,
     "wallet": 19,
     "verify": 18,
@@ -3174,13 +3174,13 @@
     "account": 14,
     "bridge": 13,
     "farm": 12,
-    "claim": 11,
     "kraken": 11,
+    "claim": 11,
     "update": 10
   },
   "unranked_pct": 99.8,
   "ranked_count": 18,
-  "correlation_count": 3445,
-  "correlation_pct": 34.3,
+  "correlation_count": 3627,
+  "correlation_pct": 36.1,
   "last_updated": "2026-06-26"
 }
