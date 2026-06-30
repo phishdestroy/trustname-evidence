@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-06-30",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1198,
+      "count": 1215,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1133,
+      "count": 1151,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -913,6 +913,29 @@
       ]
     },
     {
+      "ip": "131.222.213.216",
+      "count": 16,
+      "country": "US",
+      "domains": [
+        "adres-xyz.com",
+        "giris-xyz.com",
+        "meritbet-xyz.com",
+        "meritbetadres-xyz.com",
+        "meritbetadresxyz.com",
+        "meritbetgirisxyz.com",
+        "meritbetguncel-xyz.com",
+        "meritbetguncelxyz.com",
+        "resmi-xyz.com",
+        "turkiye-xyz.com",
+        "xyz-resmiguncel.com",
+        "xyz-resmiyeni.com",
+        "xyz-yeniguncel.com",
+        "xyz-yeniresmi.com",
+        "yeniadres-xyz.com",
+        "yenigiris-xyz.com"
+      ]
+    },
+    {
       "ip": "185.158.133.1",
       "count": 14,
       "country": "DE",
@@ -970,25 +993,6 @@
         "southernlandsholdings.com",
         "stantonholdingltd.com",
         "tomandtandytransport.com"
-      ]
-    },
-    {
-      "ip": "131.222.213.216",
-      "count": 12,
-      "country": "US",
-      "domains": [
-        "adres-xyz.com",
-        "meritbet-xyz.com",
-        "meritbetadres-xyz.com",
-        "meritbetadresxyz.com",
-        "meritbetgirisxyz.com",
-        "meritbetguncel-xyz.com",
-        "meritbetguncelxyz.com",
-        "resmi-xyz.com",
-        "xyz-resmiyeni.com",
-        "xyz-yeniresmi.com",
-        "yeniadres-xyz.com",
-        "yenigiris-xyz.com"
       ]
     },
     {
@@ -1307,6 +1311,19 @@
       ]
     },
     {
+      "ip": "196.196.232.146",
+      "count": 6,
+      "country": "US",
+      "domains": [
+        "buyjerseysstore.com",
+        "jerseygearhub.com",
+        "jerseyscrate.com",
+        "jerseyspit.com",
+        "valuejersey.com",
+        "viphypejersey.com"
+      ]
+    },
+    {
       "ip": "45.59.125.160",
       "count": 6,
       "country": "US",
@@ -1379,18 +1396,6 @@
         "toto911mania.cyou",
         "toto911max.cyou",
         "toto911plus.cyou"
-      ]
-    },
-    {
-      "ip": "107.189.21.76",
-      "count": 5,
-      "country": "NL",
-      "domains": [
-        "cdrevnuagnc2605.com",
-        "cibc-securityweb.com",
-        "revnuagncd02.com",
-        "revnucdagn3.com",
-        "revnucdagnc0526.com"
       ]
     }
   ]
