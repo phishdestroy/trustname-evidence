@@ -2816,29 +2816,35 @@
     },
     {
       "date": "2026-06-27",
-      "count": 20,
-      "revenue": 79.8,
+      "count": 107,
+      "revenue": 860.94,
       "path": "data/new/2026/06/2026-06-27.txt"
+    },
+    {
+      "date": "2026-06-28",
+      "count": 5,
+      "revenue": 8.95,
+      "path": "data/new/2026/06/2026-06-28.txt"
     }
   ],
-  "total_new_all_time": 10176,
-  "total_revenue_estimate": 85496.56,
+  "total_new_all_time": 10268,
+  "total_revenue_estimate": 86286.65,
   "avg_registration_days": 415,
   "ip_countries": {
-    "US": 547,
+    "US": 555,
     "RU": 152,
     "GB": 137,
     "DE": 123,
-    "NL": 104,
+    "NL": 105,
     "CA": 87,
     "BZ": 72,
-    "UA": 66,
+    "UA": 67,
     "BG": 57,
     "IR": 41
   },
   "top_shared_ips": {
-    "188.114.96.3": 1215,
-    "188.114.97.3": 1151,
+    "188.114.96.3": 1224,
+    "188.114.97.3": 1159,
     "131.222.213.13": 165,
     "130.12.180.245": 81,
     "190.115.31.173": 60,
@@ -2848,6 +2854,7 @@
     "130.12.180.239": 30,
     "45.10.243.15": 28,
     "130.12.180.242": 27,
+    "131.222.213.216": 24,
     "131.222.213.25": 19,
     "89.117.51.233": 18,
     "34.111.179.208": 18,
@@ -2855,39 +2862,38 @@
     "23.227.38.65": 16,
     "130.12.180.244": 16,
     "130.12.180.241": 16,
-    "131.222.213.216": 16,
     "185.158.133.1": 14
   },
-  "deployed_count": 6623,
-  "no_ip_count": 3553,
-  "deployment_rate": 65.1,
+  "deployed_count": 6677,
+  "no_ip_count": 3591,
+  "deployment_rate": 65.0,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 9813,
+    "eq_1yr": 9905,
     "yr_2": 151,
     "yr_3plus": 212
   },
-  "pct_gt_1yr": 3.6,
+  "pct_gt_1yr": 3.5,
   "pct_gt_2yr": 2.1,
   "tld_stats": {
     "com": {
-      "count": 8069,
+      "count": 8152,
       "avg_days": 414
     },
     "icu": {
-      "count": 653,
+      "count": 658,
       "avg_days": 365
     },
     "net": {
-      "count": 451,
-      "avg_days": 432
+      "count": 453,
+      "avg_days": 431
     },
     "org": {
       "count": 386,
       "avg_days": 505
     },
     "app": {
-      "count": 82,
+      "count": 83,
       "avg_days": 365
     },
     "cam": {
@@ -2953,22 +2959,22 @@
   },
   "revenue_by_tld": {
     "com": {
-      "count": 8069,
+      "count": 8152,
       "price": 8.99,
-      "revenue": 72540.31,
-      "pct": 84.8
+      "revenue": 73286.48,
+      "pct": 84.9
     },
     "icu": {
-      "count": 653,
+      "count": 658,
       "price": 0.99,
-      "revenue": 646.47,
+      "revenue": 651.42,
       "pct": 0.8
     },
     "net": {
-      "count": 451,
+      "count": 453,
       "price": 9.99,
-      "revenue": 4505.49,
-      "pct": 5.3
+      "revenue": 4525.47,
+      "pct": 5.2
     },
     "org": {
       "count": 386,
@@ -2977,9 +2983,9 @@
       "pct": 4.5
     },
     "app": {
-      "count": 82,
+      "count": 83,
       "price": 14.0,
-      "revenue": 1148.0,
+      "revenue": 1162.0,
       "pct": 1.3
     },
     "cam": {
@@ -3075,22 +3081,22 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 582,
-    "within_month": 2801,
-    "older": 6793
+    "within_week": 533,
+    "within_month": 2865,
+    "older": 6870
   },
   "avg_catch_age_days": 811,
-  "fresh_pct": 5.7,
+  "fresh_pct": 5.2,
   "burst_days": [
     {
       "date": "2026-06-15",
       "count": 232,
-      "x_avg": 10.7
+      "x_avg": 10.6
     },
     {
       "date": "2026-06-25",
       "count": 222,
-      "x_avg": 10.3
+      "x_avg": 10.2
     },
     {
       "date": "2026-06-08",
@@ -3120,7 +3126,7 @@
     {
       "date": "2026-06-05",
       "count": 158,
-      "x_avg": 7.3
+      "x_avg": 7.2
     },
     {
       "date": "2026-05-28",
@@ -3130,7 +3136,7 @@
     {
       "date": "2026-06-09",
       "count": 142,
-      "x_avg": 6.6
+      "x_avg": 6.5
     }
   ],
   "top_registrant_emails": {
@@ -3140,10 +3146,10 @@
     "helpdesk@wingstop.com": 7,
     "seu@email.com": 5,
     "service@usstampsmarkets.com": 4,
+    "hello@tally.so": 4,
     "contato@viajabrasil.com.br": 4,
     "support@kingchance.com": 3,
     "u003esupport@kingchance.com": 3,
-    "hello@tally.so": 3,
     "donald991x@tutamail.com": 3,
     "contato@buspassagens.com.br": 3,
     "marcus@yourcompany.com": 2,
@@ -3172,18 +3178,18 @@
     "login": 45,
     "binance": 35,
     "secure": 34,
+    "support": 32,
     "trust": 32,
-    "support": 31,
     "ledger": 31,
     "official": 27,
     "crypto": 24,
-    "coinbase": 22,
     "vault": 22,
+    "coinbase": 22,
     "connect": 21,
     "wallet": 19,
     "verify": 18,
     "swap": 15,
-    "account": 14,
+    "account": 15,
     "bridge": 13,
     "kraken": 12,
     "farm": 12,
@@ -3191,8 +3197,8 @@
     "update": 10
   },
   "unranked_pct": 99.8,
-  "ranked_count": 18,
-  "correlation_count": 3642,
-  "correlation_pct": 35.8,
-  "last_updated": "2026-06-27"
+  "ranked_count": 17,
+  "correlation_count": 3654,
+  "correlation_pct": 35.6,
+  "last_updated": "2026-06-28"
 }

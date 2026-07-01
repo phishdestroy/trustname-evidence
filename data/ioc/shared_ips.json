@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-30",
+  "generated": "2026-07-01",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1215,
+      "count": 1224,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -80,6 +80,7 @@
         "aaa-autosale.com",
         "abet.bot",
         "accposhmark.com",
+        "advanceslibrary.com",
         "aeternago.net",
         "aezabet.com",
         "afinilexpress.com",
@@ -105,13 +106,12 @@
         "amgbahis1175.com",
         "aml-screening.org",
         "aml-tracer.com",
-        "anonymixers.net",
-        "any-swap.net"
+        "anonymixers.net"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1151,
+      "count": 1159,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -744,6 +744,37 @@
       ]
     },
     {
+      "ip": "131.222.213.216",
+      "count": 24,
+      "country": "US",
+      "domains": [
+        "adres-xyz.com",
+        "giris-xyz.com",
+        "jetbahisresmiadres.com",
+        "meritbet-xyz.com",
+        "meritbet1.com",
+        "meritbet2.com",
+        "meritbet3.com",
+        "meritbet4.com",
+        "meritbet5.com",
+        "meritbet6.com",
+        "meritbetadres-xyz.com",
+        "meritbetadresxyz.com",
+        "meritbetgirisxyz.com",
+        "meritbetguncel-xyz.com",
+        "meritbetguncelxyz.com",
+        "resmi-xyz.com",
+        "turkiye-xyz.com",
+        "xyz-resmiguncel.com",
+        "xyz-resmiyeni.com",
+        "xyz-yeniguncel.com",
+        "xyz-yeniresmi.com",
+        "yeni-xyz.com",
+        "yeniadres-xyz.com",
+        "yenigiris-xyz.com"
+      ]
+    },
+    {
       "ip": "131.222.213.25",
       "count": 19,
       "country": "US",
@@ -910,29 +941,6 @@
         "xyz-resmigiris.com",
         "xyz-turkiye.com",
         "xyz-turkiyeadres.com"
-      ]
-    },
-    {
-      "ip": "131.222.213.216",
-      "count": 16,
-      "country": "US",
-      "domains": [
-        "adres-xyz.com",
-        "giris-xyz.com",
-        "meritbet-xyz.com",
-        "meritbetadres-xyz.com",
-        "meritbetadresxyz.com",
-        "meritbetgirisxyz.com",
-        "meritbetguncel-xyz.com",
-        "meritbetguncelxyz.com",
-        "resmi-xyz.com",
-        "turkiye-xyz.com",
-        "xyz-resmiguncel.com",
-        "xyz-resmiyeni.com",
-        "xyz-yeniguncel.com",
-        "xyz-yeniresmi.com",
-        "yeniadres-xyz.com",
-        "yenigiris-xyz.com"
       ]
     },
     {
@@ -1173,6 +1181,21 @@
       ]
     },
     {
+      "ip": "35.205.106.218",
+      "count": 8,
+      "country": "BE",
+      "domains": [
+        "alexsmartmoneyguide.com",
+        "dividendincomewhatsapp.com",
+        "incomecompoundinghub.com",
+        "incomegrowthfreedom.com",
+        "passiveincomeclubb.com",
+        "primepassiveincomewhatsapp.com",
+        "retireearlystrategyhub.com",
+        "wealthinnovatorpath.com"
+      ]
+    },
+    {
       "ip": "2.27.12.179",
       "count": 8,
       "country": "GB",
@@ -1213,20 +1236,6 @@
         "lotivo.app",
         "orizonia.net",
         "pumia.app"
-      ]
-    },
-    {
-      "ip": "35.205.106.218",
-      "count": 7,
-      "country": "BE",
-      "domains": [
-        "alexsmartmoneyguide.com",
-        "dividendincomewhatsapp.com",
-        "incomegrowthfreedom.com",
-        "passiveincomeclubb.com",
-        "primepassiveincomewhatsapp.com",
-        "retireearlystrategyhub.com",
-        "wealthinnovatorpath.com"
       ]
     },
     {
@@ -1363,6 +1372,19 @@
       ]
     },
     {
+      "ip": "107.189.20.230",
+      "count": 6,
+      "country": "NL",
+      "domains": [
+        "alertsetup-td.com",
+        "cdrvnueagnctjun.com",
+        "cuk281ceb46.com",
+        "scotialerts-setup.com",
+        "tdhelp-support.com",
+        "tdsecurevalidate.com"
+      ]
+    },
+    {
       "ip": "216.24.57.1",
       "count": 5,
       "country": "US",
@@ -1384,18 +1406,6 @@
         "diverse-lynx.com",
         "unisysdigital.com",
         "wellnespharmacy.net"
-      ]
-    },
-    {
-      "ip": "92.243.74.2",
-      "count": 5,
-      "country": "SG",
-      "domains": [
-        "toto911link.com",
-        "toto911mahjong.cyou",
-        "toto911mania.cyou",
-        "toto911max.cyou",
-        "toto911plus.cyou"
       ]
     }
   ]
