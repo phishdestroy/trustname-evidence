@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-01",
+  "generated": "2026-07-02",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1224,
+      "count": 1234,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1159,
+      "count": 1167,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1253,6 +1253,20 @@
       ]
     },
     {
+      "ip": "196.196.232.146",
+      "count": 7,
+      "country": "US",
+      "domains": [
+        "buyjerseysstore.com",
+        "craftjerseys.com",
+        "jerseygearhub.com",
+        "jerseyscrate.com",
+        "jerseyspit.com",
+        "valuejersey.com",
+        "viphypejersey.com"
+      ]
+    },
+    {
       "ip": "104.21.14.189",
       "count": 7,
       "country": "",
@@ -1317,19 +1331,6 @@
         "m2bmo.com",
         "mysteps-cibc.com",
         "profilesupport-acc041.com"
-      ]
-    },
-    {
-      "ip": "196.196.232.146",
-      "count": 6,
-      "country": "US",
-      "domains": [
-        "buyjerseysstore.com",
-        "jerseygearhub.com",
-        "jerseyscrate.com",
-        "jerseyspit.com",
-        "valuejersey.com",
-        "viphypejersey.com"
       ]
     },
     {
