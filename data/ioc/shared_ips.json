@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-03",
+  "generated": "2026-07-04",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1243,
+      "count": 1268,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1178,
+      "count": 1204,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -168,6 +168,8 @@
         "582933-coinspot.com",
         "582953-coinspot.com",
         "595betzula.com",
+        "777casino-cl.com",
+        "7slotspremio-cl.com",
         "882betcio.com",
         "887favorisen.com",
         "888starzuk.com",
@@ -211,9 +213,7 @@
         "aura-finance.org",
         "auroraspel.com",
         "aus-casino-chip-no-deposit.com",
-        "ausvip-au.com",
-        "auth-connector.com",
-        "auth-rackspace.icu"
+        "ausvip-au.com"
       ]
     },
     {
@@ -325,10 +325,14 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 83,
+      "count": 87,
       "country": "",
       "domains": [
         "bet-adres.org",
+        "bet-bonus.win",
+        "bet-firsat.win",
+        "bet-girisler.win",
+        "bet-sites.org",
         "bet-yardim.org",
         "betgarantiresmiadres.com",
         "betgarantiresmigiris.com",
@@ -602,11 +606,14 @@
     },
     {
       "ip": "130.12.180.238",
-      "count": 33,
+      "count": 36,
       "country": "",
       "domains": [
         "adresgiris.xyz",
         "bet-analiz.org",
+        "bet-giris.win",
+        "bet-resmi.win",
+        "bet-site.win",
         "bets10trresmiadres.com",
         "bets10trresmigiris.com",
         "bets10vipgiris.com",
@@ -641,11 +648,98 @@
       ]
     },
     {
+      "ip": "131.222.213.216",
+      "count": 36,
+      "country": "US",
+      "domains": [
+        "adres-xyz.com",
+        "gir-link.xyz",
+        "giris-xyz.com",
+        "jetbahisresmiadres.com",
+        "meritbet-adresxyz.com",
+        "meritbet-girisxyz.com",
+        "meritbet-guncelxyz.com",
+        "meritbet-resmixyz.com",
+        "meritbet-xyz.com",
+        "meritbet-xyzadres.com",
+        "meritbet1.com",
+        "meritbet2.com",
+        "meritbet3.com",
+        "meritbet4.com",
+        "meritbet5.com",
+        "meritbet6.com",
+        "meritbetadres-xyz.com",
+        "meritbetadres.xyz",
+        "meritbetadresxyz.com",
+        "meritbetgirisxyz.com",
+        "meritbetguncel-xyz.com",
+        "meritbetguncel.xyz",
+        "meritbetguncelxyz.com",
+        "meritbetresmi.xyz",
+        "meritbetturkiye.xyz",
+        "meritbetyeni-xyz.com",
+        "meritbetyeni.xyz",
+        "resmi-xyz.com",
+        "turkiye-xyz.com",
+        "xyz-resmiguncel.com",
+        "xyz-resmiyeni.com",
+        "xyz-yeniguncel.com",
+        "xyz-yeniresmi.com",
+        "yeni-xyz.com",
+        "yeniadres-xyz.com",
+        "yenigiris-xyz.com"
+      ]
+    },
+    {
+      "ip": "130.12.180.242",
+      "count": 34,
+      "country": "",
+      "domains": [
+        "bet-adres.win",
+        "bet-aktif.org",
+        "bet-erisim.org",
+        "bet-erisim.win",
+        "bet-firsat.org",
+        "bet-hizli.org",
+        "bet-yardim.win",
+        "bets10-trmobilgiris.com",
+        "bets10-trorjgiris.com",
+        "grandpashabetresmigiris.icu",
+        "grandpashabetturkiyegiris.com",
+        "kingroyalturkiyeguncelgiris.com",
+        "madridbet-tekgiris.icu",
+        "madridbet-trgiris26.icu",
+        "meritbetadresgiristr.com",
+        "meritbetgirisadrestr.com",
+        "meritbetguncelresmiturkiyeadresgiris.com",
+        "meritbetguncelresmiturkiyegiris.com",
+        "meritbetguncelresmiturkiyegirisadres.com",
+        "meritbetguncelturkiyeadresgiris.com",
+        "meritbettrresmiadres.com",
+        "meritbetturkiyeadresgiris.com",
+        "meritbetturkiyeadresguncel.com",
+        "meritbetyenigunceladres.com",
+        "meritking-giris26.icu",
+        "meritking-girisadresi.icu",
+        "meritking-hizliadres.icu",
+        "meritking-trgiris.icu",
+        "trmeritbetadres.com",
+        "trmeritbetgiris.com",
+        "turkiyegiris.xyz",
+        "xyz-giris.com",
+        "xyz-guncelgiris.com",
+        "xyz-turkiyegiris.com"
+      ]
+    },
+    {
       "ip": "130.12.180.239",
-      "count": 31,
+      "count": 34,
       "country": "",
       "domains": [
         "bet-fast.org",
+        "bet-gir.win",
+        "bet-guncel.win",
+        "bet-orginal.win",
         "betasusturkiyegiris.com",
         "bets10adresturkiyegiris.com",
         "bets10giristurkiyeadres.com",
@@ -676,79 +770,6 @@
         "meritbetyenitradres.com",
         "meritbetyenitrgiris.com",
         "xyz-resmigunceladres.com"
-      ]
-    },
-    {
-      "ip": "131.222.213.216",
-      "count": 30,
-      "country": "US",
-      "domains": [
-        "adres-xyz.com",
-        "giris-xyz.com",
-        "jetbahisresmiadres.com",
-        "meritbet-adresxyz.com",
-        "meritbet-girisxyz.com",
-        "meritbet-guncelxyz.com",
-        "meritbet-resmixyz.com",
-        "meritbet-xyz.com",
-        "meritbet-xyzadres.com",
-        "meritbet1.com",
-        "meritbet2.com",
-        "meritbet3.com",
-        "meritbet4.com",
-        "meritbet5.com",
-        "meritbet6.com",
-        "meritbetadres-xyz.com",
-        "meritbetadresxyz.com",
-        "meritbetgirisxyz.com",
-        "meritbetguncel-xyz.com",
-        "meritbetguncelxyz.com",
-        "meritbetyeni-xyz.com",
-        "resmi-xyz.com",
-        "turkiye-xyz.com",
-        "xyz-resmiguncel.com",
-        "xyz-resmiyeni.com",
-        "xyz-yeniguncel.com",
-        "xyz-yeniresmi.com",
-        "yeni-xyz.com",
-        "yeniadres-xyz.com",
-        "yenigiris-xyz.com"
-      ]
-    },
-    {
-      "ip": "130.12.180.242",
-      "count": 29,
-      "country": "",
-      "domains": [
-        "bet-aktif.org",
-        "bet-hizli.org",
-        "bets10-trmobilgiris.com",
-        "bets10-trorjgiris.com",
-        "grandpashabetresmigiris.icu",
-        "grandpashabetturkiyegiris.com",
-        "kingroyalturkiyeguncelgiris.com",
-        "madridbet-tekgiris.icu",
-        "madridbet-trgiris26.icu",
-        "meritbetadresgiristr.com",
-        "meritbetgirisadrestr.com",
-        "meritbetguncelresmiturkiyeadresgiris.com",
-        "meritbetguncelresmiturkiyegiris.com",
-        "meritbetguncelresmiturkiyegirisadres.com",
-        "meritbetguncelturkiyeadresgiris.com",
-        "meritbettrresmiadres.com",
-        "meritbetturkiyeadresgiris.com",
-        "meritbetturkiyeadresguncel.com",
-        "meritbetyenigunceladres.com",
-        "meritking-giris26.icu",
-        "meritking-girisadresi.icu",
-        "meritking-hizliadres.icu",
-        "meritking-trgiris.icu",
-        "trmeritbetadres.com",
-        "trmeritbetgiris.com",
-        "turkiyegiris.xyz",
-        "xyz-giris.com",
-        "xyz-guncelgiris.com",
-        "xyz-turkiyegiris.com"
       ]
     },
     {
@@ -788,11 +809,18 @@
     },
     {
       "ip": "130.12.180.243",
-      "count": 19,
+      "count": 26,
       "country": "",
       "domains": [
+        "bet-bonuslar.org",
+        "bet-destek.win",
+        "bet-fast.win",
+        "bet-girisi.win",
         "bet-site.org",
         "bet-tr.org",
+        "bets10-aktifgirisadresi.com",
+        "bets10orjinaladresi.com",
+        "bets10tradresi.com",
         "grandpashabetresmiadres.icu",
         "jojobetguvenliadresgiris.com",
         "kingroyalbetgunceladres.com",
@@ -810,6 +838,36 @@
         "trmeritbetguncel.com",
         "trmeritbetresmi.com",
         "xyz-adres.com"
+      ]
+    },
+    {
+      "ip": "130.12.180.244",
+      "count": 23,
+      "country": "",
+      "domains": [
+        "bet-aktif.win",
+        "bet-gunceli.org",
+        "bet-resmi.org",
+        "bet-sitesi.win",
+        "bet-sosyal.org",
+        "bet-sosyal.win",
+        "bet-tr.win",
+        "bets10aktifgiris.com",
+        "bets10aktifgiris26.com",
+        "bets10tradresgiris.com",
+        "bets10trguncelgiris.com",
+        "bettiltturkiyegiris.com",
+        "casibomtrgirisadres.com",
+        "grandpashabetguvenligiris.com",
+        "kingroyalguncelturkiyegiris.com",
+        "meritbetgiris.xyz",
+        "meritbetresmiguncelturkiyegiris.com",
+        "meritbetturkiyeguncelresmiadres.com",
+        "meritbetvipadres.com",
+        "meritbetyeniturkiyegiris.com",
+        "trmeritbetturkiye.com",
+        "trmeritbetyeni.com",
+        "xyz-adresgiris.com"
       ]
     },
     {
@@ -836,31 +894,6 @@
         "vaycasinogirisv2.org",
         "vaycasinoguncelgirisv2.org",
         "vaycasinoresmii.org"
-      ]
-    },
-    {
-      "ip": "130.12.180.244",
-      "count": 18,
-      "country": "",
-      "domains": [
-        "bet-resmi.org",
-        "bet-sosyal.org",
-        "bets10aktifgiris.com",
-        "bets10aktifgiris26.com",
-        "bets10tradresgiris.com",
-        "bets10trguncelgiris.com",
-        "bettiltturkiyegiris.com",
-        "casibomtrgirisadres.com",
-        "grandpashabetguvenligiris.com",
-        "kingroyalguncelturkiyegiris.com",
-        "meritbetgiris.xyz",
-        "meritbetresmiguncelturkiyegiris.com",
-        "meritbetturkiyeguncelresmiadres.com",
-        "meritbetvipadres.com",
-        "meritbetyeniturkiyegiris.com",
-        "trmeritbetturkiye.com",
-        "trmeritbetyeni.com",
-        "xyz-adresgiris.com"
       ]
     },
     {
@@ -1038,6 +1071,23 @@
       ]
     },
     {
+      "ip": "31.57.216.88",
+      "count": 10,
+      "country": "IR",
+      "domains": [
+        "1407queenbet.com",
+        "atlasbet1885.com",
+        "betasus1410.com",
+        "betcio1522.com",
+        "betzula711.com",
+        "casinoroyal603.com",
+        "extrabet2335.com",
+        "extrabet2351.com",
+        "extrabet2453.com",
+        "hiltonbet1791.com"
+      ]
+    },
+    {
       "ip": "75.2.60.5",
       "count": 9,
       "country": "US",
@@ -1131,22 +1181,6 @@
         "sign-portal.net",
         "signonlinenow.net",
         "signportalnow.net"
-      ]
-    },
-    {
-      "ip": "31.57.216.88",
-      "count": 9,
-      "country": "IR",
-      "domains": [
-        "atlasbet1885.com",
-        "betasus1410.com",
-        "betcio1522.com",
-        "betzula711.com",
-        "casinoroyal603.com",
-        "extrabet2335.com",
-        "extrabet2351.com",
-        "extrabet2453.com",
-        "hiltonbet1791.com"
       ]
     },
     {
@@ -1402,27 +1436,28 @@
       ]
     },
     {
-      "ip": "216.24.57.1",
-      "count": 5,
-      "country": "US",
+      "ip": "2.24.15.218",
+      "count": 6,
+      "country": "GB",
       "domains": [
-        "coilwicks.com",
-        "mindaroacademy.com",
-        "mundotorajos.com",
-        "transfersconnection.com",
-        "upictures.app"
+        "darkweb-servers.com",
+        "darkwebcyberit.net",
+        "mapleforgegroup.com",
+        "marketaibots.com",
+        "securexceh.net",
+        "trusvalecapital.org"
       ]
     },
     {
-      "ip": "91.223.82.8",
+      "ip": "208.82.114.165",
       "count": 5,
-      "country": "AM",
+      "country": "US",
       "domains": [
-        "buyfakenotesonline.org",
-        "curepharmacy.net",
-        "diverse-lynx.com",
-        "unisysdigital.com",
-        "wellnespharmacy.net"
+        "nomercypaper.com",
+        "rawthronesyndicate.com",
+        "rich-ruthless.com",
+        "smashandsnatchrecords.com",
+        "yencartelmusic.com"
       ]
     }
   ]
