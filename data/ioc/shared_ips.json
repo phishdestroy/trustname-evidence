@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-05",
+  "generated": "2026-07-06",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1286,
+      "count": 1303,
       "country": "",
       "domains": [
         "100-no-deposit-bonus.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1223,
+      "count": 1236,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -325,13 +325,14 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 87,
+      "count": 88,
       "country": "",
       "domains": [
         "bet-adres.org",
         "bet-bonus.win",
         "bet-firsat.win",
         "bet-girisler.win",
+        "bet-kazan.pro",
         "bet-sites.org",
         "bet-yardim.org",
         "betgarantiresmiadres.com",
@@ -606,7 +607,7 @@
     },
     {
       "ip": "131.222.213.216",
-      "count": 40,
+      "count": 43,
       "country": "US",
       "domains": [
         "adres-xyz.com",
@@ -614,6 +615,8 @@
         "giris-xyz.com",
         "jetbahisresmiadres.com",
         "jetbetresmi.com",
+        "jetbetturkiyeadres.com",
+        "jetbetturkiyegiris.com",
         "meritbet-adresxyz.com",
         "meritbet-girisxyz.com",
         "meritbet-guncelxyz.com",
@@ -632,6 +635,7 @@
         "meritbetgirisxyz.com",
         "meritbetguncel-xyz.com",
         "meritbetguncel.xyz",
+        "meritbetguncelgiris.xyz",
         "meritbetguncelxyz.com",
         "meritbetresmi.xyz",
         "meritbetresmiadres.xyz",
@@ -653,12 +657,13 @@
     },
     {
       "ip": "130.12.180.238",
-      "count": 37,
+      "count": 38,
       "country": "",
       "domains": [
         "adresgiris.xyz",
         "bet-analiz.org",
         "bet-giris.win",
+        "bet-oyna.pro",
         "bet-resmi.win",
         "bet-site.win",
         "bet-skor.org",
@@ -697,7 +702,7 @@
     },
     {
       "ip": "130.12.180.242",
-      "count": 35,
+      "count": 36,
       "country": "",
       "domains": [
         "bet-adres.win",
@@ -705,6 +710,7 @@
         "bet-erisim.org",
         "bet-erisim.win",
         "bet-firsat.org",
+        "bet-gir.pro",
         "bet-hizli.org",
         "bet-sayfa.win",
         "bet-yardim.win",
@@ -780,6 +786,42 @@
       ]
     },
     {
+      "ip": "130.12.180.244",
+      "count": 29,
+      "country": "",
+      "domains": [
+        "bet-aktif.win",
+        "bet-girisler.pro",
+        "bet-gunceli.org",
+        "bet-resmi.org",
+        "bet-sitesi.win",
+        "bet-sosyal.org",
+        "bet-sosyal.win",
+        "bet-tr.win",
+        "bets10-aktifgiris26.com",
+        "bets10-gunceladresvip.com",
+        "bets10-vipgirisadresi.com",
+        "bets10-vipgirisadresleriniz.com",
+        "bets10aktifgiris.com",
+        "bets10aktifgiris26.com",
+        "bets10girisonlinego.com",
+        "bets10tradresgiris.com",
+        "bets10trguncelgiris.com",
+        "bettiltturkiyegiris.com",
+        "casibomtrgirisadres.com",
+        "grandpashabetguvenligiris.com",
+        "kingroyalguncelturkiyegiris.com",
+        "meritbetgiris.xyz",
+        "meritbetresmiguncelturkiyegiris.com",
+        "meritbetturkiyeguncelresmiadres.com",
+        "meritbetvipadres.com",
+        "meritbetyeniturkiyegiris.com",
+        "trmeritbetturkiye.com",
+        "trmeritbetyeni.com",
+        "xyz-adresgiris.com"
+      ]
+    },
+    {
       "ip": "45.10.243.15",
       "count": 28,
       "country": "RU",
@@ -846,36 +888,6 @@
         "trmeritbetguncel.com",
         "trmeritbetresmi.com",
         "xyz-adres.com"
-      ]
-    },
-    {
-      "ip": "130.12.180.244",
-      "count": 23,
-      "country": "",
-      "domains": [
-        "bet-aktif.win",
-        "bet-gunceli.org",
-        "bet-resmi.org",
-        "bet-sitesi.win",
-        "bet-sosyal.org",
-        "bet-sosyal.win",
-        "bet-tr.win",
-        "bets10aktifgiris.com",
-        "bets10aktifgiris26.com",
-        "bets10tradresgiris.com",
-        "bets10trguncelgiris.com",
-        "bettiltturkiyegiris.com",
-        "casibomtrgirisadres.com",
-        "grandpashabetguvenligiris.com",
-        "kingroyalguncelturkiyegiris.com",
-        "meritbetgiris.xyz",
-        "meritbetresmiguncelturkiyegiris.com",
-        "meritbetturkiyeguncelresmiadres.com",
-        "meritbetvipadres.com",
-        "meritbetyeniturkiyegiris.com",
-        "trmeritbetturkiye.com",
-        "trmeritbetyeni.com",
-        "xyz-adresgiris.com"
       ]
     },
     {
@@ -980,6 +992,29 @@
       ]
     },
     {
+      "ip": "185.158.133.1",
+      "count": 16,
+      "country": "DE",
+      "domains": [
+        "aucryptosummit.com",
+        "bangkoklovehotels.com",
+        "chipextras.com",
+        "customledg.com",
+        "hkcryptosummit.com",
+        "incryptosummit.com",
+        "innercirclelabs.net",
+        "lumennetwork.vip",
+        "nootropicsadvice.app",
+        "nootropicsuk.org",
+        "nzcryptosummit.com",
+        "nzethereumsummit.com",
+        "sgcryptosummit.com",
+        "swyftxwallet.com",
+        "xdiamond.xyz",
+        "xrpwallett.com"
+      ]
+    },
+    {
       "ip": "130.12.180.241",
       "count": 16,
       "country": "",
@@ -1003,24 +1038,23 @@
       ]
     },
     {
-      "ip": "185.158.133.1",
-      "count": 14,
-      "country": "DE",
+      "ip": "66.198.225.39",
+      "count": 13,
+      "country": "US",
       "domains": [
-        "aucryptosummit.com",
-        "bangkoklovehotels.com",
-        "chipextras.com",
-        "hkcryptosummit.com",
-        "incryptosummit.com",
-        "innercirclelabs.net",
-        "lumennetwork.vip",
-        "nootropicsadvice.app",
-        "nootropicsuk.org",
-        "nzcryptosummit.com",
-        "nzethereumsummit.com",
-        "sgcryptosummit.com",
-        "swyftxwallet.com",
-        "xdiamond.xyz"
+        "beastgamb.com",
+        "golden-era.app",
+        "golden-era.bond",
+        "golden-era777.com",
+        "julywin.com",
+        "kesowin.com",
+        "navifex.com",
+        "olimpaura.cfd",
+        "olimpaura.icu",
+        "planet-play.net",
+        "pragmatic-bets.com",
+        "rakespin.com",
+        "wasowin.com"
       ]
     },
     {
@@ -1044,25 +1078,6 @@
       ]
     },
     {
-      "ip": "66.198.225.39",
-      "count": 12,
-      "country": "US",
-      "domains": [
-        "beastgamb.com",
-        "golden-era.app",
-        "golden-era.bond",
-        "golden-era777.com",
-        "kesowin.com",
-        "navifex.com",
-        "olimpaura.cfd",
-        "olimpaura.icu",
-        "planet-play.net",
-        "pragmatic-bets.com",
-        "rakespin.com",
-        "wasowin.com"
-      ]
-    },
-    {
       "ip": "178.238.236.172",
       "count": 12,
       "country": "DE",
@@ -1079,6 +1094,24 @@
         "southernlandsholdings.com",
         "stantonholdingltd.com",
         "tomandtandytransport.com"
+      ]
+    },
+    {
+      "ip": "3.71.180.249",
+      "count": 11,
+      "country": "DE",
+      "domains": [
+        "bahisteyimvip.com",
+        "bro-castle.com",
+        "bro-casual.com",
+        "bro-news.info",
+        "bro-updates.com",
+        "madinahacademyicsb.com",
+        "qaprodforwardingtestv2.com",
+        "qaprodtestfrwd2.com",
+        "qatestahhskna.com",
+        "randstadca.com",
+        "viagrabestbuy.com"
       ]
     },
     {
@@ -1113,6 +1146,23 @@
         "extrabet2351.com",
         "extrabet2453.com",
         "hiltonbet1791.com"
+      ]
+    },
+    {
+      "ip": "186.2.175.35",
+      "count": 10,
+      "country": "BZ",
+      "domains": [
+        "amlbinances.org",
+        "amlview.org",
+        "blaze-stake.org",
+        "fartcoinswap.pro",
+        "jupiter-perp.pro",
+        "rails-dex.org",
+        "railsx-dex.net",
+        "tron-staking.org",
+        "troncard.org",
+        "xrpl-dex.pro"
       ]
     },
     {
@@ -1260,21 +1310,6 @@
       ]
     },
     {
-      "ip": "3.71.180.249",
-      "count": 8,
-      "country": "DE",
-      "domains": [
-        "bahisteyimvip.com",
-        "bro-news.info",
-        "madinahacademyicsb.com",
-        "qaprodforwardingtestv2.com",
-        "qaprodtestfrwd2.com",
-        "qatestahhskna.com",
-        "randstadca.com",
-        "viagrabestbuy.com"
-      ]
-    },
-    {
       "ip": "35.205.106.218",
       "count": 8,
       "country": "BE",
@@ -1358,20 +1393,6 @@
         "jerseyspit.com",
         "valuejersey.com",
         "viphypejersey.com"
-      ]
-    },
-    {
-      "ip": "186.2.175.35",
-      "count": 7,
-      "country": "BZ",
-      "domains": [
-        "amlbinances.org",
-        "amlview.org",
-        "jupiter-perp.pro",
-        "rails-dex.org",
-        "tron-staking.org",
-        "troncard.org",
-        "xrpl-dex.pro"
       ]
     },
     {
