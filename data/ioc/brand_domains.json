@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06",
+  "generated": "2026-07-07",
   "keywords": {
     "trust": [
       "activation-trust.com",
@@ -18,6 +18,7 @@
       "premium-trust.icu",
       "premium-trust.net",
       "sterlingcohentrust.org",
+      "swap-trust.com",
       "swap-trust.org",
       "takemetotrustname.com",
       "test-lux-trust-1.sbs",
@@ -27,6 +28,7 @@
       "trust-kard.com",
       "trust-kart.com",
       "trust-trust.org",
+      "trust-tw.com",
       "trust-tw.org",
       "trust-wire.org",
       "trustbank-capital.com",
@@ -197,6 +199,7 @@
       "mytdonlinesupport.com",
       "onlineresetsupport-portal.com",
       "profilesupport-acc041.com",
+      "rbc-supporthelp.com",
       "scotiahelpdesk-support.com",
       "scotiasupportportal.com",
       "secureonlinesupport.help",
@@ -245,6 +248,7 @@
       "ledgerdevelopers.org",
       "ledgerfirmware.app",
       "ledgerloomtax.com",
+      "ledgerswap.org",
       "web3lledgerbackup.com"
     ],
     "official": [
@@ -296,6 +300,7 @@
       "cryptoroll.app",
       "cryptospin.bond",
       "cryptostopp.org",
+      "cryptoverge.net",
       "hkcryptosummit.com",
       "incryptosummit.com",
       "k8crypto.biz",
@@ -331,6 +336,31 @@
       "transfersconnection.com",
       "transfersconnections.com",
       "wickyconnect.com"
+    ],
+    "swap": [
+      "any-swap.net",
+      "auddswaps.com",
+      "blaze-swap.net",
+      "blaze-swap.org",
+      "blazeswaps.net",
+      "cowswaps.net",
+      "easyswape.org",
+      "fartcoinswap.pro",
+      "getswapforge.com",
+      "ledgerswap.org",
+      "nzddswap.com",
+      "nzddswaps.com",
+      "sipmieswap.com",
+      "swap-foundation.com",
+      "swap-trust.com",
+      "swap-trust.org",
+      "swap-tw.com",
+      "swap-tw.org",
+      "swapx-app.com",
+      "tw-swap.com",
+      "tw-swap.org",
+      "ubeswap.net",
+      "zenexswap.com"
     ],
     "vault": [
       "btrvault.com",
@@ -423,27 +453,6 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
-    "swap": [
-      "any-swap.net",
-      "auddswaps.com",
-      "blaze-swap.net",
-      "blaze-swap.org",
-      "blazeswaps.net",
-      "cowswaps.net",
-      "easyswape.org",
-      "fartcoinswap.pro",
-      "getswapforge.com",
-      "nzddswap.com",
-      "nzddswaps.com",
-      "sipmieswap.com",
-      "swap-foundation.com",
-      "swap-trust.org",
-      "swap-tw.org",
-      "swapx-app.com",
-      "tw-swap.org",
-      "ubeswap.net",
-      "zenexswap.com"
-    ],
     "account": [
       "accountcherled.com",
       "accountcreatr.com",
@@ -477,20 +486,6 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "kraken": [
-      "captcha-kraken.com",
-      "kraken-darknet-market.org",
-      "kraken-link-onion.org",
-      "kraken-link-tor.org",
-      "kraken-onion.org",
-      "kraken-verifizierung.com",
-      "krakenenter.com",
-      "krakenofftech.com",
-      "krakensite1.com",
-      "krakensite1.net",
-      "krakensix.com",
-      "razer-kraken-onion.com"
-    ],
     "farm": [
       "bergafarmsequipment.com",
       "bored-farm.com",
@@ -518,6 +513,20 @@
       "latitude-claims.com",
       "profileclaim-acc30.com",
       "profileclaim-conf26.com"
+    ],
+    "kraken": [
+      "captcha-kraken.com",
+      "kraken-darknet-market.org",
+      "kraken-link-onion.org",
+      "kraken-link-tor.org",
+      "kraken-onion.org",
+      "kraken-verifizierung.com",
+      "krakenenter.com",
+      "krakenofftech.com",
+      "krakensite1.com",
+      "krakensite1.net",
+      "krakensix.com",
+      "razer-kraken-onion.com"
     ],
     "update": [
       "1bmonlinesupportupdate.com",

@@ -1,12 +1,13 @@
 {
-  "generated": "2026-07-06",
+  "generated": "2026-07-07",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1303,
+      "count": 1329,
       "country": "",
       "domains": [
+        "1-romabetgiris.com",
         "100-no-deposit-bonus.com",
         "10680marsbahis.com",
         "1068virusbettr.com",
@@ -64,6 +65,8 @@
         "557sonbahis.com",
         "7bitcasinopl.com",
         "7bitcasinowin-nz.com",
+        "8190jojobet.com",
+        "822belticket.com",
         "84918-coinspot.com",
         "869oslobet.com",
         "873jetbahis.com",
@@ -103,15 +106,12 @@
         "amgbahis1151.com",
         "amgbahis1167.com",
         "amgbahis1170.com",
-        "amgbahis1175.com",
-        "aml-screening.org",
-        "aml-tracer.com",
-        "anonymixers.net"
+        "amgbahis1175.com"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1236,
+      "count": 1262,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -325,7 +325,7 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 88,
+      "count": 89,
       "country": "",
       "domains": [
         "bet-adres.org",
@@ -415,7 +415,8 @@
         "turkiyeresmiguncelgirisadres.com",
         "xyz-girisadres.com",
         "xyz-guncel.com",
-        "xyz-gunceladres.com"
+        "xyz-gunceladres.com",
+        "yeni-madridbet.pro"
       ]
     },
     {
@@ -657,7 +658,7 @@
     },
     {
       "ip": "130.12.180.238",
-      "count": 38,
+      "count": 39,
       "country": "",
       "domains": [
         "adresgiris.xyz",
@@ -672,6 +673,7 @@
         "bets10vipgiris.com",
         "bets10vipturkiye.com",
         "cratosroyalbetguvenligiris.com",
+        "giris-madridbet.pro",
         "grandpashabetguncelresmiadres.com",
         "grandpashabetguncelresmigiris.com",
         "guncelresmiadresgiris.com",
@@ -702,7 +704,7 @@
     },
     {
       "ip": "130.12.180.242",
-      "count": 36,
+      "count": 38,
       "country": "",
       "domains": [
         "bet-adres.win",
@@ -718,6 +720,7 @@
         "bets10-trorjgiris.com",
         "grandpashabetresmigiris.icu",
         "grandpashabetturkiyegiris.com",
+        "jojobet.center",
         "kingroyalturkiyeguncelgiris.com",
         "madridbet-tekgiris.icu",
         "madridbet-trgiris26.icu",
@@ -735,6 +738,7 @@
         "meritking-girisadresi.icu",
         "meritking-hizliadres.icu",
         "meritking-trgiris.icu",
+        "sports-girisleri.pro",
         "trmeritbetadres.com",
         "trmeritbetgiris.com",
         "turkiyegiris.xyz",
@@ -745,12 +749,13 @@
     },
     {
       "ip": "130.12.180.239",
-      "count": 35,
+      "count": 36,
       "country": "",
       "domains": [
         "bet-fast.org",
         "bet-gir.win",
         "bet-girisi.org",
+        "bet-google.pro",
         "bet-guncel.win",
         "bet-orginal.win",
         "betasusturkiyegiris.com",
@@ -787,7 +792,7 @@
     },
     {
       "ip": "130.12.180.244",
-      "count": 29,
+      "count": 30,
       "country": "",
       "domains": [
         "bet-aktif.win",
@@ -810,6 +815,7 @@
         "bettiltturkiyegiris.com",
         "casibomtrgirisadres.com",
         "grandpashabetguvenligiris.com",
+        "guncel-madridbet.pro",
         "kingroyalguncelturkiyegiris.com",
         "meritbetgiris.xyz",
         "meritbetresmiguncelturkiyegiris.com",
@@ -888,6 +894,34 @@
         "trmeritbetguncel.com",
         "trmeritbetresmi.com",
         "xyz-adres.com"
+      ]
+    },
+    {
+      "ip": "185.158.133.1",
+      "count": 21,
+      "country": "DE",
+      "domains": [
+        "ab-peptides.com",
+        "aucryptosummit.com",
+        "bangkoklovehotels.com",
+        "chipextras.com",
+        "customledg.com",
+        "hkcryptosummit.com",
+        "incryptosummit.com",
+        "innercirclelabs.net",
+        "kiwiinvestorsnz.com",
+        "lumennetwork.vip",
+        "nootropicsadvice.app",
+        "nootropicsuk.org",
+        "nzcryptosummit.com",
+        "nzethereumsummit.com",
+        "onlinecasummit.com",
+        "securitycheckled.com",
+        "sgcryptosummit.com",
+        "smarttsummit.com",
+        "swyftxwallet.com",
+        "xdiamond.xyz",
+        "xrpwallett.com"
       ]
     },
     {
@@ -992,29 +1026,6 @@
       ]
     },
     {
-      "ip": "185.158.133.1",
-      "count": 16,
-      "country": "DE",
-      "domains": [
-        "aucryptosummit.com",
-        "bangkoklovehotels.com",
-        "chipextras.com",
-        "customledg.com",
-        "hkcryptosummit.com",
-        "incryptosummit.com",
-        "innercirclelabs.net",
-        "lumennetwork.vip",
-        "nootropicsadvice.app",
-        "nootropicsuk.org",
-        "nzcryptosummit.com",
-        "nzethereumsummit.com",
-        "sgcryptosummit.com",
-        "swyftxwallet.com",
-        "xdiamond.xyz",
-        "xrpwallett.com"
-      ]
-    },
-    {
       "ip": "130.12.180.241",
       "count": 16,
       "country": "",
@@ -1039,14 +1050,16 @@
     },
     {
       "ip": "66.198.225.39",
-      "count": 13,
+      "count": 15,
       "country": "US",
       "domains": [
         "beastgamb.com",
+        "gezowin.com",
         "golden-era.app",
         "golden-era.bond",
         "golden-era777.com",
         "julywin.com",
+        "karambwan.com",
         "kesowin.com",
         "navifex.com",
         "olimpaura.cfd",
@@ -1097,6 +1110,25 @@
       ]
     },
     {
+      "ip": "31.57.216.88",
+      "count": 12,
+      "country": "IR",
+      "domains": [
+        "1407queenbet.com",
+        "307ultrabet.com",
+        "atlasbet1885.com",
+        "betasus1410.com",
+        "betcio1522.com",
+        "betzula711.com",
+        "casinoroyal603.com",
+        "extrabet2335.com",
+        "extrabet2351.com",
+        "extrabet2453.com",
+        "hiltonbet1791.com",
+        "setrabet1153.com"
+      ]
+    },
+    {
       "ip": "3.71.180.249",
       "count": 11,
       "country": "DE",
@@ -1129,23 +1161,6 @@
         "shopchicwear.com",
         "vipluxbags.com",
         "vipluxjewels.com"
-      ]
-    },
-    {
-      "ip": "31.57.216.88",
-      "count": 10,
-      "country": "IR",
-      "domains": [
-        "1407queenbet.com",
-        "atlasbet1885.com",
-        "betasus1410.com",
-        "betcio1522.com",
-        "betzula711.com",
-        "casinoroyal603.com",
-        "extrabet2335.com",
-        "extrabet2351.com",
-        "extrabet2453.com",
-        "hiltonbet1791.com"
       ]
     },
     {
