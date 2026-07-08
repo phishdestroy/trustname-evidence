@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-07",
+  "generated": "2026-07-08",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1329,
+      "count": 1338,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,12 +111,13 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1262,
+      "count": 1275,
       "country": "",
       "domains": [
         "001kpayments.com",
         "10109bets10.com",
         "10110bets10.com",
+        "10199bets10.com",
         "10678marsbahis.com",
         "11354marsbahis.com",
         "1185madridbet.com",
@@ -174,6 +175,7 @@
         "882betcio.com",
         "887favorisen.com",
         "888starzuk.com",
+        "9009bahis.com",
         "932884-ledger.com",
         "956matbett.com",
         "adddad-click.com",
@@ -211,9 +213,7 @@
         "argonex.net",
         "asiaflyandtravel.com",
         "atlasbet-megaoyun.icu",
-        "aura-finance.org",
-        "auroraspel.com",
-        "aus-casino-chip-no-deposit.com"
+        "aura-finance.org"
       ]
     },
     {
@@ -864,7 +864,7 @@
     },
     {
       "ip": "130.12.180.243",
-      "count": 27,
+      "count": 28,
       "country": "",
       "domains": [
         "bet-bonuslar.org",
@@ -881,6 +881,7 @@
         "jojobetguvenliadresgiris.com",
         "kingroyalbetgunceladres.com",
         "kingroyalresmiguncelgiris.com",
+        "live2026-gir.com",
         "meritbetguncelresmiturkiyeadres.com",
         "meritbetguncelturkiyeresmiadres.com",
         "meritbetguncelturkiyeresmigiris.com",
@@ -1026,6 +1027,30 @@
       ]
     },
     {
+      "ip": "66.198.225.39",
+      "count": 17,
+      "country": "US",
+      "domains": [
+        "beastgamb.com",
+        "betsolis.com",
+        "gezowin.com",
+        "golden-era.app",
+        "golden-era.bond",
+        "golden-era777.com",
+        "julywin.com",
+        "karambwan.com",
+        "kesowin.com",
+        "navifex.com",
+        "olimpaura.cfd",
+        "olimpaura.icu",
+        "planet-play.net",
+        "pragmatic-bets.com",
+        "rakespin.com",
+        "spinember.com",
+        "wasowin.com"
+      ]
+    },
+    {
       "ip": "130.12.180.241",
       "count": 16,
       "country": "",
@@ -1049,25 +1074,23 @@
       ]
     },
     {
-      "ip": "66.198.225.39",
-      "count": 15,
-      "country": "US",
+      "ip": "31.57.216.88",
+      "count": 13,
+      "country": "IR",
       "domains": [
-        "beastgamb.com",
-        "gezowin.com",
-        "golden-era.app",
-        "golden-era.bond",
-        "golden-era777.com",
-        "julywin.com",
-        "karambwan.com",
-        "kesowin.com",
-        "navifex.com",
-        "olimpaura.cfd",
-        "olimpaura.icu",
-        "planet-play.net",
-        "pragmatic-bets.com",
-        "rakespin.com",
-        "wasowin.com"
+        "1407queenbet.com",
+        "307ultrabet.com",
+        "atlasbet1885.com",
+        "avrupabet751.com",
+        "betasus1410.com",
+        "betcio1522.com",
+        "betzula711.com",
+        "casinoroyal603.com",
+        "extrabet2335.com",
+        "extrabet2351.com",
+        "extrabet2453.com",
+        "hiltonbet1791.com",
+        "setrabet1153.com"
       ]
     },
     {
@@ -1107,25 +1130,6 @@
         "southernlandsholdings.com",
         "stantonholdingltd.com",
         "tomandtandytransport.com"
-      ]
-    },
-    {
-      "ip": "31.57.216.88",
-      "count": 12,
-      "country": "IR",
-      "domains": [
-        "1407queenbet.com",
-        "307ultrabet.com",
-        "atlasbet1885.com",
-        "betasus1410.com",
-        "betcio1522.com",
-        "betzula711.com",
-        "casinoroyal603.com",
-        "extrabet2335.com",
-        "extrabet2351.com",
-        "extrabet2453.com",
-        "hiltonbet1791.com",
-        "setrabet1153.com"
       ]
     },
     {

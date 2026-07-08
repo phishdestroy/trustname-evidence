@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07",
+  "generated": "2026-07-08",
   "keywords": {
     "trust": [
       "activation-trust.com",
@@ -189,6 +189,7 @@
       "4globalsupport.com",
       "agnt-support.com",
       "banksupport24.com",
+      "betsat-support.com",
       "clientsupport-authportal.com",
       "communitlysupport.com",
       "depot-plainte-support.com",
@@ -267,6 +268,7 @@
       "fishin-frenzy-officially.net",
       "fishin-frenzy-officially.org",
       "ikimisli-officiallive.com",
+      "jerseymikesofficial.com",
       "jetbahis-officialgiris.com",
       "meritking-officialadresi.com",
       "mobilbahis-officialgirisi.com",
@@ -362,30 +364,6 @@
       "ubeswap.net",
       "zenexswap.com"
     ],
-    "vault": [
-      "btrvault.com",
-      "chieftainvault.com",
-      "hellovaulto.com",
-      "insidevaulto.com",
-      "join-vaulto.com",
-      "joinvaulto.com",
-      "tenzvault.net",
-      "vault-bridge.net",
-      "vault-hustle.com",
-      "vaultjack.net",
-      "vaulto-bank.com",
-      "vaulto-newsletter.com",
-      "vaulto-notification.com",
-      "vaulto-uk.com",
-      "vaultobanking.com",
-      "vaultofin.com",
-      "vaultofintech.com",
-      "vaultoltd.com",
-      "vaultonails.com",
-      "vaultonews.com",
-      "vaultouk.com",
-      "web3guardvault.com"
-    ],
     "coinbase": [
       "1017-coinbase.com",
       "135874coinbase.com",
@@ -409,6 +387,30 @@
       "coinbaseyield.com",
       "login52884-coinbase.com",
       "ui-coinbase.com"
+    ],
+    "vault": [
+      "btrvault.com",
+      "chieftainvault.com",
+      "hellovaulto.com",
+      "insidevaulto.com",
+      "join-vaulto.com",
+      "joinvaulto.com",
+      "tenzvault.net",
+      "vault-bridge.net",
+      "vault-hustle.com",
+      "vaultjack.net",
+      "vaulto-bank.com",
+      "vaulto-newsletter.com",
+      "vaulto-notification.com",
+      "vaulto-uk.com",
+      "vaultobanking.com",
+      "vaultofin.com",
+      "vaultofintech.com",
+      "vaultoltd.com",
+      "vaultonails.com",
+      "vaultonews.com",
+      "vaultouk.com",
+      "web3guardvault.com"
     ],
     "wallet": [
       "basecoldwallet.com",
@@ -486,33 +488,20 @@
       "superbridge-app.net",
       "vault-bridge.net"
     ],
-    "farm": [
-      "bergafarmsequipment.com",
-      "bored-farm.com",
-      "brackettfarmsupply.com",
-      "catfarmandequipment.com",
-      "enterfarmerstates.com",
-      "farmaciadellesostanze.com",
-      "farmasi-bk.com",
-      "farmerfx.net",
-      "farmerstatings.com",
-      "royfrittsfarmequipments.com",
-      "thcafarmersmarket.com",
-      "zurifarm.com"
-    ],
-    "claim": [
-      "claim-benefits-now-mycra.com",
-      "claim-cgeb-ab.help",
-      "claim-yom.com",
-      "claimflarexrp.com",
-      "claimjerseys.com",
-      "claimscotiabank.com",
-      "claimxrpflare.com",
-      "essentialsclaim-cra6.com",
-      "infocgeb-claimnow1.com",
-      "latitude-claims.com",
-      "profileclaim-acc30.com",
-      "profileclaim-conf26.com"
+    "update": [
+      "1bmonlinesupportupdate.com",
+      "bro-updates.com",
+      "careers-jobupdates.com",
+      "firmware-updater.cloud",
+      "hiringjobs-update.com",
+      "infoupdatecraportal.com",
+      "microsoft-security-update.com",
+      "microsoftupdates.pro",
+      "neforesupdate.com",
+      "policyupdate.dev",
+      "rapid-update.com",
+      "update-installer.com",
+      "updatesession.net"
     ],
     "kraken": [
       "captcha-kraken.com",
@@ -528,18 +517,33 @@
       "krakensix.com",
       "razer-kraken-onion.com"
     ],
-    "update": [
-      "1bmonlinesupportupdate.com",
-      "bro-updates.com",
-      "careers-jobupdates.com",
-      "firmware-updater.cloud",
-      "hiringjobs-update.com",
-      "microsoft-security-update.com",
-      "neforesupdate.com",
-      "policyupdate.dev",
-      "rapid-update.com",
-      "update-installer.com",
-      "updatesession.net"
+    "claim": [
+      "claim-benefits-now-mycra.com",
+      "claim-cgeb-ab.help",
+      "claim-yom.com",
+      "claimflarexrp.com",
+      "claimjerseys.com",
+      "claimscotiabank.com",
+      "claimxrpflare.com",
+      "essentialsclaim-cra6.com",
+      "infocgeb-claimnow1.com",
+      "latitude-claims.com",
+      "profileclaim-acc30.com",
+      "profileclaim-conf26.com"
+    ],
+    "farm": [
+      "bergafarmsequipment.com",
+      "bored-farm.com",
+      "brackettfarmsupply.com",
+      "catfarmandequipment.com",
+      "enterfarmerstates.com",
+      "farmaciadellesostanze.com",
+      "farmasi-bk.com",
+      "farmerfx.net",
+      "farmerstatings.com",
+      "royfrittsfarmequipments.com",
+      "thcafarmersmarket.com",
+      "zurifarm.com"
     ]
   }
 }

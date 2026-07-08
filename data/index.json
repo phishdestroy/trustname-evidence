@@ -2900,29 +2900,41 @@
     },
     {
       "date": "2026-07-04",
-      "count": 41,
-      "revenue": 301.59,
+      "count": 141,
+      "revenue": 1187.59,
       "path": "data/new/2026/07/2026-07-04.txt"
+    },
+    {
+      "date": "2026-07-05",
+      "count": 10,
+      "revenue": 92.9,
+      "path": "data/new/2026/07/2026-07-05.txt"
+    },
+    {
+      "date": "2026-07-06",
+      "count": 5,
+      "revenue": 4.95,
+      "path": "data/new/2026/07/2026-07-06.txt"
     }
   ],
-  "total_new_all_time": 11190,
-  "total_revenue_estimate": 94250.44,
+  "total_new_all_time": 11305,
+  "total_revenue_estimate": 95234.29,
   "avg_registration_days": 412,
   "ip_countries": {
-    "US": 608,
-    "GB": 159,
+    "US": 614,
+    "GB": 160,
     "RU": 154,
     "DE": 141,
     "NL": 124,
     "CA": 90,
     "BZ": 82,
-    "UA": 70,
+    "UA": 71,
     "BG": 61,
-    "IR": 47
+    "IR": 48
   },
   "top_shared_ips": {
-    "188.114.96.3": 1329,
-    "188.114.97.3": 1262,
+    "188.114.96.3": 1338,
+    "188.114.97.3": 1275,
     "131.222.213.13": 165,
     "130.12.180.245": 89,
     "190.115.31.173": 60,
@@ -2934,41 +2946,41 @@
     "130.12.180.239": 36,
     "130.12.180.244": 30,
     "45.10.243.15": 28,
-    "130.12.180.243": 27,
+    "130.12.180.243": 28,
     "185.158.133.1": 21,
     "131.222.213.25": 19,
     "23.227.38.65": 18,
     "89.117.51.233": 18,
     "34.111.179.208": 18,
-    "130.12.180.241": 16
+    "66.198.225.39": 17
   },
-  "deployed_count": 7312,
-  "no_ip_count": 3878,
-  "deployment_rate": 65.3,
+  "deployed_count": 7376,
+  "no_ip_count": 3929,
+  "deployment_rate": 65.2,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 10815,
+    "eq_1yr": 10930,
     "yr_2": 156,
     "yr_3plus": 219
   },
-  "pct_gt_1yr": 3.4,
-  "pct_gt_2yr": 2.0,
+  "pct_gt_1yr": 3.3,
+  "pct_gt_2yr": 1.9,
   "tld_stats": {
     "com": {
-      "count": 8872,
+      "count": 8967,
       "avg_days": 411
     },
     "icu": {
-      "count": 687,
+      "count": 694,
       "avg_days": 365
     },
     "net": {
-      "count": 489,
+      "count": 495,
       "avg_days": 432
     },
     "org": {
-      "count": 468,
-      "avg_days": 480
+      "count": 473,
+      "avg_days": 479
     },
     "app": {
       "count": 84,
@@ -2979,8 +2991,8 @@
       "avg_days": 365
     },
     "pro": {
-      "count": 67,
-      "avg_days": 414
+      "count": 68,
+      "avg_days": 413
     },
     "cyou": {
       "count": 50,
@@ -3019,7 +3031,7 @@
       "avg_days": 365
     },
     "dev": {
-      "count": 11,
+      "count": 12,
       "avg_days": 365
     },
     "fans": {
@@ -3037,27 +3049,27 @@
   },
   "revenue_by_tld": {
     "com": {
-      "count": 8872,
+      "count": 8967,
       "price": 8.99,
-      "revenue": 79759.28,
+      "revenue": 80613.33,
       "pct": 84.6
     },
     "icu": {
-      "count": 687,
+      "count": 694,
       "price": 0.99,
-      "revenue": 680.13,
+      "revenue": 687.06,
       "pct": 0.7
     },
     "net": {
-      "count": 489,
+      "count": 495,
       "price": 9.99,
-      "revenue": 4885.11,
+      "revenue": 4945.05,
       "pct": 5.2
     },
     "org": {
-      "count": 468,
+      "count": 473,
       "price": 9.99,
-      "revenue": 4675.32,
+      "revenue": 4725.27,
       "pct": 5.0
     },
     "app": {
@@ -3073,9 +3085,9 @@
       "pct": 0.4
     },
     "pro": {
-      "count": 67,
+      "count": 68,
       "price": 7.99,
-      "revenue": 535.33,
+      "revenue": 543.32,
       "pct": 0.6
     },
     "cyou": {
@@ -3133,9 +3145,9 @@
       "pct": 0.1
     },
     "dev": {
-      "count": 11,
+      "count": 12,
       "price": 4.99,
-      "revenue": 54.89,
+      "revenue": 59.88,
       "pct": 0.1
     },
     "fans": {
@@ -3159,12 +3171,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 752,
-    "within_month": 2826,
-    "older": 7612
+    "within_week": 649,
+    "within_month": 2994,
+    "older": 7662
   },
-  "avg_catch_age_days": 819,
-  "fresh_pct": 6.7,
+  "avg_catch_age_days": 817,
+  "fresh_pct": 5.7,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3174,7 +3186,7 @@
     {
       "date": "2026-06-25",
       "count": 222,
-      "x_avg": 9.6
+      "x_avg": 9.5
     },
     {
       "date": "2026-06-30",
@@ -3194,7 +3206,7 @@
     {
       "date": "2026-06-10",
       "count": 191,
-      "x_avg": 8.3
+      "x_avg": 8.2
     },
     {
       "date": "2026-06-04",
@@ -3243,7 +3255,7 @@
     "9-18-15-12-9": 29,
     "+44-0808-8020-133": 27,
     "4-23-10-17-10": 23,
-    "6-12-12-16-14": 10,
+    "6-12-12-16-14": 12,
     "9-12-15-12-15-22": 8,
     "9-12-15-18-9": 8,
     "5-19-12-12-19": 7,
@@ -3257,26 +3269,26 @@
     "login": 47,
     "secure": 41,
     "binance": 36,
-    "support": 33,
+    "support": 34,
     "ledger": 32,
-    "official": 30,
+    "official": 31,
     "crypto": 26,
     "connect": 24,
     "swap": 23,
-    "vault": 22,
     "coinbase": 22,
+    "vault": 22,
     "wallet": 20,
     "verify": 19,
     "account": 15,
     "bridge": 14,
-    "farm": 12,
-    "claim": 12,
+    "update": 13,
     "kraken": 12,
-    "update": 11
+    "claim": 12,
+    "farm": 12
   },
   "unranked_pct": 99.8,
   "ranked_count": 19,
-  "correlation_count": 3760,
-  "correlation_pct": 33.6,
-  "last_updated": "2026-07-04"
+  "correlation_count": 3765,
+  "correlation_pct": 33.3,
+  "last_updated": "2026-07-06"
 }
