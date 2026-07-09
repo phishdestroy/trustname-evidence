@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08",
+  "generated": "2026-07-09",
   "keywords": {
     "trust": [
       "activation-trust.com",
@@ -42,6 +42,7 @@
       "trustname1.com",
       "trustnamedummy.com",
       "trustprojectcard.com",
+      "trustseba24.com",
       "trustvps.net",
       "trustwallet-digital.com",
       "trustycc.net",
@@ -315,6 +316,7 @@
     ],
     "connect": [
       "auth-connector.com",
+      "cloudcheckerconnect.com",
       "connect-if-y.com",
       "connectdplus.com",
       "connecttpocket.com",
@@ -359,6 +361,7 @@
       "swap-tw.com",
       "swap-tw.org",
       "swapx-app.com",
+      "trueusd-swap.org",
       "tw-swap.com",
       "tw-swap.org",
       "ubeswap.net",
@@ -492,6 +495,7 @@
       "1bmonlinesupportupdate.com",
       "bro-updates.com",
       "careers-jobupdates.com",
+      "defande-update.com",
       "firmware-updater.cloud",
       "hiringjobs-update.com",
       "infoupdatecraportal.com",
@@ -502,20 +506,6 @@
       "rapid-update.com",
       "update-installer.com",
       "updatesession.net"
-    ],
-    "kraken": [
-      "captcha-kraken.com",
-      "kraken-darknet-market.org",
-      "kraken-link-onion.org",
-      "kraken-link-tor.org",
-      "kraken-onion.org",
-      "kraken-verifizierung.com",
-      "krakenenter.com",
-      "krakenofftech.com",
-      "krakensite1.com",
-      "krakensite1.net",
-      "krakensix.com",
-      "razer-kraken-onion.com"
     ],
     "claim": [
       "claim-benefits-now-mycra.com",
@@ -544,6 +534,20 @@
       "royfrittsfarmequipments.com",
       "thcafarmersmarket.com",
       "zurifarm.com"
+    ],
+    "kraken": [
+      "captcha-kraken.com",
+      "kraken-darknet-market.org",
+      "kraken-link-onion.org",
+      "kraken-link-tor.org",
+      "kraken-onion.org",
+      "kraken-verifizierung.com",
+      "krakenenter.com",
+      "krakenofftech.com",
+      "krakensite1.com",
+      "krakensite1.net",
+      "krakensix.com",
+      "razer-kraken-onion.com"
     ]
   }
 }

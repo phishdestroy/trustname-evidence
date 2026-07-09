@@ -38,6 +38,7 @@ trust	trustname.net
 trust	trustname1.com
 trust	trustnamedummy.com
 trust	trustprojectcard.com
+trust	trustseba24.com
 trust	trustvps.net
 trust	trustwallet-digital.com
 trust	trustycc.net
@@ -295,6 +296,7 @@ crypto	spacexcryptocoin.com
 crypto	v-cryptotrade.com
 crypto	winna-crypto-casino.com
 connect	auth-connector.com
+connect	cloudcheckerconnect.com
 connect	connect-if-y.com
 connect	connectdplus.com
 connect	connecttpocket.com
@@ -337,6 +339,7 @@ swap	swap-trust.org
 swap	swap-tw.com
 swap	swap-tw.org
 swap	swapx-app.com
+swap	trueusd-swap.org
 swap	tw-swap.com
 swap	tw-swap.org
 swap	ubeswap.net
@@ -456,6 +459,7 @@ bridge	vault-bridge.net
 update	1bmonlinesupportupdate.com
 update	bro-updates.com
 update	careers-jobupdates.com
+update	defande-update.com
 update	firmware-updater.cloud
 update	hiringjobs-update.com
 update	infoupdatecraportal.com
@@ -466,18 +470,6 @@ update	policyupdate.dev
 update	rapid-update.com
 update	update-installer.com
 update	updatesession.net
-kraken	captcha-kraken.com
-kraken	kraken-darknet-market.org
-kraken	kraken-link-onion.org
-kraken	kraken-link-tor.org
-kraken	kraken-onion.org
-kraken	kraken-verifizierung.com
-kraken	krakenenter.com
-kraken	krakenofftech.com
-kraken	krakensite1.com
-kraken	krakensite1.net
-kraken	krakensix.com
-kraken	razer-kraken-onion.com
 claim	claim-benefits-now-mycra.com
 claim	claim-cgeb-ab.help
 claim	claim-yom.com
@@ -502,3 +494,15 @@ farm	farmerstatings.com
 farm	royfrittsfarmequipments.com
 farm	thcafarmersmarket.com
 farm	zurifarm.com
+kraken	captcha-kraken.com
+kraken	kraken-darknet-market.org
+kraken	kraken-link-onion.org
+kraken	kraken-link-tor.org
+kraken	kraken-onion.org
+kraken	kraken-verifizierung.com
+kraken	krakenenter.com
+kraken	krakenofftech.com
+kraken	krakensite1.com
+kraken	krakensite1.net
+kraken	krakensix.com
+kraken	razer-kraken-onion.com
