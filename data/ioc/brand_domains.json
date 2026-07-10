@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09",
+  "generated": "2026-07-10",
   "keywords": {
     "trust": [
       "activation-trust.com",
@@ -194,6 +194,7 @@
       "clientsupport-authportal.com",
       "communitlysupport.com",
       "depot-plainte-support.com",
+      "dinara-support.com",
       "federal-support.net",
       "ganduscamsupport.cyou",
       "hatznorthamericasupport.com",
@@ -365,6 +366,7 @@
       "tw-swap.com",
       "tw-swap.org",
       "ubeswap.net",
+      "xmagnetic-swap.org",
       "zenexswap.com"
     ],
     "coinbase": [
@@ -415,6 +417,28 @@
       "vaultouk.com",
       "web3guardvault.com"
     ],
+    "verify": [
+      "bets10-guncelverify.com",
+      "bmo1verify.com",
+      "depop-verify-part.com",
+      "drive-auth-verify.com",
+      "faceit-verify-account.com",
+      "goverify-faceit.com",
+      "insta-verify-now.cyou",
+      "invite-tracker-verify.com",
+      "oegk-verify.net",
+      "paypal-identity-verify.com",
+      "portal-verify.app",
+      "rbcbusiness-verify.com",
+      "toto-verify.com",
+      "verify-auth-cloud.com",
+      "verify-find.sbs",
+      "verify-server.sbs",
+      "verifyesigndocs.com",
+      "verifyiptest.com",
+      "verifynowportal.net",
+      "verifyy-club.com"
+    ],
     "wallet": [
       "basecoldwallet.com",
       "bitpandawebwallet.com",
@@ -436,27 +460,6 @@
       "xrpwallett.com",
       "zkxwallet.app",
       "zkxwallet.org"
-    ],
-    "verify": [
-      "bets10-guncelverify.com",
-      "bmo1verify.com",
-      "depop-verify-part.com",
-      "drive-auth-verify.com",
-      "faceit-verify-account.com",
-      "goverify-faceit.com",
-      "insta-verify-now.cyou",
-      "invite-tracker-verify.com",
-      "oegk-verify.net",
-      "paypal-identity-verify.com",
-      "portal-verify.app",
-      "rbcbusiness-verify.com",
-      "verify-auth-cloud.com",
-      "verify-find.sbs",
-      "verify-server.sbs",
-      "verifyesigndocs.com",
-      "verifyiptest.com",
-      "verifynowportal.net",
-      "verifyy-club.com"
     ],
     "account": [
       "accountcherled.com",
@@ -507,20 +510,6 @@
       "update-installer.com",
       "updatesession.net"
     ],
-    "claim": [
-      "claim-benefits-now-mycra.com",
-      "claim-cgeb-ab.help",
-      "claim-yom.com",
-      "claimflarexrp.com",
-      "claimjerseys.com",
-      "claimscotiabank.com",
-      "claimxrpflare.com",
-      "essentialsclaim-cra6.com",
-      "infocgeb-claimnow1.com",
-      "latitude-claims.com",
-      "profileclaim-acc30.com",
-      "profileclaim-conf26.com"
-    ],
     "farm": [
       "bergafarmsequipment.com",
       "bored-farm.com",
@@ -531,6 +520,7 @@
       "farmasi-bk.com",
       "farmerfx.net",
       "farmerstatings.com",
+      "phoenix-farm.org",
       "royfrittsfarmequipments.com",
       "thcafarmersmarket.com",
       "zurifarm.com"
@@ -548,6 +538,20 @@
       "krakensite1.net",
       "krakensix.com",
       "razer-kraken-onion.com"
+    ],
+    "claim": [
+      "claim-benefits-now-mycra.com",
+      "claim-cgeb-ab.help",
+      "claim-yom.com",
+      "claimflarexrp.com",
+      "claimjerseys.com",
+      "claimscotiabank.com",
+      "claimxrpflare.com",
+      "essentialsclaim-cra6.com",
+      "infocgeb-claimnow1.com",
+      "latitude-claims.com",
+      "profileclaim-acc30.com",
+      "profileclaim-conf26.com"
     ]
   }
 }
