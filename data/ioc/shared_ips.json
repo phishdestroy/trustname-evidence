@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-10",
+  "generated": "2026-07-11",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1358,
+      "count": 1375,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1299,
+      "count": 1313,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -325,7 +325,7 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 93,
+      "count": 94,
       "country": "",
       "domains": [
         "11557bets10.com",
@@ -342,6 +342,7 @@
         "bets10-giristr26.com",
         "bets10-orjgirisadresi.com",
         "bets10-vipgirisadresi26.com",
+        "bets10aktifgirisadresi26.com",
         "bets10guncelgirisadresi26.com",
         "bets10resmiturkiyeadresgiris.com",
         "bets10songirisadresi.com",
@@ -425,7 +426,7 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 60,
+      "count": 62,
       "country": "BZ",
       "domains": [
         "24hourpharmacyhub.com",
@@ -448,6 +449,7 @@
         "doxycycline100mg-hyclate.com",
         "doxycyclinebuy.info",
         "doxycyclinebuyhyclate.net",
+        "doxycyclinecheap.info",
         "doxycyclinehyclate-buy.com",
         "doxycyclineonline.info",
         "doxycyclineprice100mg.com",
@@ -482,6 +484,7 @@
         "rybelsuspharmacy.com",
         "tobuyfinasteride.com",
         "worldpharmacyonline.com",
+        "zithromax-azithromycin-buy.info",
         "zithromax-azithromycin.net",
         "zithromax250mgazithromycin.com",
         "zithromaxazithromycin24.com",
@@ -804,9 +807,10 @@
     },
     {
       "ip": "130.12.180.244",
-      "count": 30,
+      "count": 32,
       "country": "",
       "domains": [
+        "11560bets10.com",
         "bet-aktif.win",
         "bet-girisler.pro",
         "bet-gunceli.org",
@@ -828,6 +832,7 @@
         "casibomtrgirisadres.com",
         "grandpashabetguvenligiris.com",
         "guncel-madridbet.pro",
+        "jojobetl.org",
         "kingroyalguncelturkiyegiris.com",
         "meritbetgiris.xyz",
         "meritbetresmiguncelturkiyegiris.com",
@@ -1129,6 +1134,25 @@
       ]
     },
     {
+      "ip": "3.71.180.249",
+      "count": 12,
+      "country": "DE",
+      "domains": [
+        "100mg-doxycycline-hyclate.info",
+        "bahisteyimvip.com",
+        "bro-castle.com",
+        "bro-casual.com",
+        "bro-news.info",
+        "bro-updates.com",
+        "madinahacademyicsb.com",
+        "qaprodforwardingtestv2.com",
+        "qaprodtestfrwd2.com",
+        "qatestahhskna.com",
+        "randstadca.com",
+        "viagrabestbuy.com"
+      ]
+    },
+    {
       "ip": "178.238.236.172",
       "count": 12,
       "country": "DE",
@@ -1164,24 +1188,6 @@
         "trueusd-swap.org",
         "xmagnetic-swap.org",
         "xrpl-dex.pro"
-      ]
-    },
-    {
-      "ip": "3.71.180.249",
-      "count": 11,
-      "country": "DE",
-      "domains": [
-        "bahisteyimvip.com",
-        "bro-castle.com",
-        "bro-casual.com",
-        "bro-news.info",
-        "bro-updates.com",
-        "madinahacademyicsb.com",
-        "qaprodforwardingtestv2.com",
-        "qaprodtestfrwd2.com",
-        "qatestahhskna.com",
-        "randstadca.com",
-        "viagrabestbuy.com"
       ]
     },
     {
@@ -1361,6 +1367,21 @@
       ]
     },
     {
+      "ip": "149.154.167.99",
+      "count": 8,
+      "country": "GB",
+      "domains": [
+        "bop-girls.com",
+        "bop-main.com",
+        "bopaccess.com",
+        "discord-securitybot.com",
+        "goyleaks.com",
+        "invites-tracker-app.com",
+        "invitetracks.net",
+        "loggersecure.com"
+      ]
+    },
+    {
       "ip": "2.27.12.179",
       "count": 8,
       "country": "GB",
@@ -1376,6 +1397,21 @@
       ]
     },
     {
+      "ip": "2.24.15.218",
+      "count": 8,
+      "country": "GB",
+      "domains": [
+        "darkweb-servers.com",
+        "darkwebcyberit.net",
+        "libertycrestholdings.com",
+        "mapleforgegroup.com",
+        "marketaibots.com",
+        "mercatorgenius.net",
+        "securexceh.net",
+        "trusvalecapital.org"
+      ]
+    },
+    {
       "ip": "45.129.141.158",
       "count": 7,
       "country": "RU",
@@ -1387,20 +1423,6 @@
         "lotivo.app",
         "orizonia.net",
         "pumia.app"
-      ]
-    },
-    {
-      "ip": "149.154.167.99",
-      "count": 7,
-      "country": "GB",
-      "domains": [
-        "bop-girls.com",
-        "bop-main.com",
-        "bopaccess.com",
-        "discord-securitybot.com",
-        "goyleaks.com",
-        "invites-tracker-app.com",
-        "loggersecure.com"
       ]
     },
     {
@@ -1429,20 +1451,6 @@
         "jerseyspit.com",
         "valuejersey.com",
         "viphypejersey.com"
-      ]
-    },
-    {
-      "ip": "2.24.15.218",
-      "count": 7,
-      "country": "GB",
-      "domains": [
-        "darkweb-servers.com",
-        "darkwebcyberit.net",
-        "mapleforgegroup.com",
-        "marketaibots.com",
-        "mercatorgenius.net",
-        "securexceh.net",
-        "trusvalecapital.org"
       ]
     },
     {
