@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-11",
+  "generated": "2026-07-12",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1375,
+      "count": 1383,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1313,
+      "count": 1324,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -186,6 +186,7 @@
         "aerodrome.qpon",
         "airoprive.com",
         "aisi-box.com",
+        "aiwallet-analyzer.com",
         "aksoyalisveris.com",
         "allslotscasinowinca.com",
         "allyspin-casino-france.com",
@@ -212,8 +213,7 @@
         "argent-reel-casino1.com",
         "argentinaplinko.com",
         "argonex.net",
-        "asiaflyandtravel.com",
-        "atlasbet-megaoyun.icu"
+        "ascendexen.com"
       ]
     },
     {
@@ -807,7 +807,7 @@
     },
     {
       "ip": "130.12.180.244",
-      "count": 32,
+      "count": 36,
       "country": "",
       "domains": [
         "11560bets10.com",
@@ -825,9 +825,13 @@
         "bets10-vipgirisadresleriniz.com",
         "bets10aktifgiris.com",
         "bets10aktifgiris26.com",
+        "bets10aktifgirisadres26.com",
+        "bets10girisgo26.com",
         "bets10girisonlinego.com",
         "bets10tradresgiris.com",
+        "bets10trgirisler26.com",
         "bets10trguncelgiris.com",
+        "bets10turkiyegiris26.com",
         "bettiltturkiyegiris.com",
         "casibomtrgirisadres.com",
         "grandpashabetguvenligiris.com",
@@ -842,6 +846,43 @@
         "trmeritbetturkiye.com",
         "trmeritbetyeni.com",
         "xyz-adresgiris.com"
+      ]
+    },
+    {
+      "ip": "130.12.180.243",
+      "count": 30,
+      "country": "",
+      "domains": [
+        "bet-bonuslar.org",
+        "bet-destek.win",
+        "bet-fast.win",
+        "bet-girisi.win",
+        "bet-girisleri.org",
+        "bet-site.org",
+        "bet-tr.org",
+        "bets10-aktifgirisadresi.com",
+        "bets10girisadreslerim26.com",
+        "bets10orjinaladresi.com",
+        "bets10tradresi.com",
+        "bets10tradreslerim26.com",
+        "grandpashabetresmiadres.icu",
+        "jojobetguvenliadresgiris.com",
+        "kingroyalbetgunceladres.com",
+        "kingroyalresmiguncelgiris.com",
+        "live2026-gir.com",
+        "meritbetguncelresmiturkiyeadres.com",
+        "meritbetguncelturkiyeresmiadres.com",
+        "meritbetguncelturkiyeresmigiris.com",
+        "meritbetresmiadresturkiye.com",
+        "meritbetresmigiristurkiye.com",
+        "meritbettrgirisadres.com",
+        "meritbetturkiyegunceladres.com",
+        "meritbetturkiyegunceladresgiris.com",
+        "meritbetturkiyeguncelresmigiris.com",
+        "meritbetturkiyeresmiadresgiris.com",
+        "trmeritbetguncel.com",
+        "trmeritbetresmi.com",
+        "xyz-adres.com"
       ]
     },
     {
@@ -877,41 +918,6 @@
         "teosbet2026.com",
         "teosbet2026tr.com",
         "teosbet2o26.com"
-      ]
-    },
-    {
-      "ip": "130.12.180.243",
-      "count": 28,
-      "country": "",
-      "domains": [
-        "bet-bonuslar.org",
-        "bet-destek.win",
-        "bet-fast.win",
-        "bet-girisi.win",
-        "bet-girisleri.org",
-        "bet-site.org",
-        "bet-tr.org",
-        "bets10-aktifgirisadresi.com",
-        "bets10orjinaladresi.com",
-        "bets10tradresi.com",
-        "grandpashabetresmiadres.icu",
-        "jojobetguvenliadresgiris.com",
-        "kingroyalbetgunceladres.com",
-        "kingroyalresmiguncelgiris.com",
-        "live2026-gir.com",
-        "meritbetguncelresmiturkiyeadres.com",
-        "meritbetguncelturkiyeresmiadres.com",
-        "meritbetguncelturkiyeresmigiris.com",
-        "meritbetresmiadresturkiye.com",
-        "meritbetresmigiristurkiye.com",
-        "meritbettrgirisadres.com",
-        "meritbetturkiyegunceladres.com",
-        "meritbetturkiyegunceladresgiris.com",
-        "meritbetturkiyeguncelresmigiris.com",
-        "meritbetturkiyeresmiadresgiris.com",
-        "trmeritbetguncel.com",
-        "trmeritbetresmi.com",
-        "xyz-adres.com"
       ]
     },
     {
@@ -1114,6 +1120,26 @@
       ]
     },
     {
+      "ip": "186.2.175.35",
+      "count": 13,
+      "country": "BZ",
+      "domains": [
+        "amlbinances.org",
+        "amlbotfree.org",
+        "amlview.org",
+        "blaze-stake.org",
+        "fartcoinswap.pro",
+        "jupiter-perp.pro",
+        "rails-dex.org",
+        "railsx-dex.net",
+        "tron-staking.org",
+        "troncard.org",
+        "trueusd-swap.org",
+        "xmagnetic-swap.org",
+        "xrpl-dex.pro"
+      ]
+    },
+    {
       "ip": "186.2.163.247",
       "count": 13,
       "country": "NL",
@@ -1169,25 +1195,6 @@
         "southernlandsholdings.com",
         "stantonholdingltd.com",
         "tomandtandytransport.com"
-      ]
-    },
-    {
-      "ip": "186.2.175.35",
-      "count": 12,
-      "country": "BZ",
-      "domains": [
-        "amlbinances.org",
-        "amlview.org",
-        "blaze-stake.org",
-        "fartcoinswap.pro",
-        "jupiter-perp.pro",
-        "rails-dex.org",
-        "railsx-dex.net",
-        "tron-staking.org",
-        "troncard.org",
-        "trueusd-swap.org",
-        "xmagnetic-swap.org",
-        "xrpl-dex.pro"
       ]
     },
     {
@@ -1272,6 +1279,22 @@
       ]
     },
     {
+      "ip": "149.154.167.99",
+      "count": 9,
+      "country": "GB",
+      "domains": [
+        "bop-girls.com",
+        "bop-main.com",
+        "bopaccess.com",
+        "discord-securitybot.com",
+        "goyleaks.com",
+        "invites-tracker-app.com",
+        "invitetrackerv2.com",
+        "invitetracks.net",
+        "loggersecure.com"
+      ]
+    },
+    {
       "ip": "2.27.14.74",
       "count": 9,
       "country": "GB",
@@ -1336,6 +1359,22 @@
       ]
     },
     {
+      "ip": "31.57.108.88",
+      "count": 9,
+      "country": "IR",
+      "domains": [
+        "lv-b1fda103.cfd",
+        "lv-b1fda106.cfd",
+        "lv-b1fda110.cfd",
+        "lv-b1fda111.sbs",
+        "lv-b1fda113.cfd",
+        "lv-b1fda115.sbs",
+        "lv-b1fda116.cfd",
+        "lv-b1fda118.sbs",
+        "lv-b1fda120.cfd"
+      ]
+    },
+    {
       "ip": "196.240.181.233",
       "count": 9,
       "country": "BE",
@@ -1364,21 +1403,6 @@
         "primepassiveincomewhatsapp.com",
         "retireearlystrategyhub.com",
         "wealthinnovatorpath.com"
-      ]
-    },
-    {
-      "ip": "149.154.167.99",
-      "count": 8,
-      "country": "GB",
-      "domains": [
-        "bop-girls.com",
-        "bop-main.com",
-        "bopaccess.com",
-        "discord-securitybot.com",
-        "goyleaks.com",
-        "invites-tracker-app.com",
-        "invitetracks.net",
-        "loggersecure.com"
       ]
     },
     {
@@ -1482,6 +1506,32 @@
       ]
     },
     {
+      "ip": "91.223.82.8",
+      "count": 6,
+      "country": "AM",
+      "domains": [
+        "buyfakenotesonline.org",
+        "curepharmacy.net",
+        "diverse-lynx.com",
+        "rajat.money",
+        "unisysdigital.com",
+        "wellnespharmacy.net"
+      ]
+    },
+    {
+      "ip": "216.198.79.65",
+      "count": 6,
+      "country": "US",
+      "domains": [
+        "aliancadobem.net",
+        "creditocolumbia.com",
+        "olexweb.com",
+        "pinoycreditmoney.com",
+        "trucklotamerica.com",
+        "tukyy.com"
+      ]
+    },
+    {
       "ip": "107.189.21.1",
       "count": 6,
       "country": "NL",
@@ -1505,45 +1555,6 @@
         "m2bmo.com",
         "mysteps-cibc.com",
         "profilesupport-acc041.com"
-      ]
-    },
-    {
-      "ip": "91.229.239.28",
-      "count": 6,
-      "country": "MD",
-      "domains": [
-        "quicktent.org",
-        "safemerchant.pro",
-        "sensiopesent.org",
-        "senttobnb.org",
-        "transforbsc.org",
-        "truebnb.org"
-      ]
-    },
-    {
-      "ip": "45.59.125.160",
-      "count": 6,
-      "country": "US",
-      "domains": [
-        "1bmtlonlinesupport.com",
-        "2026cdrevnueagnct.com",
-        "2onlinescotiabank.com",
-        "alertbmo.com",
-        "instruction-cibc-login.com",
-        "rbcsecuredmobile.com"
-      ]
-    },
-    {
-      "ip": "104.21.55.113",
-      "count": 6,
-      "country": "",
-      "domains": [
-        "favorisen836.com",
-        "favorisen837.com",
-        "favorisen840.com",
-        "favorisen842.com",
-        "favorisen844.com",
-        "favorisen845.com"
       ]
     }
   ]
