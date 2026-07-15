@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-14",
+  "generated": "2026-07-15",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1408,
+      "count": 1416,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -26,6 +26,7 @@
         "1821bet10.com",
         "1909casibom.com",
         "1rbc-sapt.com",
+        "1win-engiris.com",
         "1winder.life",
         "1wineu.com",
         "1wingr.com",
@@ -105,13 +106,12 @@
         "amex-service.com",
         "amex-tech.com",
         "amgbahis1151.com",
-        "amgbahis1167.com",
-        "amgbahis1170.com"
+        "amgbahis1167.com"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1364,
+      "count": 1374,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -137,6 +137,7 @@
         "14mautosales.com",
         "1510bet10.com",
         "1515bet10.com",
+        "17autosales.com",
         "1864matbet.com",
         "1922extrabet.com",
         "1almostfreeautosales.com",
@@ -212,8 +213,7 @@
         "aquarabiatickets.com",
         "aresbet-giris.cam",
         "argent-reel-casino1.com",
-        "argentinaplinko.com",
-        "argonex.net"
+        "argentinaplinko.com"
       ]
     },
     {
@@ -955,6 +955,34 @@
       ]
     },
     {
+      "ip": "31.57.216.88",
+      "count": 21,
+      "country": "IR",
+      "domains": [
+        "1401queenbet.com",
+        "1407queenbet.com",
+        "307ultrabet.com",
+        "atlasbet1885.com",
+        "avrupabet751.com",
+        "avrupabet803.com",
+        "betasus1344.com",
+        "betasus1410.com",
+        "betcio1457.com",
+        "betcio1522.com",
+        "betzula711.com",
+        "casinoas502.com",
+        "casinoroyal603.com",
+        "casinoroyal606.com",
+        "extrabet2313.com",
+        "extrabet2335.com",
+        "extrabet2351.com",
+        "extrabet2453.com",
+        "hiltonbet1791.com",
+        "setrabet1151.com",
+        "setrabet1153.com"
+      ]
+    },
+    {
       "ip": "34.111.179.208",
       "count": 20,
       "country": "US",
@@ -979,6 +1007,32 @@
         "satelite-star.icu",
         "usvipsweep.com",
         "veloztrade.com"
+      ]
+    },
+    {
+      "ip": "89.117.51.233",
+      "count": 19,
+      "country": "DE",
+      "domains": [
+        "aeroworldflight.com",
+        "agencyroyalfamilydubia.com",
+        "apexfirmcapitals.com",
+        "britanniapetro.com",
+        "brusstrusteonline.com",
+        "centralheritageswiss.com",
+        "diamondcementgroup.com",
+        "firstheritagecinc.com",
+        "firstswissheritage.com",
+        "firstswissherithage.com",
+        "firsttrustswiss.com",
+        "ironcladcapitals.com",
+        "marinewealthglobal.com",
+        "miamedicequipment.com",
+        "quebecholdingshq.com",
+        "underexpressdeliveries.com",
+        "usdefencemilitaryportal.com",
+        "veltrioncapitals.com",
+        "weternshore.com"
       ]
     },
     {
@@ -1059,31 +1113,6 @@
       ]
     },
     {
-      "ip": "89.117.51.233",
-      "count": 18,
-      "country": "DE",
-      "domains": [
-        "aeroworldflight.com",
-        "agencyroyalfamilydubia.com",
-        "apexfirmcapitals.com",
-        "britanniapetro.com",
-        "brusstrusteonline.com",
-        "centralheritageswiss.com",
-        "diamondcementgroup.com",
-        "firstheritagecinc.com",
-        "firstswissheritage.com",
-        "firstswissherithage.com",
-        "firsttrustswiss.com",
-        "ironcladcapitals.com",
-        "miamedicequipment.com",
-        "quebecholdingshq.com",
-        "underexpressdeliveries.com",
-        "usdefencemilitaryportal.com",
-        "veltrioncapitals.com",
-        "weternshore.com"
-      ]
-    },
-    {
       "ip": "130.12.180.241",
       "count": 16,
       "country": "",
@@ -1108,12 +1137,13 @@
     },
     {
       "ip": "186.2.175.35",
-      "count": 15,
+      "count": 16,
       "country": "BZ",
       "domains": [
         "amlbinances.org",
         "amlbotfree.org",
         "amlview.org",
+        "amlxbybit.org",
         "blaze-stake.org",
         "coinbase-card.vip",
         "fartcoinswap.pro",
@@ -1146,26 +1176,6 @@
         "qatestahhskna.com",
         "randstadca.com",
         "viagrabestbuy.com"
-      ]
-    },
-    {
-      "ip": "31.57.216.88",
-      "count": 13,
-      "country": "IR",
-      "domains": [
-        "1407queenbet.com",
-        "307ultrabet.com",
-        "atlasbet1885.com",
-        "avrupabet751.com",
-        "betasus1410.com",
-        "betcio1522.com",
-        "betzula711.com",
-        "casinoroyal603.com",
-        "extrabet2335.com",
-        "extrabet2351.com",
-        "extrabet2453.com",
-        "hiltonbet1791.com",
-        "setrabet1153.com"
       ]
     },
     {
@@ -1372,6 +1382,22 @@
       ]
     },
     {
+      "ip": "2.24.15.218",
+      "count": 9,
+      "country": "GB",
+      "domains": [
+        "bluepeak-growth.com",
+        "darkweb-servers.com",
+        "darkwebcyberit.net",
+        "libertycrestholdings.com",
+        "mapleforgegroup.com",
+        "marketaibots.com",
+        "mercatorgenius.net",
+        "securexceh.net",
+        "trusvalecapital.org"
+      ]
+    },
+    {
       "ip": "69.5.189.120",
       "count": 9,
       "country": "US",
@@ -1431,21 +1457,6 @@
         "postcancorrection20.com",
         "rbcbusinessactivation.com",
         "rbcroyalbanksecurevalidation.help"
-      ]
-    },
-    {
-      "ip": "2.24.15.218",
-      "count": 8,
-      "country": "GB",
-      "domains": [
-        "darkweb-servers.com",
-        "darkwebcyberit.net",
-        "libertycrestholdings.com",
-        "mapleforgegroup.com",
-        "marketaibots.com",
-        "mercatorgenius.net",
-        "securexceh.net",
-        "trusvalecapital.org"
       ]
     },
     {
