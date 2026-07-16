@@ -2969,13 +2969,13 @@
   "total_revenue_estimate": 103382.64,
   "avg_registration_days": 409,
   "ip_countries": {
-    "US": 684,
+    "US": 686,
     "GB": 184,
     "RU": 159,
     "DE": 156,
     "NL": 131,
+    "BZ": 95,
     "CA": 91,
-    "BZ": 90,
     "UA": 78,
     "IR": 71,
     "BG": 64
@@ -2985,7 +2985,7 @@
     "188.114.97.3": 1374,
     "131.222.213.13": 165,
     "130.12.180.245": 94,
-    "190.115.31.173": 62,
+    "190.115.31.173": 67,
     "45.10.243.69": 55,
     "216.150.1.1": 52,
     "131.222.213.216": 50,
@@ -2998,13 +2998,13 @@
     "185.158.133.1": 23,
     "31.57.216.88": 21,
     "34.111.179.208": 20,
+    "66.198.225.39": 20,
     "89.117.51.233": 19,
-    "66.198.225.39": 19,
     "131.222.213.25": 19
   },
-  "deployed_count": 7951,
-  "no_ip_count": 4273,
-  "deployment_rate": 65.0,
+  "deployed_count": 7960,
+  "no_ip_count": 4264,
+  "deployment_rate": 65.1,
   "reg_periods": {
     "lt_1yr": 0,
     "eq_1yr": 11834,
@@ -3219,12 +3219,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 529,
-    "within_month": 3077,
-    "older": 8618
+    "within_week": 411,
+    "within_month": 2963,
+    "older": 8850
   },
-  "avg_catch_age_days": 817,
-  "fresh_pct": 4.3,
+  "avg_catch_age_days": 818,
+  "fresh_pct": 3.4,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3327,16 +3327,16 @@
     "coinbase": 23,
     "vault": 23,
     "verify": 20,
-    "account": 16,
     "bridge": 16,
-    "update": 14,
+    "account": 16,
     "farm": 14,
-    "claim": 12,
-    "kraken": 12
+    "update": 14,
+    "kraken": 12,
+    "claim": 12
   },
   "unranked_pct": 99.8,
   "ranked_count": 20,
-  "correlation_count": 3955,
+  "correlation_count": 3956,
   "correlation_pct": 32.4,
   "last_updated": "2026-07-12"
 }

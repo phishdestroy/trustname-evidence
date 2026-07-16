@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15",
+  "generated": "2026-07-16",
   "keywords": {
     "trust": [
       "activation-trust.com",
@@ -481,24 +481,6 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
-    "account": [
-      "accountcherled.com",
-      "accountcreatr.com",
-      "accountsassociated.com",
-      "accountshemig.com",
-      "accountshidden.com",
-      "accountsinformationses.com",
-      "accountsprotectionfdic.com",
-      "aviaanaccounting.net",
-      "faceit-verify-account.com",
-      "highriskmerchantaccounter.com",
-      "id-myaccount.com",
-      "myaccountdpus.com",
-      "personal-account.org",
-      "rnbaccountants.com",
-      "supportaccountweb.com",
-      "thebulkaccounts.com"
-    ],
     "bridge": [
       "avalanchebridge.org",
       "binance-bridge.net",
@@ -517,21 +499,23 @@
       "vault-bridge.net",
       "xinbridge.org"
     ],
-    "update": [
-      "1bmonlinesupportupdate.com",
-      "bro-updates.com",
-      "careers-jobupdates.com",
-      "defande-update.com",
-      "firmware-updater.cloud",
-      "hiringjobs-update.com",
-      "infoupdatecraportal.com",
-      "microsoft-security-update.com",
-      "microsoftupdates.pro",
-      "neforesupdate.com",
-      "policyupdate.dev",
-      "rapid-update.com",
-      "update-installer.com",
-      "updatesession.net"
+    "account": [
+      "accountcherled.com",
+      "accountcreatr.com",
+      "accountsassociated.com",
+      "accountshemig.com",
+      "accountshidden.com",
+      "accountsinformationses.com",
+      "accountsprotectionfdic.com",
+      "aviaanaccounting.net",
+      "faceit-verify-account.com",
+      "highriskmerchantaccounter.com",
+      "id-myaccount.com",
+      "myaccountdpus.com",
+      "personal-account.org",
+      "rnbaccountants.com",
+      "supportaccountweb.com",
+      "thebulkaccounts.com"
     ],
     "farm": [
       "bergafarmsequipment.com",
@@ -549,19 +533,21 @@
       "thcafarmersmarket.com",
       "zurifarm.com"
     ],
-    "claim": [
-      "claim-benefits-now-mycra.com",
-      "claim-cgeb-ab.help",
-      "claim-yom.com",
-      "claimflarexrp.com",
-      "claimjerseys.com",
-      "claimscotiabank.com",
-      "claimxrpflare.com",
-      "essentialsclaim-cra6.com",
-      "infocgeb-claimnow1.com",
-      "latitude-claims.com",
-      "profileclaim-acc30.com",
-      "profileclaim-conf26.com"
+    "update": [
+      "1bmonlinesupportupdate.com",
+      "bro-updates.com",
+      "careers-jobupdates.com",
+      "defande-update.com",
+      "firmware-updater.cloud",
+      "hiringjobs-update.com",
+      "infoupdatecraportal.com",
+      "microsoft-security-update.com",
+      "microsoftupdates.pro",
+      "neforesupdate.com",
+      "policyupdate.dev",
+      "rapid-update.com",
+      "update-installer.com",
+      "updatesession.net"
     ],
     "kraken": [
       "captcha-kraken.com",
@@ -576,6 +562,20 @@
       "krakensite1.net",
       "krakensix.com",
       "razer-kraken-onion.com"
+    ],
+    "claim": [
+      "claim-benefits-now-mycra.com",
+      "claim-cgeb-ab.help",
+      "claim-yom.com",
+      "claimflarexrp.com",
+      "claimjerseys.com",
+      "claimscotiabank.com",
+      "claimxrpflare.com",
+      "essentialsclaim-cra6.com",
+      "infocgeb-claimnow1.com",
+      "latitude-claims.com",
+      "profileclaim-acc30.com",
+      "profileclaim-conf26.com"
     ]
   }
 }

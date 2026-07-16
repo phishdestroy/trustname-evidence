@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15",
+  "generated": "2026-07-16",
   "count": 50,
   "ips": [
     {
@@ -426,10 +426,12 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 62,
+      "count": 67,
       "country": "BZ",
       "domains": [
         "24hourpharmacyhub.com",
+        "500mg-metronidazole-flagyl.info",
+        "500mg-metronidazoleflagyl.info",
         "alphamegapharmacy.com",
         "antibiotic-metronidazoleflagyl.com",
         "azithromycin-buyzithromax.com",
@@ -444,6 +446,7 @@
         "buyazithromycinzithromax.com",
         "buygenerics.com",
         "canadian24hrpharmacy.com",
+        "cheapdoxycycline.info",
         "cheapest-buy-doxycycline.com",
         "doxycycline-hyclatepurchase.com",
         "doxycycline100mg-hyclate.com",
@@ -475,11 +478,13 @@
         "johnnyivermectinseed.com",
         "metronidazole-flagylantibiotic.com",
         "mexicanpharmacyshops.com",
+        "online-doxycycline-100mg.info",
         "pharmacyadvocates.com",
         "pharmacyonline-eu.com",
         "pleasantviewpharmacy.net",
         "propecia-finasteride-5mg.net",
         "propeciafinasteride-buy.org",
+        "purchasedoxycycline.info",
         "rxpharmacycanada.com",
         "rybelsuspharmacy.com",
         "tobuyfinasteride.com",
@@ -1010,6 +1015,33 @@
       ]
     },
     {
+      "ip": "66.198.225.39",
+      "count": 20,
+      "country": "US",
+      "domains": [
+        "beastgamb.com",
+        "betsolis.com",
+        "fullgamb.com",
+        "gezowin.com",
+        "golden-era.app",
+        "golden-era.bond",
+        "golden-era777.com",
+        "julywin.com",
+        "karambwan.com",
+        "kesowin.com",
+        "navifex.com",
+        "nullgamb.com",
+        "olimpaura.cfd",
+        "olimpaura.icu",
+        "planet-play.net",
+        "pragmatic-bets.com",
+        "prizedice.com",
+        "rakespin.com",
+        "spinember.com",
+        "wasowin.com"
+      ]
+    },
+    {
       "ip": "89.117.51.233",
       "count": 19,
       "country": "DE",
@@ -1033,32 +1065,6 @@
         "usdefencemilitaryportal.com",
         "veltrioncapitals.com",
         "weternshore.com"
-      ]
-    },
-    {
-      "ip": "66.198.225.39",
-      "count": 19,
-      "country": "US",
-      "domains": [
-        "beastgamb.com",
-        "betsolis.com",
-        "fullgamb.com",
-        "gezowin.com",
-        "golden-era.app",
-        "golden-era.bond",
-        "golden-era777.com",
-        "julywin.com",
-        "karambwan.com",
-        "kesowin.com",
-        "navifex.com",
-        "olimpaura.cfd",
-        "olimpaura.icu",
-        "planet-play.net",
-        "pragmatic-bets.com",
-        "prizedice.com",
-        "rakespin.com",
-        "spinember.com",
-        "wasowin.com"
       ]
     },
     {

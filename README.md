@@ -27,14 +27,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-15`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-16`
 
 <table><tr>
 <td align="center"><b>📦 Domains tracked</b><br/><sub><code>12,224</code></sub></td>
 <td align="center"><b>💰 Est. revenue</b><br/><sub><code>$103,383</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>65.0%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>32.4%</code> (3,955)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>4.3%</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>65.1%</code></sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>32.4%</code> (3,956)</sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>3.4%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>4</code></sub></td>
 </tr></table>
 
@@ -56,13 +56,13 @@
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        684 (34.4%)
-GB  ████░░░░░░░░░░░░░░        184 (9.3%)
+US  ██████████████████        686 (34.4%)
+GB  ████░░░░░░░░░░░░░░        184 (9.2%)
 RU  ████░░░░░░░░░░░░░░        159 (8.0%)
 DE  ████░░░░░░░░░░░░░░        156 (7.8%)
 NL  ███░░░░░░░░░░░░░░░        131 (6.6%)
+BZ  ██░░░░░░░░░░░░░░░░         95 (4.8%)
 CA  ██░░░░░░░░░░░░░░░░         91 (4.6%)
-BZ  ██░░░░░░░░░░░░░░░░         90 (4.5%)
 UA  ██░░░░░░░░░░░░░░░░         78 (3.9%)
 ```
 
@@ -78,7 +78,7 @@ UA  ██░░░░░░░░░░░░░░░░         78 (3.9%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (53)` &middot; `login (50)` &middot; `secure (44)` &middot; `binance (37)` &middot; `support (35)` &middot; `ledger (32)` &middot; `official (32)` &middot; `swap (28)` &middot; `crypto (26)` &middot; `connect (26)` &middot; `wallet (23)` &middot; `coinbase (23)` &middot; `vault (23)` &middot; `verify (20)` &middot; `account (16)`
+`trust (53)` &middot; `login (50)` &middot; `secure (44)` &middot; `binance (37)` &middot; `support (35)` &middot; `ledger (32)` &middot; `official (32)` &middot; `swap (28)` &middot; `crypto (26)` &middot; `connect (26)` &middot; `wallet (23)` &middot; `coinbase (23)` &middot; `vault (23)` &middot; `verify (20)` &middot; `bridge (16)`
 
 ### 🕵️ Top Serial Registrants — 5 emails with ≥5 domains
 
