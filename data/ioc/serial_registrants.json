@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16",
-  "count": 5,
+  "generated": "2026-07-17",
+  "count": 11,
   "registrants": [
     {
       "email": "max@unternehmen.de",
@@ -77,7 +77,7 @@
     },
     {
       "email": "helpdesk@wingstop.com",
-      "count": 10,
+      "count": 11,
       "domains": [
         "home-winstoop.com",
         "order-wiingstop.com",
@@ -88,7 +88,52 @@
         "wingstop2026.com",
         "wingstopps.com",
         "wingsttopp.com",
+        "wlngsop.biz",
         "wnigtpost.com"
+      ]
+    },
+    {
+      "email": "info@khashoggiholding.com",
+      "count": 8,
+      "domains": [
+        "khashoggiholding.net",
+        "khashoggiholdingco.net",
+        "khashoggiholdinggroup.net",
+        "khashoggiholdinghq.net",
+        "khashoggiholdinginc.net",
+        "khashoggiholdings.net",
+        "khashoggiholdng.net",
+        "thekhashoggiholding.net"
+      ]
+    },
+    {
+      "email": "info@khashoggilaw.com",
+      "count": 8,
+      "domains": []
+    },
+    {
+      "email": "info@muhaidib.com",
+      "count": 7,
+      "domains": [
+        "almuhaidibb.net",
+        "almuhaidibco.net",
+        "almuhaidibex.net",
+        "almuhaidibexch.net",
+        "almuhaidibhq.net",
+        "almuhaidibs.net",
+        "thealmuhaidibntk.net"
+      ]
+    },
+    {
+      "email": "info@alrajhi-partners.com",
+      "count": 6,
+      "domains": [
+        "alrajhipartner.net",
+        "alrajhipartnersgroup.net",
+        "alrajhipartnershq.net",
+        "alrajhipartnersinc.net",
+        "alrajhipartnerss.net",
+        "alrajhipartnrs.net"
       ]
     },
     {
@@ -101,6 +146,22 @@
         "goldspelpromo.icu",
         "promopassagembus.com"
       ]
+    },
+    {
+      "email": "info@jimco.com",
+      "count": 5,
+      "domains": [
+        "jimcogroups.net",
+        "jimcohq.net",
+        "jimcoinc.net",
+        "jjimco.net",
+        "thejimex.net"
+      ]
+    },
+    {
+      "email": "media@jimco.com",
+      "count": 5,
+      "domains": []
     }
   ]
 }

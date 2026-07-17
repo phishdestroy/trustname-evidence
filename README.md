@@ -27,14 +27,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-16`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-17`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>12,224</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$103,383</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>12,494</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$105,815</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>65.1%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>32.4%</code> (3,956)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>3.4%</code></sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>31.7%</code> (3,963)</sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>4.3%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>4</code></sub></td>
 </tr></table>
 
@@ -42,53 +42,58 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 9,670 | 408d | $86,933 |
-| `.icu` | 711 | 365d | $704 |
-| `.net` | 585 | 425d | $5,844 |
-| `.org` | 515 | 472d | $5,145 |
-| `.app` | 88 | 365d | $1,232 |
+| `.com` | 9,829 | 408d | $88,363 |
+| `.icu` | 720 | 365d | $713 |
+| `.net` | 660 | 419d | $6,593 |
+| `.org` | 531 | 469d | $5,305 |
+| `.app` | 89 | 365d | $1,246 |
 | `.cam` | 83 | 365d | $414 |
 | `.pro` | 72 | 410d | $575 |
 | `.cyou` | 51 | 365d | $50 |
-| `.xyz` | 46 | 404d | $69 |
-| `.cfd` | 41 | 365d | $205 |
+| `.xyz` | 47 | 403d | $70 |
+| `.cfd` | 43 | 365d | $215 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        686 (34.4%)
-GB  ████░░░░░░░░░░░░░░        184 (9.2%)
-RU  ████░░░░░░░░░░░░░░        159 (8.0%)
-DE  ████░░░░░░░░░░░░░░        156 (7.8%)
-NL  ███░░░░░░░░░░░░░░░        131 (6.6%)
-BZ  ██░░░░░░░░░░░░░░░░         95 (4.8%)
-CA  ██░░░░░░░░░░░░░░░░         91 (4.6%)
-UA  ██░░░░░░░░░░░░░░░░         78 (3.9%)
+US  ██████████████████        739 (35.5%)
+GB  ████░░░░░░░░░░░░░░        187 (9.0%)
+RU  ███░░░░░░░░░░░░░░░        163 (7.8%)
+DE  ███░░░░░░░░░░░░░░░        161 (7.7%)
+NL  ███░░░░░░░░░░░░░░░        132 (6.3%)
+BZ  ██░░░░░░░░░░░░░░░░         95 (4.6%)
+CA  ██░░░░░░░░░░░░░░░░         93 (4.5%)
+UA  █░░░░░░░░░░░░░░░░░         79 (3.8%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-15` | 232 | **9.4×** 🚨 |
-| `2026-06-25` | 222 | **9.0×** 🚨 |
-| `2026-06-30` | 218 | **8.8×** 🚨 |
-| `2026-06-08` | 202 | **8.2×** 🚨 |
-| `2026-06-17` | 202 | **8.2×** 🚨 |
+| `2026-06-15` | 232 | **9.2×** 🚨 |
+| `2026-06-25` | 222 | **8.8×** 🚨 |
+| `2026-06-30` | 218 | **8.7×** 🚨 |
+| `2026-06-08` | 202 | **8.1×** 🚨 |
+| `2026-06-17` | 202 | **8.1×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (53)` &middot; `login (50)` &middot; `secure (44)` &middot; `binance (37)` &middot; `support (35)` &middot; `ledger (32)` &middot; `official (32)` &middot; `swap (28)` &middot; `crypto (26)` &middot; `connect (26)` &middot; `wallet (23)` &middot; `coinbase (23)` &middot; `vault (23)` &middot; `verify (20)` &middot; `bridge (16)`
+`trust (53)` &middot; `login (50)` &middot; `secure (45)` &middot; `binance (37)` &middot; `support (35)` &middot; `official (32)` &middot; `ledger (32)` &middot; `swap (28)` &middot; `connect (26)` &middot; `crypto (26)` &middot; `wallet (24)` &middot; `vault (23)` &middot; `coinbase (23)` &middot; `verify (20)` &middot; `account (16)`
 
-### 🕵️ Top Serial Registrants — 5 emails with ≥5 domains
+### 🕵️ Top Serial Registrants — 11 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
 | 1 | `m***@unternehmen.de` | **23** |
 | 2 | `sup***@mxl.zendesk.com` | **19** |
 | 3 | `sup***@stake.com` | **13** |
-| 4 | `hel***@wingstop.com` | **10** |
-| 5 | `s***@email.com` | **5** |
+| 4 | `hel***@wingstop.com` | **11** |
+| 5 | `inf***@khashoggiholding.com` | **8** |
+| 6 | `inf***@khashoggilaw.com` | **8** |
+| 7 | `inf***@muhaidib.com` | **7** |
+| 8 | `inf***@alrajhi-partners.com` | **6** |
+| 9 | `s***@email.com` | **5** |
+| 10 | `inf***@jimco.com` | **5** |
 
 ### 📥 Download Threat Intelligence
 
