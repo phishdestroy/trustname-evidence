@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-18",
+  "generated": "2026-07-19",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1454,
+      "count": 1477,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1400,
+      "count": 1412,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -172,6 +172,7 @@
         "582933-coinspot.com",
         "582953-coinspot.com",
         "595betzula.com",
+        "691223-cb.com",
         "777casino-cl.com",
         "7slotspremio-cl.com",
         "8185jojobet.com",
@@ -201,6 +202,7 @@
         "amgbahis1165.com",
         "amqbahis244.com",
         "amunra-casino-fr1.com",
+        "anna-lukovina-ua.com",
         "anonaddy.org",
         "anonfilesnew.com",
         "anonheaven.com",
@@ -211,9 +213,7 @@
         "app-fylelnq.com",
         "app-mileopayments.com",
         "app-sparkdex.org",
-        "app-spectrafinance.com",
-        "app-yom.net",
-        "aquarabiatickets.com"
+        "app-spectrafinance.com"
       ]
     },
     {
@@ -561,6 +561,66 @@
       ]
     },
     {
+      "ip": "130.12.180.244",
+      "count": 53,
+      "country": "",
+      "domains": [
+        "11560bets10.com",
+        "11561bets10.com",
+        "bet-aktif.win",
+        "bet-girisler.pro",
+        "bet-gunceli.org",
+        "bet-resmi.org",
+        "bet-sitesi.win",
+        "bet-sosyal.org",
+        "bet-sosyal.win",
+        "bet-tr.win",
+        "bets10-2026resmigiris.com",
+        "bets10-aktifgiris26.com",
+        "bets10-anliktekgiris.com",
+        "bets10-gunceladresvip.com",
+        "bets10-onlinegiris2026.com",
+        "bets10-trgirisresmi26.com",
+        "bets10-vipgirisadresi.com",
+        "bets10-vipgirisadresleriniz.com",
+        "bets10aktifgiris.com",
+        "bets10aktifgiris26.com",
+        "bets10aktifgirisadres26.com",
+        "bets10aktiflink.com",
+        "bets10anlikadresgiris.com",
+        "bets10fastgirisler.com",
+        "bets10girisadresguncel.com",
+        "bets10girisadresleriguncel.com",
+        "bets10girisgo26.com",
+        "bets10girislinki2026.com",
+        "bets10girisonlinego.com",
+        "bets10guncelgirislervip.com",
+        "bets10online2026.com",
+        "bets10resmitrgiris2026.com",
+        "bets10supergiris26.com",
+        "bets10supervipgiris.com",
+        "bets10tradresgiris.com",
+        "bets10tradresguncel.com",
+        "bets10trgirisler26.com",
+        "bets10trguncelgiris.com",
+        "bets10turkiyegiris26.com",
+        "bettiltturkiyegiris.com",
+        "casibomtrgirisadres.com",
+        "grandpashabetguvenligiris.com",
+        "guncel-madridbet.pro",
+        "jojobetl.org",
+        "kingroyalguncelturkiyegiris.com",
+        "meritbetgiris.xyz",
+        "meritbetresmiguncelturkiyegiris.com",
+        "meritbetturkiyeguncelresmiadres.com",
+        "meritbetvipadres.com",
+        "meritbetyeniturkiyegiris.com",
+        "trmeritbetturkiye.com",
+        "trmeritbetyeni.com",
+        "xyz-adresgiris.com"
+      ]
+    },
+    {
       "ip": "216.150.1.1",
       "count": 53,
       "country": "CA",
@@ -678,56 +738,6 @@
       ]
     },
     {
-      "ip": "130.12.180.244",
-      "count": 43,
-      "country": "",
-      "domains": [
-        "11560bets10.com",
-        "11561bets10.com",
-        "bet-aktif.win",
-        "bet-girisler.pro",
-        "bet-gunceli.org",
-        "bet-resmi.org",
-        "bet-sitesi.win",
-        "bet-sosyal.org",
-        "bet-sosyal.win",
-        "bet-tr.win",
-        "bets10-2026resmigiris.com",
-        "bets10-aktifgiris26.com",
-        "bets10-anliktekgiris.com",
-        "bets10-gunceladresvip.com",
-        "bets10-onlinegiris2026.com",
-        "bets10-trgirisresmi26.com",
-        "bets10-vipgirisadresi.com",
-        "bets10-vipgirisadresleriniz.com",
-        "bets10aktifgiris.com",
-        "bets10aktifgiris26.com",
-        "bets10aktifgirisadres26.com",
-        "bets10girisadresguncel.com",
-        "bets10girisgo26.com",
-        "bets10girisonlinego.com",
-        "bets10supervipgiris.com",
-        "bets10tradresgiris.com",
-        "bets10trgirisler26.com",
-        "bets10trguncelgiris.com",
-        "bets10turkiyegiris26.com",
-        "bettiltturkiyegiris.com",
-        "casibomtrgirisadres.com",
-        "grandpashabetguvenligiris.com",
-        "guncel-madridbet.pro",
-        "jojobetl.org",
-        "kingroyalguncelturkiyegiris.com",
-        "meritbetgiris.xyz",
-        "meritbetresmiguncelturkiyegiris.com",
-        "meritbetturkiyeguncelresmiadres.com",
-        "meritbetvipadres.com",
-        "meritbetyeniturkiyegiris.com",
-        "trmeritbetturkiye.com",
-        "trmeritbetyeni.com",
-        "xyz-adresgiris.com"
-      ]
-    },
-    {
       "ip": "130.12.180.238",
       "count": 39,
       "country": "",
@@ -820,7 +830,7 @@
     },
     {
       "ip": "130.12.180.239",
-      "count": 37,
+      "count": 38,
       "country": "",
       "domains": [
         "bet-fast.org",
@@ -840,6 +850,7 @@
         "bets10yeniguncelturkiyegiris.com",
         "cratosroyalbetguvenliadres.com",
         "galabetturkiyeresmigiris.com",
+        "jojobet-originalgirisi2026.com",
         "jojobet2026-qirisi.org",
         "kingroyaladrestr.com",
         "kingroyalresmiturkiyeadres.com",
@@ -1054,6 +1065,32 @@
       ]
     },
     {
+      "ip": "23.227.38.65",
+      "count": 19,
+      "country": "CA",
+      "domains": [
+        "7ecomercioeletronicos.com",
+        "brainifymindfuel.com",
+        "celinedion-billets.com",
+        "drmelaxincorp.com",
+        "fenicessence.com",
+        "florie-blankets.com",
+        "karolg-entradas.com",
+        "krewsew.com",
+        "nbaparisgame.com",
+        "sorarides.com",
+        "sparmagasinet.com",
+        "spelbutikerna.com",
+        "teevique.com",
+        "tricotita.com",
+        "ubergenz.com",
+        "urbankruze.com",
+        "vinha.icu",
+        "watchclubgiveaway.com",
+        "westmide.com"
+      ]
+    },
+    {
       "ip": "89.117.51.233",
       "count": 19,
       "country": "DE",
@@ -1103,31 +1140,6 @@
         "vaycasinogirisv2.org",
         "vaycasinoguncelgirisv2.org",
         "vaycasinoresmii.org"
-      ]
-    },
-    {
-      "ip": "23.227.38.65",
-      "count": 18,
-      "country": "CA",
-      "domains": [
-        "brainifymindfuel.com",
-        "celinedion-billets.com",
-        "drmelaxincorp.com",
-        "fenicessence.com",
-        "florie-blankets.com",
-        "karolg-entradas.com",
-        "krewsew.com",
-        "nbaparisgame.com",
-        "sorarides.com",
-        "sparmagasinet.com",
-        "spelbutikerna.com",
-        "teevique.com",
-        "tricotita.com",
-        "ubergenz.com",
-        "urbankruze.com",
-        "vinha.icu",
-        "watchclubgiveaway.com",
-        "westmide.com"
       ]
     },
     {
@@ -1238,6 +1250,24 @@
       ]
     },
     {
+      "ip": "101.99.94.39",
+      "count": 11,
+      "country": "MY",
+      "domains": [
+        "bachemholding.com",
+        "erpbiotechnology.com",
+        "hubeijianxiang.net",
+        "jeepbio.com",
+        "keruipeptides.com",
+        "mokemeibiotechnology.com",
+        "qingdaosabertechnology.com",
+        "qyaobiopeptides.com",
+        "sangonbio.com",
+        "theglplounge.com",
+        "vendorinvestigate.com"
+      ]
+    },
+    {
       "ip": "31.57.108.88",
       "count": 11,
       "country": "IR",
@@ -1304,23 +1334,6 @@
         "invitetrackerv2.com",
         "invitetracks.net",
         "loggersecure.com"
-      ]
-    },
-    {
-      "ip": "101.99.94.39",
-      "count": 10,
-      "country": "MY",
-      "domains": [
-        "bachemholding.com",
-        "erpbiotechnology.com",
-        "hubeijianxiang.net",
-        "jeepbio.com",
-        "keruipeptides.com",
-        "qingdaosabertechnology.com",
-        "qyaobiopeptides.com",
-        "sangonbio.com",
-        "theglplounge.com",
-        "vendorinvestigate.com"
       ]
     },
     {
@@ -1559,6 +1572,20 @@
       ]
     },
     {
+      "ip": "216.24.57.1",
+      "count": 7,
+      "country": "US",
+      "domains": [
+        "aileadit.com",
+        "coilwicks.com",
+        "lebon-bois.com",
+        "mindaroacademy.com",
+        "mundotorajos.com",
+        "transfersconnection.com",
+        "upictures.app"
+      ]
+    },
+    {
       "ip": "45.129.141.158",
       "count": 7,
       "country": "RU",
@@ -1598,20 +1625,6 @@
         "jerseyspit.com",
         "valuejersey.com",
         "viphypejersey.com"
-      ]
-    },
-    {
-      "ip": "64.185.181.238",
-      "count": 7,
-      "country": "US",
-      "domains": [
-        "almuhaidibb.net",
-        "almuhaidibco.net",
-        "almuhaidibex.net",
-        "almuhaidibexch.net",
-        "almuhaidibhq.net",
-        "almuhaidibs.net",
-        "thealmuhaidibntk.net"
       ]
     }
   ]

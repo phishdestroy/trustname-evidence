@@ -492,6 +492,9 @@
 663proxy.com
 67lbai.com
 684935.com
+691223-cb.com
+691223-coinbase.com
+691223-crypto.com
 6ba7b811-9dad-11d1-80b4-00c04fd430c8.com
 7-bit-casino.net
 7-bit-casino.org
@@ -501,8 +504,11 @@
 771-app.com
 775kareasbel.com
 777casino-cl.com
+7abetcasino-au.com
+7abetcasino-se.com
 7bitcasinopl.com
 7bitcasinowin-nz.com
+7ecomercioeletronicos.com
 7max.bet
 7orca-ag.com
 7signsca.com
@@ -582,6 +588,7 @@ accesd-appareil.com
 accesdd.com
 accesdenligne-appareil.com
 access-tpp.net
+account-minecraft.net
 accountcherled.com
 accountcreatr.com
 accountsassociated.com
@@ -653,6 +660,7 @@ aguila-cobros-mx.com
 ahp-management.com
 ahsdy8fasudifsdf.com
 ai-lightchain.com
+ai-traid.com
 aiahf947.com
 aichemixmax.com
 aichemixpro.com
@@ -661,6 +669,8 @@ aides-conseils.com
 aides-inter.com
 aides-international.com
 aifaleads.net
+aileadit.com
+ailux.trade
 aipaca.market
 aiphotodetect.app
 air-kpg.com
@@ -689,6 +699,7 @@ alain-consulting.ltd
 alain-consulting.net
 alain-consulting.org
 alain-consulting.pro
+alaskakriek.com
 albareeqa.com
 albaxco.com
 albbax.com
@@ -932,7 +943,11 @@ aresbet9l8.com
 argent-reel-casino1.com
 argentinaplinko.com
 argentio-spin-casino.com
+argfam.com
 argonex.net
+argosfamilyoffices.com
+argosfamilyoffices.net
+argosfo.com
 ariannesystems.com
 arkansas-acte.org
 arkansascriminalattorney.net
@@ -980,6 +995,7 @@ atelierclubreserve.com
 atendercutie.com
 atendimentoaocliente.cyou
 atlantic-spins.org
+atlas-minecraft.net
 atlasbet-egiris.icu
 atlasbet-megaoyun.icu
 atlasbet1885.com
@@ -1026,6 +1042,7 @@ autarchy.net
 auth-connector.com
 auth-rackspace.icu
 auth-user-coinbase.com
+authenticator-rbcsecured.com
 authochecks.com
 auto-autoreload.com
 autoembed.net
@@ -1106,6 +1123,7 @@ bahiscasino1130.com
 bahiscasino1141.com
 bahiscasino1142.com
 bahiscasino1145.com
+bahiscasino1150.com
 bahiscasinobakimda.com
 bahisfair-guncelgir.icu
 bahisfair-oyun.icu
@@ -1163,7 +1181,9 @@ basecoldwallet.com
 basisum.com
 bastwin.com
 baterywin-ca.com
+bateselectric.net
 bauda-info.com
+bauda-lt.com
 bavomex.com
 bawolimberwork.com
 bazooka-service.com
@@ -1218,6 +1238,7 @@ belist1788.com
 belkare441.com
 bellechan.moe
 bellivo300.com
+bellivo302.com
 bellstrucksales.net
 belmarino962.com
 belmartin254.com
@@ -1375,6 +1396,7 @@ betbeyi877.com
 betbeyi890.com
 betbeyi891.com
 betblastwin-uk.com
+betbuffoon-nl.net
 betcas.pro
 betcenteruk.com
 betci0.com
@@ -1449,6 +1471,7 @@ betgit1075.com
 betgit1090.com
 betgit1217.com
 betgitdirekgiris.com
+betgitl1123.com
 betify-casino-france1.com
 betify-casino2.com
 betify-casino3.com
@@ -1515,6 +1538,7 @@ betovex.com
 betovis-sans.icu
 betovis-viphemen.icu
 betparigiris.icu
+betpark-analiz.com
 betpark-appmobile.com
 betpark-bahsegel.com
 betpark-betting.com
@@ -1522,6 +1546,8 @@ betpark-bul.icu
 betpark-discount.com
 betpark-egiris.icu
 betpark-erisimgiris.com
+betpark-gercekgiris.com
+betpark-girislertr.com
 betpark-global.com
 betpark-guvenilir.com
 betpark-hizligiris.com
@@ -1555,6 +1581,7 @@ betpark-vipmobile.com
 betpark-viporiginal.com
 betpark-vipresmi.com
 betpark1259.cam
+betpark1402.com
 betpark1407.com
 betpark1481.com
 betpark1482.com
@@ -1677,6 +1704,7 @@ bets10-casinadresleri.com
 bets10-casinoerisim.com
 bets10-casinogirisi.com
 bets10-casinohizmet.com
+bets10-connect.com
 bets10-dogrugiris.com
 bets10-dunyakupasi.com
 bets10-erisimadresi.com
@@ -1871,6 +1899,7 @@ bets10-vipturkey.com
 bets10-webadresi.com
 bets10-webgiris.com
 bets10-wingiris.com
+bets10-winkazanc.com
 bets10-yatirimgiris.com
 bets10-yenigirisadresi.com
 bets10-yenigirisleri.com
@@ -1894,6 +1923,8 @@ bets10aktifgiris.com
 bets10aktifgiris26.com
 bets10aktifgirisadres26.com
 bets10aktifgirisadresi26.com
+bets10aktiflink.com
+bets10aktifsonadres.com
 bets10anlikadresgiris.com
 bets10anlikgirisler26.com
 bets10caliadres.com
@@ -1921,6 +1952,7 @@ bets10globalerisim.com
 bets10gunceladresler.com
 bets10guncelcasinogel.com
 bets10guncelgirisadresi26.com
+bets10guncelgirislervip.com
 bets10guncelgiristurkiye.com
 bets10guncelkazanc.com
 bets10guncelresmigirisadres.com
@@ -1934,12 +1966,14 @@ bets10kazancgiris.com
 bets10milyonkazanc.com
 bets10mobile3.com
 bets10mobilelive.com
+bets10online2026.com
 bets10orjinaladres.com
 bets10orjinaladresi.com
 bets10orjinalgiris.com
 bets10orjinalresmi.com
 bets10oyungiris.com
 bets10oyunlargiris.com
+bets10resmiadres26.com
 bets10resmigirisi.com
 bets10resmigiristurkiye.com
 bets10resmigirisvip.com
@@ -1954,6 +1988,7 @@ bets10resmiturkiyegunceladres.com
 bets10resmiweb.com
 bets10songirisadresi.com
 bets10sportsgiris.com
+bets10supergiris26.com
 bets10supervipgiris.com
 bets10tekgiris.icu
 bets10tekgiris26.icu
@@ -1968,11 +2003,13 @@ bets10tr-tekguncel.com
 bets10tr-turkiyegirisi.com
 bets10tradres.com
 bets10tradresgiris.com
+bets10tradresguncel.com
 bets10tradresi.com
 bets10tradreslerim26.com
 bets10trgiris.icu
 bets10trgirisadres.com
 bets10trgirisadresi26.com
+bets10trgirisanlik.com
 bets10trgirisler26.com
 bets10trguncel.com
 bets10trguncelgiris.com
@@ -1991,6 +2028,7 @@ bets10turkiyeresmigunceladresgiris.com
 bets10turkiyeresmiguncelgiris.com
 bets10turkiyeyeniadres.com
 bets10turkiyeyenigiris.com
+bets10vipadresler26.com
 bets10vipadresleri.com
 bets10vipgiris.com
 bets10vipgirisler.com
@@ -2012,8 +2050,10 @@ betsalvador795.com
 betsalvador797.com
 betsalvador799.com
 betsalvadorbonusgiris.com
+betsat-2giris.com
 betsat-adres.com
 betsat-aktifgiris.com
+betsat-analiz.com
 betsat-anigiris.com
 betsat-anlikgiris.com
 betsat-bahsegir.com
@@ -2025,6 +2065,7 @@ betsat-bonusgiris.com
 betsat-discount.com
 betsat-dunyakupasi.com
 betsat-girislerim1.com
+betsat-girislertr.com
 betsat-girisvip.com
 betsat-globalgiris.com
 betsat-gunceladres.com
@@ -2115,6 +2156,7 @@ betsmove2177.com
 betsmove2178.com
 betsmove2182.com
 betsmove2o26.com
+betsofa-de.com
 betsolis.com
 betterhealth-reports.com
 betterhealth-reports.net
@@ -2286,6 +2328,7 @@ bluffbetgameca.com
 blufferfox.com
 blzzz.work
 bmailer.org
+bmf-gv-steuer.net
 bmfinanceglobal.com
 bmo-validate.com
 bmo1verification.com
@@ -2416,6 +2459,9 @@ bro-updates.com
 bro100500.com
 brocsn.com
 brow-relay.com
+browinnercasino-de.net
+browinnercasino-es.net
+browinnercasino-it.com
 brownellglock.com
 broxusbet.com
 broxxus.com
@@ -2525,6 +2571,7 @@ buteex.com
 buufaallowildswings.com
 buuffallowildswings.com
 buy-azithromycin.com
+buy-choice.com
 buy-finasteridepropecia.com
 buy-fluconazolediflucan.net
 buy-hydroxychloroquine.com
@@ -2605,6 +2652,7 @@ calinnov.com
 call96-au.com
 callersmartemail.com
 calliopehourglass.com
+callpizzde.com
 calupohde.com
 camewex.com
 camowex.com
@@ -2651,6 +2699,7 @@ carmelcity.org
 carrbaradass.com
 carswelllakeoutfitters.com
 cartcovex.com
+carterruth.com
 cartincoupon.com
 cartmeadowhub.com
 cartnexushub.com
@@ -3052,6 +3101,7 @@ cialisisa.com
 cibc-disputes.com
 cibc-onlinesetupdevice1.com
 cibc-portalsecurity.com
+cibc-resetonline.help
 cibc-security-web.com
 cibc-securityweb.com
 cibc-setallyouralerts.com
@@ -3174,6 +3224,7 @@ closetandyou.com
 cloud365web.com
 cloudcheckerconnect.com
 cloudsocket.app
+cloverjack.net
 cloverpot.net
 cloversbet.com
 clovtex.com
@@ -3364,7 +3415,9 @@ crotosroyalbet926.com
 crotosroyalbet928.com
 crotosroyalbet930.com
 crotosroyalbet936.com
+crowdin.link
 crownau77-au.com
+crownaudcasino.net
 crownedluck.com
 crowngold-casinoau.com
 crowngoldca.com
@@ -3476,6 +3529,8 @@ davesh0tchicken.com
 daveshotcgicken.com
 daveshotcjicken.com
 davexoxo.icu
+davidkedwards.net
+davidkedwardsco.com
 davidshopy.com
 dazardbet-aus.com
 dazzlecasinowin-uk.com
@@ -3493,6 +3548,7 @@ dcklink.com
 de-appsuite.com
 de-betbeast.com
 de-client.app
+de-crazytower.net
 de-dollycasino.com
 de-kundencenter.app
 de-kundenservice.app
@@ -3501,7 +3557,9 @@ de-mein.com
 de-oc.app
 de-rechung.app
 de-rechung.com
+de-sierracasino.com
 de-spinboss.net
+de-spinko.com
 de-westace.com
 de-wettzo.com
 deadphish.org
@@ -3701,6 +3759,7 @@ distoplace.com
 diverse-lynx.com
 dividendincomewhatsapp.com
 djesof.com
+dkewards.com
 dktivoli.com
 dlroe.com
 dmca2026.com
@@ -3725,6 +3784,7 @@ doladowaniaorangepl.com
 dollarmart24.com
 dollyofficehours.com
 dolomite-finance.com
+dolphin88-casino.com
 domainprivacy24.com
 domalnverlficatlon.com
 domedagen.cyou
@@ -3748,6 +3808,7 @@ dota-market.org
 dota-market1.com
 doubled-auto.com
 doubledownfortuna-cl.com
+doublegamb.com
 doubletbags.com
 doufux.com
 douglipp.net
@@ -3839,6 +3900,7 @@ dutch-seeds.net
 dutchanabolen.com
 duxhumanshealth.com
 duzano.com
+dvkedwards.com
 dwajficov.icu
 dwskd.com
 dy.ing
@@ -3993,6 +4055,7 @@ epicmoney.sbs
 eqileader.org
 equipmentforsales.com
 equitydiplomat.com
+erhalltenn-ri.cfd
 erhalten-data.com
 erisimbets10gir.com
 erlementes.com
@@ -4005,6 +4068,7 @@ error-panel.com
 erstattung-oegk.net
 ervestiumhungary.com
 es-correo.app
+es-happyjokers.net
 es-lizaro.com
 esasportfoy.org
 esbet683.com
@@ -4015,6 +4079,7 @@ escalonadesing.info
 escamablack.com
 escort.center
 eseamatches.com
+esia-gosuslug.com
 esl-bits.pet
 esl-bits.pro
 espace-ca-pro.com
@@ -4023,6 +4088,7 @@ espana-chickenroad.com
 essentialsclaim-cra6.com
 estaportalus.net
 estv-aktualisierung.net
+esuntera.org
 eswou.com
 etaassistcenter.com
 etaglobal-portal.com
@@ -4058,6 +4124,9 @@ evawin-mx.com
 evenfroqch.com
 eventfronline.com
 eventsource-firebase.com
+everestgroupco.com
+everestgroupco.net
+everestgroups.net
 everestworldlifts.com
 evgenbond1.org
 evgeniybond.com
@@ -4065,6 +4134,7 @@ evignetteflow.com
 evil-corp.app
 evilglitch.app
 evr-i-5949593.com
+evrstco.com
 evrstgrp.com
 evuk-reschedule.com
 ewallet-casino-login-au.com
@@ -4242,6 +4312,8 @@ fhjtw.com
 fideluk.com
 fidelusa.com
 fidrenmouseh.com
+fiestaslots-fi.net
+fiestaslots-nl.net
 fiestawild.com
 fifaworldcup-careers.com
 fighterpulse.com
@@ -4393,6 +4465,7 @@ fogyokurasinjekciok.com
 folks-finance.org
 folksfinance.org
 folksfinances.com
+folymart.com
 fomawin.com
 foneposyelo.com
 fonexplay.com
@@ -4484,6 +4557,7 @@ frostjack.com
 frostysmm.com
 frozeisland.com
 frpiggybankbonanza.com
+frtauctions.com
 frumzi-casino-fr1.com
 frumzi-casino-fr2.com
 frumzi-casino6.com
@@ -4515,6 +4589,8 @@ funforwin.com
 funkhousermotor.com
 funkyspinse.com
 funsly.sbs
+funzybets-de.com
+funzybets-it.com
 fuokex.com
 furybonus.com
 furydex.com
@@ -4771,6 +4847,8 @@ gocialise.com
 godmeth-au.com
 godofwins7.com
 godowex.com
+godzcasino-de.net
+godzcasino-fr.net
 goebux.com
 goefox.com
 gofxmarket.com
@@ -4897,6 +4975,7 @@ grandpashabet1922.com
 grandpashabet1925.com
 grandpashabet1926.com
 grandpashabet2021.com
+grandpashabet2026bns.com
 grandpashabet2026girisi.com
 grandpashabet2241.com
 grandpashabet2920.com
@@ -5014,6 +5093,7 @@ guncel-madridbet.pro
 guncel-onwinadresi.com
 guncel-superbetinadresi.com
 guncel-superbetingirisi.com
+gunceladres-bets10.com
 guncelbets10resmi.com
 guncelbetsat-adres.com
 guncelcasinositeleri.icu
@@ -5069,12 +5149,17 @@ hanyulink.com
 haocast.com
 hapevex.com
 happy-birthday-jani.icu
+happyjokers-ca.net
+happyjokers-it.net
+happyjokers-polska.com
+happyjokers2.com
 happyworldchat.com
 happyworldcrm.com
 happyworldspro.com
 happyworldxap.com
 harbiwinaffilate.icu
 harbiwinhizligir.icu
+harborpacificglobal.com
 harborviewsmilestudio.com
 hardcas.com
 harmonix-finance.net
@@ -5149,6 +5234,7 @@ hawanex.com
 haz-casino1.com
 hazbel408.com
 hazbel418.com
+hazbel419.com
 hb35y.com
 hdkjsahdkjashdkjashdjkas.sbs
 hdkskwkwgg.bond
@@ -5182,11 +5268,13 @@ hellovaulto.com
 hellspinbetca.com
 hellspingamepl.com
 help-amex.com
+help-minecraft.net
 helper-desk.com
 helphumanfirst.org
 helpline-yahoo.com
 helpomn.com
 helposhmark.com
+helpwecareglobal.org
 helvetixpharma.com
 helvetixpharma.info
 helvetixpharma.net
@@ -5226,6 +5314,7 @@ hexchallengers.com
 hexowin.net
 hexowin149.pro
 hexowin167.pro
+hezowin.com
 hgiknyffghgf.com
 hgjhgjhgjhgjhg.sbs
 hiddenfeaturestwente.net
@@ -5373,6 +5462,16 @@ horizonracingcommunity.com
 horizontickets22.com
 hornsmanagers.com
 hospitell.icu
+hot-dealhub.com
+hotel-eu1538.com
+hotel-eu2947.com
+hotel-eu3601.com
+hotel-eu4189.com
+hotel-eu6812.com
+hotel-eu7359.com
+hotel-eu8426.com
+hotel-eu9135.com
+hotel-eu9871.com
 hoteliersummit.com
 hotlinecasinopl.com
 hotmailmart.com
@@ -5482,6 +5581,7 @@ iaysn688.com
 ibatrixio.com
 ibizabet-girisguncel.com
 ibizabet4200.com
+ibizabet4201.com
 ibizabets-giris.com
 ibmautotrade.com
 icas0788.net
@@ -5496,6 +5596,8 @@ icloudfinddevice.com
 icshre.com
 id-myaccount.com
 idcam.app
+identidades-portal-es.sbs
+identidades-portal.sbs
 idm-download.net
 idnqjedtcm.com
 idrayid.com
@@ -5572,6 +5674,7 @@ imperialcoonhouse.com
 imperialcrown.bond
 imperialcrown.icu
 imperixa.com
+impotauto.org
 in-gestiones.com
 incomecompoundinghub.com
 incomegrowthfreedom.com
@@ -5736,6 +5839,7 @@ ip4n.net
 iptvsmarterspro-eu.com
 irg18.wiki
 iris-clean.com
+irishanabolics.com
 irishdistrict.com
 ironcladcapitals.com
 irondaddyus.com
@@ -5793,9 +5897,11 @@ jadconenddox.com
 jakseandlobex.com
 jamescare.cfd
 jamescasonllc.cyou
+jamslots-casino.net
 jamunabankltd.com
 janewex.com
 janiwex.com
+janride.org
 jantocklikem.com
 jaovex.com
 japanopenchains.com
@@ -5962,6 +6068,7 @@ jojobet-girisi-guncel.icu
 jojobet-girisi-guvenli.icu
 jojobet-girisi-resmi.icu
 jojobet-girisi-yeni.com
+jojobet-girisi-yeni.icu
 jojobet-girisim-guncel.com
 jojobet-girisim-guncel.icu
 jojobet-girisim-guvenli.icu
@@ -6014,6 +6121,7 @@ jojobet-netgiris.icu
 jojobet-nextgiris.icu
 jojobet-online-erisim.com
 jojobet-onlineerisim.com
+jojobet-originalgirisi2026.com
 jojobet-originaltek.com
 jojobet-orijinal-app.com
 jojobet-orijinal-app.icu
@@ -6149,6 +6257,8 @@ jokaroom-vip-casino.com
 jokarooms-vip.com
 joker-tipp.bet
 joker-tipp.com
+jokerstar-it.com
+jokerstarcasino-nl.com
 jokertipp.bet
 jokertipp.casino
 jokertipp.com
@@ -6423,6 +6533,7 @@ klein-fensterservice.com
 klimabonus-2026.net
 klimabonus-antrag.net
 klimabonus-at.com
+klimabonus-erhalten.net
 klimabonus2026.net
 kliogrid.com
 kmspico.best
@@ -6467,6 +6578,7 @@ koyra.net
 kozawin.com
 kptt2.com
 kr68.net
+kr8386.com
 kra30at.org
 kra38-at-link.org
 kra38-cc-link.org
@@ -6699,6 +6811,7 @@ ljsilverrss.com
 ljsilverss.com
 ljslivers.com
 llcdwportal.com
+lnternalsupport.com
 load-file2.icu
 loadfree.net
 loancity69.com
@@ -6743,6 +6856,7 @@ lordcasino-bul.icu
 lordcasino-giris.cam
 lordcasino0602.com
 lordfilmonlinetv.com
+loreamtoys.com
 lorewex.com
 lostonroads.com
 lot9ine-au.com
@@ -7263,7 +7377,9 @@ medixhubs.net
 medsinga.com
 medsvista.net
 meeronex.com
+meet-now.org
 meethotfun.com
+meeting-invite.net
 meetyourposher.com
 mega-duel.com
 mega2mg.com
@@ -7569,6 +7685,7 @@ meritiking-resmi3.icu
 meritking-2026giris.com
 meritking-2026girisi.com
 meritking-appgiris.com
+meritking-betting.com
 meritking-casinogiris.com
 meritking-dunya.com
 meritking-giris26.icu
@@ -7607,6 +7724,7 @@ meritking-ulasimadresi.com
 meritking-viperisim.com
 meritking-vipglobal.com
 meritking-vippremium.com
+meritking-winkazanc.com
 meritking-yeniadresleri.com
 meritking11699.com
 meritking3215.com
@@ -7617,6 +7735,7 @@ meritking4356.com
 meritking4576.com
 meritking4676.com
 meritking50020.com
+meritking50025.com
 meritking8020.com
 meritkingadresiniz.icu
 meritkingeulas.com
@@ -7857,6 +7976,8 @@ moeauto.org
 mofchemicals.com
 mofewex.com
 moi-casino1.com
+mokemeibiotechnology.com
+mokesciu-lt.com
 mokshnow.com
 molarimplant.com
 molodoyjeff.com
@@ -7909,6 +8030,7 @@ mr-sloty-casino1.com
 mralmighty.net
 mrbahis952.com
 mrccconsultings.com
+mrking-yenigiris.com
 mrking10040.com
 mrking10050.com
 mrpachopl.com
@@ -8269,6 +8391,7 @@ nezwin.com
 nfagoogle.com
 nfl-munchen.com
 nftmetacanvas.com
+ngebetsports.com
 ngentotngentot.com
 ngr-global.com
 ngrave-io.com
@@ -8307,6 +8430,7 @@ nltdesc.com
 nnbulanatives.com
 nnvjdkaqss.com
 no-deposit-australianbonus.com
+no-fiestaslots.com
 no-wager-casino-au.com
 noahwex.com
 nobleaerospaceadvisors.com
@@ -8366,6 +8490,7 @@ notticketsports.com
 nova-play.org
 novacipher55.com
 novahyper.org
+novajackpot-ca.net
 novascotiacasinoca.com
 novaxplay.com
 noventis8.com
@@ -8493,6 +8618,7 @@ online-doxycycline-100mg.info
 online-securisation.help
 online-superbetin.com
 online-zithromax-azithromycin.org
+online2bmo.com
 onlineacenten.com
 onlinecanadapharmacy.net
 onlinecasinohneverifiziert.com
@@ -8644,6 +8770,7 @@ oz2win-pokies.net
 oz2winpokie.com
 oz777-au.com
 ozempicalternative.org
+ozmethcasino.com
 ozwin96-au.com
 p2p-online.com
 p2p-online.net
@@ -8694,6 +8821,7 @@ pampago-casino2.com
 pampago-casino3.com
 panamaconecta-tramites.com
 panda-expresss.com
+panda95-casino.com
 pandaaexpres.com
 pandaexpersdelivered.com
 pandaexprcss.com
@@ -8708,6 +8836,7 @@ pandaexptes26.com
 pandaexptres.com
 pandaklesperx.com
 pandalibraries.com
+pandazino-casino.com
 pandexcrress.com
 pandexperess.com
 pandexpfress.com
@@ -8955,6 +9084,7 @@ pizzuhuat.com
 pizzzahutt.com
 pjzzahuts.com
 pl-dragonia.com
+pl-fieryplay.com
 pl-most-bet.com
 plainkeep.com
 planet-play.net
@@ -8991,6 +9121,7 @@ ploeterpapa.net
 plonix.net
 plumadewax.org
 plumrocket.org
+plus-face-punch.com
 plusface-punch.com
 plzzahal.com
 plzzahuts.com
@@ -9249,8 +9380,10 @@ profilereview-acc16.com
 profilesupport-acc041.com
 profileupdt-connectnow1.com
 profit-mine.org
+prognozland.com
 programulsky.com
 progridjersey.com
+projectfriendly.net
 projektfun.com
 projetoaliancadobem.com
 projetoaliancadobem.org
@@ -9318,6 +9451,8 @@ pullkeep.com
 pulsebridgeae.com
 pulsereload.com
 pumia.app
+puppybet-de.com
+puppybet-nl.net
 purchasedoxycycline.info
 pureluxeglow.com
 purematrixa.com
@@ -9363,6 +9498,7 @@ pusulabet1150.cam
 pusulabet11555.com
 pusulabet1217.cam
 pusulabet12810.com
+pusulabet2026bns.com
 pusulabet2o26.com
 pusulabet2o26tr.com
 pusulabetegiris2o26.com
@@ -9573,6 +9709,7 @@ razecast.com
 razer-kraken-onion.com
 rb-417.com
 rbc-clientaccess.com
+rbc-clientauthenticator.com
 rbc-primarydevice.help
 rbc-securityaccess.com
 rbc-supporthelp.com
@@ -9626,6 +9763,8 @@ redbordni.com
 redbreach.xyz
 redcasinopl.com
 reddeerresortandcasinoca.com
+redee-minecraft.net
+redeem-minecraft.net
 redirectprorapido.com
 redlegagenda.com
 rednbrodin.com
@@ -9830,6 +9969,7 @@ romabet1770.com
 romabet2150.com
 romeovoice.com
 romewex.com
+ronin-casino.com
 roo-casino-au1.com
 roocasino-au1.com
 roocasino-aud.com
@@ -9837,10 +9977,13 @@ roocassino.com
 roomabetgiriis.com
 roombux.com
 rosaflower.org
+rosehavenfamilyoffices.com
+rosehavenfamilyoffices.net
 roshis35.com
 rotabetgunceladres.net
 rotepool.com
 roumox.com
+rousox.com
 routcargo.com
 route30auto.com
 router-apex.com
@@ -9880,6 +10023,7 @@ rrotabet564.com
 rrsahbt718.com
 rsnetwork.pro
 rssjava.com
+rsvnfo.com
 rtasmartcharge.com
 rtbr.ooo
 ru-pasport-kupite.com
@@ -9888,6 +10032,7 @@ rubyreelss.com
 rucabit.com
 ruenux.com
 ruetux.com
+ruewax.com
 rul2rm50t8mxfc.cfd
 rumafia.news
 rungamb.com
@@ -10304,6 +10449,7 @@ shipmentsontime.com
 shlb-io.com
 shoescratch.org
 shoesdrycleanpickup.org
+shop-choice.com
 shopchicwear.com
 shopflairly.com
 shoplynxhive.com
@@ -10319,6 +10465,7 @@ shushusjz.com
 shyamalmodi.com
 siamgo.loan
 sicherheit-amex.app
+sierracasino-pl.com
 sigma-777.com
 sigmacipher4.com
 sign-portal.net
@@ -10393,6 +10540,7 @@ skyscannerpromo.com
 skyscannersbr.com
 skyscannervoos.com
 skyscannerz.com
+slavarodu.sbs
 sledst.net
 sleeper33.com
 slot-shake.net
@@ -10409,6 +10557,7 @@ slotsitelerikazandiran.com
 slotsitelerivip2026.com
 slotsmines-au.com
 slottio-casino1.com
+slottyway-dk.com
 slotuna-casino.net
 slovex-capital.com
 slutspins-au.com
@@ -10454,6 +10603,7 @@ socialsecurityadministrationgovsuport.com
 softhubs.net
 softroma.com
 soistice.com
+sojerntrips.com
 solace-fx.com
 solaceee.com
 solargrouprequest.com
@@ -10696,6 +10846,7 @@ steroidwarehouse.sale
 stetiges-einkommen.com
 stillalive.rocks
 stlita.com
+stockblast-pro.com
 stokedau1.com
 stoneynakodaresortca.com
 stop-lohotronshiki.com
@@ -10756,6 +10907,7 @@ super-cobros-co.com
 super-girisadres.com
 super-lenny.com
 super-tekserigiris.com
+superauscasino.net
 superbet-guncelgiris.com
 superbet-ingiris.org
 superbet-orjinalgiris.com
@@ -11113,6 +11265,7 @@ thealmullacapital.com
 thealrajhipartners.net
 theamericancontract.com
 theapplewoodcontrols.com
+theargosfamilyoffice.com
 theatregrid.com
 thebelyeapower.com
 thebtmob.com
@@ -11124,10 +11277,13 @@ thechriselectronics.com
 theclearwellgroup.net
 theclusterfamilyoffice.net
 thecrlsensors.com
+thedavidkedwards.com
+thedavidkedwards.net
 thedubaiholding.com
 thedubaiholding.net
 theelectricspecialty.com
 theevansenterprises.com
+theeverestgroupmkt.com
 thefoodandhealth.com
 thefrankrothcompany.com
 thegillettegenerators.com
@@ -11157,6 +11313,7 @@ thepearsonelectronics.com
 thepeoplefreedom.net
 theprecisioninstallations.com
 thepreponline.com
+therosehavenfamilyoffice.com
 therrmachineworks.com
 thesedcocapital.com
 thesedcocapital.net
@@ -11174,6 +11331,8 @@ thetimberlineinstruments.com
 thevailrubberworks.com
 thewjhengineering.com
 thewnyenergy.com
+thezwickpartners.com
+thezwickpartners.net
 things3-app.com
 thirdfy.net
 thismyhamburger.com
@@ -11467,6 +11626,7 @@ tupras.pro
 turbobase35.com
 turbojack.org
 turborush.net
+turbosven-casino.net
 turbowave45.com
 turkifsahdizleekaptan.com
 turkifsahdkaptan.com
@@ -11512,6 +11672,7 @@ tw-trust.org
 tw-wire.org
 twalletpay.org
 tweakelite.com
+twindorcasino-pl.net
 twintowersbooking.com
 twitchuncletopia.com
 tws-activate.com
@@ -11993,6 +12154,7 @@ vuapagesu.com
 vuefax.com
 vulkanco.com
 vulns.biz
+vuopox.com
 vuowux.com
 vupageinso.com
 vutereck.com
@@ -12093,6 +12255,7 @@ weedspin1.com
 weedsswitzerland.com
 week-pet.com
 wefigold.com
+wehelpglobal.org
 weightlossmedicationuk.com
 welllifehub.net
 wellnespharmacy.net
@@ -12127,6 +12290,7 @@ wettzo-fr.com
 wettzoo.com
 wettzox.com
 weuwux.com
+wewin-96.com
 wexchallengers.com
 wexodex.com
 wezogex.com
@@ -12177,6 +12341,8 @@ wildlifenature.net
 wildtokyo-login.com
 wildtokyo-online-aus.com
 wildtoyplay.com
+wildwin-ca.net
+wildwincasino.net
 willdcater.com
 willow-plate.com
 wiloilinternational.com
@@ -12184,6 +12350,7 @@ win-ma-chance-casino.com
 win777gold.net
 winace777.com
 winawin-de.com
+winberry-ca.net
 wincas.net
 wincas.org
 winer-island.com
@@ -12213,6 +12380,7 @@ winnerislands.org
 winngstop.com
 winnita-casino-cz.com
 winodex.com
+winomio.com
 winorama-casino-au.com
 winorama-casino-aus.com
 winorama-casino-review.com
@@ -12325,6 +12493,7 @@ wpsyes.com
 wrchallengers.com
 wss-analytics.com
 wsxvalue.com
+wt-repairs.com
 wuasox.com
 wuegox.com
 wuhanwanshengbio.com
@@ -12446,7 +12615,12 @@ xyz-yeniresmi.com
 xyzadres.com
 xyzgiris.com
 xyzguncel.com
+xyzguncelgiris.com
 xyzresmi.com
+xyzresmiadres.com
+xyzresmigiris.com
+xyzyeniadres.com
+xyzyenigiris.com
 y6h8r.com
 y8spin-au.com
 yabocentre.com
@@ -12490,6 +12664,7 @@ yozawin.com
 yugewin.com
 yukle-mostbet-az.com
 yumwin.com
+yuppipictures.com
 yuzu-money.net
 ywbffga8.com
 z49x62y.com
@@ -12514,6 +12689,7 @@ zbahis613.cam
 zcsadplan.com
 zcsupport.com
 zealpraxis.com
+zeazax.com
 zeazux.com
 zeitungallesbild.org
 zekume.com
@@ -12528,6 +12704,7 @@ zenowinner.com
 zentfury.com
 zenvabet.com
 zenviacapitalltd.org
+zeodox.com
 zeopox.com
 zeovux.com
 zerofraud.email
@@ -12604,4 +12781,7 @@ zurifarm.com
 zurnub.com
 zusatzeiinkommen.com
 zwarteapk.com
+zwickpartners.net
+zwickpartnersco.com
+zwkprt.com
 zynowin.com
