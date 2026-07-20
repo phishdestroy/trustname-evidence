@@ -961,7 +961,7 @@ var RAW='https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/
 fetch('chart-data.json').then(function(r){return r.json();}).then(function(data){
   _chartData=data;
   renderChart('daily');
-}).catch(function(){var cw=document.getElementById('chart-wrap');if(cw){cw.innerHTML='<div style="padding:32px;color:var(--tx3,#888);text-align:center">Data unavailable — <a href="#" onclick="location.reload();return false">retry</a></div>';cw.style.display='';}});
+}).catch(function(e){var cw=document.getElementById('chart-wrap');if(cw){cw.innerHTML='<div style="padding:32px;color:var(--tx3,#888);text-align:center;font-family:monospace">Chart error: '+(e&&(e.message||String(e))||'unknown')+' — <a href="#" onclick="location.reload();return false">retry</a></div>';cw.style.display='';}});
 
 function showView(v){
   _view=v;
