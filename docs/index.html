@@ -958,10 +958,10 @@ document.addEventListener("keydown",function(e){if(e.key==="Escape")closeLB();})
 <script>
 var _chartInst=null,_chartData=null,_view='daily',_range='all';
 var RAW='https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/data/index.json';
-fetch(RAW+'?t='+Date.now()).then(function(r){return r.json();}).then(function(data){
+fetch(RAW).then(function(r){return r.json();}).then(function(data){
   _chartData=data;
   renderChart('daily');
-}).catch(function(){document.getElementById('chart-wrap').style.display='none';});
+}).catch(function(){var cw=document.getElementById('chart-wrap');if(cw){cw.innerHTML='<div style="padding:32px;color:var(--tx3,#888);text-align:center">Data unavailable — <a href="#" onclick="location.reload();return false">retry</a></div>';cw.style.display='';}});
 
 function showView(v){
   _view=v;
@@ -1073,7 +1073,7 @@ function renderChart(view){
     bar.appendChild(prevBtn);bar.appendChild(info);bar.appendChild(nextBtn);feedEl.appendChild(bar);
   }
   window._dfPt=function(p){var total=Math.max(1,Math.ceil(allDays.length/PAGE));if(p<0||p>=total)return;renderPage(p);document.getElementById('daily-feed').scrollIntoView({behavior:'smooth',block:'nearest'});};
-  fetch(BASE+'data/index.json?t='+Date.now()).then(function(x){return x.json();}).then(function(data){
+  fetch(BASE+'data/index.json').then(function(x){return x.json();}).then(function(data){
     allDays=(data.days||[]).slice().reverse();
     var statsEl=document.getElementById('daily-stats');
     statsEl.appendChild(statCard((data.total_new_all_time||0).toLocaleString(),'Total new','cy'));
@@ -1110,9 +1110,11 @@ function renderChart(view){
 
 <script>
 (function(){
-  function waitForData(cb){
+  function waitForData(cb,_dl){
+    if(!_dl)_dl=Date.now()+15000;
     if(typeof _chartData!=='undefined'&&_chartData){cb(_chartData);return;}
-    setTimeout(function(){waitForData(cb);},250);
+    if(Date.now()>_dl)return;
+    setTimeout(function(){waitForData(cb,_dl);},250);
   }
   function el(tag,attrs,text){
     var e=document.createElement(tag);
@@ -1240,9 +1242,11 @@ function renderChart(view){
 
 <script>
 (function(){
-  function waitForData(cb){
+  function waitForData(cb,_dl){
+    if(!_dl)_dl=Date.now()+15000;
     if(typeof _chartData!=='undefined'&&_chartData){cb(_chartData);return;}
-    setTimeout(function(){waitForData(cb);},250);
+    if(Date.now()>_dl)return;
+    setTimeout(function(){waitForData(cb,_dl);},250);
   }
 
   function el(tag,attrs,text){
@@ -1382,9 +1386,11 @@ function renderChart(view){
 
 <script>
 (function(){
-  function waitForData(cb){
+  function waitForData(cb,_dl){
+    if(!_dl)_dl=Date.now()+15000;
     if(typeof _chartData!=='undefined'&&_chartData){cb(_chartData);return;}
-    setTimeout(function(){waitForData(cb);},250);
+    if(Date.now()>_dl)return;
+    setTimeout(function(){waitForData(cb,_dl);},250);
   }
   function el(tag,attrs,text){
     var e=document.createElement(tag);
@@ -1571,9 +1577,11 @@ function renderChart(view){
 
 <script>
 (function(){
-  function waitForData(cb){
+  function waitForData(cb,_dl){
+    if(!_dl)_dl=Date.now()+15000;
     if(typeof _chartData!=='undefined'&&_chartData){cb(_chartData);return;}
-    setTimeout(function(){waitForData(cb);},250);
+    if(Date.now()>_dl)return;
+    setTimeout(function(){waitForData(cb,_dl);},250);
   }
   function el(tag,attrs,text){
     var e=document.createElement(tag);
@@ -1764,9 +1772,11 @@ function renderChart(view){
     return c;
   }
 
-  function waitForData(cb){
+  function waitForData(cb,_dl){
+    if(!_dl)_dl=Date.now()+15000;
     if(typeof _chartData!=='undefined'&&_chartData){cb(_chartData);return;}
-    setTimeout(function(){waitForData(cb);},250);
+    if(Date.now()>_dl)return;
+    setTimeout(function(){waitForData(cb,_dl);},250);
   }
 
   waitForData(function(data){
@@ -1878,3 +1888,4 @@ function renderChart(view){
 </script>
 </body>
 </html>
+
