@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19",
-  "count": 11,
+  "generated": "2026-07-20",
+  "count": 12,
   "registrants": [
     {
       "email": "max@unternehmen.de",
@@ -93,6 +93,20 @@
       ]
     },
     {
+      "email": "info@alrajhi-partners.com",
+      "count": 8,
+      "domains": [
+        "alrajhipartner.net",
+        "alrajhipartnersco2.net",
+        "alrajhipartnersgroup.net",
+        "alrajhipartnershq.net",
+        "alrajhipartnersinc.net",
+        "alrajhipartnersllc.net",
+        "alrajhipartnerss.net",
+        "alrajhipartnrs.net"
+      ]
+    },
+    {
       "email": "info@khashoggiholding.com",
       "count": 8,
       "domains": [
@@ -125,16 +139,22 @@
       ]
     },
     {
-      "email": "info@alrajhi-partners.com",
-      "count": 6,
+      "email": "info@jimco.com",
+      "count": 7,
       "domains": [
-        "alrajhipartner.net",
-        "alrajhipartnersgroup.net",
-        "alrajhipartnershq.net",
-        "alrajhipartnersinc.net",
-        "alrajhipartnerss.net",
-        "alrajhipartnrs.net"
+        "jimcogroups.net",
+        "jimcoholdings.net",
+        "jimcohq.net",
+        "jimcoinc.net",
+        "jimcollc.net",
+        "jjimco.net",
+        "thejimex.net"
       ]
+    },
+    {
+      "email": "media@jimco.com",
+      "count": 7,
+      "domains": []
     },
     {
       "email": "seu@email.com",
@@ -148,20 +168,15 @@
       ]
     },
     {
-      "email": "info@jimco.com",
+      "email": "info@clusterfamilyoffice.com",
       "count": 5,
       "domains": [
-        "jimcogroups.net",
-        "jimcohq.net",
-        "jimcoinc.net",
-        "jjimco.net",
-        "thejimex.net"
+        "clusterfamilyoffice.net",
+        "clusterfamilyofficeco.net",
+        "clusterfamilyofficehq.net",
+        "clusterfamilyofficeinc.net",
+        "clusterfamilyoffices.net"
       ]
-    },
-    {
-      "email": "media@jimco.com",
-      "count": 5,
-      "domains": []
     }
   ]
 }
