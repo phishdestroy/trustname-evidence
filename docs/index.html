@@ -958,7 +958,7 @@ document.addEventListener("keydown",function(e){if(e.key==="Escape")closeLB();})
 <script>
 var _chartInst=null,_chartData=null,_view='daily',_range='all';
 var RAW='https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/data/index.json';
-fetch(RAW).then(function(r){return r.json();}).then(function(data){
+fetch('chart-data.json').then(function(r){return r.json();}).then(function(data){
   _chartData=data;
   renderChart('daily');
 }).catch(function(){var cw=document.getElementById('chart-wrap');if(cw){cw.innerHTML='<div style="padding:32px;color:var(--tx3,#888);text-align:center">Data unavailable — <a href="#" onclick="location.reload();return false">retry</a></div>';cw.style.display='';}});
@@ -1073,7 +1073,7 @@ function renderChart(view){
     bar.appendChild(prevBtn);bar.appendChild(info);bar.appendChild(nextBtn);feedEl.appendChild(bar);
   }
   window._dfPt=function(p){var total=Math.max(1,Math.ceil(allDays.length/PAGE));if(p<0||p>=total)return;renderPage(p);document.getElementById('daily-feed').scrollIntoView({behavior:'smooth',block:'nearest'});};
-  fetch(BASE+'data/index.json').then(function(x){return x.json();}).then(function(data){
+  fetch('chart-data.json').then(function(x){return x.json();}).then(function(data){
     allDays=(data.days||[]).slice().reverse();
     var statsEl=document.getElementById('daily-stats');
     statsEl.appendChild(statCard((data.total_new_all_time||0).toLocaleString(),'Total new','cy'));
