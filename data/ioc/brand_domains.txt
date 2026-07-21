@@ -14,9 +14,11 @@ trust	get-trustcard.app
 trust	get-trustcards.com
 trust	harvardintegrationstrust.com
 trust	miscproductstrust.com
+trust	pixel-trust.com
 trust	premium-trust.app
 trust	premium-trust.icu
 trust	premium-trust.net
+trust	stack-trust.com
 trust	stack-trust.org
 trust	sterlingcohentrust.org
 trust	swap-trust.com
@@ -68,6 +70,7 @@ login	enjoy007-casino-login.com
 login	enjoy007-casino-login1.com
 login	ewallet-casino-login-au.com
 login	gamdom-login.net
+login	holiganbet-tr2026logins.icu
 login	instruction-cibc-login.com
 login	instruction-secure-login.com
 login	jojobet-viplogin.com
@@ -138,6 +141,7 @@ secure	secure-ftc-resolve.com
 secure	secure-logoffice.com
 secure	secure-nlb.com
 secure	securedbinance.com
+secure	securedrbc-client79112.com
 secure	securegos.org
 secure	securemypass.tech
 secure	securemyscoacc-help.com

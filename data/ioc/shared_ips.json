@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-20",
+  "generated": "2026-07-21",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1491,
+      "count": 1505,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1424,
+      "count": 1434,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -206,14 +206,14 @@
         "anonaddy.org",
         "anonfilesnew.com",
         "anonheaven.com",
+        "anydesk-tw.com",
         "aoshearman.attorney",
         "apexcapital-ai.com",
         "api-chromium.com",
         "app-amora.com",
         "app-fylelnq.com",
         "app-mileopayments.com",
-        "app-sparkdex.org",
-        "app-spectrafinance.com"
+        "app-sparkdex.org"
       ]
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 94,
+      "count": 95,
       "country": "",
       "domains": [
         "11557bets10.com",
@@ -421,6 +421,7 @@
         "xyz-girisadres.com",
         "xyz-guncel.com",
         "xyz-gunceladres.com",
+        "xyz-guncelresmi.com",
         "yeni-madridbet.pro"
       ]
     },
@@ -1147,6 +1148,31 @@
       ]
     },
     {
+      "ip": "186.2.175.35",
+      "count": 18,
+      "country": "BZ",
+      "domains": [
+        "amlbinances.org",
+        "amlbotfree.org",
+        "amlview.org",
+        "amlxbybit.org",
+        "blaze-stake.org",
+        "coinbase-card.vip",
+        "dex-byreal.com",
+        "fartcoinswap.pro",
+        "jupiter-perp.pro",
+        "rails-dex.org",
+        "railsx-dex.net",
+        "royaleuro-finance.org",
+        "solayer-staking.com",
+        "tron-staking.org",
+        "troncard.org",
+        "trueusd-swap.org",
+        "xmagnetic-swap.org",
+        "xrpl-dex.pro"
+      ]
+    },
+    {
       "ip": "130.12.180.241",
       "count": 17,
       "country": "",
@@ -1171,29 +1197,6 @@
       ]
     },
     {
-      "ip": "186.2.175.35",
-      "count": 16,
-      "country": "BZ",
-      "domains": [
-        "amlbinances.org",
-        "amlbotfree.org",
-        "amlview.org",
-        "amlxbybit.org",
-        "blaze-stake.org",
-        "coinbase-card.vip",
-        "fartcoinswap.pro",
-        "jupiter-perp.pro",
-        "rails-dex.org",
-        "railsx-dex.net",
-        "royaleuro-finance.org",
-        "tron-staking.org",
-        "troncard.org",
-        "trueusd-swap.org",
-        "xmagnetic-swap.org",
-        "xrpl-dex.pro"
-      ]
-    },
-    {
       "ip": "3.71.180.249",
       "count": 14,
       "country": "DE",
@@ -1212,6 +1215,47 @@
         "qatestahhskna.com",
         "randstadca.com",
         "viagrabestbuy.com"
+      ]
+    },
+    {
+      "ip": "101.99.94.39",
+      "count": 14,
+      "country": "MY",
+      "domains": [
+        "bachemholding.com",
+        "chinesepeptidecompany.net",
+        "erpbiotechnology.com",
+        "flourishglobalpeptide.net",
+        "hubeijianxiang.net",
+        "jeepbio.com",
+        "keruipeptides.com",
+        "mokemeibiotechnology.com",
+        "qingdaosabertechnology.com",
+        "qyaobiopeptides.com",
+        "sangonbio.com",
+        "shanghaiwibsonbiotechnology.net",
+        "theglplounge.com",
+        "vendorinvestigate.com"
+      ]
+    },
+    {
+      "ip": "178.238.236.172",
+      "count": 13,
+      "country": "DE",
+      "domains": [
+        "corbysandwitches.com",
+        "derlwynltd.com",
+        "hiscocklimited.com",
+        "huysmanagementltd.com",
+        "onsitesafetysolutionsltd.com",
+        "owennurseriesltd.com",
+        "perdonorganics.com",
+        "remedybarsltd.com",
+        "rnbaccountants.com",
+        "southernlandsholdings.com",
+        "stantonholdingltd.com",
+        "tomandtandytranportltd.com",
+        "tomandtandytransport.com"
       ]
     },
     {
@@ -1235,40 +1279,39 @@
       ]
     },
     {
-      "ip": "178.238.236.172",
-      "count": 12,
-      "country": "DE",
+      "ip": "196.196.232.66",
+      "count": 11,
+      "country": "US",
       "domains": [
-        "corbysandwitches.com",
-        "derlwynltd.com",
-        "hiscocklimited.com",
-        "huysmanagementltd.com",
-        "onsitesafetysolutionsltd.com",
-        "owennurseriesltd.com",
-        "perdonorganics.com",
-        "remedybarsltd.com",
-        "rnbaccountants.com",
-        "southernlandsholdings.com",
-        "stantonholdingltd.com",
-        "tomandtandytransport.com"
+        "buymauijimshop.com",
+        "costadelmarshop.com",
+        "costavipsunglasses.com",
+        "doubletbags.com",
+        "jewelsluxeshop.com",
+        "mauijimsunglass.com",
+        "pitvitersanglass.com",
+        "shopchicwear.com",
+        "theshadesmall.com",
+        "vipluxbags.com",
+        "vipluxjewels.com"
       ]
     },
     {
-      "ip": "101.99.94.39",
+      "ip": "149.154.167.99",
       "count": 11,
-      "country": "MY",
+      "country": "GB",
       "domains": [
-        "bachemholding.com",
-        "erpbiotechnology.com",
-        "hubeijianxiang.net",
-        "jeepbio.com",
-        "keruipeptides.com",
-        "mokemeibiotechnology.com",
-        "qingdaosabertechnology.com",
-        "qyaobiopeptides.com",
-        "sangonbio.com",
-        "theglplounge.com",
-        "vendorinvestigate.com"
+        "bop-girls.com",
+        "bop-main.com",
+        "bopaccess.com",
+        "discord-securitybot.com",
+        "goyleaks.com",
+        "invites-tracker-app.com",
+        "invitestracks.com",
+        "invitetrackerv2.com",
+        "invitetracking.com",
+        "invitetracks.net",
+        "loggersecure.com"
       ]
     },
     {
@@ -1304,40 +1347,6 @@
         "hirevex-ai.com",
         "libertyunionb.com",
         "withticketing.com"
-      ]
-    },
-    {
-      "ip": "196.196.232.66",
-      "count": 10,
-      "country": "US",
-      "domains": [
-        "buymauijimshop.com",
-        "costadelmarshop.com",
-        "costavipsunglasses.com",
-        "doubletbags.com",
-        "jewelsluxeshop.com",
-        "mauijimsunglass.com",
-        "pitvitersanglass.com",
-        "shopchicwear.com",
-        "vipluxbags.com",
-        "vipluxjewels.com"
-      ]
-    },
-    {
-      "ip": "149.154.167.99",
-      "count": 10,
-      "country": "GB",
-      "domains": [
-        "bop-girls.com",
-        "bop-main.com",
-        "bopaccess.com",
-        "discord-securitybot.com",
-        "goyleaks.com",
-        "invites-tracker-app.com",
-        "invitestracks.com",
-        "invitetrackerv2.com",
-        "invitetracks.net",
-        "loggersecure.com"
       ]
     },
     {
