@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-21",
+  "generated": "2026-07-22",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1505,
+      "count": 1519,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1434,
+      "count": 1446,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -180,6 +180,7 @@
         "887favorisen.com",
         "888starzuk.com",
         "9009bahis.com",
+        "9010bahis.com",
         "932884-ledger.com",
         "956matbett.com",
         "adddad-click.com",
@@ -188,6 +189,7 @@
         "adultnest.org",
         "aeperkscardsapply.com",
         "aerodrome.qpon",
+        "ailux.trade",
         "airoprive.com",
         "aisi-box.com",
         "aiwallet-analyzer.com",
@@ -211,9 +213,7 @@
         "apexcapital-ai.com",
         "api-chromium.com",
         "app-amora.com",
-        "app-fylelnq.com",
-        "app-mileopayments.com",
-        "app-sparkdex.org"
+        "app-fylelnq.com"
       ]
     },
     {
@@ -501,7 +501,7 @@
     },
     {
       "ip": "130.12.180.244",
-      "count": 57,
+      "count": 58,
       "country": "",
       "domains": [
         "11560bets10.com",
@@ -557,6 +557,7 @@
         "meritbetresmiguncelturkiyegiris.com",
         "meritbetturkiyeguncelresmiadres.com",
         "meritbetvipadres.com",
+        "meritbetxyz-yeni.com",
         "meritbetyeniturkiyegiris.com",
         "trmeritbetturkiye.com",
         "trmeritbetyeni.com",
@@ -743,6 +744,53 @@
       ]
     },
     {
+      "ip": "130.12.180.242",
+      "count": 40,
+      "country": "",
+      "domains": [
+        "bet-adres.win",
+        "bet-aktif.org",
+        "bet-erisim.org",
+        "bet-erisim.win",
+        "bet-firsat.org",
+        "bet-gir.pro",
+        "bet-hizli.org",
+        "bet-sayfa.win",
+        "bet-yardim.win",
+        "bets10-trmobilgiris.com",
+        "bets10-trorjgiris.com",
+        "grandpashabetresmigiris.icu",
+        "grandpashabetturkiyegiris.com",
+        "jojobet.center",
+        "kingroyalturkiyeguncelgiris.com",
+        "madridbet-tekgiris.icu",
+        "madridbet-trgiris26.icu",
+        "meritbetadresgiristr.com",
+        "meritbetgirisadrestr.com",
+        "meritbetguncelresmiturkiyeadresgiris.com",
+        "meritbetguncelresmiturkiyegiris.com",
+        "meritbetguncelresmiturkiyegirisadres.com",
+        "meritbetguncelturkiyeadresgiris.com",
+        "meritbettrresmiadres.com",
+        "meritbetturkiyeadresgiris.com",
+        "meritbetturkiyeadresguncel.com",
+        "meritbetxyz-adres.com",
+        "meritbetxyz-guncel.com",
+        "meritbetyenigunceladres.com",
+        "meritking-giris26.icu",
+        "meritking-girisadresi.icu",
+        "meritking-hizliadres.icu",
+        "meritking-trgiris.icu",
+        "sports-girisleri.pro",
+        "trmeritbetadres.com",
+        "trmeritbetgiris.com",
+        "turkiyegiris.xyz",
+        "xyz-giris.com",
+        "xyz-guncelgiris.com",
+        "xyz-turkiyegiris.com"
+      ]
+    },
+    {
       "ip": "130.12.180.238",
       "count": 39,
       "country": "",
@@ -786,51 +834,6 @@
         "turkiyeguncelresmiadresgiris.com",
         "turkiyeguncelresmigirisadres.com",
         "xyz-resmiguncelgiris.com"
-      ]
-    },
-    {
-      "ip": "130.12.180.242",
-      "count": 38,
-      "country": "",
-      "domains": [
-        "bet-adres.win",
-        "bet-aktif.org",
-        "bet-erisim.org",
-        "bet-erisim.win",
-        "bet-firsat.org",
-        "bet-gir.pro",
-        "bet-hizli.org",
-        "bet-sayfa.win",
-        "bet-yardim.win",
-        "bets10-trmobilgiris.com",
-        "bets10-trorjgiris.com",
-        "grandpashabetresmigiris.icu",
-        "grandpashabetturkiyegiris.com",
-        "jojobet.center",
-        "kingroyalturkiyeguncelgiris.com",
-        "madridbet-tekgiris.icu",
-        "madridbet-trgiris26.icu",
-        "meritbetadresgiristr.com",
-        "meritbetgirisadrestr.com",
-        "meritbetguncelresmiturkiyeadresgiris.com",
-        "meritbetguncelresmiturkiyegiris.com",
-        "meritbetguncelresmiturkiyegirisadres.com",
-        "meritbetguncelturkiyeadresgiris.com",
-        "meritbettrresmiadres.com",
-        "meritbetturkiyeadresgiris.com",
-        "meritbetturkiyeadresguncel.com",
-        "meritbetyenigunceladres.com",
-        "meritking-giris26.icu",
-        "meritking-girisadresi.icu",
-        "meritking-hizliadres.icu",
-        "meritking-trgiris.icu",
-        "sports-girisleri.pro",
-        "trmeritbetadres.com",
-        "trmeritbetgiris.com",
-        "turkiyegiris.xyz",
-        "xyz-giris.com",
-        "xyz-guncelgiris.com",
-        "xyz-turkiyegiris.com"
       ]
     },
     {
@@ -880,7 +883,7 @@
     },
     {
       "ip": "130.12.180.243",
-      "count": 34,
+      "count": 35,
       "country": "",
       "domains": [
         "bet-bonuslar.org",
@@ -914,6 +917,7 @@
         "meritbetturkiyegunceladresgiris.com",
         "meritbetturkiyeguncelresmigiris.com",
         "meritbetturkiyeresmiadresgiris.com",
+        "meritbetxyz-turkiye.com",
         "trmeritbetguncel.com",
         "trmeritbetresmi.com",
         "xyz-adres.com"
@@ -1148,6 +1152,31 @@
       ]
     },
     {
+      "ip": "130.12.180.241",
+      "count": 18,
+      "country": "",
+      "domains": [
+        "bets10resmigunceladres.com",
+        "bets10turkiyereadresgiris.com",
+        "jojobet-2026orginal.com",
+        "meritbet763.com",
+        "meritbetguncelyeniadresgiris.com",
+        "meritbetguncelyenigirisadres.com",
+        "meritbetresmiadresguncelgiris.com",
+        "meritbetresmigunceladresgiris.com",
+        "meritbetresmiguncelyeniadresgiris.com",
+        "meritbetresmiguncelyenigirisadres.com",
+        "meritbetresmiyeniadresgiris.com",
+        "meritbetresmiyenigirisadres.com",
+        "meritbetxyz-giris.com",
+        "turkiyeadres.xyz",
+        "xyz-resmi.com",
+        "xyz-resmigiris.com",
+        "xyz-turkiye.com",
+        "xyz-turkiyeadres.com"
+      ]
+    },
+    {
       "ip": "186.2.175.35",
       "count": 18,
       "country": "BZ",
@@ -1173,27 +1202,26 @@
       ]
     },
     {
-      "ip": "130.12.180.241",
-      "count": 17,
-      "country": "",
+      "ip": "178.238.236.172",
+      "count": 16,
+      "country": "DE",
       "domains": [
-        "bets10resmigunceladres.com",
-        "bets10turkiyereadresgiris.com",
-        "jojobet-2026orginal.com",
-        "meritbet763.com",
-        "meritbetguncelyeniadresgiris.com",
-        "meritbetguncelyenigirisadres.com",
-        "meritbetresmiadresguncelgiris.com",
-        "meritbetresmigunceladresgiris.com",
-        "meritbetresmiguncelyeniadresgiris.com",
-        "meritbetresmiguncelyenigirisadres.com",
-        "meritbetresmiyeniadresgiris.com",
-        "meritbetresmiyenigirisadres.com",
-        "turkiyeadres.xyz",
-        "xyz-resmi.com",
-        "xyz-resmigiris.com",
-        "xyz-turkiye.com",
-        "xyz-turkiyeadres.com"
+        "corbysandwitches.com",
+        "derlwynltd.com",
+        "hiscocklimited.com",
+        "huysmanagementltd.com",
+        "mediciholdingsltd.com",
+        "nameco925.com",
+        "nbttrading.com",
+        "onsitesafetysolutionsltd.com",
+        "owennurseriesltd.com",
+        "perdonorganics.com",
+        "remedybarsltd.com",
+        "rnbaccountants.com",
+        "southernlandsholdings.com",
+        "stantonholdingltd.com",
+        "tomandtandytranportltd.com",
+        "tomandtandytransport.com"
       ]
     },
     {
@@ -1236,26 +1264,6 @@
         "shanghaiwibsonbiotechnology.net",
         "theglplounge.com",
         "vendorinvestigate.com"
-      ]
-    },
-    {
-      "ip": "178.238.236.172",
-      "count": 13,
-      "country": "DE",
-      "domains": [
-        "corbysandwitches.com",
-        "derlwynltd.com",
-        "hiscocklimited.com",
-        "huysmanagementltd.com",
-        "onsitesafetysolutionsltd.com",
-        "owennurseriesltd.com",
-        "perdonorganics.com",
-        "remedybarsltd.com",
-        "rnbaccountants.com",
-        "southernlandsholdings.com",
-        "stantonholdingltd.com",
-        "tomandtandytranportltd.com",
-        "tomandtandytransport.com"
       ]
     },
     {
