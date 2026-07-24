@@ -3416,8 +3416,8 @@
   "serial_email_count": 4,
   "brand_heatmap": {
     "trust": 70,
-    "secure": 53,
     "login": 53,
+    "secure": 53,
     "support": 38,
     "binance": 37,
     "ledger": 33,
@@ -3438,7 +3438,7 @@
   },
   "unranked_pct": 99.8,
   "ranked_count": 25,
-  "correlation_count": 4110,
-  "correlation_pct": 30.5,
+  "correlation_count": 0,
+  "correlation_pct": 0.0,
   "last_updated": "2026-07-23"
 }
