@@ -527,25 +527,6 @@
       "verifynowportal.net",
       "verifyy-club.com"
     ],
-    "bridge": [
-      "avalanchebridge.org",
-      "binance-bridge.net",
-      "hifibridge.org",
-      "koyotesbridgefor.com",
-      "mantle-bridge.org",
-      "nexusbridge19.com",
-      "optimismbridge.net",
-      "portal-bridge.org",
-      "pulsebridgeae.com",
-      "safelinkbridge.com",
-      "squidbridge.com",
-      "starknet-bridge.com",
-      "superbridge-app.com",
-      "superbridge-app.net",
-      "vault-bridge.net",
-      "xinbridge.org",
-      "zerofi-bridge.org"
-    ],
     "account": [
       "account-minecraft.net",
       "accountcherled.com",
@@ -564,6 +545,25 @@
       "rnbaccountants.com",
       "supportaccountweb.com",
       "thebulkaccounts.com"
+    ],
+    "bridge": [
+      "avalanchebridge.org",
+      "binance-bridge.net",
+      "hifibridge.org",
+      "koyotesbridgefor.com",
+      "mantle-bridge.org",
+      "nexusbridge19.com",
+      "optimismbridge.net",
+      "portal-bridge.org",
+      "pulsebridgeae.com",
+      "safelinkbridge.com",
+      "squidbridge.com",
+      "starknet-bridge.com",
+      "superbridge-app.com",
+      "superbridge-app.net",
+      "vault-bridge.net",
+      "xinbridge.org",
+      "zerofi-bridge.org"
     ],
     "update": [
       "1bmonlinesupportupdate.com",
