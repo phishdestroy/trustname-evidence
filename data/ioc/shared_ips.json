@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-22",
+  "generated": "2026-07-24",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1519,
+      "count": 1547,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -94,6 +94,7 @@
         "agrtraptmfrlnce.com",
         "aiphotodetect.app",
         "aisizhushoubox.com",
+        "ak4world.com",
         "albareeqa.com",
         "alessandroelite.vip",
         "alexander-casino-france1.com",
@@ -105,13 +106,12 @@
         "amex-check.com",
         "amex-help.com",
         "amex-helpdesk.com",
-        "amex-secure.com",
-        "amex-service.com"
+        "amex-secure.com"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1446,
+      "count": 1484,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -325,7 +325,7 @@
     },
     {
       "ip": "130.12.180.245",
-      "count": 95,
+      "count": 97,
       "country": "",
       "domains": [
         "11557bets10.com",
@@ -334,8 +334,10 @@
         "bet-firsat.win",
         "bet-girisler.win",
         "bet-kazan.pro",
+        "bet-site.fit",
         "bet-sites.org",
         "bet-yardim.org",
+        "bet2026.fit",
         "betgarantiresmiadres.com",
         "betgarantiresmigiris.com",
         "bets10-girisadresi26.com",
@@ -427,7 +429,7 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 67,
+      "count": 71,
       "country": "BZ",
       "domains": [
         "24hourpharmacyhub.com",
@@ -456,6 +458,7 @@
         "doxycyclinecheap.info",
         "doxycyclinehyclate-buy.com",
         "doxycyclineonline.info",
+        "doxycyclineorder.info",
         "doxycyclineprice100mg.com",
         "doxycyclines.com",
         "finasteride-buy-propecia.net",
@@ -478,8 +481,11 @@
         "ivermectinsts.com",
         "johnnyivermectinseed.com",
         "metronidazole-flagylantibiotic.com",
+        "metronidazoleflagyl500mg.info",
+        "metronidazoleonlineflagyl.info",
         "mexicanpharmacyshops.com",
         "online-doxycycline-100mg.info",
+        "onlinedoxycycline.info",
         "pharmacyadvocates.com",
         "pharmacyonline-eu.com",
         "pleasantviewpharmacy.net",
@@ -501,7 +507,7 @@
     },
     {
       "ip": "130.12.180.244",
-      "count": 58,
+      "count": 59,
       "country": "",
       "domains": [
         "11560bets10.com",
@@ -514,6 +520,7 @@
         "bet-sosyal.org",
         "bet-sosyal.win",
         "bet-tr.win",
+        "bet-turkey.fit",
         "bets10-2026resmigiris.com",
         "bets10-aktifgiris26.com",
         "bets10-anliktekgiris.com",
@@ -744,8 +751,62 @@
       ]
     },
     {
+      "ip": "130.12.180.238",
+      "count": 47,
+      "country": "",
+      "domains": [
+        "11563bets10.com",
+        "1334bets10yeni.com",
+        "adresgiris.xyz",
+        "bet-analiz.org",
+        "bet-giris.win",
+        "bet-oyna.pro",
+        "bet-resmi.win",
+        "bet-site.win",
+        "bet-skor.org",
+        "bets10anlikadres2026.com",
+        "bets10directgiris.com",
+        "bets10newlogin.com",
+        "bets10supergiris2026.com",
+        "bets10trresmiadres.com",
+        "bets10trresmigiris.com",
+        "bets10vipgiris.com",
+        "bets10vipgirislerguncel.com",
+        "bets10vipturkiye.com",
+        "cratosroyalbetguvenligiris.com",
+        "giris-madridbet.pro",
+        "grandpashabetguncelresmiadres.com",
+        "grandpashabetguncelresmigiris.com",
+        "guncel.fit",
+        "guncelresmiadresgiris.com",
+        "kingroyalresmitr.com",
+        "matadorbetresmigiris.com",
+        "meritberresmitradres.com",
+        "meritbet766.com",
+        "meritbet781.com",
+        "meritbetgunceltr.com",
+        "meritbetgunceltradres.com",
+        "meritbetgunceltrgiris.com",
+        "meritbetresmiadrestr.com",
+        "meritbetresmigiristr.com",
+        "meritbetresmiguncelgiristr.com",
+        "meritbetresmigunceltr.com",
+        "meritbettrgunceladres.com",
+        "meritbetturkiyegiristr.com",
+        "meritbetturkiyegunceltr.com",
+        "meritbetturkiyeresmigunceladresgiris.com",
+        "meritbetturkiyeresmiresmiguncelgiris.com",
+        "meritbetturkiyeyenitr.com",
+        "meritbetvipguncel.com",
+        "meritbetyeniguncelturkiyeresmiadres.com",
+        "turkiyeguncelresmiadresgiris.com",
+        "turkiyeguncelresmigirisadres.com",
+        "xyz-resmiguncelgiris.com"
+      ]
+    },
+    {
       "ip": "130.12.180.242",
-      "count": 40,
+      "count": 47,
       "country": "",
       "domains": [
         "bet-adres.win",
@@ -756,11 +817,18 @@
         "bet-gir.pro",
         "bet-hizli.org",
         "bet-sayfa.win",
+        "bet-turkiye.fit",
         "bet-yardim.win",
         "bets10-trmobilgiris.com",
         "bets10-trorjgiris.com",
+        "bets10berrygiris.com",
+        "bets10fastgiris2026.com",
+        "bets10goldengiris.com",
+        "bets10temmuzgiris.com",
+        "bets10viporjinal.com",
         "grandpashabetresmigiris.icu",
         "grandpashabetturkiyegiris.com",
+        "jetbetadres.com",
         "jojobet.center",
         "kingroyalturkiyeguncelgiris.com",
         "madridbet-tekgiris.icu",
@@ -791,56 +859,11 @@
       ]
     },
     {
-      "ip": "130.12.180.238",
+      "ip": "130.12.180.239",
       "count": 39,
       "country": "",
       "domains": [
-        "adresgiris.xyz",
-        "bet-analiz.org",
-        "bet-giris.win",
-        "bet-oyna.pro",
-        "bet-resmi.win",
-        "bet-site.win",
-        "bet-skor.org",
-        "bets10trresmiadres.com",
-        "bets10trresmigiris.com",
-        "bets10vipgiris.com",
-        "bets10vipturkiye.com",
-        "cratosroyalbetguvenligiris.com",
-        "giris-madridbet.pro",
-        "grandpashabetguncelresmiadres.com",
-        "grandpashabetguncelresmigiris.com",
-        "guncelresmiadresgiris.com",
-        "kingroyalresmitr.com",
-        "matadorbetresmigiris.com",
-        "meritberresmitradres.com",
-        "meritbet766.com",
-        "meritbet781.com",
-        "meritbetgunceltr.com",
-        "meritbetgunceltradres.com",
-        "meritbetgunceltrgiris.com",
-        "meritbetresmiadrestr.com",
-        "meritbetresmigiristr.com",
-        "meritbetresmiguncelgiristr.com",
-        "meritbetresmigunceltr.com",
-        "meritbettrgunceladres.com",
-        "meritbetturkiyegiristr.com",
-        "meritbetturkiyegunceltr.com",
-        "meritbetturkiyeresmigunceladresgiris.com",
-        "meritbetturkiyeresmiresmiguncelgiris.com",
-        "meritbetturkiyeyenitr.com",
-        "meritbetvipguncel.com",
-        "meritbetyeniguncelturkiyeresmiadres.com",
-        "turkiyeguncelresmiadresgiris.com",
-        "turkiyeguncelresmigirisadres.com",
-        "xyz-resmiguncelgiris.com"
-      ]
-    },
-    {
-      "ip": "130.12.180.239",
-      "count": 38,
-      "country": "",
-      "domains": [
+        "1334bets10guncel.com",
         "bet-fast.org",
         "bet-gir.win",
         "bet-girisi.org",
@@ -883,7 +906,7 @@
     },
     {
       "ip": "130.12.180.243",
-      "count": 35,
+      "count": 36,
       "country": "",
       "domains": [
         "bet-bonuslar.org",
@@ -903,6 +926,7 @@
         "bets10tradresi.com",
         "bets10tradreslerim26.com",
         "grandpashabetresmiadres.icu",
+        "gunceli.fit",
         "jojobetguvenliadresgiris.com",
         "kingroyalbetgunceladres.com",
         "kingroyalresmiguncelgiris.com",
@@ -1047,6 +1071,33 @@
       ]
     },
     {
+      "ip": "89.117.51.233",
+      "count": 20,
+      "country": "DE",
+      "domains": [
+        "aeroworldflight.com",
+        "agencyroyalfamilydubia.com",
+        "apexfirmcapitals.com",
+        "britanniapetro.com",
+        "brusstrusteonline.com",
+        "centralheritageswiss.com",
+        "diamondcementgroup.com",
+        "firstheritagecinc.com",
+        "firstswissheritage.com",
+        "firstswissherithage.com",
+        "firsttrustswiss.com",
+        "ironcladcapitals.com",
+        "marinewealthglobal.com",
+        "miamedicequipment.com",
+        "quebecholdingshq.com",
+        "standardheritages.com",
+        "underexpressdeliveries.com",
+        "usdefencemilitaryportal.com",
+        "veltrioncapitals.com",
+        "weternshore.com"
+      ]
+    },
+    {
       "ip": "34.111.179.208",
       "count": 20,
       "country": "US",
@@ -1097,32 +1148,6 @@
         "vinha.icu",
         "watchclubgiveaway.com",
         "westmide.com"
-      ]
-    },
-    {
-      "ip": "89.117.51.233",
-      "count": 19,
-      "country": "DE",
-      "domains": [
-        "aeroworldflight.com",
-        "agencyroyalfamilydubia.com",
-        "apexfirmcapitals.com",
-        "britanniapetro.com",
-        "brusstrusteonline.com",
-        "centralheritageswiss.com",
-        "diamondcementgroup.com",
-        "firstheritagecinc.com",
-        "firstswissheritage.com",
-        "firstswissherithage.com",
-        "firsttrustswiss.com",
-        "ironcladcapitals.com",
-        "marinewealthglobal.com",
-        "miamedicequipment.com",
-        "quebecholdingshq.com",
-        "underexpressdeliveries.com",
-        "usdefencemilitaryportal.com",
-        "veltrioncapitals.com",
-        "weternshore.com"
       ]
     },
     {
@@ -1624,6 +1649,21 @@
       ]
     },
     {
+      "ip": "186.2.175.109",
+      "count": 8,
+      "country": "BZ",
+      "domains": [
+        "archer-exchange.org",
+        "finance-kamino.org",
+        "fluxbeam-dex.org",
+        "jumper-dex.org",
+        "moonshot-dex.org",
+        "pacifica-dex.org",
+        "phoenix-trade.org",
+        "zerofi-bridge.org"
+      ]
+    },
+    {
       "ip": "216.24.57.1",
       "count": 7,
       "country": "US",
@@ -1635,20 +1675,6 @@
         "mundotorajos.com",
         "transfersconnection.com",
         "upictures.app"
-      ]
-    },
-    {
-      "ip": "45.129.141.158",
-      "count": 7,
-      "country": "RU",
-      "domains": [
-        "cobera.app",
-        "coinmino.net",
-        "koinio.net",
-        "koyra.net",
-        "lotivo.app",
-        "orizonia.net",
-        "pumia.app"
       ]
     }
   ]
