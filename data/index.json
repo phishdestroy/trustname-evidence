@@ -3321,12 +3321,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 590,
-    "within_month": 3130,
-    "older": 9770
+    "within_week": 479,
+    "within_month": 3166,
+    "older": 9845
   },
-  "avg_catch_age_days": 812,
-  "fresh_pct": 4.4,
+  "avg_catch_age_days": 813,
+  "fresh_pct": 3.6,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3422,8 +3422,8 @@
     "binance": 37,
     "ledger": 33,
     "official": 32,
-    "swap": 29,
     "connect": 29,
+    "swap": 29,
     "crypto": 28,
     "wallet": 27,
     "coinbase": 24,
@@ -3438,7 +3438,7 @@
   },
   "unranked_pct": 99.8,
   "ranked_count": 25,
-  "correlation_count": 4140,
+  "correlation_count": 4141,
   "correlation_pct": 30.7,
   "last_updated": "2026-07-23"
 }
