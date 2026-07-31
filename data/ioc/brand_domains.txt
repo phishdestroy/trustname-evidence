@@ -39,15 +39,18 @@ trust	trust-kard.com
 trust	trust-kart.com
 trust	trust-loop.org
 trust	trust-pixel.org
+trust	trust-spend.org
 trust	trust-stack.org
 trust	trust-trust.org
 trust	trust-tw.com
 trust	trust-tw.org
 trust	trust-wire.org
+trust	trust-xpay.org
 trust	trustbank-capital.com
 trust	trustchemistdirect.com
 trust	trusted-premium.org
 trust	trusted-premium.pro
+trust	trusted-settings.org
 trust	trusted-sun.com
 trust	trusted-sun.org
 trust	trusted-sun.pro
@@ -55,6 +58,7 @@ trust	trustedsupportcenter.com
 trust	trustedverlficatlon.com
 trust	trustfee.icu
 trust	trusthelping.com
+trust	trustlottery.cfd
 trust	trustmeta.pro
 trust	trustname.com
 trust	trustname.net
@@ -168,6 +172,7 @@ secure	secure-oneshare.com
 secure	securedbinance.com
 secure	securedrbc-client79112.com
 secure	securedrbc-client79412.com
+secure	securedrbcaccess.com
 secure	securegos.org
 secure	securemypass.tech
 secure	securemyscoacc-help.com
@@ -177,6 +182,7 @@ secure	secureplus-consorsbank.app
 secure	secureportal-easywebonline.com
 secure	securesupport.help
 secure	securexceh.net
+secure	servicesecure.digital
 secure	shortlinksecure.org
 secure	spider-secure.com
 secure	td-securemyaccess.com
@@ -322,6 +328,7 @@ official	fishin-frenzy-officially.org
 official	ikimisli-officiallive.com
 official	jerseymikesofficial.com
 official	jetbahis-officialgiris.com
+official	marsbahis-official.com
 official	meritking-officialadresi.com
 official	mobilbahis-officialgirisi.com
 official	nakitbahis-officialadres.com
@@ -399,6 +406,7 @@ wallet	wallet-premium.net
 wallet	wallet-premium.org
 wallet	wallet-premium.pro
 wallet	wallet-rx.com
+wallet	wallet-settings.org
 wallet	wallet-sun.com
 wallet	wallet-sun.org
 wallet	wallet-sun.pro
@@ -630,6 +638,7 @@ claim	claimjerseys.com
 claim	claimscotiabank.com
 claim	claimxrpflare.com
 claim	essentialsclaim-cra6.com
+claim	fdic-claim.com
 claim	infocgeb-claimnow1.com
 claim	latitude-claims.com
 claim	profileclaim-acc30.com
