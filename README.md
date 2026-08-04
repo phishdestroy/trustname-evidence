@@ -684,3 +684,35 @@ Trustname operates **two registrar-owned privacy proxy services** to shield its 
 **PhishDestroy Research** · Phase II · June 2026 · TLP:CLEAR
 
 </div>
+
+## IOC Data — `2026-08-03`
+
+| Metric | Count |
+|:--|--:|
+| **Total IOC domains** | **13,002** |
+| HIGH severity | 1,686 |
+| MEDIUM severity | 11,316 |
+| Zone total | 14,821 |
+| Hit rate | 87.73% |
+
+### By Category
+
+| Category | Domains |
+|:--|--:|
+| `MALWARE` | 10,766 |
+| `GAMBLING` | 680 |
+| `PHISHING_GENERIC` | 387 |
+| `PHISHING_FINANCE` | 236 |
+| `CARDING` | 182 |
+
+### Download Threat Intelligence
+
+| File | Format | Description |
+|:--|:--:|:--|
+| [`ioc/indicators.csv`](ioc/indicators.csv) | CSV | Full IOC: domain, category, severity, date, sources |
+| [`ioc/domains_high.txt`](https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/ioc/domains_high.txt) | TXT | HIGH severity domains only (1,686) |
+| [`ioc/domains_all_malicious.txt`](https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/ioc/domains_all_malicious.txt) | TXT | All IOC domains (13,002) |
+
+**Sources used:** Hagezi TIF (2.1M), BlocklistProject Malware/Phishing (2.5M+120K), Maltrail (914K), mitchellkrogza PhishDB (385K), MetaMask, ScamBlock, CERT.pl, Phishing.Database, uBlock, Dandelion, firebog.net, brand keyword scan (BRAND_KEYWORDS from classify_brands).
+
+> Live report: [https://phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence)
