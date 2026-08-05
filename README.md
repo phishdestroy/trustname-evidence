@@ -99,6 +99,7 @@ CA  ██░░░░░░░░░░░░░░░░        102 (3.9%)
 
 | File | Format | Description |
 |:--|:--:|:--|
+| [feed-ioc.html](https://phishdestroy.github.io/trustname-evidence/feed-ioc.html) | HTML | Searchable IOC browser — 4,276 indicators, severity + feed source badges, urlscan/VT/OTX lookups |
 | [`data/all.txt`](data/all.txt) | TXT | All tracked domains |
 | [`data/index.json`](data/index.json) | JSON | Full analytics snapshot |
 | [`data/ioc/serial_registrants.json`](data/ioc/serial_registrants.json) | JSON | Repeat registrants + their domains |
@@ -359,8 +360,8 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 | 📊 `data/enriched.csv` | 2.8 MB | `83ea143175d8a378` | Full enriched dataset — all 7,641 domains, all columns |
 | 📊 `data/high_severity.csv` | 748 KB | `ecee3b68b2fb34c8` | HIGH-only filtered subset |
 | 📊 `data/dead_domains.csv` | 742 KB | `5ee84646c6872591` | Dead / parked / error enumeration |
-| 🚫 `ioc/domains_high.txt` | 19 KB | `ec9e43c15ff3cffc` | Production blocklist — 1,114 HIGH domains |
-| 🚫 `ioc/domains_all_malicious.txt` | 39 KB | `d27809c1a099c019` | HIGH + MEDIUM blocklist — 2,221 domains |
+| 🚫 `ioc/domains_high.txt` | 57 KB | `25cf3632c9c8bc15` | Production blocklist — 3,293 HIGH domains |
+| 🚫 `ioc/domains_all_malicious.txt` | 75 KB | `9b164c16d7cba3cc` | HIGH + MEDIUM blocklist — 4,276 domains |
 | 🛡 `ioc/indicators.csv` | 775 KB | `4e9dcd3840be9f9a` | SIEM indicators — IP, server_fp, favicon_mmh3, category, severity |
 | 🔐 `evidence/HASHES.txt` | 168 KB | `131ff258bd0c058c` | SHA-256 of all 1,953 screenshots |
 | 📦 `pkg/raw_data/enriched.csv.gz` | 560 KB | `a2a6f5fda9f364aa` | Compressed enriched dataset |
@@ -439,7 +440,7 @@ trustname-evidence/
 │   ├── high_severity.csv                   HIGH-only filtered subset
 │   └── dead_domains.csv                    Dead / parked enumeration
 ├── 🚫 ioc/                                  Indicators of Compromise
-│   ├── domains_high.txt                    1,114 HIGH blocklist
+│   ├── domains_high.txt                    3,293 HIGH blocklist
 │   ├── domains_all_malicious.txt           2,221 HIGH + MEDIUM blocklist
 │   └── indicators.csv                      SIEM-ready
 ├── 🔐 evidence/
