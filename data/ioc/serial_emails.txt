@@ -1,7 +1,7 @@
 max@unternehmen.de	23
 support@mxl.zendesk.com	18
 support@stake.com	13
-helpdesk@wingstop.com	12
+helpdesk@wingstop.com	13
 info@alrajhi-partners.com	8
 info@khashoggiholding.com	8
 info@khashoggilaw.com	8

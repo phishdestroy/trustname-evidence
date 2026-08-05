@@ -1,8 +1,9 @@
 {
-  "generated": "2026-08-04",
+  "generated": "2026-08-05",
   "keywords": {
     "trust": [
       "activation-trust.com",
+      "adobe-trust.com",
       "bank-trust.org",
       "boktrustfinance.com",
       "brusstrusteonline.com",
@@ -70,6 +71,7 @@
       "trustedverlficatlon.com",
       "trustfee.icu",
       "trusthelping.com",
+      "trustidnew.com",
       "trustlottery.cfd",
       "trustlotterys.com",
       "trustmeta.pro",
@@ -104,6 +106,9 @@
       "fdicsecure.net",
       "filesecurezone.org",
       "instruction-secure-login.com",
+      "ismyprivatekeysecure.com",
+      "ismyseedphrasesecure.com",
+      "ismywalletsecure.com",
       "loggersecure.com",
       "logsecure-office.com",
       "nlb-secure-rs.com",
@@ -285,6 +290,7 @@
       "ewallet-casino-login-au.com",
       "gowalletrobot.digital",
       "htxwallets.com",
+      "ismywalletsecure.com",
       "kripwallet.com",
       "ledger-walletapp.com",
       "lixwallet.com",
@@ -346,10 +352,12 @@
       "secureonlinesupport.help",
       "securesupport.help",
       "support-action.com",
+      "support-agence.com",
       "support-amex.com",
       "support-depot-plainte.com",
       "support-easyweb.com",
       "support-miinto.com",
+      "support-national.com",
       "supportaccountweb.com",
       "tdeasywebsupport.help",
       "tdhelp-support.com",
@@ -489,6 +497,7 @@
       "connecttpocket.com",
       "gconnectionapi3.com",
       "hauzconnect.com",
+      "magicconnect.digital",
       "nabconnects.com",
       "nabsconnect.com",
       "profileconnect-acc04.com",
@@ -631,6 +640,7 @@
       "avaxbridge.pro",
       "binance-bridge.net",
       "bridgetron.org",
+      "cambridgeassistant.com",
       "hifibridge.org",
       "koyotesbridgefor.com",
       "mantle-bridge.org",
@@ -670,6 +680,24 @@
       "supportaccountweb.com",
       "thebulkaccounts.com"
     ],
+    "farm": [
+      "bergafarmsequipment.com",
+      "bored-farm.com",
+      "brackettfarmsupply.com",
+      "catfarmandequipment.com",
+      "enterfarmerstates.com",
+      "farmaciadellesostanze.com",
+      "farmasi-bk.com",
+      "farmerfx.net",
+      "farmerstatings.com",
+      "lockfarmequipment.com",
+      "machinefarmfinder.com",
+      "modafinil-farmacie.com",
+      "phoenix-farm.org",
+      "royfrittsfarmequipments.com",
+      "thcafarmersmarket.com",
+      "zurifarm.com"
+    ],
     "update": [
       "1bmonlinesupportupdate.com",
       "bro-updates.com",
@@ -688,21 +716,20 @@
       "update-installer.com",
       "updatesession.net"
     ],
-    "farm": [
-      "bergafarmsequipment.com",
-      "bored-farm.com",
-      "brackettfarmsupply.com",
-      "catfarmandequipment.com",
-      "enterfarmerstates.com",
-      "farmaciadellesostanze.com",
-      "farmasi-bk.com",
-      "farmerfx.net",
-      "farmerstatings.com",
-      "lockfarmequipment.com",
-      "phoenix-farm.org",
-      "royfrittsfarmequipments.com",
-      "thcafarmersmarket.com",
-      "zurifarm.com"
+    "claim": [
+      "claim-benefits-now-mycra.com",
+      "claim-cgeb-ab.help",
+      "claim-yom.com",
+      "claimflarexrp.com",
+      "claimjerseys.com",
+      "claimscotiabank.com",
+      "claimxrpflare.com",
+      "essentialsclaim-cra6.com",
+      "fdic-claim.com",
+      "infocgeb-claimnow1.com",
+      "latitude-claims.com",
+      "profileclaim-acc30.com",
+      "profileclaim-conf26.com"
     ],
     "kraken": [
       "captcha-kraken.com",
@@ -718,21 +745,6 @@
       "krakensite1.net",
       "krakensix.com",
       "razer-kraken-onion.com"
-    ],
-    "claim": [
-      "claim-benefits-now-mycra.com",
-      "claim-cgeb-ab.help",
-      "claim-yom.com",
-      "claimflarexrp.com",
-      "claimjerseys.com",
-      "claimscotiabank.com",
-      "claimxrpflare.com",
-      "essentialsclaim-cra6.com",
-      "fdic-claim.com",
-      "infocgeb-claimnow1.com",
-      "latitude-claims.com",
-      "profileclaim-acc30.com",
-      "profileclaim-conf26.com"
     ]
   }
 }

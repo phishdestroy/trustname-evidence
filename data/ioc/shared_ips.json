@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-04",
+  "generated": "2026-08-05",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1694,
+      "count": 1707,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -78,6 +78,7 @@
         "8219jojobet.com",
         "8223jojobet.com",
         "8224jojobet.com",
+        "8227jojobet.com",
         "822belticket.com",
         "84918-coinspot.com",
         "869oslobet.com",
@@ -105,13 +106,12 @@
         "aiphotodetect.app",
         "aisizhushoubox.com",
         "ak4world.com",
-        "aktiferisim-betzula.vip",
-        "albareeqa.com"
+        "aktiferisim-betzula.vip"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1618,
+      "count": 1630,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -191,6 +191,7 @@
         "9016bahis.com",
         "932884-ledger.com",
         "956matbett.com",
+        "aazentra.com",
         "accre-insu.com",
         "adddad-click.com",
         "admin-extranets.com",
@@ -212,8 +213,7 @@
         "alphaq-dex.net",
         "alvynnde.com",
         "alvynnn.com",
-        "alwaysfitt.com",
-        "amex-security.app"
+        "alwaysfitt.com"
       ]
     },
     {
@@ -1610,7 +1610,7 @@
     },
     {
       "ip": "186.2.163.247",
-      "count": 13,
+      "count": 14,
       "country": "NL",
       "domains": [
         "armodafinilaustralia.com",
@@ -1623,9 +1623,29 @@
         "modafinil-kaufen-deutschland.com",
         "modafinil-online.com",
         "modafinilbuyonline.com",
+        "modafinilmafia.net",
         "modafinilxl.com",
         "neomodafinil.org",
         "usamodafinil.com"
+      ]
+    },
+    {
+      "ip": "64.7.198.11",
+      "count": 12,
+      "country": "RO",
+      "domains": [
+        "baevux.com",
+        "fexowin.com",
+        "goamux.com",
+        "goehex.com",
+        "huedox.com",
+        "lurowin.com",
+        "meopex.com",
+        "moesax.com",
+        "puotox.com",
+        "rasowin.com",
+        "vaubex.com",
+        "vuahox.com"
       ]
     },
     {
@@ -1844,22 +1864,6 @@
         "dubaiholdings.net",
         "dubaiholdingsco.net",
         "thedubaiholding.net"
-      ]
-    },
-    {
-      "ip": "64.7.198.11",
-      "count": 9,
-      "country": "RO",
-      "domains": [
-        "fexowin.com",
-        "goamux.com",
-        "goehex.com",
-        "huedox.com",
-        "meopex.com",
-        "moesax.com",
-        "puotox.com",
-        "rasowin.com",
-        "vuahox.com"
       ]
     },
     {
