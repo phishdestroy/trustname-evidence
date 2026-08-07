@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-06",
+  "generated": "2026-08-07",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1725,
+      "count": 1743,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1633,
+      "count": 1647,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -751,7 +751,7 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 71,
+      "count": 69,
       "country": "BZ",
       "domains": [
         "24hourpharmacyhub.com",
@@ -791,7 +791,6 @@
         "flagyl-onlinemetronidazole.com",
         "gahmspharmacy.com",
         "generic-finasteride-propecia.com",
-        "housepharmacy.net",
         "hyclatedoxycycline-100mg.net",
         "hydro-pharmacy.com",
         "hydroxychloroquinefda.com",
@@ -810,7 +809,6 @@
         "onlinedoxycycline.info",
         "pharmacyadvocates.com",
         "pharmacyonline-eu.com",
-        "pleasantviewpharmacy.net",
         "propecia-finasteride-5mg.net",
         "propeciafinasteride-buy.org",
         "purchasedoxycycline.info",
@@ -1520,6 +1518,52 @@
       ]
     },
     {
+      "ip": "3.71.180.249",
+      "count": 16,
+      "country": "DE",
+      "domains": [
+        "0nyx7k.xyz",
+        "100mg-doxycycline-hyclate.info",
+        "bahisteyimvip.com",
+        "bro-castle.com",
+        "bro-casual.com",
+        "bro-news.info",
+        "bro-updates.com",
+        "elouaint.com",
+        "madinahacademyicsb.com",
+        "mobile11220marsbahis.com",
+        "pregabalinuk24.net",
+        "qaprodforwardingtestv2.com",
+        "qaprodtestfrwd2.com",
+        "qatestahhskna.com",
+        "randstadca.com",
+        "viagrabestbuy.com"
+      ]
+    },
+    {
+      "ip": "149.154.167.99",
+      "count": 16,
+      "country": "GB",
+      "domains": [
+        "bop-girls.com",
+        "bop-main.com",
+        "bopaccess.com",
+        "discord-securitybot.com",
+        "goyleaks.com",
+        "invite-tracking.com",
+        "invitertracks.com",
+        "invites-tracker-app.com",
+        "invitestracking.com",
+        "invitestracks.com",
+        "invitetrackerse.com",
+        "invitetrackerv2.com",
+        "invitetracking.com",
+        "invitetracks.net",
+        "loggersecure.com",
+        "trackmyinvites.com"
+      ]
+    },
+    {
       "ip": "178.238.236.172",
       "count": 16,
       "country": "DE",
@@ -1563,50 +1607,6 @@
         "theglplounge.com",
         "vendorinvestigate.com",
         "wuxitides.net"
-      ]
-    },
-    {
-      "ip": "3.71.180.249",
-      "count": 15,
-      "country": "DE",
-      "domains": [
-        "0nyx7k.xyz",
-        "100mg-doxycycline-hyclate.info",
-        "bahisteyimvip.com",
-        "bro-castle.com",
-        "bro-casual.com",
-        "bro-news.info",
-        "bro-updates.com",
-        "elouaint.com",
-        "madinahacademyicsb.com",
-        "mobile11220marsbahis.com",
-        "qaprodforwardingtestv2.com",
-        "qaprodtestfrwd2.com",
-        "qatestahhskna.com",
-        "randstadca.com",
-        "viagrabestbuy.com"
-      ]
-    },
-    {
-      "ip": "149.154.167.99",
-      "count": 15,
-      "country": "GB",
-      "domains": [
-        "bop-girls.com",
-        "bop-main.com",
-        "bopaccess.com",
-        "discord-securitybot.com",
-        "goyleaks.com",
-        "invite-tracking.com",
-        "invitertracks.com",
-        "invites-tracker-app.com",
-        "invitestracking.com",
-        "invitestracks.com",
-        "invitetrackerse.com",
-        "invitetrackerv2.com",
-        "invitetracking.com",
-        "invitetracks.net",
-        "loggersecure.com"
       ]
     },
     {
@@ -1852,6 +1852,22 @@
       ]
     },
     {
+      "ip": "153.75.95.182",
+      "count": 9,
+      "country": "US",
+      "domains": [
+        "2026agncrevnucd.com",
+        "ac2serv.info",
+        "assurance-scotia.com",
+        "rbcsecurity-client7931.com",
+        "recourscollectifpain-paiment10001.info",
+        "setupmydevicetd.com",
+        "simpliiadminportal.com",
+        "tgrn3bkogrn.com",
+        "uas6-cams-scotiaconnect.com"
+      ]
+    },
+    {
       "ip": "69.5.189.120",
       "count": 9,
       "country": "US",
@@ -1926,21 +1942,6 @@
         "primepassiveincomewhatsapp.com",
         "retireearlystrategyhub.com",
         "wealthinnovatorpath.com"
-      ]
-    },
-    {
-      "ip": "2.27.12.179",
-      "count": 8,
-      "country": "GB",
-      "domains": [
-        "0support-resetverif.help",
-        "2026revnucdagnc.com",
-        "abrevnucdagn2026.com",
-        "cdnrevnuagnt0526.com",
-        "cdrevnuagnt2026.com",
-        "postcancorrection20.com",
-        "rbcbusinessactivation.com",
-        "rbcroyalbanksecurevalidation.help"
       ]
     }
   ]
