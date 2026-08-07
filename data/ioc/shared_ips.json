@@ -4,7 +4,7 @@
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1743,
+      "count": 1762,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1647,
+      "count": 1673,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -147,6 +147,7 @@
         "1win-kg.buzz",
         "1winds.life",
         "1winnerr.life",
+        "1wlaps.life",
         "1xbet-daftar.com",
         "1xbetgunceli2026.com",
         "1xbettr2026.com",
@@ -193,6 +194,7 @@
         "956matbett.com",
         "aazentra.com",
         "accre-insu.com",
+        "acompanheaquirastreio.com",
         "adddad-click.com",
         "admin-extranets.com",
         "adrestesiniz-casinoroyal.pro",
@@ -211,9 +213,7 @@
         "almullacapitalco.net",
         "alobet859.com",
         "alphaq-dex.net",
-        "alvynnde.com",
-        "alvynnn.com",
-        "alwaysfitt.com"
+        "alvynnde.com"
       ]
     },
     {
@@ -1492,6 +1492,32 @@
       ]
     },
     {
+      "ip": "149.154.167.99",
+      "count": 19,
+      "country": "GB",
+      "domains": [
+        "bop-girls.com",
+        "bop-main.com",
+        "bopaccess.com",
+        "discord-securitybot.com",
+        "goyleaks.com",
+        "invite-tracking.com",
+        "invitertracks.com",
+        "invites-tracker-app.com",
+        "invitestracker.com",
+        "invitestrackers.net",
+        "invitestracking.com",
+        "invitestracks.com",
+        "invitetrackerse.com",
+        "invitetrackerv2.com",
+        "invitetracking.com",
+        "invitetracks.net",
+        "invitetreckers.com",
+        "loggersecure.com",
+        "trackmyinvites.com"
+      ]
+    },
+    {
       "ip": "131.222.213.25",
       "count": 19,
       "country": "US",
@@ -1538,29 +1564,6 @@
         "qatestahhskna.com",
         "randstadca.com",
         "viagrabestbuy.com"
-      ]
-    },
-    {
-      "ip": "149.154.167.99",
-      "count": 16,
-      "country": "GB",
-      "domains": [
-        "bop-girls.com",
-        "bop-main.com",
-        "bopaccess.com",
-        "discord-securitybot.com",
-        "goyleaks.com",
-        "invite-tracking.com",
-        "invitertracks.com",
-        "invites-tracker-app.com",
-        "invitestracking.com",
-        "invitestracks.com",
-        "invitetrackerse.com",
-        "invitetrackerv2.com",
-        "invitetracking.com",
-        "invitetracks.net",
-        "loggersecure.com",
-        "trackmyinvites.com"
       ]
     },
     {
@@ -1611,7 +1614,7 @@
     },
     {
       "ip": "186.2.163.247",
-      "count": 14,
+      "count": 15,
       "country": "NL",
       "domains": [
         "armodafinilaustralia.com",
@@ -1619,6 +1622,7 @@
         "armodafinilgenericinusa.com",
         "buymodafinilsonline.com",
         "buymodafinilxl.com",
+        "modacuity.com",
         "modafinil-buy-online.com",
         "modafinil-direct.com",
         "modafinil-kaufen-deutschland.com",
@@ -1632,7 +1636,7 @@
     },
     {
       "ip": "64.7.198.11",
-      "count": 12,
+      "count": 13,
       "country": "RO",
       "domains": [
         "baevux.com",
@@ -1643,6 +1647,7 @@
         "lurowin.com",
         "meopex.com",
         "moesax.com",
+        "monkwin.com",
         "puotox.com",
         "rasowin.com",
         "vaubex.com",
@@ -1756,6 +1761,23 @@
       ]
     },
     {
+      "ip": "153.75.95.182",
+      "count": 10,
+      "country": "US",
+      "domains": [
+        "2026agncrevnucd.com",
+        "ac2serv.info",
+        "assurance-scotia.com",
+        "helptdonline.com",
+        "rbcsecurity-client7931.com",
+        "recourscollectifpain-paiment10001.info",
+        "setupmydevicetd.com",
+        "simpliiadminportal.com",
+        "tgrn3bkogrn.com",
+        "uas6-cams-scotiaconnect.com"
+      ]
+    },
+    {
       "ip": "62.60.226.89",
       "count": 9,
       "country": "IR",
@@ -1849,22 +1871,6 @@
         "dubaiholdings.net",
         "dubaiholdingsco.net",
         "thedubaiholding.net"
-      ]
-    },
-    {
-      "ip": "153.75.95.182",
-      "count": 9,
-      "country": "US",
-      "domains": [
-        "2026agncrevnucd.com",
-        "ac2serv.info",
-        "assurance-scotia.com",
-        "rbcsecurity-client7931.com",
-        "recourscollectifpain-paiment10001.info",
-        "setupmydevicetd.com",
-        "simpliiadminportal.com",
-        "tgrn3bkogrn.com",
-        "uas6-cams-scotiaconnect.com"
       ]
     },
     {
