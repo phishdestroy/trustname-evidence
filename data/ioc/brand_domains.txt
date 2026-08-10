@@ -584,6 +584,7 @@ vault	vault-bridge.net
 vault	vault-hustle.com
 vault	vault-lens.com
 vault	vaultjack.net
+vault	vaultlens.wiki
 vault	vaulto-bank.com
 vault	vaulto-newsletter.com
 vault	vaulto-notification.com
