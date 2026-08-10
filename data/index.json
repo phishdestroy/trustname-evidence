@@ -3585,8 +3585,8 @@
     "support": 42,
     "official": 39,
     "binance": 37,
-    "ledger": 36,
     "connect": 36,
+    "ledger": 36,
     "crypto": 30,
     "verify": 28,
     "vault": 27,
@@ -3602,5 +3602,6 @@
   "ranked_count": 28,
   "correlation_count": 3243,
   "correlation_pct": 20.6,
-  "last_updated": "2026-08-08"
+  "last_updated": "2026-08-10",
+  "latest_reg": "2026-08-08"
 }
