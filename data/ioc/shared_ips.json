@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1788,
+      "count": 1811,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1693,
+      "count": 1713,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -170,6 +170,7 @@
         "48294-ledger.com",
         "482942-log-coinbase.com",
         "488253-ledger.com",
+        "550baywin.com",
         "556sonbahis.com",
         "558sonbahis.com",
         "566sonbahis.com",
@@ -212,8 +213,7 @@
         "allyspin-casino-france.com",
         "almullacapitalco.net",
         "alobet859.com",
-        "alphaq-dex.net",
-        "alvynnde.com"
+        "alphaq-dex.net"
       ]
     },
     {
@@ -1387,7 +1387,7 @@
     },
     {
       "ip": "89.117.51.233",
-      "count": 20,
+      "count": 21,
       "country": "DE",
       "domains": [
         "aeroworldflight.com",
@@ -1404,6 +1404,7 @@
         "ironcladcapitals.com",
         "marinewealthglobal.com",
         "miamedicequipment.com",
+        "progenswiss.com",
         "quebecholdingshq.com",
         "standardheritages.com",
         "underexpressdeliveries.com",
@@ -1569,6 +1570,30 @@
       ]
     },
     {
+      "ip": "91.92.47.18",
+      "count": 17,
+      "country": "NL",
+      "domains": [
+        "bahis-giris.live",
+        "bet-site.live",
+        "betcio-erisim.live",
+        "betcio-resmi.live",
+        "goldenbahis-giris.live",
+        "ikimisli-girisim.live",
+        "jojobet-burada.live",
+        "jojobet-erisim.live",
+        "jojobet-girislerim.live",
+        "jojobet-online.live",
+        "jojobet-qiris.live",
+        "misli-yeni.live",
+        "romabet-giris2026.live",
+        "romabet-online.live",
+        "romabet-quncel.live",
+        "romabet-resmi.live",
+        "romabet-yeni.live"
+      ]
+    },
+    {
       "ip": "178.238.236.172",
       "count": 16,
       "country": "DE",
@@ -1638,13 +1663,14 @@
     },
     {
       "ip": "64.7.198.11",
-      "count": 13,
+      "count": 14,
       "country": "RO",
       "domains": [
         "baevux.com",
         "fexowin.com",
         "goamux.com",
         "goehex.com",
+        "huabux.com",
         "huedox.com",
         "lurowin.com",
         "meopex.com",
@@ -1658,13 +1684,15 @@
     },
     {
       "ip": "153.75.95.182",
-      "count": 12,
+      "count": 14,
       "country": "US",
       "domains": [
         "2026agncrevnucd.com",
+        "2bmomobile.com",
         "ac2serv.info",
         "assurance-scotia.com",
         "helptdonline.com",
+        "rbcprotege.com",
         "rbcsecurity-client7931.com",
         "recourscollectifpain-paiment10001.info",
         "reglementdupain2026-quebec.info",
@@ -1814,6 +1842,22 @@
       ]
     },
     {
+      "ip": "35.205.106.218",
+      "count": 9,
+      "country": "BE",
+      "domains": [
+        "alexsmartmoneyguide.com",
+        "dividendincomewhatsapp.com",
+        "incomecompoundinghub.com",
+        "incomegrowthfreedom.com",
+        "passiveincomeclubb.com",
+        "primepassiveincomewhatsapp.com",
+        "retireandearnpassively.com",
+        "retireearlystrategyhub.com",
+        "wealthinnovatorpath.com"
+      ]
+    },
+    {
       "ip": "2.27.14.74",
       "count": 9,
       "country": "GB",
@@ -1878,22 +1922,6 @@
       ]
     },
     {
-      "ip": "91.92.47.18",
-      "count": 9,
-      "country": "NL",
-      "domains": [
-        "jojobet-burada.live",
-        "jojobet-erisim.live",
-        "jojobet-girislerim.live",
-        "jojobet-online.live",
-        "jojobet-qiris.live",
-        "romabet-online.live",
-        "romabet-quncel.live",
-        "romabet-resmi.live",
-        "romabet-yeni.live"
-      ]
-    },
-    {
       "ip": "69.5.189.120",
       "count": 9,
       "country": "US",
@@ -1938,21 +1966,6 @@
         "ketamineplug.com",
         "kokaineplug.com",
         "personalinvestingjpmorgan.com"
-      ]
-    },
-    {
-      "ip": "216.198.79.65",
-      "count": 8,
-      "country": "US",
-      "domains": [
-        "aliancadobem.net",
-        "creditocolumbia.com",
-        "kabayanloanexpress.com",
-        "olexweb.com",
-        "pinoycreditmoney.com",
-        "trucklotamerica.com",
-        "trustbridgeinvest.com",
-        "tukyy.com"
       ]
     }
   ]
