@@ -76,6 +76,7 @@ trust	trustmixer.pro
 trust	trustname.com
 trust	trustname.net
 trust	trustname1.com
+trust	trustnamedummy.com
 trust	trustprojectcard.com
 trust	trustrequire1.info
 trust	trustseba24.com
@@ -439,9 +440,11 @@ binance	binance-ua.com
 binance	binance-ud.com
 binance	binance-yt.com
 binance	binance-zo.com
+binance	binancebounty.com
 binance	binanceyield.com
 binance	securedbinance.com
 binance	ukbinance.com
+connect	1scotiaconnectscotiabank.com
 connect	api-walletconnect.org
 connect	api-walletconnect.pro
 connect	auth-connector.com

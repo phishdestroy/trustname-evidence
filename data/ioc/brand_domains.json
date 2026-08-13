@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12",
+  "generated": "2026-08-13",
   "keywords": {
     "trust": [
       "activation-trust.com",
@@ -80,6 +80,7 @@
       "trustname.com",
       "trustname.net",
       "trustname1.com",
+      "trustnamedummy.com",
       "trustprojectcard.com",
       "trustrequire1.info",
       "trustseba24.com",
@@ -457,11 +458,13 @@
       "binance-ud.com",
       "binance-yt.com",
       "binance-zo.com",
+      "binancebounty.com",
       "binanceyield.com",
       "securedbinance.com",
       "ukbinance.com"
     ],
     "connect": [
+      "1scotiaconnectscotiabank.com",
       "api-walletconnect.org",
       "api-walletconnect.pro",
       "auth-connector.com",
