@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-13",
+  "generated": "2026-08-14",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1833,
+      "count": 1850,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1740,
+      "count": 1758,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1298,6 +1298,38 @@
       ]
     },
     {
+      "ip": "91.92.47.18",
+      "count": 25,
+      "country": "NL",
+      "domains": [
+        "bahis-giris.live",
+        "bet-site.live",
+        "betcio-erisim.live",
+        "betcio-erisimleri.live",
+        "betcio-resmi.live",
+        "betcio-trgirisler.cyou",
+        "goldenbahis-giris.live",
+        "ikimisli-girisim.live",
+        "jojobet-burada.live",
+        "jojobet-erisim.live",
+        "jojobet-girislerim.live",
+        "jojobet-online.live",
+        "jojobet-qiris.live",
+        "misli-yeni.live",
+        "romabet-digital.live",
+        "romabet-fun.live",
+        "romabet-giris2026.live",
+        "romabet-online.live",
+        "romabet-quncel.live",
+        "romabet-resmi.live",
+        "romabet-trgirisler.cyou",
+        "romabet-trmobi.live",
+        "romabet-yeni.live",
+        "romabet-yeniden.live",
+        "romabet-yenilenen.live"
+      ]
+    },
+    {
       "ip": "130.12.180.241",
       "count": 24,
       "country": "NL",
@@ -1326,36 +1358,6 @@
         "xyz-resmigiris.com",
         "xyz-turkiye.com",
         "xyz-turkiyeadres.com"
-      ]
-    },
-    {
-      "ip": "91.92.47.18",
-      "count": 23,
-      "country": "NL",
-      "domains": [
-        "bahis-giris.live",
-        "bet-site.live",
-        "betcio-erisim.live",
-        "betcio-erisimleri.live",
-        "betcio-resmi.live",
-        "goldenbahis-giris.live",
-        "ikimisli-girisim.live",
-        "jojobet-burada.live",
-        "jojobet-erisim.live",
-        "jojobet-girislerim.live",
-        "jojobet-online.live",
-        "jojobet-qiris.live",
-        "misli-yeni.live",
-        "romabet-digital.live",
-        "romabet-fun.live",
-        "romabet-giris2026.live",
-        "romabet-online.live",
-        "romabet-quncel.live",
-        "romabet-resmi.live",
-        "romabet-trmobi.live",
-        "romabet-yeni.live",
-        "romabet-yeniden.live",
-        "romabet-yenilenen.live"
       ]
     },
     {
@@ -1624,6 +1626,30 @@
         "qatestahhskna.com",
         "randstadca.com",
         "viagrabestbuy.com"
+      ]
+    },
+    {
+      "ip": "91.92.47.113",
+      "count": 17,
+      "country": "NL",
+      "domains": [
+        "adres.cyou",
+        "adresleri.club",
+        "aninda.cyou",
+        "bet-adresi.club",
+        "bet-ozel.club",
+        "bet-plus.club",
+        "dub-run.cyou",
+        "dubrun.cyou",
+        "grubu.cyou",
+        "gunceli.club",
+        "holiganbet-turkey.cyou",
+        "holiganbetturkey.org",
+        "jojobet-turkey.cyou",
+        "sayfa.cyou",
+        "siteleri.club",
+        "yeni-giris.club",
+        "yenisite.cyou"
       ]
     },
     {
@@ -1963,21 +1989,6 @@
         "sweepsdiscountclub.com",
         "topdiscountsweeps.com",
         "topgifterson.com"
-      ]
-    },
-    {
-      "ip": "45.87.42.74",
-      "count": 8,
-      "country": "NL",
-      "domains": [
-        "ammoplug.org",
-        "banknoteplug.com",
-        "brownellglock.com",
-        "buyfakebanknotesonline.com",
-        "clonedcardplug.com",
-        "ketamineplug.com",
-        "kokaineplug.com",
-        "personalinvestingjpmorgan.com"
       ]
     }
   ]
