@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-14",
+  "generated": "2026-08-15",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1850,
+      "count": 1868,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1758,
+      "count": 1776,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -178,7 +178,9 @@
         "582895-ledger.com",
         "582933-coinspot.com",
         "582953-coinspot.com",
+        "590sonbahis.com",
         "595betzula.com",
+        "664avrupabet.com",
         "691223-cb.com",
         "777casino-cl.com",
         "7slotspremio-cl.com",
@@ -191,6 +193,7 @@
         "9010bahis.com",
         "9015bahis.com",
         "9016bahis.com",
+        "925bahs.com",
         "932884-ledger.com",
         "956matbett.com",
         "aazentra.com",
@@ -210,10 +213,7 @@
         "aiwallet-analyzer.com",
         "aksoyalisveris.com",
         "all-logistics.vip",
-        "allslotscasinowinca.com",
-        "allyspin-casino-france.com",
-        "almullacapitalco.net",
-        "alobet859.com"
+        "allslotscasinowinca.com"
       ]
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 69,
+      "count": 68,
       "country": "BZ",
       "domains": [
         "24hourpharmacyhub.com",
@@ -817,7 +817,6 @@
         "tobuyfinasteride.com",
         "worldpharmacyonline.com",
         "zithromax-azithromycin-buy.info",
-        "zithromax-azithromycin.net",
         "zithromax250mgazithromycin.com",
         "zithromaxazithromycin24.com",
         "zithromaxpurchaseazithromycin.com",
@@ -1017,7 +1016,7 @@
     },
     {
       "ip": "186.2.175.35",
-      "count": 53,
+      "count": 54,
       "country": "BZ",
       "domains": [
         "amlbinances.org",
@@ -1070,6 +1069,7 @@
         "trueusd-swap.org",
         "tusdswaps.com",
         "usddswap.org",
+        "xmagnetic-dex.com",
         "xmagnetic-swap.org",
         "xrpl-dex.com",
         "xrpl-dex.pro"
@@ -1266,6 +1266,40 @@
       ]
     },
     {
+      "ip": "91.92.47.18",
+      "count": 27,
+      "country": "NL",
+      "domains": [
+        "bahis-giris.live",
+        "bet-site.live",
+        "betcio-erisim.live",
+        "betcio-erisimleri.live",
+        "betcio-resmi.live",
+        "betcio-trgirisler.cyou",
+        "goldenbahis-giris.live",
+        "ikimisli-girisim.live",
+        "jojobet-burada.live",
+        "jojobet-erisim.live",
+        "jojobet-girislerim.live",
+        "jojobet-online.live",
+        "jojobet-qiris.live",
+        "misli-yeni.live",
+        "romabet-digital.live",
+        "romabet-fun.live",
+        "romabet-giris2026.live",
+        "romabet-online.live",
+        "romabet-qirisleri.club",
+        "romabet-quncel.live",
+        "romabet-resmi.live",
+        "romabet-trgirisler.cyou",
+        "romabet-trmobi.live",
+        "romabet-yeni.club",
+        "romabet-yeni.live",
+        "romabet-yeniden.live",
+        "romabet-yenilenen.live"
+      ]
+    },
+    {
       "ip": "185.158.133.1",
       "count": 25,
       "country": "DE",
@@ -1295,38 +1329,6 @@
         "uae-rights.com",
         "xdiamond.xyz",
         "xrpwallett.com"
-      ]
-    },
-    {
-      "ip": "91.92.47.18",
-      "count": 25,
-      "country": "NL",
-      "domains": [
-        "bahis-giris.live",
-        "bet-site.live",
-        "betcio-erisim.live",
-        "betcio-erisimleri.live",
-        "betcio-resmi.live",
-        "betcio-trgirisler.cyou",
-        "goldenbahis-giris.live",
-        "ikimisli-girisim.live",
-        "jojobet-burada.live",
-        "jojobet-erisim.live",
-        "jojobet-girislerim.live",
-        "jojobet-online.live",
-        "jojobet-qiris.live",
-        "misli-yeni.live",
-        "romabet-digital.live",
-        "romabet-fun.live",
-        "romabet-giris2026.live",
-        "romabet-online.live",
-        "romabet-quncel.live",
-        "romabet-resmi.live",
-        "romabet-trgirisler.cyou",
-        "romabet-trmobi.live",
-        "romabet-yeni.live",
-        "romabet-yeniden.live",
-        "romabet-yenilenen.live"
       ]
     },
     {
@@ -1554,6 +1556,32 @@
       ]
     },
     {
+      "ip": "91.92.47.113",
+      "count": 19,
+      "country": "NL",
+      "domains": [
+        "adres.cyou",
+        "adresleri.club",
+        "aninda.club",
+        "aninda.cyou",
+        "bet-adresi.club",
+        "bet-ozel.club",
+        "bet-plus.club",
+        "bet-site.club",
+        "dub-run.cyou",
+        "dubrun.cyou",
+        "grubu.cyou",
+        "gunceli.club",
+        "holiganbet-turkey.cyou",
+        "holiganbetturkey.org",
+        "jojobet-turkey.cyou",
+        "sayfa.cyou",
+        "siteleri.club",
+        "yeni-giris.club",
+        "yenisite.cyou"
+      ]
+    },
+    {
       "ip": "131.222.213.25",
       "count": 19,
       "country": "US",
@@ -1626,30 +1654,6 @@
         "qatestahhskna.com",
         "randstadca.com",
         "viagrabestbuy.com"
-      ]
-    },
-    {
-      "ip": "91.92.47.113",
-      "count": 17,
-      "country": "NL",
-      "domains": [
-        "adres.cyou",
-        "adresleri.club",
-        "aninda.cyou",
-        "bet-adresi.club",
-        "bet-ozel.club",
-        "bet-plus.club",
-        "dub-run.cyou",
-        "dubrun.cyou",
-        "grubu.cyou",
-        "gunceli.club",
-        "holiganbet-turkey.cyou",
-        "holiganbetturkey.org",
-        "jojobet-turkey.cyou",
-        "sayfa.cyou",
-        "siteleri.club",
-        "yeni-giris.club",
-        "yenisite.cyou"
       ]
     },
     {
@@ -1739,6 +1743,25 @@
         "tgrn3bkogrn.com",
         "trustrequire1.info",
         "uas6-cams-scotiaconnect.com"
+      ]
+    },
+    {
+      "ip": "31.76.87.136",
+      "count": 12,
+      "country": "US",
+      "domains": [
+        "ciscojabber.app",
+        "clusterinspector.com",
+        "rv-ware-dev.app",
+        "systeminventory.app",
+        "ultratax-develop.app",
+        "veeamdev.app",
+        "virtualaudit.app",
+        "vminventory.app",
+        "vmreporting.app",
+        "vmware-cluster.app",
+        "westlaw-court.com",
+        "xiadev.app"
       ]
     },
     {
@@ -1880,6 +1903,22 @@
       ]
     },
     {
+      "ip": "216.198.79.65",
+      "count": 9,
+      "country": "US",
+      "domains": [
+        "aliancadobem.net",
+        "civictrustinc.com",
+        "creditocolumbia.com",
+        "kabayanloanexpress.com",
+        "olexweb.com",
+        "pinoycreditmoney.com",
+        "trucklotamerica.com",
+        "trustbridgeinvest.com",
+        "tukyy.com"
+      ]
+    },
+    {
       "ip": "35.205.106.218",
       "count": 9,
       "country": "BE",
@@ -1957,38 +1996,6 @@
         "dubaiholdings.net",
         "dubaiholdingsco.net",
         "thedubaiholding.net"
-      ]
-    },
-    {
-      "ip": "69.5.189.120",
-      "count": 9,
-      "country": "US",
-      "domains": [
-        "casibomturkiyeresmigiris.com",
-        "meritbetguncelresmiadres.com",
-        "meritbetguncelturkiyegiris.com",
-        "meritbetresmigunceladres.com",
-        "meritbetresmiguncelgirisadres.com",
-        "meritbetresmiturkiyeadres.com",
-        "meritbetresmiturkiyegirisadres.com",
-        "meritbetturkiyeresmigirisadres.com",
-        "meritbetyeniresmigiris.com"
-      ]
-    },
-    {
-      "ip": "196.240.181.233",
-      "count": 9,
-      "country": "BE",
-      "domains": [
-        "bestdiscountpromos.com",
-        "bestpromorewards.com",
-        "besttoprewards.com",
-        "discountsweepshub.com",
-        "promosweepsdaily.com",
-        "rewardspromohub.com",
-        "sweepsdiscountclub.com",
-        "topdiscountsweeps.com",
-        "topgifterson.com"
       ]
     }
   ]

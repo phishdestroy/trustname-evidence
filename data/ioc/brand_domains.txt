@@ -229,6 +229,7 @@ swap	any-swap.net
 swap	auddswaps.com
 swap	blaze-swap.net
 swap	blaze-swap.org
+swap	blazeswap-app.com
 swap	blazeswaps.net
 swap	bonkswap-dex.com
 swap	cake-swap.org
@@ -480,6 +481,7 @@ connect	ssl-connecti.com
 connect	transfer-connection.com
 connect	transfersconnection.com
 connect	transfersconnections.com
+connect	trx-connect.digital
 connect	uas6-cams-scotiaconnect.com
 connect	wickyconnect.com
 connect	www-scotiaconnect-web.digital
@@ -534,6 +536,7 @@ crypto	cryptoleo-fr1.com
 crypto	cryptomixer0.com
 crypto	cryptomixerbtc.com
 crypto	cryptomixers1.com
+crypto	cryptomuspay.net
 crypto	cryptonut.app
 crypto	cryptoroll.app
 crypto	cryptospin.bond
@@ -652,6 +655,7 @@ bridge	superbridge-app.net
 bridge	tronbridge.pro
 bridge	tronbridges.com
 bridge	trustbridgeinvest.com
+bridge	v2-tronbridge.com
 bridge	vault-bridge.net
 bridge	xinbridge.org
 bridge	zerofi-bridge.org
