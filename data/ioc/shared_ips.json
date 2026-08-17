@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-16",
+  "generated": "2026-08-17",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1885,
+      "count": 1904,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1787,
+      "count": 1809,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1231,7 +1231,7 @@
     },
     {
       "ip": "91.92.47.18",
-      "count": 30,
+      "count": 32,
       "country": "NL",
       "domains": [
         "bahis-giris.live",
@@ -1243,6 +1243,7 @@
         "betcio-resmi.live",
         "betcio-trgirisler.cyou",
         "goldenbahis-giris.live",
+        "holiganbet-yeni.live",
         "ikimisli-girisim.live",
         "jojobet-burada.live",
         "jojobet-erisim.live",
@@ -1251,6 +1252,7 @@
         "jojobet-qiris.live",
         "misli-yeni.live",
         "romabet-adres.live",
+        "romabet-agustos.live",
         "romabet-digital.live",
         "romabet-fun.live",
         "romabet-giris2026.live",
@@ -1264,6 +1266,45 @@
         "romabet-yeni.live",
         "romabet-yeniden.live",
         "romabet-yenilenen.live"
+      ]
+    },
+    {
+      "ip": "91.92.47.113",
+      "count": 32,
+      "country": "NL",
+      "domains": [
+        "2026giris.bond",
+        "adres.cyou",
+        "adresler.guru",
+        "adresleri.club",
+        "aninda.club",
+        "aninda.cyou",
+        "bet-adresi.club",
+        "bet-ozel.club",
+        "bet-plus.club",
+        "bet-site.club",
+        "dub-run.cyou",
+        "dubrun.cyou",
+        "girisler.guru",
+        "grandpashabet-giris.guru",
+        "grandpashabet-mobil.guru",
+        "grubu.cyou",
+        "guncel.guru",
+        "gunceli.club",
+        "holiganbet-turkey.cyou",
+        "holiganbetturkey.org",
+        "jojo-tekgiris2026.cfd",
+        "jojobet-adresi.cfd",
+        "jojobet-turkey.cyou",
+        "joversace.club",
+        "livesite.cfd",
+        "promosyon.cfd",
+        "sayfa.cyou",
+        "siteler.guru",
+        "siteleri.club",
+        "sitesi.guru",
+        "yeni-giris.club",
+        "yenisite.cyou"
       ]
     },
     {
@@ -1451,34 +1492,6 @@
         "piabellacasino713.com",
         "setrabet1151.com",
         "setrabet1153.com"
-      ]
-    },
-    {
-      "ip": "91.92.47.113",
-      "count": 21,
-      "country": "NL",
-      "domains": [
-        "adres.cyou",
-        "adresler.guru",
-        "adresleri.club",
-        "aninda.club",
-        "aninda.cyou",
-        "bet-adresi.club",
-        "bet-ozel.club",
-        "bet-plus.club",
-        "bet-site.club",
-        "dub-run.cyou",
-        "dubrun.cyou",
-        "grubu.cyou",
-        "gunceli.club",
-        "holiganbet-turkey.cyou",
-        "holiganbetturkey.org",
-        "jojo-tekgiris2026.cfd",
-        "jojobet-turkey.cyou",
-        "sayfa.cyou",
-        "siteleri.club",
-        "yeni-giris.club",
-        "yenisite.cyou"
       ]
     },
     {
@@ -1709,28 +1722,6 @@
       ]
     },
     {
-      "ip": "186.2.163.247",
-      "count": 15,
-      "country": "NL",
-      "domains": [
-        "armodafinilaustralia.com",
-        "armodafinilcart.com",
-        "armodafinilgenericinusa.com",
-        "buymodafinilsonline.com",
-        "buymodafinilxl.com",
-        "modacuity.com",
-        "modafinil-buy-online.com",
-        "modafinil-direct.com",
-        "modafinil-kaufen-deutschland.com",
-        "modafinil-online.com",
-        "modafinilbuyonline.com",
-        "modafinilmafia.net",
-        "modafinilxl.com",
-        "neomodafinil.org",
-        "usamodafinil.com"
-      ]
-    },
-    {
       "ip": "153.75.95.182",
       "count": 14,
       "country": "US",
@@ -1749,6 +1740,27 @@
         "tgrn3bkogrn.com",
         "trustrequire1.info",
         "uas6-cams-scotiaconnect.com"
+      ]
+    },
+    {
+      "ip": "186.2.163.247",
+      "count": 14,
+      "country": "NL",
+      "domains": [
+        "armodafinilaustralia.com",
+        "armodafinilcart.com",
+        "armodafinilgenericinusa.com",
+        "buymodafinilsonline.com",
+        "buymodafinilxl.com",
+        "modacuity.com",
+        "modafinil-buy-online.com",
+        "modafinil-direct.com",
+        "modafinil-kaufen-deutschland.com",
+        "modafinil-online.com",
+        "modafinilbuyonline.com",
+        "modafinilmafia.net",
+        "modafinilxl.com",
+        "usamodafinil.com"
       ]
     },
     {
@@ -1973,6 +1985,22 @@
       ]
     },
     {
+      "ip": "91.229.239.28",
+      "count": 9,
+      "country": "MD",
+      "domains": [
+        "jnisha.icu",
+        "oakfiat.org",
+        "quicktent.org",
+        "safemerchant.pro",
+        "sensiopesent.org",
+        "senttobnb.org",
+        "sngastron.info",
+        "transforbsc.org",
+        "truebnb.org"
+      ]
+    },
+    {
       "ip": "91.215.85.233",
       "count": 9,
       "country": "RU",
@@ -1986,22 +2014,6 @@
         "sign-portal.net",
         "signonlinenow.net",
         "signportalnow.net"
-      ]
-    },
-    {
-      "ip": "198.202.211.1",
-      "count": 9,
-      "country": "US",
-      "domains": [
-        "dubaihholding.net",
-        "dubaihodling.net",
-        "dubaiholdingco.net",
-        "dubaiholdinggintl.net",
-        "dubaiholdinginc.net",
-        "dubaiholdingltd.net",
-        "dubaiholdings.net",
-        "dubaiholdingsco.net",
-        "thedubaiholding.net"
       ]
     }
   ]
