@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18",
+  "generated": "2026-08-19",
   "count": 12,
   "registrants": [
     {
@@ -32,32 +32,12 @@
       ]
     },
     {
-      "email": "support@mxl.zendesk.com",
-      "count": 15,
-      "domains": [
-        "armodafinilaustralia.com",
-        "armodafinilcart.com",
-        "armodafinilgenericinusa.com",
-        "buygenerics.com",
-        "buymodafinilsonline.com",
-        "ivermectina.org",
-        "modafinil-buy-online.com",
-        "modafinil-kaufen-deutschland.com",
-        "modafinil-online.com",
-        "modafinil247.net",
-        "modafinilbuyonline.com",
-        "modafinilusa.com",
-        "modafinilxl.com",
-        "modamindfuel.com",
-        "usamodafinil.com"
-      ]
-    },
-    {
       "email": "support@stake.com",
-      "count": 13,
+      "count": 14,
       "domains": [
         "stake1203.com",
         "stake1208.com",
+        "stake1302.com",
         "stake1305.com",
         "stake1307.com",
         "stake1401.com",
@@ -69,6 +49,26 @@
         "stakespromo.com",
         "stakesweekly.com",
         "staketreats.com"
+      ]
+    },
+    {
+      "email": "support@mxl.zendesk.com",
+      "count": 14,
+      "domains": [
+        "armodafinilaustralia.com",
+        "armodafinilcart.com",
+        "armodafinilgenericinusa.com",
+        "buygenerics.com",
+        "buymodafinilsonline.com",
+        "modafinil-buy-online.com",
+        "modafinil-kaufen-deutschland.com",
+        "modafinil-online.com",
+        "modafinil247.net",
+        "modafinilbuyonline.com",
+        "modafinilusa.com",
+        "modafinilxl.com",
+        "modamindfuel.com",
+        "usamodafinil.com"
       ]
     },
     {

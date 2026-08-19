@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-18",
+  "generated": "2026-08-19",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1911,
+      "count": 1921,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -76,6 +76,7 @@
         "557sonbahis.com",
         "580sonbahis.com",
         "591betine.org",
+        "669avrupabet.com",
         "791kareasbet.cam",
         "7bitcasinopl.com",
         "7bitcasinowin-nz.com",
@@ -105,13 +106,12 @@
         "aeternago.net",
         "aezabet.com",
         "afinilexpress.com",
-        "agent-spins1.com",
-        "agriculturaleproexporters.com"
+        "agent-spins1.com"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1823,
+      "count": 1829,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -751,7 +751,7 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 68,
+      "count": 67,
       "country": "BZ",
       "domains": [
         "24hourpharmacyhub.com",
@@ -797,7 +797,6 @@
         "iivermectin.com",
         "issacpharmacy.com",
         "ivermectin-3mg.com",
-        "ivermectina.org",
         "ivermectinforte.com",
         "ivermectinsts.com",
         "johnnyivermectinseed.com",
@@ -1767,6 +1766,25 @@
       ]
     },
     {
+      "ip": "75.2.60.5",
+      "count": 12,
+      "country": "US",
+      "domains": [
+        "aeropriveeurope.com",
+        "aniora.net",
+        "clickbbus.com",
+        "clickbusi.com",
+        "connecttpocket.com",
+        "disputenode.com",
+        "everestworldlifts.com",
+        "gofxmarket.com",
+        "hirevex-ai.com",
+        "libertyunionb.com",
+        "temawestndc.com",
+        "withticketing.com"
+      ]
+    },
+    {
       "ip": "196.196.232.66",
       "count": 12,
       "country": "US",
@@ -1802,24 +1820,6 @@
         "vmware-cluster.app",
         "westlaw-court.com",
         "xiadev.app"
-      ]
-    },
-    {
-      "ip": "75.2.60.5",
-      "count": 11,
-      "country": "US",
-      "domains": [
-        "aeropriveeurope.com",
-        "aniora.net",
-        "clickbbus.com",
-        "clickbusi.com",
-        "connecttpocket.com",
-        "disputenode.com",
-        "everestworldlifts.com",
-        "gofxmarket.com",
-        "hirevex-ai.com",
-        "libertyunionb.com",
-        "withticketing.com"
       ]
     },
     {
@@ -1890,6 +1890,22 @@
         "royalbank-secured-web.com",
         "servicesconcilia-reglementpain.info",
         "tvm-pth10-vcng3-c4anad-amj7.com"
+      ]
+    },
+    {
+      "ip": "45.87.42.74",
+      "count": 9,
+      "country": "NL",
+      "domains": [
+        "ammoplug.org",
+        "banknoteplug.com",
+        "brownellglock.com",
+        "buyfakebanknotesonline.com",
+        "clonedcardplug.com",
+        "ketamineplug.com",
+        "kokaineplug.com",
+        "nakon-medical.fit",
+        "personalinvestingjpmorgan.com"
       ]
     },
     {
@@ -2002,22 +2018,6 @@
         "sngastron.info",
         "transforbsc.org",
         "truebnb.org"
-      ]
-    },
-    {
-      "ip": "91.215.85.233",
-      "count": 9,
-      "country": "RU",
-      "domains": [
-        "aktualisierung-oegk.net",
-        "erstattung-oegk.net",
-        "klimabonus-2026.net",
-        "klimabonus2026.net",
-        "oegk-erstattung.net",
-        "onlinesign-portal.net",
-        "sign-portal.net",
-        "signonlinenow.net",
-        "signportalnow.net"
       ]
     }
   ]
