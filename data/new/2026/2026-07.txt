@@ -3121,6 +3121,7 @@ rbc-protege.com
 rbc-protegetoi.com
 rbc-supporthelp.com
 rbcauth2fa.com
+rbcfraude.com
 rbcsecurity-client7921.com
 rbhood.help
 reahox.com

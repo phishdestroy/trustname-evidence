@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-19",
+  "generated": "2026-08-20",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1921,
+      "count": 1936,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1829,
+      "count": 1848,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -202,12 +202,12 @@
         "adddad-click.com",
         "admin-extranets.com",
         "adrestesiniz-casinoroyal.pro",
-        "adrforums.net",
         "adultnest.org",
         "aeperkscardsapply.com",
         "aerodrome.qpon",
         "afluencer.net",
         "ailux.trade",
+        "airegpromotion.com",
         "airoprive.com",
         "aisi-box.com",
         "aiwallet-analyzer.com",
@@ -751,7 +751,7 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 67,
+      "count": 68,
       "country": "BZ",
       "domains": [
         "24hourpharmacyhub.com",
@@ -786,6 +786,7 @@
         "finasteride-buy-propecia.net",
         "finasteride-rx.net",
         "finasterideguide.com",
+        "finasterideonline-propecia.org",
         "flagyl-500mg-metronidazole.org",
         "flagyl-metronidazole500mg.com",
         "flagyl-onlinemetronidazole.com",
@@ -1377,6 +1378,37 @@
       ]
     },
     {
+      "ip": "89.117.51.233",
+      "count": 24,
+      "country": "DE",
+      "domains": [
+        "aeroworldflight.com",
+        "agencyroyalfamilydubia.com",
+        "apexfirmcapitals.com",
+        "britanniapetro.com",
+        "brusstrusteonline.com",
+        "centralheritageswiss.com",
+        "diamondcementgroup.com",
+        "firstheritagecinc.com",
+        "firstswissheritage.com",
+        "firstswissherithage.com",
+        "firsttrustswiss.com",
+        "heliairline.com",
+        "ironcladcapitals.com",
+        "marinewealthglobal.com",
+        "miamedicequipment.com",
+        "progenswiss.com",
+        "quebecholdingshq.com",
+        "skylcentral.com",
+        "standardheritages.com",
+        "underexpressdeliveries.com",
+        "usdefencemilitaryportal.com",
+        "veltrioncapitals.com",
+        "weternshore.com",
+        "wheelixautomobile.com"
+      ]
+    },
+    {
       "ip": "130.12.180.241",
       "count": 24,
       "country": "NL",
@@ -1405,36 +1437,6 @@
         "xyz-resmigiris.com",
         "xyz-turkiye.com",
         "xyz-turkiyeadres.com"
-      ]
-    },
-    {
-      "ip": "89.117.51.233",
-      "count": 23,
-      "country": "DE",
-      "domains": [
-        "aeroworldflight.com",
-        "agencyroyalfamilydubia.com",
-        "apexfirmcapitals.com",
-        "britanniapetro.com",
-        "brusstrusteonline.com",
-        "centralheritageswiss.com",
-        "diamondcementgroup.com",
-        "firstheritagecinc.com",
-        "firstswissheritage.com",
-        "firstswissherithage.com",
-        "firsttrustswiss.com",
-        "ironcladcapitals.com",
-        "marinewealthglobal.com",
-        "miamedicequipment.com",
-        "progenswiss.com",
-        "quebecholdingshq.com",
-        "skylcentral.com",
-        "standardheritages.com",
-        "underexpressdeliveries.com",
-        "usdefencemilitaryportal.com",
-        "veltrioncapitals.com",
-        "weternshore.com",
-        "wheelixautomobile.com"
       ]
     },
     {
@@ -1724,7 +1726,7 @@
     },
     {
       "ip": "186.2.163.247",
-      "count": 15,
+      "count": 16,
       "country": "NL",
       "domains": [
         "armodafinilaustralia.com",
@@ -1737,6 +1739,7 @@
         "modafinil-direct.com",
         "modafinil-kaufen-deutschland.com",
         "modafinil-online.com",
+        "modafinilberlin.com",
         "modafinilbuyonline.com",
         "modafinilmafia.net",
         "modafinilxl.com",
@@ -1767,7 +1770,7 @@
     },
     {
       "ip": "75.2.60.5",
-      "count": 12,
+      "count": 13,
       "country": "US",
       "domains": [
         "aeropriveeurope.com",
@@ -1780,6 +1783,7 @@
         "gofxmarket.com",
         "hirevex-ai.com",
         "libertyunionb.com",
+        "stridervhomes.com",
         "temawestndc.com",
         "withticketing.com"
       ]
@@ -1876,6 +1880,23 @@
       ]
     },
     {
+      "ip": "216.198.79.65",
+      "count": 10,
+      "country": "US",
+      "domains": [
+        "aliancadobem.net",
+        "caf-fr-remboursement.net",
+        "civictrustinc.com",
+        "creditocolumbia.com",
+        "kabayanloanexpress.com",
+        "olexweb.com",
+        "pinoycreditmoney.com",
+        "trucklotamerica.com",
+        "trustbridgeinvest.com",
+        "tukyy.com"
+      ]
+    },
+    {
       "ip": "144.31.28.221",
       "count": 10,
       "country": "US",
@@ -1938,22 +1959,6 @@
         "revnuecdagnt2026.com",
         "tdeasywebsupport.help",
         "uas2-cams-scotiabank.com"
-      ]
-    },
-    {
-      "ip": "216.198.79.65",
-      "count": 9,
-      "country": "US",
-      "domains": [
-        "aliancadobem.net",
-        "civictrustinc.com",
-        "creditocolumbia.com",
-        "kabayanloanexpress.com",
-        "olexweb.com",
-        "pinoycreditmoney.com",
-        "trucklotamerica.com",
-        "trustbridgeinvest.com",
-        "tukyy.com"
       ]
     },
     {
