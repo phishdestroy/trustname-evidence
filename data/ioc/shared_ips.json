@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-21",
+  "generated": "2026-08-22",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1957,
+      "count": 1975,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1870,
+      "count": 1888,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1931,22 +1931,6 @@
       ]
     },
     {
-      "ip": "62.60.226.89",
-      "count": 9,
-      "country": "IR",
-      "domains": [
-        "bibince.com",
-        "crypto-beacon.net",
-        "ref-link-dit5mfs31bi3kt27.com",
-        "ref-link-ken3mdi93vet2lk28.com",
-        "ref-link-pwn41ewl3ats5k29.com",
-        "referral-link-o2idk21link25.org",
-        "referral-link-opdl2linkd31.org",
-        "referral-link-owi3kd4link30.org",
-        "stop-lohotronshiki.com"
-      ]
-    },
-    {
       "ip": "107.189.23.62",
       "count": 9,
       "country": "NL",
@@ -2024,6 +2008,22 @@
         "sngastron.info",
         "transforbsc.org",
         "truebnb.org"
+      ]
+    },
+    {
+      "ip": "91.215.85.233",
+      "count": 9,
+      "country": "RU",
+      "domains": [
+        "aktualisierung-oegk.net",
+        "erstattung-oegk.net",
+        "klimabonus-2026.net",
+        "klimabonus2026.net",
+        "oegk-erstattung.net",
+        "onlinesign-portal.net",
+        "sign-portal.net",
+        "signonlinenow.net",
+        "signportalnow.net"
       ]
     }
   ]
