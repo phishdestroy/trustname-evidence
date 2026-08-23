@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-22",
+  "generated": "2026-08-23",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 1975,
+      "count": 2000,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -49,6 +49,7 @@
         "1xbetresmigiris2026.com",
         "1xcasinode.com",
         "2-hholiganbetcom.com",
+        "2011marsbahis.org",
         "2026grandpashabet.com",
         "20betwinpl.com",
         "22betec.com",
@@ -57,6 +58,7 @@
         "239420-coinspot.com",
         "24academyskill.com",
         "24levelacademy.com",
+        "271dedebet.com",
         "27638-icloud.com",
         "332995-ledger.com",
         "334852-coinspot.com",
@@ -104,14 +106,12 @@
         "923942-ledger.com",
         "9944casibom.com",
         "aaa-autosale.com",
-        "abet.bot",
-        "accposhmark.com",
-        "advanceslibrary.com"
+        "abet.bot"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 1888,
+      "count": 1907,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -123,6 +123,7 @@
         "10678marsbahis.com",
         "112111marsbahis.com",
         "11354marsbahis.com",
+        "1150bahis.com",
         "1185madridbet.com",
         "1200nakitbahis.com",
         "12203marsbahis.com",
@@ -154,6 +155,7 @@
         "1xbettr2026.com",
         "20000marsbahis.com",
         "20007marsbahis.com",
+        "20012marsbahis.com",
         "20betjuegochile.com",
         "22001marsbahis.com",
         "24myacademyskill.com",
@@ -211,9 +213,7 @@
         "ailux.trade",
         "airegpromotion.com",
         "airoprive.com",
-        "aisi-box.com",
-        "aiwallet-analyzer.com",
-        "aksoyalisveris.com"
+        "aisi-box.com"
       ]
     },
     {
@@ -1995,6 +1995,22 @@
       ]
     },
     {
+      "ip": "64.29.17.1",
+      "count": 9,
+      "country": "US",
+      "domains": [
+        "aviirel.com",
+        "crowntruckdepot.com",
+        "examspeaking.com",
+        "filipinodigitalcredit.com",
+        "giftcardcheckusa.com",
+        "optiimumm.net",
+        "pginvestportal.com",
+        "robinhoodhelpus.com",
+        "transportgo.org"
+      ]
+    },
+    {
       "ip": "91.229.239.28",
       "count": 9,
       "country": "MD",
@@ -2008,22 +2024,6 @@
         "sngastron.info",
         "transforbsc.org",
         "truebnb.org"
-      ]
-    },
-    {
-      "ip": "91.215.85.233",
-      "count": 9,
-      "country": "RU",
-      "domains": [
-        "aktualisierung-oegk.net",
-        "erstattung-oegk.net",
-        "klimabonus-2026.net",
-        "klimabonus2026.net",
-        "oegk-erstattung.net",
-        "onlinesign-portal.net",
-        "sign-portal.net",
-        "signonlinenow.net",
-        "signportalnow.net"
       ]
     }
   ]
