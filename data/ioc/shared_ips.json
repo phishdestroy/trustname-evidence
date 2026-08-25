@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-24",
+  "generated": "2026-08-25",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 2035,
+      "count": 2054,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1947,
+      "count": 1960,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1632,6 +1632,32 @@
       ]
     },
     {
+      "ip": "79.133.41.61",
+      "count": 19,
+      "country": "DE",
+      "domains": [
+        "crm-dubaichamberfx.com",
+        "crm-shamsfx.com",
+        "dubaichamberfx.com",
+        "mailer1-dubaichamber-renewals.com",
+        "mailer1-saiffx.com",
+        "mailer1-shamsfx.com",
+        "mailer1-spc-fx.com",
+        "mailer2-dubaichamber-renewals.com",
+        "mailer2-meydanfx.com",
+        "mailer2-saiffx.com",
+        "mailer2-shamsfx.com",
+        "mailer3-dubaichamber-renewals.com",
+        "mailer3-meydanfx.com",
+        "mailer3-saiffx.com",
+        "mailer3-spc-fx.com",
+        "meydanfx.com",
+        "saiffx.com",
+        "shamsfx.com",
+        "spc-fx.com"
+      ]
+    },
+    {
       "ip": "131.222.213.25",
       "count": 19,
       "country": "US",
@@ -2015,22 +2041,6 @@
         "manage-firmware.net",
         "setupfirmware.com",
         "updatesession.net"
-      ]
-    },
-    {
-      "ip": "64.29.17.1",
-      "count": 9,
-      "country": "US",
-      "domains": [
-        "aviirel.com",
-        "crowntruckdepot.com",
-        "examspeaking.com",
-        "filipinodigitalcredit.com",
-        "giftcardcheckusa.com",
-        "optiimumm.net",
-        "pginvestportal.com",
-        "robinhoodhelpus.com",
-        "transportgo.org"
       ]
     }
   ]

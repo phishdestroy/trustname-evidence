@@ -1976,8 +1976,8 @@
     },
     {
       "date": "2025-12-30",
-      "count": 5,
-      "revenue": 45.95,
+      "count": 6,
+      "revenue": 54.94,
       "path": "data/new/2025/12/2025-12-30.txt"
     },
     {
@@ -3356,24 +3356,36 @@
     },
     {
       "date": "2026-08-21",
-      "count": 76,
-      "revenue": 589.24,
+      "count": 172,
+      "revenue": 1457.28,
       "path": "data/new/2026/08/2026-08-21.txt"
     },
     {
       "date": "2026-08-22",
-      "count": 1,
-      "revenue": 9.99,
+      "count": 38,
+      "revenue": 271.62,
       "path": "data/new/2026/08/2026-08-22.txt"
+    },
+    {
+      "date": "2026-08-23",
+      "count": 2,
+      "revenue": 1.98,
+      "path": "data/new/2026/08/2026-08-23.txt"
+    },
+    {
+      "date": "2026-08-24",
+      "count": 1,
+      "revenue": 8.99,
+      "path": "data/new/2026/08/2026-08-24.txt"
     }
   ],
-  "total_new_all_time": 17809,
-  "total_revenue_estimate": 150992.58,
+  "total_new_all_time": 17945,
+  "total_revenue_estimate": 152133.22,
   "avg_registration_days": 403,
   "ip_countries": {
-    "US": 973,
-    "NL": 307,
-    "DE": 248,
+    "US": 980,
+    "NL": 310,
+    "DE": 265,
     "GB": 234,
     "RU": 189,
     "BZ": 173,
@@ -3383,8 +3395,8 @@
     "BG": 75
   },
   "top_shared_ips": {
-    "188.114.96.3": 2035,
-    "188.114.97.3": 1947,
+    "188.114.96.3": 2054,
+    "188.114.97.3": 1960,
     "131.222.213.13": 165,
     "130.12.180.245": 110,
     "130.12.180.244": 75,
@@ -3404,33 +3416,33 @@
     "45.10.243.15": 29,
     "185.158.133.1": 25
   },
-  "deployed_count": 11567,
-  "no_ip_count": 6242,
-  "deployment_rate": 65.0,
+  "deployed_count": 11654,
+  "no_ip_count": 6291,
+  "deployment_rate": 64.9,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 17195,
-    "yr_2": 334,
+    "eq_1yr": 17330,
+    "yr_2": 335,
     "yr_3plus": 280
   },
   "pct_gt_1yr": 3.4,
   "pct_gt_2yr": 1.6,
   "tld_stats": {
     "com": {
-      "count": 13163,
+      "count": 13256,
       "avg_days": 403
     },
     "net": {
-      "count": 949,
-      "avg_days": 430
+      "count": 958,
+      "avg_days": 429
     },
     "icu": {
-      "count": 899,
+      "count": 900,
       "avg_days": 365
     },
     "org": {
-      "count": 811,
-      "avg_days": 454
+      "count": 829,
+      "avg_days": 452
     },
     "pro": {
       "count": 250,
@@ -3445,7 +3457,7 @@
       "avg_days": 365
     },
     "cfd": {
-      "count": 137,
+      "count": 138,
       "avg_days": 365
     },
     "cam": {
@@ -3453,7 +3465,7 @@
       "avg_days": 365
     },
     "cyou": {
-      "count": 118,
+      "count": 128,
       "avg_days": 365
     },
     "app": {
@@ -3461,8 +3473,8 @@
       "avg_days": 389
     },
     "info": {
-      "count": 109,
-      "avg_days": 452
+      "count": 110,
+      "avg_days": 451
     },
     "vip": {
       "count": 90,
@@ -3477,7 +3489,7 @@
       "avg_days": 372
     },
     "ink": {
-      "count": 46,
+      "count": 47,
       "avg_days": 365
     },
     "help": {
@@ -3499,27 +3511,27 @@
   },
   "revenue_by_tld": {
     "com": {
-      "count": 13163,
+      "count": 13256,
       "price": 8.99,
-      "revenue": 118335.37,
-      "pct": 78.4
+      "revenue": 119171.44,
+      "pct": 78.3
     },
     "net": {
-      "count": 949,
+      "count": 958,
       "price": 9.99,
-      "revenue": 9480.51,
+      "revenue": 9570.42,
       "pct": 6.3
     },
     "icu": {
-      "count": 899,
+      "count": 900,
       "price": 0.99,
-      "revenue": 890.01,
+      "revenue": 891.0,
       "pct": 0.6
     },
     "org": {
-      "count": 811,
+      "count": 829,
       "price": 9.99,
-      "revenue": 8101.89,
+      "revenue": 8281.71,
       "pct": 5.4
     },
     "pro": {
@@ -3541,9 +3553,9 @@
       "pct": 1.4
     },
     "cfd": {
-      "count": 137,
+      "count": 138,
       "price": 4.99,
-      "revenue": 683.63,
+      "revenue": 688.62,
       "pct": 0.5
     },
     "cam": {
@@ -3553,9 +3565,9 @@
       "pct": 0.4
     },
     "cyou": {
-      "count": 118,
+      "count": 128,
       "price": 0.99,
-      "revenue": 116.82,
+      "revenue": 126.72,
       "pct": 0.1
     },
     "app": {
@@ -3565,9 +3577,9 @@
       "pct": 1.1
     },
     "info": {
-      "count": 109,
+      "count": 110,
       "price": 3.99,
-      "revenue": 434.91,
+      "revenue": 438.9,
       "pct": 0.3
     },
     "vip": {
@@ -3580,7 +3592,7 @@
       "count": 51,
       "price": 1.49,
       "revenue": 75.99,
-      "pct": 0.1
+      "pct": 0.0
     },
     "sbs": {
       "count": 50,
@@ -3589,9 +3601,9 @@
       "pct": 0.2
     },
     "ink": {
-      "count": 46,
+      "count": 47,
       "price": 4.99,
-      "revenue": 229.54,
+      "revenue": 234.53,
       "pct": 0.2
     },
     "help": {
@@ -3621,12 +3633,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 741,
-    "within_month": 3035,
-    "older": 14033
+    "within_week": 729,
+    "within_month": 3074,
+    "older": 14142
   },
-  "avg_catch_age_days": 820,
-  "fresh_pct": 4.2,
+  "avg_catch_age_days": 819,
+  "fresh_pct": 4.1,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3641,12 +3653,12 @@
     {
       "date": "2026-06-25",
       "count": 222,
-      "x_avg": 7.0
+      "x_avg": 6.9
     },
     {
       "date": "2026-06-30",
       "count": 219,
-      "x_avg": 6.9
+      "x_avg": 6.8
     },
     {
       "date": "2026-08-20",
@@ -3661,12 +3673,12 @@
     {
       "date": "2026-06-17",
       "count": 203,
-      "x_avg": 6.4
+      "x_avg": 6.3
     },
     {
       "date": "2026-08-04",
       "count": 200,
-      "x_avg": 6.3
+      "x_avg": 6.2
     },
     {
       "date": "2026-06-10",
@@ -3676,7 +3688,7 @@
     {
       "date": "2026-07-15",
       "count": 184,
-      "x_avg": 5.8
+      "x_avg": 5.7
     }
   ],
   "top_registrant_emails": {
@@ -3695,19 +3707,19 @@
     "service@usstampsmarkets.com": 4,
     "hello@tally.so": 4,
     "info@almullacapital.com": 4,
+    "contact@shamsfx.com": 4,
+    "contact@saiffx.com": 4,
     "contato@viajabrasil.com.br": 4,
-    "support@kingchance.com": 3,
-    "u003esupport@kingchance.com": 3,
-    "donald991x@tutamail.com": 3,
-    "contato@suportevenda.com.br": 3
+    "dmca@telegram.org": 3,
+    "support@kingchance.com": 3
   },
   "top_registrant_phones": {
-    "9-18-15-12-9": 103,
+    "9-18-15-12-9": 104,
+    "5-19-12-12-19": 29,
     "6-12-12-16-14": 27,
     "+44-0808-8020-133": 27,
     "4-23-10-17-10": 23,
-    "5-19-12-12-19": 20,
-    "9-12-15-18-9": 14,
+    "9-12-15-18-9": 16,
     "9-12-15-12-15-22": 9,
     "+966-11-221-4000": 8,
     "0-12-12-12-12-0": 7,
@@ -3716,30 +3728,30 @@
   "serial_email_count": 4,
   "brand_heatmap": {
     "trust": 99,
-    "secure": 71,
-    "login": 70,
+    "secure": 72,
+    "login": 72,
     "swap": 67,
-    "support": 51,
+    "support": 52,
     "wallet": 49,
     "official": 41,
-    "binance": 40,
     "connect": 40,
+    "binance": 40,
     "ledger": 36,
-    "verify": 33,
     "crypto": 33,
+    "verify": 33,
     "vault": 27,
     "coinbase": 27,
     "bridge": 26,
     "account": 19,
+    "update": 19,
     "farm": 18,
-    "update": 18,
     "claim": 16,
     "kraken": 14
   },
   "unranked_pct": 99.8,
-  "ranked_count": 29,
-  "correlation_count": 3506,
+  "ranked_count": 28,
+  "correlation_count": 3542,
   "correlation_pct": 19.7,
-  "last_updated": "2026-08-24",
-  "latest_reg": "2026-08-22"
+  "last_updated": "2026-08-25",
+  "latest_reg": "2026-08-24"
 }
