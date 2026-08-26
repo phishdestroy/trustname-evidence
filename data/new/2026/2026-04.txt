@@ -136,6 +136,7 @@ aplinvestgroup.com
 app-eulerfinance.com
 app-lido-finance.com
 app-ondo.net
+app-rocketpool.net
 app-sparkdex.org
 app-spectrafinance.com
 app996-aus.com

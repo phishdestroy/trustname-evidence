@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25",
-  "count": 12,
+  "generated": "2026-08-26",
+  "count": 13,
   "registrants": [
     {
       "email": "max@unternehmen.de",
@@ -174,6 +174,17 @@
         "clusterfamilyofficehq.net",
         "clusterfamilyofficeinc.net",
         "clusterfamilyoffices.net"
+      ]
+    },
+    {
+      "email": "contact@shamsfx.com",
+      "count": 5,
+      "domains": [
+        "crm-shamsfx.com",
+        "mailer1-shamsfx.com",
+        "mailer2-shamsfx.com",
+        "mailer3-shamsfx.com",
+        "shamsfx.com"
       ]
     }
   ]

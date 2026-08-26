@@ -4,6 +4,7 @@
 aeternago.net
 app-lido-finance.com
 app-ondo.net
+app-rocketpool.net
 aurex.trading
 bastwin.com
 betebet-orjinalegir.com

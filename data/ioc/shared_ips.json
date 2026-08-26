@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-25",
+  "generated": "2026-08-26",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 2054,
+      "count": 2065,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1960,
+      "count": 1974,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1346,6 +1346,39 @@
       ]
     },
     {
+      "ip": "89.117.51.233",
+      "count": 26,
+      "country": "DE",
+      "domains": [
+        "aeroworldflight.com",
+        "agencyroyalfamilydubia.com",
+        "apexfirmcapitals.com",
+        "britanniapetro.com",
+        "brusstrusteonline.com",
+        "centralheritageswiss.com",
+        "diamondcementgroup.com",
+        "elitefianances.com",
+        "firstheritagecinc.com",
+        "firstswissheritage.com",
+        "firstswissherithage.com",
+        "firsttrustswiss.com",
+        "heliairline.com",
+        "ironcladcapitals.com",
+        "kleverbits.com",
+        "marinewealthglobal.com",
+        "miamedicequipment.com",
+        "progenswiss.com",
+        "quebecholdingshq.com",
+        "skylcentral.com",
+        "standardheritages.com",
+        "underexpressdeliveries.com",
+        "usdefencemilitaryportal.com",
+        "veltrioncapitals.com",
+        "weternshore.com",
+        "wheelixautomobile.com"
+      ]
+    },
+    {
       "ip": "185.158.133.1",
       "count": 25,
       "country": "DE",
@@ -1378,37 +1411,6 @@
       ]
     },
     {
-      "ip": "89.117.51.233",
-      "count": 24,
-      "country": "DE",
-      "domains": [
-        "aeroworldflight.com",
-        "agencyroyalfamilydubia.com",
-        "apexfirmcapitals.com",
-        "britanniapetro.com",
-        "brusstrusteonline.com",
-        "centralheritageswiss.com",
-        "diamondcementgroup.com",
-        "firstheritagecinc.com",
-        "firstswissheritage.com",
-        "firstswissherithage.com",
-        "firsttrustswiss.com",
-        "heliairline.com",
-        "ironcladcapitals.com",
-        "marinewealthglobal.com",
-        "miamedicequipment.com",
-        "progenswiss.com",
-        "quebecholdingshq.com",
-        "skylcentral.com",
-        "standardheritages.com",
-        "underexpressdeliveries.com",
-        "usdefencemilitaryportal.com",
-        "veltrioncapitals.com",
-        "weternshore.com",
-        "wheelixautomobile.com"
-      ]
-    },
-    {
       "ip": "130.12.180.241",
       "count": 24,
       "country": "NL",
@@ -1437,6 +1439,36 @@
         "xyz-resmigiris.com",
         "xyz-turkiye.com",
         "xyz-turkiyeadres.com"
+      ]
+    },
+    {
+      "ip": "79.133.41.61",
+      "count": 23,
+      "country": "DE",
+      "domains": [
+        "crm-dubaichamberfx.com",
+        "crm-shamsfx.com",
+        "dubaichamber-renewals.com",
+        "dubaichamberfx.com",
+        "mailer1-dubaichamber-renewals.com",
+        "mailer1-meydanfx.com",
+        "mailer1-saiffx.com",
+        "mailer1-shamsfx.com",
+        "mailer1-spc-fx.com",
+        "mailer2-dubaichamber-renewals.com",
+        "mailer2-meydanfx.com",
+        "mailer2-saiffx.com",
+        "mailer2-shamsfx.com",
+        "mailer2-spc-fx.com",
+        "mailer3-dubaichamber-renewals.com",
+        "mailer3-meydanfx.com",
+        "mailer3-saiffx.com",
+        "mailer3-shamsfx.com",
+        "mailer3-spc-fx.com",
+        "meydanfx.com",
+        "saiffx.com",
+        "shamsfx.com",
+        "spc-fx.com"
       ]
     },
     {
@@ -1632,32 +1664,6 @@
       ]
     },
     {
-      "ip": "79.133.41.61",
-      "count": 19,
-      "country": "DE",
-      "domains": [
-        "crm-dubaichamberfx.com",
-        "crm-shamsfx.com",
-        "dubaichamberfx.com",
-        "mailer1-dubaichamber-renewals.com",
-        "mailer1-saiffx.com",
-        "mailer1-shamsfx.com",
-        "mailer1-spc-fx.com",
-        "mailer2-dubaichamber-renewals.com",
-        "mailer2-meydanfx.com",
-        "mailer2-saiffx.com",
-        "mailer2-shamsfx.com",
-        "mailer3-dubaichamber-renewals.com",
-        "mailer3-meydanfx.com",
-        "mailer3-saiffx.com",
-        "mailer3-spc-fx.com",
-        "meydanfx.com",
-        "saiffx.com",
-        "shamsfx.com",
-        "spc-fx.com"
-      ]
-    },
-    {
       "ip": "131.222.213.25",
       "count": 19,
       "country": "US",
@@ -1779,7 +1785,7 @@
     },
     {
       "ip": "75.2.60.5",
-      "count": 14,
+      "count": 15,
       "country": "US",
       "domains": [
         "aeropriveeurope.com",
@@ -1789,6 +1795,7 @@
         "connecttpocket.com",
         "disputenode.com",
         "everestworldlifts.com",
+        "flashmissons.com",
         "gofxmarket.com",
         "hirevex-ai.com",
         "invrestifyprimefx.com",
