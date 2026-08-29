@@ -3645,12 +3645,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 402,
-    "within_month": 3248,
-    "older": 14482
+    "within_week": 209,
+    "within_month": 3266,
+    "older": 14657
   },
-  "avg_catch_age_days": 819,
-  "fresh_pct": 2.2,
+  "avg_catch_age_days": 820,
+  "fresh_pct": 1.2,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3746,8 +3746,8 @@
     "support": 52,
     "wallet": 51,
     "official": 42,
-    "connect": 40,
     "binance": 40,
+    "connect": 40,
     "ledger": 36,
     "verify": 33,
     "crypto": 33,
@@ -3758,12 +3758,12 @@
     "update": 19,
     "farm": 18,
     "claim": 16,
-    "bitcoin": 14
+    "kraken": 14
   },
   "unranked_pct": 99.9,
   "ranked_count": 27,
-  "correlation_count": 3556,
+  "correlation_count": 3560,
   "correlation_pct": 19.6,
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "latest_reg": "2026-08-26"
 }
