@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-29",
+  "generated": "2026-08-30",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 2069,
+      "count": 2079,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 1983,
+      "count": 1986,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1191,7 +1191,7 @@
     },
     {
       "ip": "91.92.47.113",
-      "count": 34,
+      "count": 35,
       "country": "NL",
       "domains": [
         "2026giris.bond",
@@ -1210,6 +1210,7 @@
         "grandpashabet-giris.guru",
         "grandpashabet-mobil.guru",
         "grubu.cyou",
+        "guncel-adresler.org",
         "guncel.guru",
         "gunceli.club",
         "holiganbet-turkey.cyou",
