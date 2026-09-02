@@ -3409,8 +3409,8 @@
       "path": "data/new/2026/08/2026-08-29.txt"
     }
   ],
-  "total_new_all_time": 18264,
-  "total_revenue_estimate": 154613.54,
+  "total_new_all_time": 18263,
+  "total_revenue_estimate": 154603.55,
   "avg_registration_days": 402,
   "ip_countries": {
     "US": 988,
@@ -3425,8 +3425,8 @@
     "BG": 75
   },
   "top_shared_ips": {
-    "188.114.96.3": 2089,
-    "188.114.97.3": 1996,
+    "188.114.96.3": 2088,
+    "188.114.97.3": 1997,
     "131.222.213.13": 165,
     "130.12.180.245": 110,
     "130.12.180.244": 75,
@@ -3446,14 +3446,14 @@
     "45.10.243.15": 29,
     "89.117.51.233": 26
   },
-  "deployed_count": 11831,
-  "no_ip_count": 6433,
+  "deployed_count": 11832,
+  "no_ip_count": 6431,
   "deployment_rate": 64.8,
   "reg_periods": {
     "lt_1yr": 0,
     "eq_1yr": 17645,
     "yr_2": 337,
-    "yr_3plus": 282
+    "yr_3plus": 281
   },
   "pct_gt_1yr": 3.4,
   "pct_gt_2yr": 1.5,
@@ -3463,7 +3463,7 @@
       "avg_days": 402
     },
     "net": {
-      "count": 975,
+      "count": 974,
       "avg_days": 428
     },
     "icu": {
@@ -3547,9 +3547,9 @@
       "pct": 78.2
     },
     "net": {
-      "count": 975,
+      "count": 974,
       "price": 9.99,
-      "revenue": 9740.25,
+      "revenue": 9730.26,
       "pct": 6.3
     },
     "icu": {
@@ -3663,12 +3663,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 119,
-    "within_month": 3087,
-    "older": 15058
+    "within_week": 69,
+    "within_month": 3047,
+    "older": 15147
   },
-  "avg_catch_age_days": 820,
-  "fresh_pct": 0.7,
+  "avg_catch_age_days": 821,
+  "fresh_pct": 0.4,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3683,7 +3683,7 @@
     {
       "date": "2026-06-25",
       "count": 222,
-      "x_avg": 6.9
+      "x_avg": 6.8
     },
     {
       "date": "2026-06-30",
@@ -3713,7 +3713,7 @@
     {
       "date": "2026-08-21",
       "count": 193,
-      "x_avg": 6.0
+      "x_avg": 5.9
     },
     {
       "date": "2026-06-10",
@@ -3753,7 +3753,7 @@
     "9-12-15-12-15-22": 9,
     "+966-11-221-4000": 8,
     "0-12-12-12-12-0": 7,
-    "5-50-34-79-39-39": 6
+    "5-50-34-79-39-39": 7
   },
   "serial_email_count": 4,
   "brand_heatmap": {
@@ -3764,8 +3764,8 @@
     "wallet": 52,
     "support": 52,
     "official": 42,
-    "binance": 40,
     "connect": 40,
+    "binance": 40,
     "ledger": 36,
     "verify": 33,
     "crypto": 33,
@@ -3776,12 +3776,12 @@
     "update": 19,
     "farm": 18,
     "claim": 16,
-    "bitcoin": 14
+    "kraken": 14
   },
   "unranked_pct": 99.9,
-  "ranked_count": 25,
-  "correlation_count": 3575,
+  "ranked_count": 27,
+  "correlation_count": 3574,
   "correlation_pct": 19.6,
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "latest_reg": "2026-08-29"
 }
