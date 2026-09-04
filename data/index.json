@@ -1484,7 +1484,7 @@
     },
     {
       "date": "2025-08-15",
-      "count": 3,
+      "count": 4,
       "revenue": 27.97,
       "path": "data/new/2025/08/2025-08-15.txt"
     },
@@ -1496,7 +1496,7 @@
     },
     {
       "date": "2025-08-18",
-      "count": 1,
+      "count": 2,
       "revenue": 8.99,
       "path": "data/new/2025/08/2025-08-18.txt"
     },
@@ -1514,7 +1514,7 @@
     },
     {
       "date": "2025-08-22",
-      "count": 2,
+      "count": 3,
       "revenue": 17.98,
       "path": "data/new/2025/08/2025-08-22.txt"
     },
@@ -1550,7 +1550,7 @@
     },
     {
       "date": "2025-08-30",
-      "count": 2,
+      "count": 3,
       "revenue": 18.98,
       "path": "data/new/2025/08/2025-08-30.txt"
     },
@@ -2930,7 +2930,7 @@
     },
     {
       "date": "2026-06-11",
-      "count": 171,
+      "count": 172,
       "revenue": 1413.3,
       "path": "data/new/2026/06/2026-06-11.txt"
     },
@@ -3427,7 +3427,7 @@
       "path": "data/new/2026/09/2026-09-01.txt"
     }
   ],
-  "total_new_all_time": 18363,
+  "total_new_all_time": 18373,
   "total_revenue_estimate": 155414.56,
   "avg_registration_days": 402,
   "ip_countries": {
@@ -3681,12 +3681,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 81,
-    "within_month": 2990,
-    "older": 15292
+    "within_week": 37,
+    "within_month": 2834,
+    "older": 15492
   },
-  "avg_catch_age_days": 817,
-  "fresh_pct": 0.4,
+  "avg_catch_age_days": 818,
+  "fresh_pct": 0.2,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3785,8 +3785,8 @@
     "connect": 40,
     "binance": 40,
     "ledger": 36,
-    "verify": 33,
     "crypto": 33,
+    "verify": 33,
     "vault": 28,
     "coinbase": 27,
     "bridge": 26,
@@ -3798,8 +3798,8 @@
   },
   "unranked_pct": 99.8,
   "ranked_count": 29,
-  "correlation_count": 3580,
+  "correlation_count": 3581,
   "correlation_pct": 19.5,
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "latest_reg": "2026-09-01"
 }
