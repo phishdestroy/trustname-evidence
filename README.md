@@ -78,7 +78,7 @@ CA  █░░░░░░░░░░░░░░░░░        105 (3.4%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (99)` &middot; `login (75)` &middot; `secure (72)` &middot; `swap (67)` &middot; `wallet (53)` &middot; `support (52)` &middot; `official (42)` &middot; `binance (40)` &middot; `connect (40)` &middot; `ledger (36)` &middot; `crypto (33)` &middot; `verify (33)` &middot; `vault (28)` &middot; `coinbase (27)` &middot; `bridge (27)`
+`trust (99)` &middot; `login (75)` &middot; `secure (72)` &middot; `swap (67)` &middot; `wallet (53)` &middot; `support (52)` &middot; `official (42)` &middot; `binance (40)` &middot; `connect (40)` &middot; `ledger (36)` &middot; `crypto (33)` &middot; `verify (33)` &middot; `vault (28)` &middot; `bridge (27)` &middot; `coinbase (27)`
 
 ### 🕵️ Top Serial Registrants — 13 emails with ≥5 domains
 

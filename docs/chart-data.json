@@ -3788,8 +3788,8 @@
     "crypto": 33,
     "verify": 33,
     "vault": 28,
-    "coinbase": 27,
     "bridge": 27,
+    "coinbase": 27,
     "account": 23,
     "update": 19,
     "farm": 18,
@@ -3798,8 +3798,8 @@
   },
   "unranked_pct": 99.8,
   "ranked_count": 33,
-  "correlation_count": 3612,
-  "correlation_pct": 19.6,
+  "correlation_count": 3828,
+  "correlation_pct": 20.8,
   "last_updated": "2026-09-05",
   "latest_reg": "2026-09-01"
 }
