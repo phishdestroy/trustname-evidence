@@ -27,11 +27,11 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-05`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-06`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>18,417</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$155,835</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>18,462</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$156,162</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>64.7%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
 <td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.1%</code></sub></td>
@@ -42,13 +42,13 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 13,550 | 402d | $121,814 |
-| `.net` | 979 | 428d | $9,780 |
-| `.icu` | 921 | 365d | $912 |
-| `.org` | 875 | 448d | $8,741 |
+| `.com` | 13,574 | 402d | $122,030 |
+| `.net` | 980 | 427d | $9,790 |
+| `.icu` | 923 | 365d | $914 |
+| `.org` | 880 | 447d | $8,791 |
 | `.pro` | 253 | 380d | $2,021 |
 | `.live` | 224 | 373d | $2,238 |
-| `.cyou` | 158 | 365d | $156 |
+| `.cyou` | 161 | 365d | $159 |
 | `.cfd` | 146 | 365d | $729 |
 | `.cam` | 144 | 365d | $719 |
 | `.digital` | 139 | 365d | $2,084 |
@@ -56,12 +56,12 @@
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        996 (32.0%)
-NL  █████░░░░░░░░░░░░░        321 (10.3%)
-DE  ████░░░░░░░░░░░░░░        274 (8.8%)
-GB  ████░░░░░░░░░░░░░░        233 (7.5%)
-RU  ███░░░░░░░░░░░░░░░        187 (6.0%)
-BZ  ███░░░░░░░░░░░░░░░        170 (5.5%)
+US  ██████████████████        999 (32.1%)
+NL  █████░░░░░░░░░░░░░        322 (10.3%)
+DE  ████░░░░░░░░░░░░░░        273 (8.8%)
+GB  ████░░░░░░░░░░░░░░        234 (7.5%)
+RU  ███░░░░░░░░░░░░░░░        186 (6.0%)
+BZ  ███░░░░░░░░░░░░░░░        169 (5.4%)
 UA  ██░░░░░░░░░░░░░░░░        119 (3.8%)
 CA  █░░░░░░░░░░░░░░░░░        105 (3.4%)
 ```
