@@ -27,11 +27,11 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-08`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-09`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>18,544</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$156,826</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>18,583</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$157,125</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>64.6%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
 <td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.1%</code></sub></td>
@@ -42,27 +42,27 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 13,625 | 402d | $122,489 |
-| `.net` | 984 | 427d | $9,830 |
-| `.icu` | 926 | 365d | $917 |
+| `.com` | 13,649 | 402d | $122,705 |
+| `.net` | 987 | 427d | $9,860 |
+| `.icu` | 928 | 365d | $919 |
 | `.org` | 887 | 447d | $8,861 |
 | `.pro` | 255 | 380d | $2,037 |
 | `.live` | 224 | 373d | $2,238 |
-| `.cyou` | 163 | 365d | $161 |
+| `.cyou` | 165 | 365d | $163 |
 | `.cfd` | 147 | 365d | $734 |
-| `.cam` | 145 | 365d | $724 |
-| `.digital` | 140 | 365d | $2,099 |
+| `.cam` | 146 | 365d | $729 |
+| `.digital` | 141 | 365d | $2,114 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████      1,003 (32.1%)
+US  ██████████████████      1,006 (32.2%)
 NL  █████░░░░░░░░░░░░░        325 (10.4%)
 DE  ████░░░░░░░░░░░░░░        275 (8.8%)
 GB  ████░░░░░░░░░░░░░░        235 (7.5%)
-RU  ███░░░░░░░░░░░░░░░        186 (6.0%)
-BZ  ███░░░░░░░░░░░░░░░        169 (5.4%)
-UA  ██░░░░░░░░░░░░░░░░        119 (3.8%)
+RU  ███░░░░░░░░░░░░░░░        186 (5.9%)
+BZ  ███░░░░░░░░░░░░░░░        168 (5.4%)
+UA  ██░░░░░░░░░░░░░░░░        118 (3.8%)
 CA  █░░░░░░░░░░░░░░░░░        105 (3.4%)
 ```
 
@@ -78,7 +78,7 @@ CA  █░░░░░░░░░░░░░░░░░        105 (3.4%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (99)` &middot; `login (76)` &middot; `secure (74)` &middot; `swap (67)` &middot; `wallet (53)` &middot; `support (53)` &middot; `official (42)` &middot; `binance (41)` &middot; `connect (41)` &middot; `ledger (36)` &middot; `crypto (33)` &middot; `verify (33)` &middot; `vault (28)` &middot; `bridge (27)` &middot; `coinbase (27)`
+`trust (99)` &middot; `login (76)` &middot; `secure (75)` &middot; `swap (67)` &middot; `support (53)` &middot; `wallet (53)` &middot; `official (42)` &middot; `binance (41)` &middot; `connect (41)` &middot; `ledger (36)` &middot; `verify (34)` &middot; `crypto (33)` &middot; `vault (28)` &middot; `bridge (27)` &middot; `coinbase (27)`
 
 ### 🕵️ Top Serial Registrants — 13 emails with ≥5 domains
 
@@ -86,8 +86,8 @@ CA  █░░░░░░░░░░░░░░░░░        105 (3.4%)
 |--:|:--|--:|
 | 1 | `m***@unternehmen.de` | **23** |
 | 2 | `sup***@stake.com` | **14** |
-| 3 | `sup***@mxl.zendesk.com` | **14** |
-| 4 | `hel***@wingstop.com` | **13** |
+| 3 | `hel***@wingstop.com` | **13** |
+| 4 | `sup***@mxl.zendesk.com` | **13** |
 | 5 | `inf***@alrajhi-partners.com` | **8** |
 | 6 | `inf***@khashoggiholding.com` | **8** |
 | 7 | `inf***@khashoggilaw.com` | **8** |
