@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-09",
+  "generated": "2026-09-10",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 2118,
+      "count": 2120,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -69,6 +69,7 @@
         "382949-coinspot.com",
         "384819-ledger.com",
         "394823-ledger.com",
+        "404ewo.boo",
         "429532-coinbase.com",
         "429535-coinbase.com",
         "4341bets10.com",
@@ -105,13 +106,12 @@
         "888casinowin-mx.com",
         "893292-coinspot.com",
         "898bahs.com",
-        "902346coinbase.com",
-        "923942-ledger.com"
+        "902346coinbase.com"
       ]
     },
     {
       "ip": "188.114.97.3",
-      "count": 2019,
+      "count": 2021,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -1721,6 +1721,29 @@
       ]
     },
     {
+      "ip": "75.2.60.5",
+      "count": 16,
+      "country": "US",
+      "domains": [
+        "aeropriveeurope.com",
+        "aniora.net",
+        "clickbbus.com",
+        "clickbusi.com",
+        "connecttpocket.com",
+        "disputenode.com",
+        "everestworldlifts.com",
+        "flashmissons.com",
+        "gofxmarket.com",
+        "hirevex-ai.com",
+        "invrestifyprimefx.com",
+        "libertyunionb.com",
+        "link-connectips.com",
+        "stridervhomes.com",
+        "temawestndc.com",
+        "withticketing.com"
+      ]
+    },
+    {
       "ip": "178.238.236.172",
       "count": 16,
       "country": "DE",
@@ -1787,28 +1810,6 @@
         "modafinilxl.com",
         "nootracare.com",
         "usamodafinil.com"
-      ]
-    },
-    {
-      "ip": "75.2.60.5",
-      "count": 15,
-      "country": "US",
-      "domains": [
-        "aeropriveeurope.com",
-        "aniora.net",
-        "clickbbus.com",
-        "clickbusi.com",
-        "connecttpocket.com",
-        "disputenode.com",
-        "everestworldlifts.com",
-        "flashmissons.com",
-        "gofxmarket.com",
-        "hirevex-ai.com",
-        "invrestifyprimefx.com",
-        "libertyunionb.com",
-        "stridervhomes.com",
-        "temawestndc.com",
-        "withticketing.com"
       ]
     },
     {
@@ -2011,6 +2012,22 @@
       ]
     },
     {
+      "ip": "188.114.96.9",
+      "count": 9,
+      "country": "",
+      "domains": [
+        "a1prconsultancy.com",
+        "berglg.com",
+        "deal-spirit.org",
+        "infinity-casinos.org",
+        "mofchemicals.com",
+        "perfectequipmentco.com",
+        "telrgmds.com",
+        "yumowin.com",
+        "zunomex.com"
+      ]
+    },
+    {
       "ip": "45.87.42.74",
       "count": 9,
       "country": "NL",
@@ -2040,22 +2057,6 @@
         "revnuecdagnt2026.com",
         "tdeasywebsupport.help",
         "uas2-cams-scotiabank.com"
-      ]
-    },
-    {
-      "ip": "2.27.14.74",
-      "count": 9,
-      "country": "GB",
-      "domains": [
-        "1bmonlinesupportupdate.com",
-        "2026cdrevnuagnct.com",
-        "bmosecurevalidation.help",
-        "cdrevnagnd2026.com",
-        "cdrevnuagntc2026.com",
-        "profileupdt-connectnow1.com",
-        "secureonlinesupport.help",
-        "tdsecureaccess-recover.com",
-        "tdsecurevalidation.help"
       ]
     }
   ]
