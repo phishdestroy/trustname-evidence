@@ -8,6 +8,7 @@ androvolt.net
 app-identifier.com
 aquarium-it.com
 atlanticunionbank.org
+au-lizaro.com
 au-lizaro.net
 camdenationalbank.org
 celebfy.app
@@ -67,6 +68,7 @@ psychoplug.com
 pusulabetegir.cyou
 pusulabetgirisler.cyou
 racingbrasil.com
+rate-account.com
 raycatsolana.com
 rcplug.org
 sheratonking160.org
