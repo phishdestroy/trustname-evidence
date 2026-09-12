@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-11",
+  "generated": "2026-09-12",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 2125,
+      "count": 2127,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 2022,
+      "count": 2026,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -751,7 +751,7 @@
     },
     {
       "ip": "190.115.31.173",
-      "count": 66,
+      "count": 65,
       "country": "AE",
       "domains": [
         "24hourpharmacyhub.com",
@@ -766,7 +766,6 @@
         "azithromycinzithromaxbuy.com",
         "bg-pharmacy.com",
         "buy-azithromycin.com",
-        "buy-finasteridepropecia.com",
         "buy-hydroxychloroquine.com",
         "buyazithromycinzithromax.com",
         "canadian24hrpharmacy.com",
@@ -1721,6 +1720,29 @@
       ]
     },
     {
+      "ip": "188.114.96.9",
+      "count": 16,
+      "country": "",
+      "domains": [
+        "a1prconsultancy.com",
+        "berglg.com",
+        "betflex.pro",
+        "deal-spirit.org",
+        "infinity-casinos.org",
+        "kirepex.com",
+        "ldmnq-pc.org",
+        "mofchemicals.com",
+        "monarchplay.net",
+        "perfectequipmentco.com",
+        "pocketbitcoindesktop.com",
+        "spinnex.org",
+        "telrgmds.com",
+        "wenowin.com",
+        "yumowin.com",
+        "zunomex.com"
+      ]
+    },
+    {
       "ip": "75.2.60.5",
       "count": 16,
       "country": "US",
@@ -1810,6 +1832,28 @@
         "modafinilxl.com",
         "nootracare.com",
         "usamodafinil.com"
+      ]
+    },
+    {
+      "ip": "188.114.97.9",
+      "count": 15,
+      "country": "",
+      "domains": [
+        "aml-screening.org",
+        "citgamb.com",
+        "deus-steroids.com",
+        "eurochoicepharmacy.com",
+        "europainmedclinic.com",
+        "foudox.com",
+        "hokowin.com",
+        "kamalahari.com",
+        "mralmighty.net",
+        "oqjdwo1.icu",
+        "rar-zip.com",
+        "rezowin156.pro",
+        "telrgmca.com",
+        "tlgrmcn.com",
+        "webmixerbtc.net"
       ]
     },
     {
@@ -1945,23 +1989,6 @@
       ]
     },
     {
-      "ip": "188.114.96.9",
-      "count": 10,
-      "country": "",
-      "domains": [
-        "a1prconsultancy.com",
-        "berglg.com",
-        "deal-spirit.org",
-        "infinity-casinos.org",
-        "mofchemicals.com",
-        "perfectequipmentco.com",
-        "spinnex.org",
-        "telrgmds.com",
-        "yumowin.com",
-        "zunomex.com"
-      ]
-    },
-    {
       "ip": "216.24.57.1",
       "count": 10,
       "country": "US",
@@ -2043,22 +2070,6 @@
         "kokaineplug.com",
         "nakon-medical.fit",
         "personalinvestingjpmorgan.com"
-      ]
-    },
-    {
-      "ip": "188.114.97.9",
-      "count": 9,
-      "country": "",
-      "domains": [
-        "aml-screening.org",
-        "citgamb.com",
-        "deus-steroids.com",
-        "eurochoicepharmacy.com",
-        "foudox.com",
-        "kamalahari.com",
-        "oqjdwo1.icu",
-        "telrgmca.com",
-        "webmixerbtc.net"
       ]
     }
   ]
