@@ -169,11 +169,11 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
        │   HTTP fingerprint │      │     Browser render │      │     + 2captcha     │      │     classification │
        │   80 conc / inv.   │      │     Playwright     │      │     SOCKS5 pool    │      │     Llama 3.1     │
        ╰────────────────────╯      ╰────────────────────╯      ╰────────────────────╯      ╰────────────────────╯
-              7,641                       7,641                       2,182                       2,434
+              18,719                       18,719                       2,182                       2,434
               domains                     domains                     protected targets           classified
 ```
 
-**Phase II in one sentence:** of the 2,583 domains under this registrar that actually serve content, **2,221 (86 %) are confirmed malicious** — phishing, carding, crypto drainers, malware distribution, illegal-drug sales, and unlicensed gambling. The remaining 5,058 are dead or parked. The complete per-domain dataset, screenshots, and operator-cluster analysis live in this repository.
+**Phase II in one sentence:** of the 2,583 domains under this registrar that actually serve content, **4,275 (22.8%) are confirmed malicious** — phishing, carding, crypto drainers, malware distribution, illegal-drug sales, and unlicensed gambling. The remaining 5,058 are dead or parked. The complete per-domain dataset, screenshots, and operator-cluster analysis live in this repository.
 
 ---
 
@@ -200,7 +200,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 <table>
 <tr><th>Parameter</th><th>Value</th></tr>
 <tr><td>📆 Scan window</td><td>June 2026</td></tr>
-<tr><td>📊 Domains in scope</td><td><b>7,641</b> — all domains under registrar management</td></tr>
+<tr><td>📊 Domains in scope</td><td><b>18,719</b> — all domains under registrar management</td></tr>
 <tr><td>🎯 Sampling</td><td><b>None</b> — complete-zone enumeration</td></tr>
 <tr><td>🌐 Network coverage</td><td>Full HTTP + headless browser for every domain</td></tr>
 <tr><td>☁ Cloudflare-protected</td><td>2,072 domains identified in the enriched dataset</td></tr>
@@ -280,7 +280,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 | Metric | Value |
 |---|---:|
-| 🧮 **Total domains scanned** | **7,641** |
+| 🧮 **Total domains scanned** | **18,719** |
 | 💀 Dead / parked / error | 5,058 (66.2 %) |
 | 💚 Active with content | 2,583 (33.8 %) |
 | 🔴 **HIGH severity** | **1,114** |
@@ -356,7 +356,7 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 
 | Path | Size | SHA-256 (16) | Contents |
 |---|---:|---|---|
-| 📊 `data/enriched.csv` | 2.8 MB | `83ea143175d8a378` | Full enriched dataset — all 7,641 domains, all columns |
+| 📊 `data/enriched.csv` | 2.8 MB | `83ea143175d8a378` | Full enriched dataset — all 18,719 domains, all columns |
 | 📊 `data/high_severity.csv` | 748 KB | `ecee3b68b2fb34c8` | HIGH-only filtered subset |
 | 📊 `data/dead_domains.csv` | 742 KB | `5ee84646c6872591` | Dead / parked / error enumeration |
 | 🚫 `ioc/domains_high.txt` | 57 KB | `25cf3632c9c8bc15` | Production blocklist — 3,293 HIGH domains |
@@ -429,7 +429,7 @@ Fewmoretaps OÜ collects registration revenue from operators conducting wire fra
 trustname-evidence/
 ├── 📊 docs/                                 GitHub Pages site
 │   ├── index.html                          Executive report — metrics, charts, gallery
-│   ├── domains.html                        Searchable per-domain table (7,641)
+│   ├── domains.html                        Searchable per-domain table (18,719)
 │   ├── data.json                           Slim dataset for the live report
 │   ├── build_datajson.py                   Generator: enriched.csv → data.json
 │   ├── sitemap.xml / robots.txt / .nojekyll
@@ -440,7 +440,7 @@ trustname-evidence/
 │   └── dead_domains.csv                    Dead / parked enumeration
 ├── 🚫 ioc/                                  Indicators of Compromise
 │   ├── domains_high.txt                    3,293 HIGH blocklist
-│   ├── domains_all_malicious.txt           2,221 HIGH + MEDIUM blocklist
+│   ├── domains_all_malicious.txt           4,275 HIGH + MEDIUM blocklist
 │   └── indicators.csv                      SIEM-ready
 ├── 🔐 evidence/
 │   ├── screenshots/                        Local screenshot archive; ignored by git
@@ -574,7 +574,7 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 | # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
 |--|--|--|--|--|--|--|
 | 1 | **NICENIC INTERNATIONAL GROUP** | #3765 | 349,376 | **18,927 (50% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
-| 2 | **Trustname.com / Fewmoretaps ÖÜ** *(this)* | #4318 | 9,343 | **1,114 HIGH (86% alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
+| 2 | **Trustname.com / Fewmoretaps ÖÜ** *(this)* | #4318 | 9,343 | **3,292 HIGH (86% alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
 | 3 | **NameSilo, LLC** | #1479 | 5,251,494 | **183,419** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
 
 ---
