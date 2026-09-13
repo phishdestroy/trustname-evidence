@@ -27,14 +27,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-12`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-13`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>18,704</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$158,125</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>18,732</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$158,370</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>64.6%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.0%</code></sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.1%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>4</code></sub></td>
 </tr></table>
 
@@ -42,28 +42,28 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 13,727 | 402d | $123,406 |
-| `.net` | 995 | 427d | $9,940 |
+| `.com` | 13,752 | 402d | $123,630 |
+| `.net` | 996 | 426d | $9,950 |
 | `.icu` | 929 | 365d | $920 |
 | `.org` | 897 | 446d | $8,961 |
 | `.pro` | 261 | 380d | $2,085 |
 | `.live` | 224 | 373d | $2,238 |
 | `.cyou` | 170 | 365d | $168 |
-| `.cfd` | 149 | 365d | $744 |
+| `.cfd` | 150 | 365d | $748 |
 | `.cam` | 147 | 365d | $734 |
 | `.digital` | 141 | 365d | $2,114 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████      1,006 (32.2%)
-NL  █████░░░░░░░░░░░░░        325 (10.4%)
-DE  ████░░░░░░░░░░░░░░        275 (8.8%)
+US  ██████████████████      1,006 (32.1%)
+NL  █████░░░░░░░░░░░░░        326 (10.4%)
+DE  ████░░░░░░░░░░░░░░        276 (8.8%)
 GB  ████░░░░░░░░░░░░░░        235 (7.5%)
 RU  ███░░░░░░░░░░░░░░░        185 (5.9%)
 BZ  ██░░░░░░░░░░░░░░░░        167 (5.3%)
 UA  ██░░░░░░░░░░░░░░░░        115 (3.7%)
-CA  █░░░░░░░░░░░░░░░░░        105 (3.4%)
+CA  █░░░░░░░░░░░░░░░░░        106 (3.4%)
 ```
 
 ### 📈 Registration Burst Days

@@ -2576,8 +2576,8 @@
     },
     {
       "date": "2026-04-11",
-      "count": 42,
-      "revenue": 358.58,
+      "count": 43,
+      "revenue": 367.57,
       "path": "data/new/2026/04/2026-04-11.txt"
     },
     {
@@ -3236,8 +3236,8 @@
     },
     {
       "date": "2026-07-30",
-      "count": 169,
-      "revenue": 1480.31,
+      "count": 170,
+      "revenue": 1485.3,
       "path": "data/new/2026/07/2026-07-30.txt"
     },
     {
@@ -3380,38 +3380,38 @@
     },
     {
       "date": "2026-08-23",
-      "count": 89,
-      "revenue": 679.12,
+      "count": 90,
+      "revenue": 684.11,
       "path": "data/new/2026/08/2026-08-23.txt"
     },
     {
       "date": "2026-08-24",
-      "count": 95,
-      "revenue": 779.06,
+      "count": 97,
+      "revenue": 797.04,
       "path": "data/new/2026/08/2026-08-24.txt"
     },
     {
       "date": "2026-08-25",
-      "count": 111,
-      "revenue": 875.89,
+      "count": 113,
+      "revenue": 893.87,
       "path": "data/new/2026/08/2026-08-25.txt"
     },
     {
       "date": "2026-08-26",
-      "count": 99,
-      "revenue": 698.01,
+      "count": 104,
+      "revenue": 742.96,
       "path": "data/new/2026/08/2026-08-26.txt"
     },
     {
       "date": "2026-08-27",
-      "count": 101,
-      "revenue": 740.49,
+      "count": 105,
+      "revenue": 776.45,
       "path": "data/new/2026/08/2026-08-27.txt"
     },
     {
       "date": "2026-08-28",
-      "count": 67,
-      "revenue": 494.33,
+      "count": 68,
+      "revenue": 503.32,
       "path": "data/new/2026/08/2026-08-28.txt"
     },
     {
@@ -3434,70 +3434,76 @@
     },
     {
       "date": "2026-09-01",
-      "count": 11,
-      "revenue": 105.89,
+      "count": 12,
+      "revenue": 115.88,
       "path": "data/new/2026/09/2026-09-01.txt"
     },
     {
       "date": "2026-09-02",
-      "count": 5,
-      "revenue": 45.95,
+      "count": 6,
+      "revenue": 54.94,
       "path": "data/new/2026/09/2026-09-02.txt"
     },
     {
       "date": "2026-09-03",
-      "count": 20,
-      "revenue": 181.8,
+      "count": 23,
+      "revenue": 208.77,
       "path": "data/new/2026/09/2026-09-03.txt"
     },
     {
       "date": "2026-09-04",
-      "count": 2,
-      "revenue": 13.98,
+      "count": 3,
+      "revenue": 22.97,
       "path": "data/new/2026/09/2026-09-04.txt"
     },
     {
       "date": "2026-09-05",
-      "count": 2,
-      "revenue": 17.98,
+      "count": 3,
+      "revenue": 26.97,
       "path": "data/new/2026/09/2026-09-05.txt"
     },
     {
       "date": "2026-09-06",
-      "count": 5,
-      "revenue": 45.95,
+      "count": 6,
+      "revenue": 54.94,
       "path": "data/new/2026/09/2026-09-06.txt"
     },
     {
       "date": "2026-09-07",
-      "count": 1,
-      "revenue": 8.99,
+      "count": 2,
+      "revenue": 17.98,
       "path": "data/new/2026/09/2026-09-07.txt"
     },
     {
       "date": "2026-09-08",
+      "count": 2,
+      "revenue": 17.98,
+      "path": "data/new/2026/09/2026-09-08.txt"
+    },
+    {
+      "date": "2026-09-09",
       "count": 1,
       "revenue": 8.99,
-      "path": "data/new/2026/09/2026-09-08.txt"
+      "path": "data/new/2026/09/2026-09-09.txt"
     }
   ],
-  "total_new_all_time": 18719,
-  "total_revenue_estimate": 158125.15,
+  "total_new_all_time": 18747,
+  "total_revenue_estimate": 158369.87,
   "avg_registration_days": 402,
   "ip_countries": {
     "US": 1006,
-    "NL": 325,
-    "DE": 275,
+    "NL": 326,
+    "DE": 276,
     "GB": 235,
     "RU": 185,
     "BZ": 167,
     "UA": 115,
-    "CA": 105,
+    "CA": 106,
     "IR": 97,
     "BG": 75
   },
   "top_shared_ips": {
-    "188.114.96.3": 2127,
+    "188.114.96.3": 2130,
     "188.114.97.3": 2026,
     "131.222.213.13": 165,
     "130.12.180.245": 110,
@@ -3518,12 +3524,12 @@
     "45.10.243.15": 29,
     "89.117.51.233": 28
   },
-  "deployed_count": 12088,
-  "no_ip_count": 6616,
+  "deployed_count": 12107,
+  "no_ip_count": 6625,
   "deployment_rate": 64.6,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 18082,
+    "eq_1yr": 18110,
     "yr_2": 338,
     "yr_3plus": 284
   },
@@ -3531,12 +3537,12 @@
   "pct_gt_2yr": 1.5,
   "tld_stats": {
     "com": {
-      "count": 13727,
+      "count": 13752,
       "avg_days": 402
     },
     "net": {
-      "count": 995,
-      "avg_days": 427
+      "count": 996,
+      "avg_days": 426
     },
     "icu": {
       "count": 929,
@@ -3559,7 +3565,7 @@
       "avg_days": 365
     },
     "cfd": {
-      "count": 149,
+      "count": 150,
       "avg_days": 365
     },
     "cam": {
@@ -3613,15 +3619,15 @@
   },
   "revenue_by_tld": {
     "com": {
-      "count": 13727,
+      "count": 13752,
       "price": 8.99,
-      "revenue": 123405.73,
-      "pct": 78.0
+      "revenue": 123630.48,
+      "pct": 78.1
     },
     "net": {
-      "count": 995,
+      "count": 996,
       "price": 9.99,
-      "revenue": 9940.05,
+      "revenue": 9950.04,
       "pct": 6.3
     },
     "icu": {
@@ -3655,9 +3661,9 @@
       "pct": 0.1
     },
     "cfd": {
-      "count": 149,
+      "count": 150,
       "price": 4.99,
-      "revenue": 743.51,
+      "revenue": 748.5,
       "pct": 0.5
     },
     "cam": {
@@ -3735,12 +3741,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 9,
-    "within_month": 2109,
-    "older": 16586
+    "within_week": 11,
+    "within_month": 1980,
+    "older": 16741
   },
   "avg_catch_age_days": 818,
-  "fresh_pct": 0.0,
+  "fresh_pct": 0.1,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3770,7 +3776,7 @@
     {
       "date": "2026-06-08",
       "count": 204,
-      "x_avg": 6.2
+      "x_avg": 6.3
     },
     {
       "date": "2026-06-17",
@@ -3845,15 +3851,15 @@
     "account": 28,
     "coinbase": 27,
     "bridge": 27,
-    "update": 19,
     "farm": 19,
+    "update": 19,
     "claim": 16,
     "bitcoin": 15
   },
   "unranked_pct": 99.8,
-  "ranked_count": 39,
-  "correlation_count": 3848,
+  "ranked_count": 38,
+  "correlation_count": 3850,
   "correlation_pct": 20.6,
-  "last_updated": "2026-09-12",
-  "latest_reg": "2026-09-08"
+  "last_updated": "2026-09-13",
+  "latest_reg": "2026-09-09"
 }

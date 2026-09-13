@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12",
+  "generated": "2026-09-13",
   "keywords": {
     "trust": [
       "activation-trust.com",
@@ -796,27 +796,6 @@
       "xinbridge.org",
       "zerofi-bridge.org"
     ],
-    "update": [
-      "1bmonlinesupportupdate.com",
-      "bro-updates.com",
-      "careers-jobupdates.com",
-      "defande-update.com",
-      "firmware-updater.cloud",
-      "hiringjobs-update.com",
-      "infoupdatecraportal.com",
-      "microsoft-security-update.com",
-      "microsoftupdates.pro",
-      "microssoftupdates.pro",
-      "myparcelupdate.com",
-      "neforesupdate.com",
-      "policyupdate.dev",
-      "rapid-update.com",
-      "scotiabank-myappupdate.com",
-      "update-gateway.com",
-      "update-installer.com",
-      "update-notif.com",
-      "updatesession.net"
-    ],
     "farm": [
       "bergafarmsequipment.com",
       "bored-farm.com",
@@ -837,6 +816,27 @@
       "shorts-farm-killer.com",
       "thcafarmersmarket.com",
       "zurifarm.com"
+    ],
+    "update": [
+      "1bmonlinesupportupdate.com",
+      "bro-updates.com",
+      "careers-jobupdates.com",
+      "defande-update.com",
+      "firmware-updater.cloud",
+      "hiringjobs-update.com",
+      "infoupdatecraportal.com",
+      "microsoft-security-update.com",
+      "microsoftupdates.pro",
+      "microssoftupdates.pro",
+      "myparcelupdate.com",
+      "neforesupdate.com",
+      "policyupdate.dev",
+      "rapid-update.com",
+      "scotiabank-myappupdate.com",
+      "update-gateway.com",
+      "update-installer.com",
+      "update-notif.com",
+      "updatesession.net"
     ],
     "claim": [
       "claim-benefits-now-mycra.com",
