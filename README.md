@@ -173,7 +173,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
               domains                     domains                     protected targets           classified
 ```
 
-**Phase II in one sentence:** of the 2,583 domains under this registrar that actually serve content, **4,275 (22.8%) are confirmed malicious** — phishing, carding, crypto drainers, malware distribution, illegal-drug sales, and unlicensed gambling. The remaining 5,058 are dead or parked. The complete per-domain dataset, screenshots, and operator-cluster analysis live in this repository.
+**Phase II in one sentence:** of the 12,088 domains under this registrar that actually serve content, **4,275 (35.4%) are confirmed malicious** — phishing, carding, crypto drainers, malware distribution, illegal-drug sales, and unlicensed gambling. The remaining 6,616 are dead or parked. The complete per-domain dataset, screenshots, and operator-cluster analysis live in this repository.
 
 ---
 
@@ -281,12 +281,12 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 | Metric | Value |
 |---|---:|
 | 🧮 **Total domains scanned** | **18,719** |
-| 💀 Dead / parked / error | 5,058 (66.2 %) |
-| 💚 Active with content | 2,583 (33.8 %) |
-| 🔴 **HIGH severity** | **1,114** |
-| 🟠 **MEDIUM severity** | **1,107** |
-| ⚠ **Total malicious (HIGH + MEDIUM)** | **2,221** |
-| 🚨 **Malicious share of active content** | **86.0 %** |
+| 💀 Dead / parked / error | 6,616 (35.3 %) |
+| 💚 Active with content | 12,088 (64.7 %) |
+| 🔴 **HIGH severity** | **3,292** |
+| 🟠 **MEDIUM severity** | **983** |
+| ⚠ **Total malicious (HIGH + MEDIUM)** | **4,275** |
+| 🚨 **Malicious share of active content** | **35.4 %** |
 | ☁ Behind Cloudflare | 2,072 |
 | 📷 Screenshots captured | 1,953 |
 | 🧩 CAPTCHAs bypassed | 92 |
@@ -573,9 +573,9 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 
 | # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
 |--|--|--|--|--|--|--|
-| 1 | **NICENIC INTERNATIONAL GROUP** | #3765 | 349,376 | **18,927 (50% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
-| 2 | **Trustname.com / Fewmoretaps ÖÜ** *(this)* | #4318 | 9,343 | **3,292 HIGH (86% alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
-| 3 | **NameSilo, LLC** | #1479 | 5,251,494 | **183,419** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
+| 1 | **NICENIC INTERNATIONAL GROUP** | #3765 | 403,909 | **82,575 (44.0% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
+| 2 | **Trustname.com / Fewmoretaps ÖÜ** *(this)* | #4318 | 18,719 | **3,292 HIGH (35.4% of alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
+| 3 | **NameSilo, LLC** | #1479 | 5,653,085 | **122,152 HIGH (3.63%)** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
 
 ---
 
