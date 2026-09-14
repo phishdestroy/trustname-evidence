@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-13",
+  "generated": "2026-09-14",
   "count": 50,
   "ips": [
     {
       "ip": "188.114.96.3",
-      "count": 2130,
+      "count": 2145,
       "country": "",
       "domains": [
         "1-romabetgiris.com",
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 2026,
+      "count": 2039,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -218,7 +218,7 @@
     },
     {
       "ip": "131.222.213.13",
-      "count": 165,
+      "count": 166,
       "country": "US",
       "domains": [
         "11141tempobet.com",
@@ -1504,6 +1504,64 @@
       ]
     },
     {
+      "ip": "188.114.96.9",
+      "count": 22,
+      "country": "",
+      "domains": [
+        "a1prconsultancy.com",
+        "alphabridgeconsultancy.com",
+        "berglg.com",
+        "betflex.pro",
+        "deal-spirit.org",
+        "feufex.com",
+        "infinity-casinos.org",
+        "kirepex.com",
+        "ldmnq-pc.org",
+        "mofchemicals.com",
+        "monarchplay.net",
+        "newoffer-demo.com",
+        "perfectequipmentco.com",
+        "pocketbitcoindesktop.com",
+        "qootwin.com",
+        "spinnex.org",
+        "telrgmcc.com",
+        "telrgmds.com",
+        "wenowin.com",
+        "yumowin.com",
+        "zunawex.com",
+        "zunomex.com"
+      ]
+    },
+    {
+      "ip": "188.114.97.9",
+      "count": 22,
+      "country": "",
+      "domains": [
+        "aml-screening.org",
+        "citgamb.com",
+        "deus-steroids.com",
+        "etanao.com",
+        "eurochoicepharmacy.com",
+        "europainmedclinic.com",
+        "foudox.com",
+        "hokowin.com",
+        "kamalahari.com",
+        "kuecox.com",
+        "lioncityagency.com",
+        "mehmetkayafree.com",
+        "monportailwise.com",
+        "mralmighty.net",
+        "oqjdwo1.icu",
+        "prbridgeconsultant.com",
+        "rar-zip.com",
+        "rezowin156.pro",
+        "sunawin.com",
+        "telrgmca.com",
+        "tlgrmcn.com",
+        "webmixerbtc.net"
+      ]
+    },
+    {
       "ip": "66.198.225.39",
       "count": 22,
       "country": "US",
@@ -1696,31 +1754,6 @@
       ]
     },
     {
-      "ip": "188.114.96.9",
-      "count": 18,
-      "country": "",
-      "domains": [
-        "a1prconsultancy.com",
-        "berglg.com",
-        "betflex.pro",
-        "deal-spirit.org",
-        "infinity-casinos.org",
-        "kirepex.com",
-        "ldmnq-pc.org",
-        "mofchemicals.com",
-        "monarchplay.net",
-        "newoffer-demo.com",
-        "perfectequipmentco.com",
-        "pocketbitcoindesktop.com",
-        "spinnex.org",
-        "telrgmcc.com",
-        "telrgmds.com",
-        "wenowin.com",
-        "yumowin.com",
-        "zunomex.com"
-      ]
-    },
-    {
       "ip": "64.7.198.11",
       "count": 18,
       "country": "RO",
@@ -1743,30 +1776,6 @@
         "suacax.com",
         "vaubex.com",
         "vuahox.com"
-      ]
-    },
-    {
-      "ip": "188.114.97.9",
-      "count": 17,
-      "country": "",
-      "domains": [
-        "aml-screening.org",
-        "citgamb.com",
-        "deus-steroids.com",
-        "etanao.com",
-        "eurochoicepharmacy.com",
-        "europainmedclinic.com",
-        "foudox.com",
-        "hokowin.com",
-        "kamalahari.com",
-        "mralmighty.net",
-        "oqjdwo1.icu",
-        "rar-zip.com",
-        "rezowin156.pro",
-        "sunawin.com",
-        "telrgmca.com",
-        "tlgrmcn.com",
-        "webmixerbtc.net"
       ]
     },
     {
