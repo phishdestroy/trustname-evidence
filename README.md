@@ -27,14 +27,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-16`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-17`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>19,628</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$165,723</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>19,641</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$165,834</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>64.6%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.6%</code></sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.5%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>4</code></sub></td>
 </tr></table>
 
@@ -42,10 +42,10 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 14,363 | 401d | $129,123 |
-| `.net` | 1,045 | 428d | $10,440 |
+| `.com` | 14,372 | 401d | $129,204 |
+| `.net` | 1,046 | 428d | $10,450 |
 | `.icu` | 958 | 365d | $948 |
-| `.org` | 955 | 444d | $9,540 |
+| `.org` | 956 | 444d | $9,550 |
 | `.pro` | 267 | 380d | $2,133 |
 | `.live` | 226 | 373d | $2,258 |
 | `.cyou` | 192 | 365d | $190 |
@@ -78,7 +78,7 @@ CA  █░░░░░░░░░░░░░░░░░        107 (3.3%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (102)` &middot; `secure (79)` &middot; `login (76)` &middot; `swap (67)` &middot; `wallet (56)` &middot; `support (56)` &middot; `connect (43)` &middot; `account (43)` &middot; `official (42)` &middot; `binance (42)` &middot; `verify (37)` &middot; `ledger (36)` &middot; `crypto (35)` &middot; `bridge (29)` &middot; `vault (29)`
+`trust (102)` &middot; `secure (79)` &middot; `login (76)` &middot; `swap (67)` &middot; `support (56)` &middot; `wallet (56)` &middot; `connect (43)` &middot; `account (43)` &middot; `binance (42)` &middot; `official (42)` &middot; `verify (37)` &middot; `ledger (36)` &middot; `crypto (35)` &middot; `bridge (29)` &middot; `vault (29)`
 
 ### 🕵️ Top Serial Registrants — 12 emails with ≥5 domains
 

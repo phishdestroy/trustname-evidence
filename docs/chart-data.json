@@ -3566,13 +3566,19 @@
     },
     {
       "date": "2026-09-13",
-      "count": 2,
-      "revenue": 9.98,
+      "count": 12,
+      "revenue": 100.88,
       "path": "data/new/2026/09/2026-09-13.txt"
+    },
+    {
+      "date": "2026-09-14",
+      "count": 3,
+      "revenue": 19.97,
+      "path": "data/new/2026/09/2026-09-14.txt"
     }
   ],
-  "total_new_all_time": 19642,
-  "total_revenue_estimate": 165722.96,
+  "total_new_all_time": 19655,
+  "total_revenue_estimate": 165833.83,
   "avg_registration_days": 401,
   "ip_countries": {
     "US": 1045,
@@ -3587,17 +3593,17 @@
     "BG": 75
   },
   "top_shared_ips": {
-    "188.114.96.3": 2212,
-    "188.114.97.3": 2085,
+    "188.114.96.3": 2211,
+    "188.114.97.3": 2083,
     "131.222.213.13": 166,
     "130.12.180.245": 110,
     "130.12.180.244": 75,
     "130.12.180.243": 74,
     "130.12.180.242": 71,
     "186.2.175.109": 71,
-    "188.114.97.9": 66,
+    "188.114.97.9": 68,
+    "188.114.96.9": 67,
     "190.115.31.173": 65,
-    "188.114.96.9": 61,
     "130.12.180.238": 60,
     "216.150.1.1": 57,
     "186.2.175.35": 54,
@@ -3608,12 +3614,12 @@
     "45.90.16.56": 33,
     "91.92.47.18": 32
   },
-  "deployed_count": 12680,
-  "no_ip_count": 6948,
+  "deployed_count": 12692,
+  "no_ip_count": 6949,
   "deployment_rate": 64.6,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 18982,
+    "eq_1yr": 18995,
     "yr_2": 352,
     "yr_3plus": 294
   },
@@ -3621,11 +3627,11 @@
   "pct_gt_2yr": 1.5,
   "tld_stats": {
     "com": {
-      "count": 14363,
+      "count": 14372,
       "avg_days": 401
     },
     "net": {
-      "count": 1045,
+      "count": 1046,
       "avg_days": 428
     },
     "icu": {
@@ -3633,7 +3639,7 @@
       "avg_days": 365
     },
     "org": {
-      "count": 955,
+      "count": 956,
       "avg_days": 444
     },
     "pro": {
@@ -3703,15 +3709,15 @@
   },
   "revenue_by_tld": {
     "com": {
-      "count": 14363,
+      "count": 14372,
       "price": 8.99,
-      "revenue": 129123.37,
+      "revenue": 129204.28,
       "pct": 77.9
     },
     "net": {
-      "count": 1045,
+      "count": 1046,
       "price": 9.99,
-      "revenue": 10439.55,
+      "revenue": 10449.54,
       "pct": 6.3
     },
     "icu": {
@@ -3721,9 +3727,9 @@
       "pct": 0.6
     },
     "org": {
-      "count": 955,
+      "count": 956,
       "price": 9.99,
-      "revenue": 9540.45,
+      "revenue": 9550.44,
       "pct": 5.8
     },
     "pro": {
@@ -3825,12 +3831,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 114,
-    "within_month": 2405,
-    "older": 17109
+    "within_week": 94,
+    "within_month": 2290,
+    "older": 17257
   },
   "avg_catch_age_days": 833,
-  "fresh_pct": 0.6,
+  "fresh_pct": 0.5,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3923,12 +3929,12 @@
     "secure": 79,
     "login": 76,
     "swap": 67,
-    "wallet": 56,
     "support": 56,
+    "wallet": 56,
     "connect": 43,
     "account": 43,
-    "official": 42,
     "binance": 42,
+    "official": 42,
     "verify": 37,
     "ledger": 36,
     "crypto": 35,
@@ -3942,8 +3948,8 @@
   },
   "unranked_pct": 99.8,
   "ranked_count": 45,
-  "correlation_count": 3898,
+  "correlation_count": 3906,
   "correlation_pct": 19.9,
-  "last_updated": "2026-09-16",
-  "latest_reg": "2026-09-13"
+  "last_updated": "2026-09-17",
+  "latest_reg": "2026-09-14"
 }
