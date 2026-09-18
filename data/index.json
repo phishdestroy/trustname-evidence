@@ -2438,8 +2438,8 @@
     },
     {
       "date": "2026-03-08",
-      "count": 32,
-      "revenue": 276.69,
+      "count": 33,
+      "revenue": 285.68,
       "path": "data/new/2026/03/2026-03-08.txt"
     },
     {
@@ -2666,8 +2666,8 @@
     },
     {
       "date": "2026-04-16",
-      "count": 73,
-      "revenue": 554.28,
+      "count": 74,
+      "revenue": 564.27,
       "path": "data/new/2026/04/2026-04-16.txt"
     },
     {
@@ -2864,8 +2864,8 @@
     },
     {
       "date": "2026-05-19",
-      "count": 94,
-      "revenue": 847.06,
+      "count": 95,
+      "revenue": 856.05,
       "path": "data/new/2026/05/2026-05-19.txt"
     },
     {
@@ -3152,8 +3152,8 @@
     },
     {
       "date": "2026-07-06",
-      "count": 123,
-      "revenue": 1033.77,
+      "count": 124,
+      "revenue": 1042.76,
       "path": "data/new/2026/07/2026-07-06.txt"
     },
     {
@@ -3572,18 +3572,18 @@
     },
     {
       "date": "2026-09-14",
-      "count": 3,
-      "revenue": 19.97,
+      "count": 42,
+      "revenue": 370.58,
       "path": "data/new/2026/09/2026-09-14.txt"
     }
   ],
-  "total_new_all_time": 19655,
-  "total_revenue_estimate": 165833.83,
+  "total_new_all_time": 19698,
+  "total_revenue_estimate": 166221.4,
   "avg_registration_days": 401,
   "ip_countries": {
-    "US": 1045,
-    "NL": 336,
-    "DE": 292,
+    "US": 1046,
+    "NL": 340,
+    "DE": 294,
     "GB": 235,
     "RU": 186,
     "BZ": 167,
@@ -3593,16 +3593,16 @@
     "BG": 75
   },
   "top_shared_ips": {
-    "188.114.96.3": 2211,
-    "188.114.97.3": 2083,
+    "188.114.96.3": 2206,
+    "188.114.97.3": 2079,
     "131.222.213.13": 166,
     "130.12.180.245": 110,
     "130.12.180.244": 75,
+    "188.114.97.9": 74,
+    "188.114.96.9": 74,
     "130.12.180.243": 74,
     "130.12.180.242": 71,
     "186.2.175.109": 71,
-    "188.114.97.9": 68,
-    "188.114.96.9": 67,
     "190.115.31.173": 65,
     "130.12.180.238": 60,
     "216.150.1.1": 57,
@@ -3614,12 +3614,12 @@
     "45.90.16.56": 33,
     "91.92.47.18": 32
   },
-  "deployed_count": 12692,
-  "no_ip_count": 6949,
+  "deployed_count": 12714,
+  "no_ip_count": 6970,
   "deployment_rate": 64.6,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 18995,
+    "eq_1yr": 19038,
     "yr_2": 352,
     "yr_3plus": 294
   },
@@ -3627,11 +3627,11 @@
   "pct_gt_2yr": 1.5,
   "tld_stats": {
     "com": {
-      "count": 14372,
+      "count": 14414,
       "avg_days": 401
     },
     "net": {
-      "count": 1046,
+      "count": 1047,
       "avg_days": 428
     },
     "icu": {
@@ -3709,15 +3709,15 @@
   },
   "revenue_by_tld": {
     "com": {
-      "count": 14372,
+      "count": 14414,
       "price": 8.99,
-      "revenue": 129204.28,
-      "pct": 77.9
+      "revenue": 129581.86,
+      "pct": 78.0
     },
     "net": {
-      "count": 1046,
+      "count": 1047,
       "price": 9.99,
-      "revenue": 10449.54,
+      "revenue": 10459.53,
       "pct": 6.3
     },
     "icu": {
@@ -3730,7 +3730,7 @@
       "count": 956,
       "price": 9.99,
       "revenue": 9550.44,
-      "pct": 5.8
+      "pct": 5.7
     },
     "pro": {
       "count": 267,
@@ -3831,12 +3831,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 94,
-    "within_month": 2290,
-    "older": 17257
+    "within_week": 109,
+    "within_month": 2152,
+    "older": 17423
   },
-  "avg_catch_age_days": 833,
-  "fresh_pct": 0.5,
+  "avg_catch_age_days": 834,
+  "fresh_pct": 0.6,
   "burst_days": [
     {
       "date": "2026-06-15",
@@ -3929,27 +3929,27 @@
     "secure": 79,
     "login": 76,
     "swap": 67,
-    "support": 56,
     "wallet": 56,
-    "connect": 43,
+    "support": 56,
+    "connect": 44,
     "account": 43,
-    "binance": 42,
     "official": 42,
+    "binance": 42,
     "verify": 37,
     "ledger": 36,
     "crypto": 35,
-    "bridge": 29,
     "vault": 29,
+    "bridge": 29,
     "coinbase": 27,
-    "update": 20,
     "farm": 20,
+    "update": 20,
     "bitcoin": 18,
     "claim": 16
   },
   "unranked_pct": 99.8,
-  "ranked_count": 45,
+  "ranked_count": 46,
   "correlation_count": 3906,
-  "correlation_pct": 19.9,
-  "last_updated": "2026-09-17",
+  "correlation_pct": 19.8,
+  "last_updated": "2026-09-18",
   "latest_reg": "2026-09-14"
 }
