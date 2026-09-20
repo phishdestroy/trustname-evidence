@@ -27,14 +27,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-19`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-20`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>19,717</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$166,535</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>64.6%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>19,767</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$166,987</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>64.5%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.5%</code></sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.7%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>4</code></sub></td>
 </tr></table>
 
@@ -42,10 +42,10 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 14,433 | 402d | $129,753 |
-| `.net` | 1,053 | 428d | $10,519 |
-| `.org` | 959 | 443d | $9,580 |
+| `.com` | 14,481 | 402d | $130,184 |
+| `.net` | 1,056 | 428d | $10,549 |
 | `.icu` | 958 | 365d | $948 |
+| `.org` | 958 | 443d | $9,570 |
 | `.pro` | 267 | 380d | $2,133 |
 | `.live` | 226 | 373d | $2,258 |
 | `.cyou` | 192 | 365d | $190 |
@@ -56,11 +56,11 @@
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████      1,046 (32.4%)
+US  ██████████████████      1,048 (32.4%)
 NL  █████░░░░░░░░░░░░░        346 (10.7%)
 DE  █████░░░░░░░░░░░░░        297 (9.2%)
 GB  ████░░░░░░░░░░░░░░        235 (7.3%)
-RU  ███░░░░░░░░░░░░░░░        186 (5.8%)
+RU  ███░░░░░░░░░░░░░░░        186 (5.7%)
 BZ  ██░░░░░░░░░░░░░░░░        167 (5.2%)
 UA  █░░░░░░░░░░░░░░░░░        115 (3.6%)
 CA  █░░░░░░░░░░░░░░░░░        107 (3.3%)
@@ -70,11 +70,11 @@ CA  █░░░░░░░░░░░░░░░░░        107 (3.3%)
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-15` | 234 | **7.1×** 🚨 |
+| `2026-06-15` | 234 | **7.0×** 🚨 |
 | `2026-07-22` | 226 | **6.8×** 🚨 |
 | `2026-06-25` | 222 | **6.7×** 🚨 |
 | `2026-06-30` | 219 | **6.6×** 🚨 |
-| `2026-08-20` | 211 | **6.4×** 🚨 |
+| `2026-08-20` | 211 | **6.3×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
