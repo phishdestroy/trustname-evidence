@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "count": 50,
   "ips": [
     {
@@ -111,7 +111,7 @@
     },
     {
       "ip": "188.114.97.3",
-      "count": 2078,
+      "count": 2075,
       "country": "",
       "domains": [
         "001kpayments.com",
@@ -432,7 +432,7 @@
     },
     {
       "ip": "188.114.97.9",
-      "count": 86,
+      "count": 94,
       "country": "",
       "domains": [
         "2511.click",
@@ -460,10 +460,14 @@
         "findingohio.com",
         "forzavo.com",
         "foudox.com",
+        "freshinfo.net",
+        "gapomex.com",
         "gaunux.com",
         "geasux.com",
         "gotewex.com",
         "grandnexus.net",
+        "griezmannbet.sbs",
+        "himedex.com",
         "hizlieczane.com",
         "hokowin.com",
         "hook-asset.com",
@@ -477,6 +481,7 @@
         "joycasinogaming.com",
         "kamalahari.com",
         "korepex.com",
+        "kousex.com",
         "kuecox.com",
         "lioncityagency.com",
         "manuwin.com",
@@ -498,6 +503,7 @@
         "quayexchange.com",
         "rar-zip.com",
         "regalpulse.net",
+        "reopox.com",
         "rezowin156.pro",
         "rivopex.com",
         "rollza.click",
@@ -519,15 +525,19 @@
         "web-account.org",
         "webmixerbtc.net",
         "weuwex.com",
+        "wintiw.com",
+        "wuacox.com",
         "zuazux.com",
         "zunamex.com"
       ]
     },
     {
       "ip": "188.114.96.9",
-      "count": 81,
+      "count": 89,
       "country": "",
       "domains": [
+        "10144bets10.com",
+        "22bet-casino-cz.net",
         "a1prconsultancy.com",
         "allun.app",
         "alphabridgeconsultancy.com",
@@ -543,6 +553,8 @@
         "deywin.com",
         "dinewex.com",
         "duecktractors.com",
+        "esanao.com",
+        "fazawin.com",
         "felawin.com",
         "feufex.com",
         "ffsend.com",
@@ -550,8 +562,10 @@
         "fulldream.fyi",
         "gaigoivc4.com",
         "gain-spirit.com",
+        "heapox.com",
         "hook-chain.com",
         "hook-deal.com",
+        "huazux.com",
         "idn199.com",
         "infinity-casinos.org",
         "jbeatyfarmequipment.com",
@@ -564,6 +578,7 @@
         "kivamex.com",
         "koebex.com",
         "kuafex.com",
+        "lakomex.com",
         "ldmnq-pc.org",
         "luckyempire.org",
         "matadorbetgunceli.icu",
@@ -579,6 +594,7 @@
         "ourarinks.com",
         "perfectequipmentco.com",
         "pocketbitcoindesktop.com",
+        "polymarket2026.com",
         "ponuwin.com",
         "puenux.com",
         "pumowin.com",
@@ -1909,6 +1925,30 @@
       ]
     },
     {
+      "ip": "154.86.119.241",
+      "count": 17,
+      "country": "NL",
+      "domains": [
+        "2026rvnueagnct.com",
+        "47050.app",
+        "blazeswaps.net",
+        "canada-poste-2.com",
+        "ferro-protocol.net",
+        "gca2benefits.com",
+        "layer-bank.net",
+        "mantle-bridge.org",
+        "revneagntca2026.com",
+        "revnucragnc2026.com",
+        "rheafinance.net",
+        "rvnucdagnt2026.com",
+        "scotiaonlineteamsupport.com",
+        "superbridge-app.net",
+        "team-finance.org",
+        "tectonicfinance.net",
+        "termmax.org"
+      ]
+    },
+    {
       "ip": "75.2.60.5",
       "count": 16,
       "country": "US",
@@ -1998,28 +2038,6 @@
         "modafinilxl.com",
         "nootracare.com",
         "usamodafinil.com"
-      ]
-    },
-    {
-      "ip": "154.86.119.241",
-      "count": 15,
-      "country": "NL",
-      "domains": [
-        "2026rvnueagnct.com",
-        "47050.app",
-        "canada-poste-2.com",
-        "gca2benefits.com",
-        "layer-bank.net",
-        "mantle-bridge.org",
-        "revneagntca2026.com",
-        "revnucragnc2026.com",
-        "rheafinance.net",
-        "rvnucdagnt2026.com",
-        "scotiaonlineteamsupport.com",
-        "superbridge-app.net",
-        "team-finance.org",
-        "tectonicfinance.net",
-        "termmax.org"
       ]
     },
     {
