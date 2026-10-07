@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/ioc/domai
 | Registrar | IANA | Malicious | Feed |
 |:---|:---:|---:|:---|
 | NICENIC INTERNATIONAL GROUP | #3765 | 18,927 | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) |
-| Trustname.com / Fewmoretaps OÜ | #4318 | 1,114 | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) |
+| Trustname.com / Fewmoretaps OÜ | #4318 | 4,276 | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) |
 | NameSilo, LLC | #1479 | 183,419 | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) |
 
 ---

@@ -67,15 +67,15 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 
 | File | Size | SHA-256 prefix | Description |
 |---|---:|---|---|
-| `data/enriched.csv` | 2.8 MB | `83ea143175d8a378` | Full enriched dataset — all 7,641 domains with classification, IPs, country codes, AI descriptions, threat-intel hits |
-| `data/high_severity.csv` | 748 KB | `ecee3b68b2fb34c8` | HIGH-only filtered subset (1,114 domains) |
+| `data/enriched.csv` | 3.0 MB | `a3cafccd909a6f4c` | Full enriched dataset — 9,544 rows (7,641 HTTP-scanned registrar domains + 1,903 threat-feed detections) with classification, IPs, country codes, AI descriptions, threat-intel hits |
+| `data/high_severity.csv` | 748 KB | `879d7ce799f2762f` | HIGH-only filtered subset (1,114 domains) |
 | `data/dead_domains.csv` | 742 KB | `5ee84646c6872591` | Dead / parked / error enumeration (5,058 domains) |
-| `ioc/domains_high.txt` | 19 KB | `ec9e43c15ff3cffc` | Production blocklist — 1,114 HIGH severity domains (newline-delimited) |
-| `ioc/domains_all_malicious.txt` | 39 KB | `d27809c1a099c019` | Production blocklist — 2,221 HIGH + MEDIUM domains |
-| `ioc/indicators.csv` | 775 KB | `4e9dcd3840be9f9a` | SIEM-ready indicators: domain, ip, server_fp, favicon_mmh3, category, severity, brand, threat_sources |
+| `ioc/domains_high.txt` | 57 KB | `25cf3632c9c8bc15` | Production blocklist — HIGH severity domains (3,293 at time of writing) (newline-delimited) |
+| `ioc/domains_all_malicious.txt` | 75 KB | `9b164c16d7cba3cc` | Production blocklist — HIGH + MEDIUM domains (4,276 at time of writing) |
+| `ioc/indicators.csv` | 1.1 MB | `86c707b9b27cf3a2` | SIEM-ready indicators: domain, ip, server_fp, favicon_mmh3, category, severity, brand, threat_sources |
 | `evidence/HASHES.txt` | 168 KB | `131ff258bd0c058c` | SHA-256 manifest of all 1,953 screenshots |
-| `docs/data.json` | 4.2 MB | `5d4839a121793f97` | Slim per-domain dataset rendered by `docs/index.html` and `docs/domains.html` |
-| `pkg/raw_data/enriched.csv.gz` | 560 KB | `a2a6f5fda9f364aa` | Compressed enriched dataset for download |
+| `docs/data.json` | 5.1 MB | regenerated on deploy | Slim per-domain dataset rendered by `docs/index.html` and `docs/domains.html` |
+| `pkg/raw_data/enriched.csv.gz` | 578 KB | `039d5a28afb17fdf` | Compressed enriched dataset for download |
 | `pkg/raw_data/lambda_results.jsonl.gz` | 509 KB | `c0add17921efada8` | Phase 1 raw HTTP fingerprint output (JSONL) |
 | `pkg/raw_data/deep_results.jsonl.gz` | 1.1 MB | `60b943f03e7ac926` | Phase 2/3 raw browser render output (JSONL) |
 | `pkg/raw_data/threat_intel.jsonl.gz` | 74 KB | `4a92dafe955b60d4` | Phase 4 threat-intel cross-reference (JSONL) |

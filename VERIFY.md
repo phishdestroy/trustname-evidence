@@ -6,7 +6,12 @@ checks.
 ## Repository Manifest
 
 `SHA256SUMS.txt` contains SHA-256 hashes for committed repository files,
-excluding the manifest itself and detached signature files.
+excluding the manifest itself and detached signature files. Files that are
+regenerated automatically (daily fetch or Pages deploy) are also excluded,
+because their hashes change on every run: `README.md`, `docs/data.json`,
+`data/index.json`, `docs/chart-data.json`, `docs/feed-ioc.json`, `stats/*` and
+`data/ioc/*`. The first line of the manifest is a `#` comment listing these
+exclusions; `sha256sum -c` ignores it.
 
 Verify on Linux/macOS:
 
@@ -17,7 +22,7 @@ sha256sum -c SHA256SUMS.txt
 Verify with PowerShell:
 
 ```powershell
-Get-Content .\SHA256SUMS.txt | ForEach-Object {
+Get-Content .\SHA256SUMS.txt | Where-Object { $_ -notmatch '^#' } | ForEach-Object {
   $hash, $path = $_ -split '  ', 2
   $actual = (Get-FileHash -Algorithm SHA256 -LiteralPath $path).Hash.ToLowerInvariant()
   if ($actual -ne $hash) { throw "hash mismatch: $path" }
