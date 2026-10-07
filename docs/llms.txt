@@ -1,6 +1,6 @@
 # Fewmoretaps OÜ / Trustname.com — Registrar Zone Evidence
 
-> Phase II of the PhishDestroy investigation into IANA-#4318 (Trustname.com / Fewmoretaps OÜ). Complete-zone scan, 7,641 domains, 1,953 captured screenshots, AI-classified content analysis. Evidence package for criminal and financial-intelligence agencies.
+> Phase II of the PhishDestroy investigation into IANA-#4318 (Trustname.com / Fewmoretaps OÜ). Complete-zone scan (June 2026), 18,719 domains, 1,953 captured screenshots, AI-classified content analysis. Evidence package for criminal and financial-intelligence agencies.
 
 ## Subject
 
@@ -15,13 +15,14 @@
 
 ## Headline Findings
 
-- 7,641 domains in the registrar's complete zone
-- 2,583 (33.8 %) active with content
-- **2,221 (86.0 %)** of active-content domains are confirmed malicious
-- 1,114 HIGH severity, 1,107 MEDIUM severity
+- June 2026 scan: 18,719 domains in the registrar's complete zone (the zone has grown since; the current tracked count is the live counter in the README)
+- 12,088 (64.6 %) active with content; 6,616 (35.3 %) dead or parked
+- **4,275 (35.4 %)** of active-content domains are confirmed malicious
+- 3,292 HIGH severity, 983 MEDIUM severity
+- Published blocklist (ioc/) currently: 4,276 domains, 3,293 HIGH
 - 1,953 screenshots captured (browser + Cloudflare bypass)
 - 92 CAPTCHAs solved (hCaptcha, reCAPTCHA, Cloudflare Turnstile)
-- A single server fingerprint `811e0897f489` accounts for 21.9 % of the entire zone
+- A single server fingerprint `811e0897f489` accounts for 1,674 domains (21.9 % of the 7,641 registrar-attributed rows in data/enriched.csv)
 
 ## Investigation Series
 
@@ -36,8 +37,8 @@
 - [case/HIGH_SEVERITY.md](https://github.com/phishdestroy/trustname-evidence/blob/main/case/HIGH_SEVERITY.md): Per-domain narrative for HIGH severity findings
 - [case/CLUSTERS.md](https://github.com/phishdestroy/trustname-evidence/blob/main/case/CLUSTERS.md): Operator infrastructure clusters
 - [case/INVESTIGATION.md](https://github.com/phishdestroy/trustname-evidence/blob/main/case/INVESTIGATION.md): Methodology and timeline
-- [data/enriched.csv](https://github.com/phishdestroy/trustname-evidence/blob/main/data/enriched.csv): Full per-domain dataset
-- [ioc/domains_high.txt](https://github.com/phishdestroy/trustname-evidence/blob/main/ioc/domains_high.txt): 1,114-domain HIGH blocklist
+- [data/enriched.csv](https://github.com/phishdestroy/trustname-evidence/blob/main/data/enriched.csv): Full per-domain enriched dataset (9,544 rows)
+- [ioc/domains_high.txt](https://github.com/phishdestroy/trustname-evidence/blob/main/ioc/domains_high.txt): 3,293-domain HIGH blocklist
 - [ioc/indicators.csv](https://github.com/phishdestroy/trustname-evidence/blob/main/ioc/indicators.csv): SIEM-ready indicators
 
 ## Methodology
@@ -52,6 +53,7 @@
 
 | Category | Count | Severity |
 |---|---|---|
+| MALWARE | 1,903 | HIGH |
 | GAMBLING | 733 | MEDIUM |
 | PHISHING_GENERIC | 396 | HIGH |
 | PHISHING_FINANCE | 236 | HIGH |

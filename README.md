@@ -173,7 +173,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
               domains                     domains                     protected targets           classified
 ```
 
-**Phase II in one sentence:** of the 12,088 domains under this registrar that actually serve content, **4,275 (35.4%) are confirmed malicious** — phishing, carding, crypto drainers, malware distribution, illegal-drug sales, and unlicensed gambling. The remaining 6,616 are dead or parked. The complete per-domain dataset, screenshots, and operator-cluster analysis live in this repository.
+**Phase II in one sentence:** in the June 2026 scan, of the 12,088 domains under this registrar that actually served content, **4,275 (35.4%) were confirmed malicious** — phishing, carding, crypto drainers, malware distribution, illegal-drug sales, and unlicensed gambling. A further 6,616 of the 18,719 scanned domains were dead or parked. The complete per-domain dataset, screenshots, and operator-cluster analysis live in this repository.
 
 ---
 
@@ -200,7 +200,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 <table>
 <tr><th>Parameter</th><th>Value</th></tr>
 <tr><td>📆 Scan window</td><td>June 2026</td></tr>
-<tr><td>📊 Domains in scope</td><td><b>18,719</b> — all domains under registrar management</td></tr>
+<tr><td>📊 Domains in scope</td><td><b>18,719</b> — all domains under registrar management at scan time (the zone has grown since; see the live counter above)</td></tr>
 <tr><td>🎯 Sampling</td><td><b>None</b> — complete-zone enumeration</td></tr>
 <tr><td>🌐 Network coverage</td><td>Full HTTP + headless browser for every domain</td></tr>
 <tr><td>☁ Cloudflare-protected</td><td>2,072 domains identified in the enriched dataset</td></tr>
@@ -280,9 +280,9 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 | Metric | Value |
 |---|---:|
-| 🧮 **Total domains scanned** | **18,719** |
+| 🧮 **Total domains scanned (June 2026)** | **18,719** |
 | 💀 Dead / parked / error | 6,616 (35.3 %) |
-| 💚 Active with content | 12,088 (64.7 %) |
+| 💚 Active with content | 12,088 (64.6 %) |
 | 🔴 **HIGH severity** | **3,292** |
 | 🟠 **MEDIUM severity** | **983** |
 | ⚠ **Total malicious (HIGH + MEDIUM)** | **4,275** |
@@ -293,12 +293,15 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 </div>
 
-> 🔥 **Of the domains in this registrar's zone that actually serve content, only 1 in 7 is legitimate.**
+> 🔥 **Of the domains in this registrar's zone that actually served content in June 2026, more than 1 in 3 was confirmed malicious.**
+
+> ℹ️ The table above is the June 2026 scan snapshot. The published blocklist in [`ioc/`](ioc/) currently lists **4,276** domains (**3,293** HIGH, 983 MEDIUM) — the live figure is in the *IOC classified* counter at the top. The per-row `severity_label` in [`data/enriched.csv`](data/enriched.csv) / `docs/data.json` (3,017 HIGH · 1,107 MEDIUM across 9,544 rows) is the raw classifier output for the enriched subset only and is not the blocklist.
 
 ### Category Breakdown
 
 | | Category | Count | Severity | Description |
 |---|---|---:|:---:|---|
+| 🦠 | `MALWARE` | 1,903 | 🔴 HIGH | Threat-intel feed detections (`page_type=FEED_DETECTED`; not HTTP-scanned) |
 | 🎰 | `GAMBLING` | 733 | 🟠 MEDIUM | Unlicensed casino/betting; Turkish *bahis* cluster |
 | 🎣 | `PHISHING_GENERIC` | 396 | 🔴 HIGH | Credential harvesting (login, OTP, password) |
 | 🏦 | `PHISHING_FINANCE` | 236 | 🔴 HIGH | Bank/card/CVV harvesting |
@@ -318,7 +321,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 | ❌ | `ERROR` | 286 | ⚪ INFO | 5xx, connection refused, no content |
 | ⚫ | `DEAD` | 4,745 | ⚪ INFO | No DNS / no response |
 
-📄 Full per-domain data: [`data/enriched.csv`](data/enriched.csv)
+📄 Category counts and full per-domain data: [`data/enriched.csv`](data/enriched.csv) (9,544 rows)
 
 ---
 
@@ -341,7 +344,7 @@ Shared fingerprint = same hosting stack / same operator template — evidence of
 | 🖼 `1869784862`   | `favicon_mmh3` | 34 | 🪙 PHISHING_CRYPTO — Solana drainer cluster |
 | 🔑 `a1b77bce0100` | `server_fp` | 28 | ☣ MALWARE_DIST — Binance impersonation |
 
-> 🎯 A single server fingerprint `811e0897f489` accounts for **21.9 %** of the entire registrar zone.
+> 🎯 A single server fingerprint `811e0897f489` accounts for **21.9 %** of the 7,641 registrar-attributed rows in `data/enriched.csv`.
 > The "Elon" favicon cluster identified here directly extends the six-domain operator group described in Phase I.
 
 Full cluster data: [`case/CLUSTERS.md`](case/CLUSTERS.md)
@@ -574,7 +577,7 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 | # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
 |--|--|--|--|--|--|--|
 | 1 | **NICENIC INTERNATIONAL GROUP** | #3765 | 403,909 | **82,575 (44.0% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
-| 2 | **Trustname.com / Fewmoretaps ÖÜ** *(this)* | #4318 | 18,719 | **3,292 HIGH (35.4% of alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
+| 2 | **Trustname.com / Fewmoretaps OÜ** *(this)* | #4318 | 18,719 (June 2026 scan) | **4,275 (35.4% of alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
 | 3 | **NameSilo, LLC** | #1479 | 5,653,085 | **122,152 HIGH (3.63%)** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
 
 ---
