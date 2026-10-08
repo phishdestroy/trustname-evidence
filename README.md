@@ -27,7 +27,7 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-08`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-09`
 
 <table><tr>
 <td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,173</code></sub></td>
