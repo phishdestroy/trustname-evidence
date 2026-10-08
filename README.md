@@ -27,26 +27,26 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-07`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-08`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,142</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$170,319</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>64.4%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,173</code></sub></td>
+<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$170,578</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>63.5%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.5%</code></sub></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>4</code></sub></td>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>0.4%</code></sub></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>3</code></sub></td>
 </tr></table>
 
 ### 🏷️ Top TLD Zones
 
-| TLD | Count | Avg Reg Period | Est. Revenue |
+| TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 14,825 | 400d | $133,277 |
-| `.net` | 1,070 | 427d | $10,689 |
+| `.com` | 14,845 | 399d | $133,457 |
+| `.net` | 1,075 | 432d | $10,739 |
 | `.icu` | 958 | 365d | $948 |
 | `.org` | 958 | 437d | $9,570 |
-| `.pro` | 269 | 379d | $2,149 |
+| `.pro` | 270 | 379d | $2,157 |
 | `.live` | 227 | 384d | $2,268 |
 | `.cyou` | 192 | 365d | $190 |
 | `.cam` | 175 | 365d | $873 |
@@ -56,14 +56,14 @@
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████      1,048 (32.4%)
-NL  ██████░░░░░░░░░░░░        362 (11.2%)
-DE  █████░░░░░░░░░░░░░        295 (9.1%)
-GB  ███░░░░░░░░░░░░░░░        232 (7.2%)
-RU  ███░░░░░░░░░░░░░░░        178 (5.5%)
-BZ  ██░░░░░░░░░░░░░░░░        163 (5.0%)
-UA  █░░░░░░░░░░░░░░░░░        112 (3.5%)
-CA  █░░░░░░░░░░░░░░░░░        105 (3.2%)
+US  ██████████████████        932 (30.6%)
+NL  ██████░░░░░░░░░░░░        354 (11.6%)
+DE  █████░░░░░░░░░░░░░        306 (10.0%)
+GB  ████░░░░░░░░░░░░░░        222 (7.3%)
+RU  ███░░░░░░░░░░░░░░░        160 (5.2%)
+BZ  ██░░░░░░░░░░░░░░░░        148 (4.9%)
+IR  █░░░░░░░░░░░░░░░░░         95 (3.1%)
+UA  █░░░░░░░░░░░░░░░░░         92 (3.0%)
 ```
 
 ### 📈 Registration Burst Days
@@ -71,26 +71,26 @@ CA  █░░░░░░░░░░░░░░░░░        105 (3.2%)
 | Date | Domains | × Average |
 |:--|--:|--:|
 | `2026-06-15` | 234 | **7.1×** 🚨 |
-| `2026-07-22` | 226 | **6.9×** 🚨 |
-| `2026-06-25` | 222 | **6.8×** 🚨 |
+| `2026-07-22` | 226 | **6.8×** 🚨 |
+| `2026-06-25` | 223 | **6.7×** 🚨 |
 | `2026-06-30` | 220 | **6.7×** 🚨 |
 | `2026-08-20` | 211 | **6.4×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (107)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (69)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `official (42)` &middot; `binance (42)` &middot; `verify (40)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (31)` &middot; `bridge (29)`
+`trust (107)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (69)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `binance (42)` &middot; `official (42)` &middot; `verify (40)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (31)` &middot; `bridge (29)`
 
-### 🕵️ Top Serial Registrants — 13 emails with ≥5 domains
+### 🕵️ Top Serial Registrants — 14 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
 | 1 | `m***@unternehmen.de` | **19** |
 | 2 | `sup***@stake.com` | **13** |
 | 3 | `hel***@wingstop.com` | **13** |
-| 4 | `sup***@mxl.zendesk.com` | **12** |
-| 5 | `inf***@alrajhi-partners.com` | **8** |
-| 6 | `inf***@khashoggiholding.com` | **8** |
-| 7 | `inf***@khashoggilaw.com` | **8** |
+| 4 | `inf***@alrajhi-partners.com` | **8** |
+| 5 | `inf***@khashoggiholding.com` | **8** |
+| 6 | `inf***@khashoggilaw.com` | **8** |
+| 7 | `sup***@mxl.zendesk.com` | **8** |
 | 8 | `inf***@muhaidib.com` | **7** |
 | 9 | `inf***@jimco.com` | **7** |
 | 10 | `med***@jimco.com` | **7** |
@@ -102,9 +102,9 @@ CA  █░░░░░░░░░░░░░░░░░        105 (3.2%)
 | [`data/all.txt`](data/all.txt) | TXT | All tracked domains |
 | [`data/index.json`](data/index.json) | JSON | Full analytics snapshot |
 | [`data/ioc/serial_registrants.json`](data/ioc/serial_registrants.json) | JSON | Repeat registrants + their domains |
-| [`data/ioc/shared_ips.json`](data/ioc/shared_ips.json) | JSON | Bulletproof hosting clusters |
+| [`data/ioc/shared_ips.json`](data/ioc/shared_ips.json) | JSON | Shared hosting clusters |
 | [`data/ioc/brand_domains.json`](data/ioc/brand_domains.json) | JSON | Domains by targeted brand |
-| [`data/ioc/stix-bundle.json`](data/ioc/stix-bundle.json) | STIX 2.1 | MISP/OpenCTI ready bundle |
+| [`data/ioc/stix-bundle.json`](data/ioc/stix-bundle.json) | STIX 2.1 | MISP/OpenCTI bundle (HIGH IOC domains, up to 10k) |
 | [`data/ioc/serial_emails.txt`](data/ioc/serial_emails.txt) | TXT | grep-friendly: `email⇥count` |
 | [`data/ioc/shared_ips.txt`](data/ioc/shared_ips.txt) | TXT | grep-friendly: `ip⇥count⇥country` |
 
