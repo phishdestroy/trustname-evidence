@@ -920,21 +920,21 @@
       "profileclaim-acc30.com",
       "profileclaim-conf26.com"
     ],
-    "kraken": [
-      "captcha-kraken.com",
-      "kraken-darknet-market.org",
-      "kraken-link-onion.org",
-      "kraken-link-tor.org",
-      "kraken-onion.org",
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.com",
-      "kraken15.org",
-      "krakenenter.com",
-      "krakenofftech.com",
-      "krakensite1.com",
-      "krakensite1.net",
-      "krakensix.com",
-      "razer-kraken-onion.com"
+    "bitcoin": [
+      "bitcoin-360-ai.com",
+      "bitcoin-profitapp.com",
+      "bitcoinalpha.net",
+      "bitcoinera-fr.com",
+      "bitcoinfuture.app",
+      "bitcoinminerplug.com",
+      "bitcoinprime.software",
+      "bullbitcoinpolicy.com",
+      "localbitcoin.net",
+      "peachbitcoinapp.com",
+      "pocketbitcoindesktop.com",
+      "swanbitcoin-tax.com",
+      "the-bitcoin.com",
+      "thebitcoinbrief.org"
     ]
   }
 }
