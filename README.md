@@ -30,9 +30,9 @@
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-09`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,173</code></sub></td>
-<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$170,578</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>63.5%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,169</code></sub></td>
+<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$170,543</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>62.0%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>0.4%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>3</code></sub></td>
@@ -42,10 +42,10 @@
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 14,845 | 399d | $133,457 |
-| `.net` | 1,075 | 432d | $10,739 |
+| `.com` | 14,839 | 399d | $133,403 |
+| `.net` | 1,076 | 432d | $10,749 |
 | `.icu` | 958 | 365d | $948 |
-| `.org` | 958 | 437d | $9,570 |
+| `.org` | 957 | 434d | $9,560 |
 | `.pro` | 270 | 379d | $2,157 |
 | `.live` | 227 | 384d | $2,268 |
 | `.cyou` | 192 | 365d | $190 |
@@ -56,44 +56,44 @@
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        932 (30.6%)
-NL  ██████░░░░░░░░░░░░        354 (11.6%)
-DE  █████░░░░░░░░░░░░░        306 (10.0%)
-GB  ████░░░░░░░░░░░░░░        222 (7.3%)
-RU  ███░░░░░░░░░░░░░░░        160 (5.2%)
-BZ  ██░░░░░░░░░░░░░░░░        148 (4.9%)
-IR  █░░░░░░░░░░░░░░░░░         95 (3.1%)
-UA  █░░░░░░░░░░░░░░░░░         92 (3.0%)
+US  ██████████████████        879 (30.6%)
+NL  ███████░░░░░░░░░░░        348 (12.1%)
+DE  ██████░░░░░░░░░░░░        294 (10.2%)
+GB  ████░░░░░░░░░░░░░░        201 (7.0%)
+RU  ███░░░░░░░░░░░░░░░        157 (5.5%)
+BZ  ██░░░░░░░░░░░░░░░░        105 (3.7%)
+IR  █░░░░░░░░░░░░░░░░░         89 (3.1%)
+UA  █░░░░░░░░░░░░░░░░░         81 (2.8%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-15` | 234 | **7.1×** 🚨 |
+| `2026-06-15` | 235 | **7.1×** 🚨 |
 | `2026-07-22` | 226 | **6.8×** 🚨 |
-| `2026-06-25` | 223 | **6.7×** 🚨 |
+| `2026-06-25` | 223 | **6.8×** 🚨 |
 | `2026-06-30` | 220 | **6.7×** 🚨 |
 | `2026-08-20` | 211 | **6.4×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (107)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (69)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `binance (42)` &middot; `official (42)` &middot; `verify (40)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (31)` &middot; `bridge (29)`
+`trust (107)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (69)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `official (42)` &middot; `binance (42)` &middot; `verify (40)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (31)` &middot; `bridge (29)`
 
 ### 🕵️ Top Serial Registrants — 14 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `m***@unternehmen.de` | **19** |
-| 2 | `sup***@stake.com` | **13** |
-| 3 | `hel***@wingstop.com` | **13** |
-| 4 | `inf***@alrajhi-partners.com` | **8** |
-| 5 | `inf***@khashoggiholding.com` | **8** |
-| 6 | `inf***@khashoggilaw.com` | **8** |
-| 7 | `sup***@mxl.zendesk.com` | **8** |
-| 8 | `inf***@muhaidib.com` | **7** |
-| 9 | `inf***@jimco.com` | **7** |
-| 10 | `med***@jimco.com` | **7** |
+| 1 | `wha***@gmail.com` | **40** |
+| 2 | `m***@unternehmen.de` | **19** |
+| 3 | `hel***@wingstop.com` | **10** |
+| 4 | `sup***@stake.com` | **9** |
+| 5 | `inf***@alrajhi-partners.com` | **7** |
+| 6 | `inf***@jimco.com` | **7** |
+| 7 | `med***@jimco.com` | **7** |
+| 8 | `inf***@khashoggiholding.com` | **6** |
+| 9 | `inf***@khashoggilaw.com` | **6** |
+| 10 | `sup***@bro-cas.net` | **5** |
 
 ### 📥 Download Threat Intelligence
 
