@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09",
-  "count": 14,
+  "generated": "2026-10-10",
+  "count": 6,
   "registrants": [
     {
       "email": "whatda112233@gmail.com",
@@ -49,81 +49,23 @@
       ]
     },
     {
-      "email": "max@unternehmen.de",
-      "count": 19,
+      "email": "support@bro-cas.net",
+      "count": 6,
       "domains": [
-        "amex-app.com",
-        "amex-auth.com",
-        "amex-banking.com",
-        "amex-check.com",
-        "amex-help.com",
-        "amex-helpdesk.com",
-        "amex-safe.com",
-        "amex-secure.com",
-        "amex-security.app",
-        "amex-service.com",
-        "amex-setup.com",
-        "amex-sicherung.com",
-        "amex-tech.com",
-        "help-amex.com",
-        "insurance-amex.com",
-        "safetycheck-amex.com",
-        "setup-amex.com",
-        "support-amex.com",
-        "vorgang-amex.com"
-      ]
-    },
-    {
-      "email": "helpdesk@wingstop.com",
-      "count": 10,
-      "domains": [
-        "home-winstoop.com",
-        "order-wiingstop.com",
-        "ordwingcotop.com",
-        "w1ngstops.com",
-        "wingstop2026.com",
-        "wingstop24.com",
-        "wingstopdeliverd.com",
-        "wingsttopp.com",
-        "wlngsop.biz",
-        "wnigtpost.com"
-      ]
-    },
-    {
-      "email": "support@stake.com",
-      "count": 9,
-      "domains": [
-        "stake1208.com",
-        "stake1302.com",
-        "stake1305.com",
-        "stake1307.com",
-        "stake1401.com",
-        "stakebenefit.com",
-        "stakerain.com",
-        "stakerollers.com",
-        "staketreats.com"
-      ]
-    },
-    {
-      "email": "info@alrajhi-partners.com",
-      "count": 7,
-      "domains": [
-        "alrajhipartner.net",
-        "alrajhipartnersco2.net",
-        "alrajhipartnersgroup.net",
-        "alrajhipartnershq.net",
-        "alrajhipartnersinc.net",
-        "alrajhipartnersllc.net",
-        "alrajhipartnerss.net"
+        "brcsn.com",
+        "brcsn300.net",
+        "bro-cas.com",
+        "bro-cas.net",
+        "bro100500.com",
+        "brocsn.com"
       ]
     },
     {
       "email": "info@jimco.com",
-      "count": 7,
+      "count": 6,
       "domains": [
         "jimcogroups.net",
         "jimcoholdings.net",
-        "jimcohq.net",
         "jimcoinc.net",
         "jimcollc.net",
         "jjimco.net",
@@ -132,11 +74,10 @@
     },
     {
       "email": "media@jimco.com",
-      "count": 7,
+      "count": 6,
       "domains": [
         "jimcogroups.net",
         "jimcoholdings.net",
-        "jimcohq.net",
         "jimcoinc.net",
         "jimcollc.net",
         "jjimco.net",
@@ -144,38 +85,15 @@
       ]
     },
     {
-      "email": "info@khashoggiholding.com",
+      "email": "support@mypromise.com",
       "count": 6,
       "domains": [
-        "khashoggiholdingco.net",
-        "khashoggiholdinghq.net",
-        "khashoggiholdinginc.net",
-        "khashoggiholdings.net",
-        "khashoggiholdng.net",
-        "thekhashoggiholding.net"
-      ]
-    },
-    {
-      "email": "info@khashoggilaw.com",
-      "count": 6,
-      "domains": [
-        "khashoggiholdingco.net",
-        "khashoggiholdinghq.net",
-        "khashoggiholdinginc.net",
-        "khashoggiholdings.net",
-        "khashoggiholdng.net",
-        "thekhashoggiholding.net"
-      ]
-    },
-    {
-      "email": "support@bro-cas.net",
-      "count": 5,
-      "domains": [
-        "brcsn300.net",
-        "bro-cas.com",
-        "bro-cas.net",
-        "bro100500.com",
-        "brocsn.com"
+        "mypromisepeptides.com",
+        "promiseclinical.com",
+        "promisehealthrx.com",
+        "promisepeptide.com",
+        "promisetelemed.com",
+        "startpromise.com"
       ]
     },
     {
@@ -187,39 +105,6 @@
         "fensterservice-leipzig.com",
         "fensterwartung-hamburg.com",
         "fensterwartung-hannover.com"
-      ]
-    },
-    {
-      "email": "info@muhaidib.com",
-      "count": 5,
-      "domains": [
-        "almuhaidibb.net",
-        "almuhaidibex.net",
-        "almuhaidibexch.net",
-        "almuhaidibhq.net",
-        "almuhaidibs.net"
-      ]
-    },
-    {
-      "email": "info@clusterfamilyoffice.com",
-      "count": 5,
-      "domains": [
-        "clusterfamilyoffice.net",
-        "clusterfamilyofficeco.net",
-        "clusterfamilyofficehq.net",
-        "clusterfamilyofficeinc.net",
-        "clusterfamilyoffices.net"
-      ]
-    },
-    {
-      "email": "contact@shamsfx.com",
-      "count": 5,
-      "domains": [
-        "crm-shamsfx.com",
-        "mailer1-shamsfx.com",
-        "mailer2-shamsfx.com",
-        "mailer3-shamsfx.com",
-        "shamsfx.com"
       ]
     }
   ]

@@ -27,25 +27,25 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-09`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-10`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,169</code></sub></td>
-<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$170,543</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>62.0%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,188</code></sub></td>
+<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$170,712</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>53.4%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
-<td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>0.4%</code></sub></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>3</code></sub></td>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>0.3%</code></sub></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>1</code></sub></td>
 </tr></table>
 
 ### 🏷️ Top TLD Zones
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 14,839 | 399d | $133,403 |
+| `.com` | 14,860 | 399d | $133,591 |
 | `.net` | 1,076 | 432d | $10,749 |
 | `.icu` | 958 | 365d | $948 |
-| `.org` | 957 | 434d | $9,560 |
+| `.org` | 955 | 432d | $9,540 |
 | `.pro` | 270 | 379d | $2,157 |
 | `.live` | 227 | 384d | $2,268 |
 | `.cyou` | 192 | 365d | $190 |
@@ -56,14 +56,14 @@
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        879 (30.6%)
-NL  ███████░░░░░░░░░░░        348 (12.1%)
-DE  ██████░░░░░░░░░░░░        294 (10.2%)
-GB  ████░░░░░░░░░░░░░░        201 (7.0%)
-RU  ███░░░░░░░░░░░░░░░        157 (5.5%)
-BZ  ██░░░░░░░░░░░░░░░░        105 (3.7%)
-IR  █░░░░░░░░░░░░░░░░░         89 (3.1%)
-UA  █░░░░░░░░░░░░░░░░░         81 (2.8%)
+US  ██████████████████        663 (30.4%)
+DE  ███████░░░░░░░░░░░        283 (13.0%)
+NL  ███████░░░░░░░░░░░        281 (12.9%)
+RU  ███░░░░░░░░░░░░░░░        135 (6.2%)
+AE  ███░░░░░░░░░░░░░░░        131 (6.0%)
+FR  ██░░░░░░░░░░░░░░░░         92 (4.2%)
+GB  █░░░░░░░░░░░░░░░░░         57 (2.6%)
+UA  █░░░░░░░░░░░░░░░░░         45 (2.1%)
 ```
 
 ### 📈 Registration Burst Days
@@ -72,28 +72,24 @@ UA  █░░░░░░░░░░░░░░░░░         81 (2.8%)
 |:--|--:|--:|
 | `2026-06-15` | 235 | **7.1×** 🚨 |
 | `2026-07-22` | 226 | **6.8×** 🚨 |
-| `2026-06-25` | 223 | **6.8×** 🚨 |
-| `2026-06-30` | 220 | **6.7×** 🚨 |
+| `2026-06-25` | 223 | **6.7×** 🚨 |
+| `2026-06-30` | 220 | **6.6×** 🚨 |
 | `2026-08-20` | 211 | **6.4×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (107)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (69)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `official (42)` &middot; `binance (42)` &middot; `verify (40)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (31)` &middot; `bridge (29)`
+`trust (109)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (69)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `binance (42)` &middot; `official (42)` &middot; `verify (40)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (32)` &middot; `bridge (29)`
 
-### 🕵️ Top Serial Registrants — 14 emails with ≥5 domains
+### 🕵️ Top Serial Registrants — 6 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
 | 1 | `wha***@gmail.com` | **40** |
-| 2 | `m***@unternehmen.de` | **19** |
-| 3 | `hel***@wingstop.com` | **10** |
-| 4 | `sup***@stake.com` | **9** |
-| 5 | `inf***@alrajhi-partners.com` | **7** |
-| 6 | `inf***@jimco.com` | **7** |
-| 7 | `med***@jimco.com` | **7** |
-| 8 | `inf***@khashoggiholding.com` | **6** |
-| 9 | `inf***@khashoggilaw.com` | **6** |
-| 10 | `sup***@bro-cas.net` | **5** |
+| 2 | `sup***@bro-cas.net` | **6** |
+| 3 | `inf***@jimco.com` | **6** |
+| 4 | `med***@jimco.com` | **6** |
+| 5 | `sup***@mypromise.com` | **6** |
+| 6 | `m***@beispiel.de` | **5** |
 
 ### 📥 Download Threat Intelligence
 
