@@ -15383,3 +15383,58 @@ viewyouralerts.com,domain,SPAM_INFRA,MEDIUM,,196.251.107.231,SC,False,2695f1e1e1
 ,,MALWARE,HIGH,,,,,,,,,,,,
 ,,PHISHING_CONFIRMED,HIGH,,,,,,,,,,,,
 ,,MALWARE,HIGH,,,,,,,,,,,,
+api-walletconnect.org,domain,CRYPTO_DRAINER,3,,104.21.58.69,,,,,2026-07-30,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+api-walletconnect.pro,domain,CRYPTO_DRAINER,3,,,,,,,2026-07-30,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+binance-authenticate.com,domain,CRYPTO_EXCHANGE,3,,,,,,,2026-07-08,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+binance-pay.live,domain,CRYPTO_EXCHANGE,3,,,,True,,,2026-08-28,Market Updates,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+binancesupportwalllet.info,domain,CRYPTO_EXCHANGE,3,,,,,,,2026-08-13,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+bitcoin-profitapp.com,domain,CRYPTO_DRAINER,3,,172.67.143.207,,,,,2019-08-06,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+blazesswap.icu,domain,PHISHING_BRAND,4,,188.114.96.3,,,,,2026-08-19,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+bonkswap-dex.com,domain,CRYPTO_DRAINER,3,,186.2.175.109,AE,,,,2026-07-23,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+bybitsupportwallet.com,domain,CRYPTO_EXCHANGE,3,,,,,,,2026-07-14,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+coinbase-card.vip,domain,CRYPTO_EXCHANGE,3,,186.2.175.35,BZ,,,,2026-07-09,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+connect-wallet-two.org,domain,CRYPTO_DRAINER,3,,104.21.34.187,,True,,,2026-09-09,Welcome to nginx!,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+dashboard-pacaswap.com,domain,PHISHING_BRAND,4,,,,,,,2026-08-19,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+eclipsestake.com,domain,CRYPTO_DRAINER,3,,188.114.96.3,,,,,2026-06-29,Suspected Phishing | Cloudflare,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+hyperliquid-en.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-08-20,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+hyperliquild.com,domain,PHISHING_BRAND,4,,188.114.96.9,,True,,,2026-09-24,Market Updates,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+ismyprivatekeysecure.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-08-01,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+ismyseedphrasesecure.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-08-01,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+jupiter-ag-swap.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-07-26,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+kamino-dex.com,domain,CRYPTO_DRAINER,3,,186.2.175.109,AE,,,,2026-07-25,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+kingroyal-martini.cyou,domain,PHISHING_BRAND,4,,188.114.96.3,,True,,,2026-08-27,403 Forbidden,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+kraken-signin-session.icu,domain,CRYPTO_EXCHANGE,3,,,,,,,2026-07-13,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+kraklen.com,domain,PHISHING_BRAND,4,,216.198.79.67,US,,,,2026-06-28,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+kucvoin.com,domain,PHISHING_BRAND,4,,216.198.79.195,US,,,,2026-06-28,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+ledger-live.help,domain,CRYPTO_DRAINER,3,,216.150.1.193,CA,,,,2026-07-22,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+ledger-walletapp.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-07-22,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+ledgerswap.org,domain,CRYPTO_DRAINER,3,,,,,,,2026-07-04,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+lianadesktopwallet.com,domain,CRYPTO_DRAINER,3,,172.67.206.144,,,,,2026-08-26,404 Not Found,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+mantle-bridge.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-04-09,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+meritking-martini.cyou,domain,PHISHING_BRAND,4,,172.67.219.174,,True,,,2026-08-27,403 Forbidden,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+mrking-martini.cyou,domain,PHISHING_BRAND,4,,188.114.97.3,,True,,,2026-08-27,403 Forbidden,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+okxreward.com,domain,CRYPTO_EXCHANGE,3,,104.21.46.73,,,,,2026-06-30,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+onlineacenten.com,domain,CRYPTO_DRAINER,3,,104.21.88.57,,True,,,2026-07-13,Online Acenten — Türkiye'nin Dijital Sigorta Platformu,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+oz2win-online-aus.com,domain,CRYPTO_DRAINER,3,,172.67.207.18,,True,,,2026-08-21,"Oz2win Casino | No Deposit, Deposit & Welcome Bonus Deals",,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+peachbitcoinapp.com,domain,CRYPTO_DRAINER,3,,172.67.143.216,,,,,2026-09-05,Just a moment...,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+pocketbitcoindesktop.com,domain,CRYPTO_DRAINER,3,,188.114.97.3,,,,,2026-09-08,Just a moment...,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+scr111-aus.com,domain,PHISHING_BRAND,4,,104.21.34.85,,True,,,2026-07-10,"SCR111 Casino | Spin, Play & Enjoy More Online",,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+send-trust-wallet.org,domain,CRYPTO_DRAINER,3,,,,,,,2026-08-17,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+stakingusdc.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-08-05,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+starbet-in.com,domain,PHISHING_BRAND,4,,104.21.42.17,,True,,,2026-08-04,"Star Casino Review: INR Cashier, Hindi Live Tables & 3,000+ Games",,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+storgate.info,domain,PHISHING_BRAND,4,,,,,,,2026-07-29,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+storgate.net,domain,PHISHING_BRAND,4,,,,,,,2026-07-29,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+susbiswap.com,domain,PHISHING_BRAND,4,,104.21.88.27,,True,,,2026-08-03,S​w​ap | S​us​h​i​ ​​​🍣,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+sushiswop.com,domain,PHISHING_BRAND,4,,,,,,,2026-07-28,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+trust-wallet-ai.com,domain,CRYPTO_DRAINER,3,,188.114.96.9,,,,,2026-10-02,trust-wallet-ai.com | 520: Web server is returning an unknown error,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+trustwailet.net,domain,PHISHING_BRAND,4,,,,,,,2026-07-30,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+trustwalletapp.org,domain,CRYPTO_DRAINER,3,,,,,,,2026-09-03,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+us02web-bitget.com,domain,CRYPTO_EXCHANGE,3,,104.21.23.237,,,,,2026-09-25,Just a moment...,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+vegastars-online-aus.com,domain,CRYPTO_DRAINER,3,,172.67.167.57,,True,,,2026-07-07,"VegaStars Casino Australia Review — AU$6,000 Bonus, 125 Free Spins & Pokies",,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+vegastarsonline-aus.com,domain,CRYPTO_DRAINER,3,,104.21.34.247,,True,,,2026-07-07,"VegaStars Casino Australia Review 2026 — Pokies, Bonus & Login",,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+web-wallet-ledger.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-07-22,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+webapp-ledger.com,domain,CRYPTO_DRAINER,3,,,,,,,2026-07-22,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+wildcardcity-online-au.com,domain,CRYPTO_DRAINER,3,,188.114.96.3,,True,,,2026-07-07,"Wild Card City Casino Australia Review 2026 — Pokies, Bonus & Login",,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+wildtokyo-online-aus.com,domain,CRYPTO_DRAINER,3,,172.67.168.159,,True,,,2026-07-07,"Wild Tokyo Casino Australia Review 2026 — Pokies, Bonus & Login",,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+xrpwallett.com,domain,CRYPTO_DRAINER,3,,185.158.133.1,DE,,,,2026-07-02,,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
+zecdesktopwallet.com,domain,CRYPTO_DRAINER,3,,172.67.173.42,,,,,2026-08-24,404 Not Found,,,Fewmoretaps OU d/b/a Trustname.com,phishdestroy/trustname-evidence
