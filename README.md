@@ -78,7 +78,7 @@ UA  █░░░░░░░░░░░░░░░░░         43 (2.1%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (110)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (70)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `binance (42)` &middot; `official (42)` &middot; `verify (41)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (32)` &middot; `bridge (30)`
+`trust (110)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (70)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `official (42)` &middot; `binance (42)` &middot; `verify (41)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (32)` &middot; `bridge (30)`
 
 ### 🕵️ Top Serial Registrants — 4 emails with ≥5 domains
 
