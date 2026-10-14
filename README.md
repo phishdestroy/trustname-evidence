@@ -27,12 +27,12 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-13`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-14`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,201</code></sub></td>
-<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$170,843</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>52.4%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,224</code></sub></td>
+<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$171,052</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>52.1%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>0.0%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>1</code></sub></td>
@@ -42,8 +42,8 @@
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 14,872 | 399d | $133,699 |
-| `.net` | 1,078 | 432d | $10,769 |
+| `.com` | 14,893 | 399d | $133,888 |
+| `.net` | 1,080 | 431d | $10,789 |
 | `.icu` | 958 | 365d | $948 |
 | `.org` | 953 | 421d | $9,520 |
 | `.pro` | 270 | 379d | $2,157 |
@@ -56,14 +56,14 @@
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        595 (29.5%)
-DE  ███████░░░░░░░░░░░        255 (12.6%)
-NL  ███████░░░░░░░░░░░        249 (12.3%)
-AE  ████░░░░░░░░░░░░░░        152 (7.5%)
-RU  ████░░░░░░░░░░░░░░        135 (6.7%)
-FR  ██░░░░░░░░░░░░░░░░         91 (4.5%)
-GB  █░░░░░░░░░░░░░░░░░         56 (2.8%)
-UA  █░░░░░░░░░░░░░░░░░         43 (2.1%)
+US  ██████████████████        577 (29.1%)
+DE  ███████░░░░░░░░░░░        255 (12.9%)
+NL  ███████░░░░░░░░░░░        247 (12.5%)
+AE  ████░░░░░░░░░░░░░░        157 (7.9%)
+RU  ████░░░░░░░░░░░░░░        135 (6.8%)
+FR  ██░░░░░░░░░░░░░░░░         92 (4.6%)
+GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
+UA  █░░░░░░░░░░░░░░░░░         41 (2.1%)
 ```
 
 ### 📈 Registration Burst Days
@@ -73,14 +73,14 @@ UA  █░░░░░░░░░░░░░░░░░         43 (2.1%)
 | `2026-06-15` | 235 | **7.1×** 🚨 |
 | `2026-07-22` | 226 | **6.8×** 🚨 |
 | `2026-06-25` | 223 | **6.7×** 🚨 |
-| `2026-06-30` | 220 | **6.7×** 🚨 |
+| `2026-06-30` | 220 | **6.6×** 🚨 |
 | `2026-08-20` | 211 | **6.4×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (110)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (70)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `official (42)` &middot; `binance (42)` &middot; `verify (41)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (32)` &middot; `bridge (30)`
+`trust (110)` &middot; `secure (80)` &middot; `login (76)` &middot; `swap (71)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (46)` &middot; `account (43)` &middot; `binance (42)` &middot; `official (42)` &middot; `verify (41)` &middot; `ledger (37)` &middot; `crypto (36)` &middot; `vault (32)` &middot; `bridge (30)`
 
-### 🕵️ Top Serial Registrants — 4 emails with ≥5 domains
+### 🕵️ Top Serial Registrants — 5 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
@@ -88,6 +88,7 @@ UA  █░░░░░░░░░░░░░░░░░         43 (2.1%)
 | 2 | `sup***@bro-cas.net` | **6** |
 | 3 | `sup***@mypromise.com` | **6** |
 | 4 | `m***@beispiel.de` | **5** |
+| 5 | `sup***@mxl.zendesk.com` | **5** |
 
 ### 📥 Download Threat Intelligence
 
