@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14",
-  "count": 5,
+  "generated": "2026-10-15",
+  "count": 7,
   "registrants": [
     {
       "email": "whatda112233@gmail.com",
@@ -61,6 +61,18 @@
       ]
     },
     {
+      "email": "support@stake.com",
+      "count": 6,
+      "domains": [
+        "stake1230.com",
+        "stake1302.com",
+        "stake1304.com",
+        "stake1308.com",
+        "stake1402.com",
+        "stake1403.com"
+      ]
+    },
+    {
       "email": "support@mypromise.com",
       "count": 6,
       "domains": [
@@ -70,6 +82,18 @@
         "promisepeptide.com",
         "promisetelemed.com",
         "startpromise.com"
+      ]
+    },
+    {
+      "email": "support@mxl.zendesk.com",
+      "count": 6,
+      "domains": [
+        "buymodafinilrx.org",
+        "buymodafinilrxs.org",
+        "buyxarmodafinil.org",
+        "modalertonline.net",
+        "neomodafinil.org",
+        "rushfinil.com"
       ]
     },
     {
@@ -84,14 +108,14 @@
       ]
     },
     {
-      "email": "support@mxl.zendesk.com",
+      "email": "service@stamp-sale.com",
       "count": 5,
       "domains": [
-        "buymodafinilrx.org",
-        "buymodafinilrxs.org",
-        "buyxarmodafinil.org",
-        "modalertonline.net",
-        "rushfinil.com"
+        "foreverhotsales.com",
+        "foreversaleshop.com",
+        "stamp-discounts.com",
+        "stamp-promo.com",
+        "stamp-sale.com"
       ]
     }
   ]

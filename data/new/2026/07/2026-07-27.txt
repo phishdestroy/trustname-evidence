@@ -35,6 +35,7 @@ floatup.club
 floatup.live
 floatup.org
 floatup.pro
+floatup.space
 floatup.vip
 floatup.work
 floatup.xyz
