@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15",
+  "generated": "2026-10-16",
   "count": 7,
   "registrants": [
     {
@@ -85,18 +85,6 @@
       ]
     },
     {
-      "email": "support@mxl.zendesk.com",
-      "count": 6,
-      "domains": [
-        "buymodafinilrx.org",
-        "buymodafinilrxs.org",
-        "buyxarmodafinil.org",
-        "modalertonline.net",
-        "neomodafinil.org",
-        "rushfinil.com"
-      ]
-    },
-    {
       "email": "max@beispiel.de",
       "count": 5,
       "domains": [
@@ -116,6 +104,17 @@
         "stamp-discounts.com",
         "stamp-promo.com",
         "stamp-sale.com"
+      ]
+    },
+    {
+      "email": "support@mxl.zendesk.com",
+      "count": 5,
+      "domains": [
+        "buymodafinilrx.org",
+        "buymodafinilrxs.org",
+        "buyxarmodafinil.org",
+        "modalertonline.net",
+        "neomodafinil.org"
       ]
     }
   ]

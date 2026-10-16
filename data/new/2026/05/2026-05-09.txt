@@ -33,6 +33,7 @@ parmabetgiris2.icu
 parmabetguncelgirisadresi.icu
 parmabetkoruma.icu
 pdf-exploit.com
+pia-proxy.com
 pia5proxy.com
 piabetkorumaguncel.icu
 piaproxy.app

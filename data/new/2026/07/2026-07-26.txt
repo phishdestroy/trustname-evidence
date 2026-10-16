@@ -69,6 +69,7 @@ sleekdock.digital
 smart-pasiaugos.digital
 smartld-vml.digital
 smartld-vml.pro
+soloro.net
 testoffer.digital
 tikla.ink
 tocacy.com
