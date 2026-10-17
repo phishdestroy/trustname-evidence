@@ -106,6 +106,7 @@ rbcauthenticate2fa.com
 rbcsecurity-client7931.com
 resmi-giris.cfd
 resmi-site.cfd
+resmi.cfd
 rushfiniltalk.com
 safirbetde.org
 sdfsdfasdgadfgsdfds.com

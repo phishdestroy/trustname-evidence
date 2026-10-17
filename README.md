@@ -27,12 +27,12 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-16`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-17`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,698</code></sub></td>
-<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$174,747</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>51.4%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,192</code></sub></td>
+<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$170,171</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>52.6%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>0.0%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>1</code></sub></td>
@@ -42,45 +42,45 @@
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 15,179 | 399d | $136,459 |
-| `.net` | 1,117 | 432d | $11,159 |
+| `.com` | 14,653 | 400d | $131,730 |
+| `.net` | 1,126 | 431d | $11,249 |
 | `.icu` | 961 | 365d | $951 |
-| `.org` | 951 | 416d | $9,500 |
-| `.pro` | 270 | 379d | $2,157 |
+| `.org` | 947 | 415d | $9,461 |
+| `.pro` | 269 | 378d | $2,149 |
 | `.live` | 227 | 384d | $2,268 |
 | `.cyou` | 192 | 365d | $190 |
 | `.cam` | 175 | 365d | $873 |
-| `.cfd` | 155 | 365d | $773 |
+| `.cfd` | 156 | 365d | $778 |
 | `.digital` | 144 | 365d | $2,159 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        708 (35.6%)
-DE  ██████░░░░░░░░░░░░        255 (12.8%)
-NL  ████░░░░░░░░░░░░░░        187 (9.4%)
-AE  ████░░░░░░░░░░░░░░        169 (8.5%)
-RU  ███░░░░░░░░░░░░░░░        138 (6.9%)
-FR  ██░░░░░░░░░░░░░░░░         96 (4.8%)
-GB  █░░░░░░░░░░░░░░░░░         48 (2.4%)
-MD  █░░░░░░░░░░░░░░░░░         43 (2.2%)
+US  ██████████████████        709 (36.2%)
+DE  ██████░░░░░░░░░░░░        249 (12.7%)
+NL  ████░░░░░░░░░░░░░░        176 (9.0%)
+AE  ████░░░░░░░░░░░░░░        163 (8.3%)
+RU  ███░░░░░░░░░░░░░░░        140 (7.2%)
+FR  ██░░░░░░░░░░░░░░░░         96 (4.9%)
+MD  █░░░░░░░░░░░░░░░░░         49 (2.5%)
+GB  █░░░░░░░░░░░░░░░░░         47 (2.4%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-07-13` | 296 | **8.9×** 🚨 |
-| `2026-06-15` | 238 | **7.1×** 🚨 |
-| `2026-07-22` | 228 | **6.8×** 🚨 |
-| `2026-06-25` | 225 | **6.7×** 🚨 |
-| `2026-06-30` | 222 | **6.6×** 🚨 |
+| `2026-07-13` | 293 | **8.9×** 🚨 |
+| `2026-06-15` | 227 | **6.9×** 🚨 |
+| `2026-06-25` | 217 | **6.6×** 🚨 |
+| `2026-07-22` | 217 | **6.6×** 🚨 |
+| `2026-06-30` | 214 | **6.5×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (111)` &middot; `secure (82)` &middot; `login (76)` &middot; `swap (74)` &middot; `wallet (62)` &middot; `support (56)` &middot; `connect (48)` &middot; `binance (43)` &middot; `account (43)` &middot; `crypto (42)` &middot; `official (42)` &middot; `verify (41)` &middot; `ledger (37)` &middot; `bridge (33)` &middot; `vault (33)`
+`trust (108)` &middot; `swap (74)` &middot; `login (72)` &middot; `secure (67)` &middot; `wallet (63)` &middot; `support (51)` &middot; `crypto (44)` &middot; `binance (44)` &middot; `official (42)` &middot; `account (42)` &middot; `connect (41)` &middot; `verify (40)` &middot; `ledger (36)` &middot; `bridge (33)` &middot; `vault (33)`
 
-### 🕵️ Top Serial Registrants — 7 emails with ≥5 domains
+### 🕵️ Top Serial Registrants — 6 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
@@ -88,9 +88,8 @@ MD  █░░░░░░░░░░░░░░░░░         43 (2.2%)
 | 2 | `sup***@bro-cas.net` | **6** |
 | 3 | `sup***@stake.com` | **6** |
 | 4 | `sup***@mypromise.com` | **6** |
-| 5 | `m***@beispiel.de` | **5** |
-| 6 | `ser***@stamp-sale.com` | **5** |
-| 7 | `sup***@mxl.zendesk.com` | **5** |
+| 5 | `ser***@stamp-sale.com` | **5** |
+| 6 | `sup***@mxl.zendesk.com` | **5** |
 
 ### 📥 Download Threat Intelligence
 
