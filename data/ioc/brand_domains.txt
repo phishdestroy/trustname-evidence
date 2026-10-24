@@ -258,7 +258,6 @@ secure	bmosecureverify.com
 secure	cibc-secure-web.com
 secure	cibcsecuredadmin.com
 secure	fdicsecure.net
-secure	filesecurezone.org
 secure	instruction-secure-login.com
 secure	ismyprivatekeysecure.com
 secure	ismyseedphrasesecure.com
@@ -534,7 +533,6 @@ account	accountshidden.com
 account	accountsinformationses.com
 account	asset-account.com
 account	asset-account.org
-account	aviaanaccounting.net
 account	bets10-account.com
 account	chain-account.com
 account	chain-account.org
@@ -734,7 +732,6 @@ bridge	prbridgeconsultant.com
 bridge	primebridgeinc.com
 bridge	pulsebridgeae.com
 bridge	safelinkbridge.com
-bridge	squidbridge.com
 bridge	starknet-bridge.com
 bridge	superbridge-app.com
 bridge	superbridge-app.net
@@ -802,7 +799,6 @@ coinbase	case83924-coinbase.com
 coinbase	coinbase-android.com
 coinbase	coinbase-card.vip
 coinbase	coinbase-invoice.org
-coinbase	coinbasestakes.com
 coinbase	coinbaseyield.com
 coinbase	login52884-coinbase.com
 coinbase	ui-coinbase.com
