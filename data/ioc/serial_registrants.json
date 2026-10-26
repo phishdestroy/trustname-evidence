@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "count": 3,
   "registrants": [
     {
@@ -62,11 +62,12 @@
     },
     {
       "email": "support@mypromise.com",
-      "count": 5,
+      "count": 6,
       "domains": [
         "mypromisepeptides.com",
         "promiseclinical.com",
         "promisehealthrx.com",
+        "promisepeptide.com",
         "promisetelemed.com",
         "startpromise.com"
       ]
