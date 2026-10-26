@@ -67,18 +67,18 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 
 | File | Size | SHA-256 prefix | Description |
 |---|---:|---|---|
-| `data/enriched.csv` | 3.0 MB | `a3cafccd909a6f4c` | Full enriched dataset — 9,544 rows (7,641 HTTP-scanned registrar domains + 1,903 threat-feed detections) with classification, IPs, country codes, AI descriptions, threat-intel hits |
-| `data/high_severity.csv` | 748 KB | `879d7ce799f2762f` | HIGH-only filtered subset (1,114 domains) |
-| `data/dead_domains.csv` | 742 KB | `5ee84646c6872591` | Dead / parked / error enumeration (5,058 domains) |
-| `ioc/domains_high.txt` | 57 KB | `25cf3632c9c8bc15` | Production blocklist — HIGH severity domains (3,293 at time of writing) (newline-delimited) |
-| `ioc/domains_all_malicious.txt` | 75 KB | `9b164c16d7cba3cc` | Production blocklist — HIGH + MEDIUM domains (4,276 at time of writing) |
-| `ioc/indicators.csv` | 1.1 MB | `86c707b9b27cf3a2` | SIEM-ready indicators: domain, ip, server_fp, favicon_mmh3, category, severity, brand, threat_sources |
-| `evidence/HASHES.txt` | 168 KB | `131ff258bd0c058c` | SHA-256 manifest of all 1,953 screenshots |
-| `docs/data.json` | 5.1 MB | regenerated on deploy | Slim per-domain dataset rendered by `docs/index.html` and `docs/domains.html` |
-| `pkg/raw_data/enriched.csv.gz` | 578 KB | `039d5a28afb17fdf` | Compressed enriched dataset for download |
-| `pkg/raw_data/lambda_results.jsonl.gz` | 509 KB | `c0add17921efada8` | Phase 1 raw HTTP fingerprint output (JSONL) |
-| `pkg/raw_data/deep_results.jsonl.gz` | 1.1 MB | `60b943f03e7ac926` | Phase 2/3 raw browser render output (JSONL) |
-| `pkg/raw_data/threat_intel.jsonl.gz` | 74 KB | `4a92dafe955b60d4` | Phase 4 threat-intel cross-reference (JSONL) |
+| `data/enriched.csv` | 4.67 MiB | `7a4f8f7482ae2b83` | Full enriched dataset — 19,063 domain records, all columns |
+| `data/high_severity.csv` | 748.1 KiB | `879d7ce799f2762f` | HIGH-only filtered subset (1,114 domains) |
+| `data/dead_domains.csv` | 742.4 KiB | `5ee84646c6872591` | Dead / parked / error enumeration (5,058 domains) |
+| `ioc/domains_high.txt` | 56.6 KiB | `25cf3632c9c8bc15` | Production blocklist — 3,293 HIGH domains |
+| `ioc/domains_all_malicious.txt` | 74.9 KiB | `9b164c16d7cba3cc` | HIGH + MEDIUM blocklist — 4,276 domains |
+| `ioc/indicators.csv` | 1.13 MiB | `28e7becca58a117e` | SIEM-ready indicators: domain, ip, server_fp, favicon_mmh3, category, severity, brand, threat_sources |
+| `evidence/HASHES.txt` | 167.5 KiB | `131ff258bd0c058c` | SHA-256 manifest of all 1,953 screenshots |
+| `docs/data.json` | 9.33 MiB | `8be6f42cf56b7811` | Current per-domain export — 19,063 records; June 2026 explorer snapshot is separate |
+| `pkg/raw_data/enriched.csv.gz` | 778.8 KiB | `f25a64bf35fcb018` | Compressed enriched dataset for download |
+| `pkg/raw_data/lambda_results.jsonl.gz` | 509.3 KiB | `c0add17921efada8` | Phase 1 raw HTTP fingerprint output (JSONL) |
+| `pkg/raw_data/deep_results.jsonl.gz` | 1.07 MiB | `60b943f03e7ac926` | Phase 2/3 raw browser render output (JSONL) |
+| `pkg/raw_data/threat_intel.jsonl.gz` | 74.2 KiB | `4a92dafe955b60d4` | Phase 4 threat-intel cross-reference (JSONL) |
 | `SHA256SUMS.txt` | generated | repository manifest | SHA-256 manifest for committed repository files |
 
 ---
@@ -104,7 +104,7 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 ### Single archive
 ```bash
 sha256sum pkg/raw_data/enriched.csv.gz
-# expected prefix: a2a6f5fda9f364aa…
+# expected prefix: f25a64bf35fcb018…
 ```
 
 ### Repository manifest

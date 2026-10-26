@@ -342,7 +342,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 > 🔥 **Of the domains in this registrar's zone that actually served content in June 2026, more than 1 in 3 was confirmed malicious.**
 
-> ℹ️ The table above is the June 2026 scan snapshot. The published blocklist in [`ioc/`](ioc/) currently lists **4,276** domains (**3,293** HIGH, 983 MEDIUM) — the live figure is in the *IOC classified* counter at the top. The per-row `severity_label` in [`data/enriched.csv`](data/enriched.csv) / `docs/data.json` (3,017 HIGH · 1,107 MEDIUM across 9,544 rows) is the raw classifier output for the enriched subset only and is not the blocklist.
+> ℹ️ The table above is the June 2026 scan snapshot. The published blocklist in [`ioc/`](ioc/) currently lists **4,276** domains (**3,293** HIGH, 983 MEDIUM) — the live figure is in the *IOC classified* counter at the top. The per-row `severity_label` in [`data/enriched.csv`](data/enriched.csv) / `docs/data.json` (3,047 HIGH · 1,107 MEDIUM · 13 CRITICAL across 19,063 rows) is the raw classifier output for the enriched subset only and is not the blocklist.
 
 ### Category Breakdown
 
@@ -368,7 +368,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 | ❌ | `ERROR` | 286 | ⚪ INFO | 5xx, connection refused, no content |
 | ⚫ | `DEAD` | 4,745 | ⚪ INFO | No DNS / no response |
 
-📄 Category counts and full per-domain data: [`data/enriched.csv`](data/enriched.csv) (9,544 rows)
+📄 Category counts and full per-domain data: [`data/enriched.csv`](data/enriched.csv) (19,063 rows)
 
 ---
 
@@ -391,7 +391,7 @@ Shared fingerprint = same hosting stack / same operator template — evidence of
 | 🖼 `1869784862`   | `favicon_mmh3` | 34 | 🪙 PHISHING_CRYPTO — Solana drainer cluster |
 | 🔑 `a1b77bce0100` | `server_fp` | 28 | ☣ MALWARE_DIST — Binance impersonation |
 
-> 🎯 A single server fingerprint `811e0897f489` accounts for **21.9 %** of the 7,641 registrar-attributed rows in `data/enriched.csv`.
+> 🎯 A single server fingerprint `811e0897f489` accounts for **21.9 %** of the 7,641 records in the [June 2026 HTTP scan snapshot](https://phishdestroy.github.io/trustname-evidence/domains.html).
 > The "Elon" favicon cluster identified here directly extends the six-domain operator group described in Phase I.
 
 Full cluster data: [`case/CLUSTERS.md`](case/CLUSTERS.md)
@@ -406,17 +406,17 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 
 | Path | Size | SHA-256 (16) | Contents |
 |---|---:|---|---|
-| 📊 `data/enriched.csv` | 2.8 MB | `83ea143175d8a378` | Full enriched dataset — all 18,719 domains, all columns |
-| 📊 `data/high_severity.csv` | 748 KB | `ecee3b68b2fb34c8` | HIGH-only filtered subset |
-| 📊 `data/dead_domains.csv` | 742 KB | `5ee84646c6872591` | Dead / parked / error enumeration |
-| 🚫 `ioc/domains_high.txt` | 57 KB | `25cf3632c9c8bc15` | Production blocklist — 3,293 HIGH domains |
-| 🚫 `ioc/domains_all_malicious.txt` | 75 KB | `9b164c16d7cba3cc` | HIGH + MEDIUM blocklist — 4,276 domains |
-| 🛡 `ioc/indicators.csv` | 775 KB | `4e9dcd3840be9f9a` | SIEM indicators — IP, server_fp, favicon_mmh3, category, severity |
-| 🔐 `evidence/HASHES.txt` | 168 KB | `131ff258bd0c058c` | SHA-256 of all 1,953 screenshots |
-| 📦 `pkg/raw_data/enriched.csv.gz` | 560 KB | `a2a6f5fda9f364aa` | Compressed enriched dataset |
-| 📦 `pkg/raw_data/lambda_results.jsonl.gz` | 509 KB | `c0add17921efada8` | Phase 1 — HTTP fingerprint raw output |
-| 📦 `pkg/raw_data/deep_results.jsonl.gz` | 1.1 MB | `60b943f03e7ac926` | Phase 2/3 — browser render raw output |
-| 📦 `pkg/raw_data/threat_intel.jsonl.gz` | 74 KB | `4a92dafe955b60d4` | Threat-intel cross-reference |
+| 📊 `data/enriched.csv` | 4.67 MiB | `7a4f8f7482ae2b83` | Full enriched dataset — 19,063 domain records, all columns |
+| 📊 `data/high_severity.csv` | 748.1 KiB | `879d7ce799f2762f` | HIGH-only filtered subset |
+| 📊 `data/dead_domains.csv` | 742.4 KiB | `5ee84646c6872591` | Dead / parked / error enumeration |
+| 🚫 `ioc/domains_high.txt` | 56.6 KiB | `25cf3632c9c8bc15` | Production blocklist — 3,293 HIGH domains |
+| 🚫 `ioc/domains_all_malicious.txt` | 74.9 KiB | `9b164c16d7cba3cc` | HIGH + MEDIUM blocklist — 4,276 domains |
+| 🛡 `ioc/indicators.csv` | 1.13 MiB | `28e7becca58a117e` | SIEM indicators — IP, server_fp, favicon_mmh3, category, severity |
+| 🔐 `evidence/HASHES.txt` | 167.5 KiB | `131ff258bd0c058c` | SHA-256 of all 1,953 screenshots |
+| 📦 `pkg/raw_data/enriched.csv.gz` | 778.8 KiB | `f25a64bf35fcb018` | Compressed enriched dataset |
+| 📦 `pkg/raw_data/lambda_results.jsonl.gz` | 509.3 KiB | `c0add17921efada8` | Phase 1 — HTTP fingerprint raw output |
+| 📦 `pkg/raw_data/deep_results.jsonl.gz` | 1.07 MiB | `60b943f03e7ac926` | Phase 2/3 — browser render raw output |
+| 📦 `pkg/raw_data/threat_intel.jsonl.gz` | 74.2 KiB | `4a92dafe955b60d4` | Threat-intel cross-reference |
 
 📋 Detailed chain-of-custody documentation: [`PROVENANCE.md`](PROVENANCE.md)
 
@@ -425,7 +425,7 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 ```bash
 # verify any archive
 sha256sum pkg/raw_data/enriched.csv.gz
-# expected prefix: a2a6f5fda9f364aa…
+# expected prefix: f25a64bf35fcb018…
 
 # verify all 1,953 screenshots against the manifest
 cd docs/screenshots && sha256sum -c ../../evidence/HASHES.txt
@@ -479,7 +479,7 @@ Fewmoretaps OÜ collects registration revenue from operators conducting wire fra
 trustname-evidence/
 ├── 📊 docs/                                 GitHub Pages site
 │   ├── index.html                          Executive report — metrics, charts, gallery
-│   ├── domains.html                        Searchable per-domain table (18,719)
+│   ├── domains.html                        Searchable June 2026 HTTP-scan snapshot (7,641 records)
 │   ├── data.json                           Slim dataset for the live report
 │   ├── build_datajson.py                   Generator: enriched.csv → data.json
 │   ├── sitemap.xml / robots.txt / .nojekyll
@@ -490,7 +490,7 @@ trustname-evidence/
 │   └── dead_domains.csv                    Dead / parked enumeration
 ├── 🚫 ioc/                                  Indicators of Compromise
 │   ├── domains_high.txt                    3,293 HIGH blocklist
-│   ├── domains_all_malicious.txt           4,275 HIGH + MEDIUM blocklist
+│   ├── domains_all_malicious.txt           4,276 HIGH + MEDIUM blocklist
 │   └── indicators.csv                      SIEM-ready
 ├── 🔐 evidence/
 │   ├── screenshots/                        Local screenshot archive; ignored by git

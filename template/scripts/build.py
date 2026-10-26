@@ -8,6 +8,8 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Tag
 import json, re, shutil, hashlib, os
 from urllib.parse import urljoin, urlsplit
+from datetime import date
+from sync_metrics import synchronize
 
 ROOT = Path(__file__).resolve().parents[1]
 UP = ROOT / 'upstream' / 'docs'
@@ -15,6 +17,7 @@ OUT = ROOT.parent / 'docs'
 CONFIG = json.loads((ROOT.parent / 'site.config.json').read_text())
 BASE = CONFIG['source_site_url'].rstrip('/') + '/'
 ORIGIN = (os.environ.get('SITE_URL') or CONFIG['site_url']).rstrip('/')
+RAW = 'https://raw.githubusercontent.com/' + CONFIG['source_repository'] + '/' + CONFIG['source_branch'] + '/'
 PATHS = {
  'grid':'<rect x="3" y="3" width="7" height="7" rx="1.4"/><rect x="14" y="3" width="7" height="7" rx="1.4"/><rect x="3" y="14" width="7" height="7" rx="1.4"/><rect x="14" y="14" width="7" height="7" rx="1.4"/>',
  'file':'<path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9Z"/><path d="M14 3v6h6M8 13h8M8 17h5"/>',
@@ -96,6 +99,9 @@ def prepare(s, name):
  for a in s.find_all('a',href=True):
   if a['href'].startswith('ioc/'):a['href']=BASE+a['href']
   href=a['href'];parsed=urlsplit(href)
+  if parsed.path in ['../data/enriched.csv', '../pkg/raw_data/enriched.csv.gz']:
+   a['href']=RAW+parsed.path[3:];a['target']='_blank';a['rel']='noopener noreferrer'
+   continue
   if parsed.path and not parsed.scheme and not parsed.netloc and not (UP/parsed.path).exists() and not (OUT/parsed.path).exists():
    original_files={'THE-LIES.md':'case/THE-LIES.md','PROOFS.md':'PROOFS.md','PRESSURE.md':'case/PRESSURE.md','CONNECTION.md':'case/CONNECTION.md'}
    if parsed.path in original_files:a['href']='https://github.com/phishdestroy/trustname-evidence/blob/main/'+original_files[parsed.path]
@@ -139,7 +145,19 @@ def shell(s, name, title, content, original_scripts):
  s.body.append(s.new_tag('script',src='assets/app.js',defer=''))
  return s
 
-def build_index(s):
+def current_metrics(data):
+ cards=[]
+ for key,label,note,kind in [
+  ('domains_tracked','Domains tracked','Current registrar list','globe'),
+  ('ioc_classified','Classified IOC','Published HIGH + MEDIUM blocklist','shield'),
+  ('ioc_high','HIGH severity','Published HIGH blocklist','activity'),
+  ('estimated_annual_value','Est. annual value','USD · registration price estimate','dollar')]:
+  value=('$' if key=='estimated_annual_value' else '')+format(data[key],',.0f')
+  cards.append(f'<div class="pd-current-card"><div class="pd-current-label">{icon(kind)}<span>{label}</span></div><strong data-current-metric="{key}">{value}</strong><small>{note}</small></div>')
+ updated=date.fromisoformat(data['last_updated']).strftime('%d %B %Y').lstrip('0')
+ return fragment(f'<section class="pd-current" aria-labelledby="pd-current-title"><div class="pd-data-heading"><h2 id="pd-current-title"><span class="pd-dot"></span>Current data</h2><span id="pd-current-date">Updated {updated}</span></div><div class="pd-current-grid">'+''.join(cards)+'</div></section>').section
+
+def build_index(s, data):
  scripts=[x.extract() for x in s.body.find_all('script')]
  lightbox=s.find(id='lb').extract();scripts.insert(0,lightbox)
  disclaimer=s.find(id='disclaimer').extract();disclaimer['class']=['pd-research-disclaimer']
@@ -159,8 +177,10 @@ def build_index(s):
  for name,v in views.items():
   if name!='overview':
    v['hidden']='';title,desc=titles[name];append_markup(v,f'<div class="pd-route-title"><div class="pd-eyebrow">TrustName / {name}</div><h1>{title}</h1><p>{desc}</p></div>')
- views['overview'].append(metrics)
+ views['overview'].append(current_metrics(data))
  strip=s.new_tag('div',attrs={'class':'pd-live-strip'});append_markup(strip,'<div class="pd-live-strip-label"><span class="pd-dot"></span>LIVE DATA<br>FROM SOURCE</div>');strip.append(live);views['overview'].append(strip)
+ append_markup(views['overview'],'<div class="pd-data-heading pd-history-heading"><h2>June 2026 scan snapshot</h2><span>Original scan results</span></div>')
+ views['overview'].append(metrics)
  original_wrap=s.body.find('div',class_='wrap',recursive=False);mode='overview';reports=s.new_tag('div',id='reports');views['overview'].append(reports)
  for e in list(original_wrap.contents):
   if isinstance(e,Tag) and 'sec' in e.get('class',[]):
@@ -221,6 +241,7 @@ var pdOriginalRender=render;render=function(){pdOriginalRender();var p=document.
  note=fragment(f'<div class="pd-snapshot-banner">{icon("file")}<span>Original PhishDestroy research · Content and report dates preserved.</span><a href="{BASE}{name}.html" target="_blank" rel="noopener">View source ↗</a></div>').div
  return shell(s,name,'Domain explorer' if name=='domains' else 'IOC explorer',[note,report],scripts)
 def build():
+ data=synchronize()
  OUT.mkdir(exist_ok=True)
  (OUT/'assets').mkdir(exist_ok=True)
  source_config={'raw_docs_base':'https://raw.githubusercontent.com/'+CONFIG['source_repository']+'/'+CONFIG['source_branch']+'/docs/'}
@@ -237,7 +258,7 @@ def build():
   if path.name=='404.html':
    (OUT/'404.html').write_text('<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Page not found · PhishDestroy</title><link rel="stylesheet" href="assets/theme.css"><body class="pd-workspace"><main style="max-width:650px;margin:15vh auto;padding:30px"><div class="pd-eyebrow">PhishDestroy / 404</div><h1>That page is not in the record.</h1><p>Return to the investigation to find reports, evidence and intelligence.</p><a href="index.html" class="pd-btn primary">Open investigation →</a></main></body></html>');continue
   original=BeautifulSoup(path.read_text(),'html.parser');orig_ids={e['id'] for e in original.find_all(id=True)};orig_fields={e['id'] for e in original.find_all(['input','select']) if e.get('id')}
-  s=prepare(original,path.stem);s=build_index(s) if path.stem=='index' else build_report(s,path.stem)
+  s=prepare(original,path.stem);s=build_index(s,data) if path.stem=='index' else build_report(s,path.stem)
   used_ids={e['id'] for e in s.find_all(id=True)}
   for i,h in enumerate(s.select('.pd-main h1,.pd-main h2,.pd-main h3')):
    title=h.get_text(' ',strip=True)
