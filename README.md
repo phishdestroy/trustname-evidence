@@ -12,6 +12,7 @@
 <br/>
 
 [![IANA #4318](https://img.shields.io/badge/IANA-%234318-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
+[![Accreditation terminated](https://img.shields.io/badge/Accreditation-TERMINATED-da3633?style=for-the-badge&labelColor=0c1018)](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf)
 [![TLP CLEAR](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.first.org/tlp/)
 [![MIT](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
 
@@ -22,6 +23,41 @@
 <br/>
 
 </div>
+
+---
+
+## ✅ Enforcement Outcome — Credit to ICANN
+
+*Status verified on 26 October 2026.*
+
+**ICANN terminated the accreditation agreement of Fewmoretaps OÜ d/b/a Trustname.com (IANA #4318), effective 11 September 2026.** The [termination notice, issued on 27 August 2026](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf), sets out the grounds and the enforcement history. The [official IANA registrar registry](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) now lists #4318 as **Terminated**.
+
+**PhishDestroy welcomes this decision and thanks ICANN Contractual Compliance for seeing it through.** We have been uncompromising in our criticism of failures in registrar abuse handling and enforcement. We owe the same clarity to recognizing a result. ICANN documented the violations, examined the registrar's attempts at remediation, and withdrew accreditation when repeated failures continued. That work deserves public credit.
+
+This is a consequential enforcement precedent for the domain industry. ICANN's notice records **four Notices of Breach over 78 days**, citing failures under **RAA §3.18.1** to investigate and respond appropriately to abuse reports and **§3.18.2** to take prompt, appropriate action against DNS abuse. Termination followed under **§§5.5.4 and 5.5.6**. The outcome gives those obligations practical force.
+
+For phishing responders, one finding deserves particular attention. The notice records Trustname's acknowledgement that it had improperly demanded proof that credentials had actually been collected or transmitted. The relevant assessment was whether the available evidence, taken together, reasonably supported a phishing determination. Recognizing that distinction matters to everyone working to stop credential theft before more people are harmed.
+
+### 📋 The Official Record
+
+| Date | ICANN record |
+|---|---|
+| 10 June 2026 | [First Notice of Breach](https://www.icann.org/uploads/compliance_notice/attachment/1353/hedlund-to-nestsiarovich-10jun26.pdf) |
+| 26 June 2026 | [Second Notice of Breach](https://www.icann.org/uploads/compliance_notice/attachment/1355/hedlund-to-nestsiarovich-26jun26.pdf) |
+| 16 July 2026 | [Third Notice of Breach](https://www.icann.org/uploads/compliance_notice/attachment/1357/hedlund-to-nestsiarovich-16jul26.pdf) |
+| 26 August 2026 | [Fourth Notice of Breach](https://www.icann.org/uploads/compliance_notice/attachment/1365/hedlund-to-nestsiarovich-26aug26.pdf) |
+| 27 August 2026 | [Notice of Termination](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) |
+| 11 September 2026 | Effective date specified in the termination notice |
+
+The notice also provides for transitioning the registrar's domains to a qualified ICANN-accredited registrar to protect registrants. The [ICANN enforcement index](https://www.icann.org/compliance/notices) provides the public record of these actions.
+
+**This is the kind of enforcement that earns public confidence. Thank you to the ICANN team for bringing this case to a concrete outcome.**
+
+That standard should now guide scrutiny of **[NiceNIC (IANA #3765)](https://github.com/phishdestroy/nicenic-evidence)**. Our [published complaint and supporting evidence](https://github.com/phishdestroy/nicenic-evidence/tree/main/complaints/2026-08-05-nicenic-icann) deserve the same rigorous review and determination to follow through. Where repeated contractual breaches are established, we expect consequences. **NiceNIC should take note.**
+
+> **Accreditation carries obligations. Repeated breaches must carry consequences.**
+
+<sub>Historical scope: the investigation and June 2026 scan below document the period before termination. The live feed tracks the investigation's domain dataset; it does not establish current accreditation or current registrar sponsorship for every tracked domain.</sub>
 
 ---
 
@@ -114,6 +150,8 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 <td valign="top">
 
 **Investigation**
+
+- [Enforcement outcome — credit to ICANN](#-enforcement-outcome--credit-to-icann)
 - [1 · Background](#1--background)
 - [2 · Subject](#2--subject)
 - [3 · Scope and Coverage](#3--scope-and-coverage)
@@ -179,6 +217,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 | 🏢 Legal entity | **Fewmoretaps OÜ** |
 | 🌐 DBA | Trustname.com |
 | 🆔 ICANN / IANA ID | **#4318** |
+| Accreditation status | **Terminated**, effective **11 September 2026** — [ICANN notice](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) · [IANA registry](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) |
 | 🇪🇪 Jurisdiction | Estonia (EU) |
 
 *Operator identity, corporate-registry details, and financial profile are covered in Phase I:*
@@ -403,7 +442,7 @@ Full per-domain narrative: [`case/HIGH_SEVERITY.md`](case/HIGH_SEVERITY.md)
 
 > This report is structured as an evidence package for **criminal and financial-intelligence agencies**, not as an ICANN compliance filing.
 
-ICANN's mandate is technical stability of the DNS, not fraud policing. The Registrar Accreditation Agreement is a contract; an RAA §3.18 violation is a breach of contract, not a crime. Accreditation revocation is an administrative process measured in years.
+ICANN enforces registrar obligations through the Registrar Accreditation Agreement, including the abuse-response and DNS abuse mitigation requirements in RAA §3.18. In this case, ICANN followed repeated breach notices with termination effective 11 September 2026. We welcome that action; see the [enforcement outcome and official sources above](#-enforcement-outcome--credit-to-icann). Contractual enforcement and any criminal investigation are separate processes.
 
 Fewmoretaps OÜ collects registration revenue from operators conducting wire fraud, credential theft, carding, and cryptocurrency theft — establishing a knowing position in the criminal money flow. **Criminal liability does not require ICANN action as a prerequisite.**
 
@@ -543,7 +582,7 @@ This publication is conducted under:
 
 ### Regarding Reputational Impact
 
-This research documents objectively verifiable facts: domain registration patterns, HTTP response content, and registrar abuse-response latency. Trustname.com / Fewmoretaps OÜ is an ICANN-accredited registrar bound by public accountability obligations.
+This research documents objectively verifiable facts: domain registration patterns, HTTP response content, and registrar abuse-response latency. Trustname.com / Fewmoretaps OÜ was an ICANN-accredited registrar during the investigation period. ICANN subsequently terminated its accreditation agreement effective 11 September 2026; the official sources are linked in the [enforcement update](#-enforcement-outcome--credit-to-icann).
 
 Publication of factual evidence of contractual non-compliance with ICANN's abuse-response requirements is not defamation — it is the function those requirements were designed to enable. Registrars that maintain functional abuse response pipelines have nothing to fear from this disclosure.
 
@@ -565,7 +604,7 @@ If Trustname disputes any finding: submit documented evidence via [phishdestroy.
 
 ## 🕸️ Network of Complicit Registrars
 
-This investigation is part of a series documenting ICANN-accredited registrars that systematically obstruct anti-phishing enforcement or directly profit from fraud infrastructure.
+This investigation is part of a series documenting abuse handling and fraud infrastructure at current and former ICANN-accredited registrars. Trustname's accreditation has since been terminated, as documented in the [enforcement update](#-enforcement-outcome--credit-to-icann).
 
 | # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
 |--|--|--|--|--|--|--|
@@ -631,7 +670,7 @@ The gap between the marketing front and the corporate reality is not a discrepan
 | ZEC | `t1d19KevpcXpesr9XA9UUyMW9XGYVDxkK9S` |
 | **XMR** | `8B5N29BocrTjkRCeGCARnkhKgBeHBhg4oH7ay4RfXfnL7RqBdyiuL4k6iN4GVUVxt1EQJvZRqLg8n4qgCNWmYHQQDZmfytM` |
 
-Accepting **Monero (XMR)** — a cryptocurrency specifically designed to be untraceable — while declaring €120 annual revenue and holding an ICANN accreditation is not a compliance edge case. It is a structural violation of Estonian AML law and VASP licensing requirements.
+At the time of the investigation, Trustname accepted **Monero (XMR)**, declared €120 in annual revenue, and held ICANN accreditation. ICANN has since terminated that accreditation agreement on the abuse-handling grounds documented above. Questions about cryptocurrency payments, financial reporting, and compliance with Estonian AML or licensing requirements remain matters for the relevant authorities.
 
 ### Russian-Language Fraud Infrastructure
 
@@ -656,10 +695,12 @@ Trustname operates **two registrar-owned privacy proxy services** to shield its 
 
 - Domains with full evidence packages survive abuse reports **without suspension**.
 - Registration revenue and crypto payments flow from operators running wire fraud, credential theft, and casino scams — **knowing position in criminal money flow**.
-- Company is under liquidation, yet ICANN accreditation remains active — enforcement lag creates an operational window for ongoing abuse.
+- The original investigation criticized the continued accreditation of a company reported to be under liquidation. **Status update:** ICANN terminated the accreditation agreement effective 11 September 2026 for repeated abuse-handling failures; we welcome and credit that enforcement action.
 - As an EU-registered entity subject to **Estonian AML/CFT law** and the EU's VASP framework, Fewmoretaps is operating a de facto unlicensed crypto exchange.
 - Direct abuse reports with evidence: **ignored or met with form-letter non-responses.**
 - Criminal liability under Estonian law does not require prior ICANN action.
+
+*Original investigation commentary, describing the period before termination:*
 
 > *"€120 revenue. €175,310 liabilities. Monero accepted. One employee. ICANN-accredited. Under liquidation. This is not a registrar — it is a fraud infrastructure service with a compliance veneer."*
 
