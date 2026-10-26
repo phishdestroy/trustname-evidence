@@ -11,10 +11,7 @@
 
 <br/>
 
-[![IANA #4318](https://img.shields.io/badge/IANA-%234318-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
-[![Accreditation terminated](https://img.shields.io/badge/Accreditation-TERMINATED-da3633?style=for-the-badge&labelColor=0c1018)](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf)
-[![TLP CLEAR](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.first.org/tlp/)
-[![MIT](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
+[![IANA #4318](https://img.shields.io/badge/IANA-%234318-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) [![Accreditation terminated](https://img.shields.io/badge/Accreditation-TERMINATED-da3633?style=for-the-badge&labelColor=0c1018)](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) [![TLP CLEAR](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.first.org/tlp/) [![MIT](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
 
 <br/>
 
@@ -34,11 +31,16 @@
 
 Trustname described itself as a [“bulletproof domain registrar.”](https://phishdestroy.io/trustname-bulletproof-exposed/) On **11 September 2026**, its ICANN accreditation ended. The [official IANA record](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) now gives the outcome in a single word: **Terminated**.
 
-We have been blunt with ICANN when enforcement falls short. Fairness demands that we be just as clear when it delivers. **In the Trustname case, ICANN Contractual Compliance deserves credit for both the decision and the pace.**
-
 | **10 JUN 2026** | **27 AUG 2026** | **11 SEP 2026** |
 |:---:|:---:|:---:|
 | [First formal breach notice](https://www.icann.org/uploads/compliance_notice/attachment/1353/hedlund-to-nestsiarovich-10jun26.pdf) | [Termination notice](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) | **Accreditation ended** |
+
+> **NiceNIC, the precedent is now on the record.**
+
+<details>
+<summary><strong>ICANN enforcement · full statement and official sources</strong></summary>
+
+We have been blunt with ICANN when enforcement falls short. Fairness demands that we be just as clear when it delivers. **In the Trustname case, ICANN Contractual Compliance deserves credit for both the decision and the pace.**
 
 **Seventy-eight days from the first formal breach notice to the termination notice. Fifteen more days for the decision to take effect.** The [fourth breach notice](https://www.icann.org/uploads/compliance_notice/attachment/1365/hedlund-to-nestsiarovich-26aug26.pdf) was followed by the decision to terminate **the very next day**. That is a pace of formal enforcement worth acknowledging.
 
@@ -50,7 +52,6 @@ For the people documenting phishing, reporting it, and waiting for someone to ac
 
 That brings us to **[NiceNIC](https://github.com/phishdestroy/nicenic-evidence)**. Our [complaint and supporting evidence](https://github.com/phishdestroy/nicenic-evidence/tree/main/complaints/2026-08-05-nicenic-icann) are public. They deserve the same scrutiny, the same urgency, and the same willingness to impose consequences if repeated breaches are established. We will keep asking for that standard to be applied.
 
-> **NiceNIC, the precedent is now on the record.**
 
 <details>
 <summary><b>Read the official enforcement record</b> · Notices, grounds and dates</summary>
@@ -74,20 +75,32 @@ The notice also provides for transferring the registrar's domains to a qualified
 
 <sub>The June 2026 investigation below predates termination. Its live feed tracks the research dataset; it does not establish current accreditation or current registrar sponsorship for every tracked domain.</sub>
 
+</details>
+
+
 ---
 
 <!-- LIVE_STATS:START -->
 
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-26`
 
-<table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>20,038</code></sub></td>
-<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$167,945</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>51.8%</code></sub></td>
-<td align="center"><b>✅ IOC classified</b><br/><sub><code>4,276</code> (3,293 HIGH)</sub></td>
-<td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>0.0%</code></sub></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>1</code></sub></td>
-</tr></table>
+<table align="center">
+<tr>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>20,038</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$167,945</strong></td>
+</tr>
+<tr>
+<td align="center"><b>📡 Deployed</b><br/><strong>51.8%</strong></td>
+<td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
+</tr>
+<tr>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.0%</strong></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><strong>1</strong></td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Live analytics · TLDs, hosting, registrations and downloads</strong></summary>
 
 ### 🏷️ Top TLD Zones
 
@@ -154,9 +167,14 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 
 > 📊 Live web dashboard: see Pages link at top · Updated daily 02:00 UTC
 
+</details>
+
 <!-- LIVE_STATS:END -->
 
 ---
+
+<details>
+<summary><strong>Navigation · all investigation sections</strong></summary>
 
 ## 📑 Table of Contents
 
@@ -197,6 +215,11 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</details>
+
+<details>
+<summary><strong>Investigation · background, subject, scope and methodology</strong></summary>
 
 ## 1 · Background
 
@@ -264,7 +287,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 
 ## 4 · Methodology
 
-<details open>
+<details>
 <summary><b>🔍 Phase 1 — HTTP Fingerprint (AWS Lambda)</b></summary>
 
 | | |
@@ -320,6 +343,11 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</details>
+
+<details>
+<summary><strong>Evidence · findings, clusters, archives and confirmed cases</strong></summary>
 
 ## 📊 Headline Findings
 
@@ -453,6 +481,11 @@ Full per-domain narrative: [`case/HIGH_SEVERITY.md`](case/HIGH_SEVERITY.md)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>Enforcement, repository guide, mirrors and citation</strong></summary>
+
 ## ⚖ Enforcement Posture
 
 > This report is structured as an evidence package for **criminal and financial-intelligence agencies**, not as an ICANN compliance filing.
@@ -576,6 +609,11 @@ https://github.com/phishdestroy/trustname-evidence
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>Legal notice &amp; responsible disclosure</strong></summary>
+
 ## ⚖️ Legal Notice & Responsible Disclosure
 
 All data in this repository was collected exclusively from **publicly accessible sources**:
@@ -616,6 +654,10 @@ If Trustname disputes any finding: submit documented evidence via [phishdestroy.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>Related registrars &amp; operator record</strong></summary>
 
 ## 🕸️ Network of Complicit Registrars
 
@@ -721,6 +763,7 @@ Trustname operates **two registrar-owned privacy proxy services** to shield its 
 
 **Full Phase I investigation:** [phishdestroy.io/trustname-bulletproof-exposed](https://phishdestroy.io/trustname-bulletproof-exposed/)
 
+</details>
 
 ## 🔗 Related Investigations
 
