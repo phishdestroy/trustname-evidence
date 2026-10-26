@@ -185,28 +185,28 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 **Investigation**
 
 - [“Bulletproof” Has an Expiry Date — ICANN enforcement](#-enforcement-outcome--credit-to-icann)
-- [1 · Background](#1--background)
-- [2 · Subject](#2--subject)
-- [3 · Scope and Coverage](#3--scope-and-coverage)
-- [4 · Methodology](#4--methodology)
+- [1 · Background](#user-content-1--background)
+- [2 · Subject](#user-content-2--subject)
+- [3 · Scope and Coverage](#user-content-3--scope-and-coverage)
+- [4 · Methodology](#user-content-4--methodology)
 
 </td>
 <td valign="top">
 
 **Evidence**
-- [5 · Headline Findings](#-headline-findings)
-- [6 · Operator Clusters](#-operator-clusters)
-- [7 · Evidence Archive](#-evidence-archive)
-- [8 · Notable Confirmed Cases](#-notable-confirmed-cases)
+- [5 · Headline Findings](#user-content--headline-findings)
+- [6 · Operator Clusters](#user-content--operator-clusters)
+- [7 · Evidence Archive](#user-content--evidence-archive)
+- [8 · Notable Confirmed Cases](#user-content--notable-confirmed-cases)
 
 </td>
 <td valign="top">
 
 **Legal / Reuse**
-- [9 · Enforcement Posture](#-enforcement-posture)
-- [10 · Repository Structure](#-repository-structure)
-- [11 · Mirrors](#-mirrors-and-long-term-access)
-- [12 · Citation & License](#-citation)
+- [9 · Enforcement Posture](#user-content--enforcement-posture)
+- [10 · Repository Structure](#user-content--repository-structure)
+- [11 · Mirrors](#user-content--mirrors-and-long-term-access)
+- [12 · Citation & License](#user-content--citation)
 
 </td>
 </tr>
