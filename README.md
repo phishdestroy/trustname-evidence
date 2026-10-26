@@ -26,29 +26,36 @@
 
 ---
 
-## ✅ Enforcement Outcome — Credit to ICANN
+<a name="-enforcement-outcome--credit-to-icann"></a>
 
-*Status verified on 26 October 2026.*
+## ⚖️ “Bulletproof” Has an Expiry Date
 
-**ICANN terminated the accreditation agreement of Fewmoretaps OÜ d/b/a Trustname.com (IANA #4318), effective 11 September 2026.** The [termination notice, issued on 27 August 2026](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf), sets out the grounds and the enforcement history. The [official IANA registrar registry](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) now lists #4318 as **Terminated**.
+<sub>TRUSTNAME · IANA #4318 · ACCREDITATION TERMINATED · Verified 26 October 2026</sub>
 
-**PhishDestroy thanks ICANN Contractual Compliance for acting decisively and seeing this case through.** We have been outspoken when enforcement falls short. We should be equally clear when it delivers. ICANN documented repeated violations, tested the registrar's promises of reform against its conduct, and terminated the accreditation agreement when those failures continued. That is a result worth recognizing.
+Trustname described itself as a [“bulletproof domain registrar.”](https://phishdestroy.io/trustname-bulletproof-exposed/) On **11 September 2026**, its ICANN accreditation ended. The [official IANA record](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) now gives the outcome in a single word: **Terminated**.
 
-### ⚡ Decisive Action, Documented Pace
+We have been blunt with ICANN when enforcement falls short. Fairness demands that we be just as clear when it delivers. **In the Trustname case, ICANN Contractual Compliance deserves credit for both the decision and the pace.**
 
-> **78 days from the first formal breach notice to the termination notice. Accreditation ended 15 days later.**
+| **10 JUN 2026** | **27 AUG 2026** | **11 SEP 2026** |
+|:---:|:---:|:---:|
+| [First formal breach notice](https://www.icann.org/uploads/compliance_notice/attachment/1353/hedlund-to-nestsiarovich-10jun26.pdf) | [Termination notice](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) | **Accreditation ended** |
 
-The dates make the case. ICANN issued the [first Notice of Breach on 10 June 2026](https://www.icann.org/uploads/compliance_notice/attachment/1353/hedlund-to-nestsiarovich-10jun26.pdf). Following the [fourth notice on 26 August](https://www.icann.org/uploads/compliance_notice/attachment/1365/hedlund-to-nestsiarovich-26aug26.pdf), it issued the [Notice of Termination the very next day, 27 August](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf). Termination took effect on **11 September 2026**.
+**Seventy-eight days from the first formal breach notice to the termination notice. Fifteen more days for the decision to take effect.** The [fourth breach notice](https://www.icann.org/uploads/compliance_notice/attachment/1365/hedlund-to-nestsiarovich-26aug26.pdf) was followed by the decision to terminate **the very next day**. That is a pace of formal enforcement worth acknowledging.
 
-**ICANN deserves credit for the speed and resolve of that formal escalation.** It gave the registrar opportunities to remedy its failures, assessed the results, and imposed a meaningful consequence when compliance did not follow. These intervals measure the formal breach-to-termination stage; the termination notice also documents earlier compliance engagement.
+ICANN gave Trustname opportunities to put its abuse handling right. It examined the responses, documented recurring failures, and brought the accreditation agreement to an end. The [decision](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) makes the stakes plain: a registrar that repeatedly fails to investigate abuse reports and act against DNS abuse can lose its place in the accredited system.
 
-This is a consequential enforcement precedent for the domain industry. ICANN's notice records **four Notices of Breach over 78 days**, citing failures under **RAA §3.18.1** to investigate and respond appropriately to abuse reports and **§3.18.2** to take prompt, appropriate action against DNS abuse. Termination followed under **§§5.5.4 and 5.5.6**. The outcome gives those obligations practical force.
+For the people documenting phishing, reporting it, and waiting for someone to act, that consequence matters. It also gives responsible registrars a reason to believe that the obligations they meet will be enforced across the industry.
 
-For phishing responders, one finding deserves particular attention. The notice records Trustname's acknowledgement that it had improperly demanded proof that credentials had actually been collected or transmitted. The relevant assessment was whether the available evidence, taken together, reasonably supported a phishing determination. Recognizing that distinction matters to everyone working to stop credential theft before more people are harmed.
+**Thank you to the ICANN team that saw this through. The work deserves recognition, and the precedent deserves to be followed.**
 
-### 📋 The Official Record
+That brings us to **[NiceNIC](https://github.com/phishdestroy/nicenic-evidence)**. Our [complaint and supporting evidence](https://github.com/phishdestroy/nicenic-evidence/tree/main/complaints/2026-08-05-nicenic-icann) are public. They deserve the same scrutiny, the same urgency, and the same willingness to impose consequences if repeated breaches are established. We will keep asking for that standard to be applied.
 
-| Date | ICANN record |
+> **NiceNIC, the precedent is now on the record.**
+
+<details>
+<summary><b>Read the official enforcement record</b> · Notices, grounds and dates</summary>
+
+| Date | Primary source |
 |---|---|
 | 10 June 2026 | [First Notice of Breach](https://www.icann.org/uploads/compliance_notice/attachment/1353/hedlund-to-nestsiarovich-10jun26.pdf) |
 | 26 June 2026 | [Second Notice of Breach](https://www.icann.org/uploads/compliance_notice/attachment/1355/hedlund-to-nestsiarovich-26jun26.pdf) |
@@ -57,15 +64,15 @@ For phishing responders, one finding deserves particular attention. The notice r
 | 27 August 2026 | [Notice of Termination](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) |
 | 11 September 2026 | Effective date specified in the termination notice |
 
-The notice also provides for transitioning the registrar's domains to a qualified ICANN-accredited registrar to protect registrants. The [ICANN enforcement index](https://www.icann.org/compliance/notices) provides the public record of these actions.
+The termination notice records **four Notices of Breach over 78 days**, citing failures under **RAA §3.18.1** to investigate and respond appropriately to abuse reports and **§3.18.2** to take prompt, appropriate action against DNS abuse. Termination followed under **§§5.5.4 and 5.5.6**. The intervals highlighted above measure the formal breach-to-termination stage; the notice also documents earlier compliance engagement.
 
-**Firm action, a clear public record, and a timely conclusion to formal enforcement. This is how ICANN earns public confidence. Credit to the team that delivered it.**
+For phishing responders, the notice contains a particularly useful finding: Trustname acknowledged that it had improperly demanded proof that credentials had actually been collected or transmitted, instead of assessing whether the available evidence, taken together, reasonably supported a phishing determination.
 
-That standard should now guide scrutiny of **[NiceNIC (IANA #3765)](https://github.com/phishdestroy/nicenic-evidence)**. Our [published complaint and supporting evidence](https://github.com/phishdestroy/nicenic-evidence/tree/main/complaints/2026-08-05-nicenic-icann) deserve the same rigorous review, urgency, and determination to follow through. Where repeated contractual breaches are established, we expect consequences. **NiceNIC should take note.**
+The notice also provides for transferring the registrar's domains to a qualified ICANN-accredited registrar to protect registrants. All five notices are listed in the [ICANN enforcement index](https://www.icann.org/compliance/notices).
 
-> **Accreditation carries obligations. Repeated breaches must carry consequences.**
+</details>
 
-<sub>Historical scope: the investigation and June 2026 scan below document the period before termination. The live feed tracks the investigation's domain dataset; it does not establish current accreditation or current registrar sponsorship for every tracked domain.</sub>
+<sub>The June 2026 investigation below predates termination. Its live feed tracks the research dataset; it does not establish current accreditation or current registrar sponsorship for every tracked domain.</sub>
 
 ---
 
@@ -159,7 +166,7 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 
 **Investigation**
 
-- [Enforcement outcome — credit to ICANN](#-enforcement-outcome--credit-to-icann)
+- [“Bulletproof” Has an Expiry Date — ICANN enforcement](#-enforcement-outcome--credit-to-icann)
 - [1 · Background](#1--background)
 - [2 · Subject](#2--subject)
 - [3 · Scope and Coverage](#3--scope-and-coverage)
