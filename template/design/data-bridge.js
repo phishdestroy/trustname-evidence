@@ -6,7 +6,7 @@ window.pdScreenshotURL=function(value){return value&&value.indexOf('screenshots/
   var source = (window.PD_SOURCE_CONFIG && window.PD_SOURCE_CONFIG.raw_docs_base) || 'https://raw.githubusercontent.com/phishdestroy/trustname-evidence/main/docs/';
   var requests = new Map();
   var states = {};
-  var feeds = ['chart-data.json', 'feed-ioc.json'];
+  var feeds = ['chart-data.json', 'feed-ioc.json', 'current-data.json'];
   function notify(name, data, mode) {
     var state = {name:name, mode:mode, updated:data.last_updated || data.generated_at || data.generated || data.updated || '', checkedAt:new Date().toISOString()};
     states[name] = state;
@@ -24,6 +24,7 @@ window.pdScreenshotURL=function(value){return value&&value.indexOf('screenshots/
       data = await response.json();
       if (name === 'chart-data.json' && (!Array.isArray(data.days) || !data.last_updated)) throw new Error('Invalid analytics schema');
       if (name === 'feed-ioc.json' && !Array.isArray(data.domains)) throw new Error('Invalid IOC schema');
+      if (name === 'current-data.json' && (!data.last_updated || !['domains_tracked','ioc_classified','ioc_high','estimated_annual_value','dataset_records'].every(function(key){return Number.isFinite(data[key]) && data[key]>=0;}))) throw new Error('Invalid current metrics schema');
     } catch (error) {
       mode = 'snapshot';
       response = await nativeFetch(new URL(name, document.baseURI).href, {cache:'no-cache'});

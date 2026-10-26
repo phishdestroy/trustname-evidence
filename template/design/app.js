@@ -88,6 +88,20 @@
   window.addEventListener('pd:source',function(e){sourceState(e.detail);});
   if(window.pdFeedStates&&window.pdFeedStates['chart-data.json'])sourceState(window.pdFeedStates['chart-data.json']);
   else fetch('chart-data.json').then(function(r){return r.json();}).catch(function(){$('#pd-status-text').textContent='Source unavailable';$('#pd-status').dataset.state='fallback';});
+  if($('#pd-current-title')){
+    fetch('current-data.json').then(function(r){return r.json();}).then(function(data){
+      var keys=['domains_tracked','ioc_classified','ioc_high','estimated_annual_value','dataset_records'];
+      if(!keys.every(function(key){return Number.isFinite(data[key])&&data[key]>=0;}))throw new Error('Invalid current metrics');
+      $$('[data-current-metric]').forEach(function(el){
+        var key=el.dataset.currentMetric;
+        el.textContent=(key==='estimated_annual_value'?'$':'')+Math.round(data[key]).toLocaleString('en-US');
+      });
+      var updated=new Date(data.last_updated+'T00:00:00Z');
+      var state=window.pdFeedStates&&window.pdFeedStates['current-data.json'];
+      $('#pd-current-date').textContent=(state&&state.mode==='source'?'Updated ':'Saved snapshot · ')+updated.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'});
+      $$('a[href$="/data/enriched.csv"]').forEach(function(a){a.textContent='enriched.csv ('+data.dataset_records.toLocaleString('en-US')+' records)';});
+    }).catch(function(){ $('#pd-current-date').textContent=$('#pd-current-date').textContent.replace(/^Updated /,'Saved snapshot · '); });
+  }
   if(window.pdRefreshInlineDataset)window.pdRefreshInlineDataset();
   document.addEventListener('visibilitychange',function(){if(!document.hidden&&window.pdCheckForUpdates)window.pdCheckForUpdates();});
   var backtop=$('#pd-backtop');window.addEventListener('scroll',function(){backtop.hidden=window.scrollY<500;},{passive:true});backtop.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'});});

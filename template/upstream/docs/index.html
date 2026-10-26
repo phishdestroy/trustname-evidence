@@ -499,7 +499,7 @@ footer a{color:var(--cy)}
   <div class="mirc"><div class="ml">Related</div><a href="https://github.com/phishdestroy/namesilo-evidence">namesilo-evidence (5.2M)</a></div>
   <div class="mirc"><div class="ml">HIGH Blocklist</div><a href="https://phishdestroy.github.io/trustname-evidence/ioc/domains_high.txt">domains_high.txt (3,293)</a></div>
   <div class="mirc"><div class="ml">SIEM Indicators</div><a href="https://phishdestroy.github.io/trustname-evidence/ioc/indicators.csv">indicators.csv</a></div>
-  <div class="mirc"><div class="ml">Full Dataset</div><a href="../data/enriched.csv">enriched.csv (9,544)</a></div>
+  <div class="mirc"><div class="ml">Full Dataset</div><a href="../data/enriched.csv">enriched.csv (19,063 records)</a></div>
   <div class="mirc"><div class="ml">Raw Data</div><a href="../pkg/raw_data/enriched.csv.gz">enriched.csv.gz</a></div>
 </div>
 
@@ -1271,11 +1271,11 @@ function renderChart(view){
     if(revEl){
       var totalRev=Math.round(data.total_revenue_estimate||0);
       var avgLife=data.avg_registration_days||365;
-      var totalDom=data.total_new_all_time||0;
+      var totalDom=data.total_domains||0;
       [
-        ['$'+totalRev.toLocaleString(),'Est. Total Revenue'],
+        ['$'+totalRev.toLocaleString(),'Est. annual value'],
         [avgLife+'d','Avg. Reg. Period'],
-        [totalDom.toLocaleString(),'Total Domains']
+        [totalDom.toLocaleString(),'Domains tracked']
       ].forEach(function(pair){
         var card=el('div',{style:'border:1px solid var(--bdr);border-radius:6px;padding:14px 18px;min-width:140px'});
         var vd=el('div',{style:'font-size:1.5rem;font-weight:800;color:var(--cy);line-height:1'},pair[0]);
@@ -1869,12 +1869,10 @@ function renderChart(view){
       return w;
     }
     var tot=(d.total_new_all_time||0).toLocaleString();
-    var rev='$'+Math.round(d.total_revenue_estimate||0).toLocaleString();
     var dep=(d.deployment_rate||0)+'%';
     var ser=(d.serial_email_count||0).toLocaleString();
     var upd=d.last_updated||'—';
-    el.appendChild(stat(tot,'Total registered (live)',  'cy', true));
-    el.appendChild(stat(rev,'Est. registrar revenue',  'gn', true));
+    el.appendChild(stat(tot,'Cumulative domains observed','cy', false));
     el.appendChild(stat(dep,'Deployment rate',          'or', false));
     el.appendChild(stat(ser,'Serial registrants',       'rd', false));
     var sep=document.createElement('div');sep.setAttribute('style','width:1px;background:rgba(255,255,255,.06);align-self:stretch;margin:0 4px');el.appendChild(sep);
