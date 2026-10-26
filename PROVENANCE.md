@@ -74,7 +74,7 @@ All artefacts are content-addressed by SHA-256 to support chain-of-custody verif
 | `ioc/domains_all_malicious.txt` | 74.9 KiB | `9b164c16d7cba3cc` | HIGH + MEDIUM blocklist — 4,276 domains |
 | `ioc/indicators.csv` | 1.13 MiB | `28e7becca58a117e` | SIEM-ready indicators: domain, ip, server_fp, favicon_mmh3, category, severity, brand, threat_sources |
 | `evidence/HASHES.txt` | 167.5 KiB | `131ff258bd0c058c` | SHA-256 manifest of all 1,953 screenshots |
-| `docs/data.json` | 9.33 MiB | `6aa1d42a17839402` | Current per-domain export — 19,063 records; June 2026 explorer snapshot is separate |
+| `docs/data.json` | 9.33 MiB | `15c5a6056a57e9e8` | Current per-domain export — 19,063 records; June 2026 explorer snapshot is separate |
 | `pkg/raw_data/enriched.csv.gz` | 778.8 KiB | `f25a64bf35fcb018` | Compressed enriched dataset for download |
 | `pkg/raw_data/lambda_results.jsonl.gz` | 509.3 KiB | `c0add17921efada8` | Phase 1 raw HTTP fingerprint output (JSONL) |
 | `pkg/raw_data/deep_results.jsonl.gz` | 1.07 MiB | `60b943f03e7ac926` | Phase 2/3 raw browser render output (JSONL) |
