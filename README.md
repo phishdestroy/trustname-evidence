@@ -32,7 +32,15 @@
 
 **ICANN terminated the accreditation agreement of Fewmoretaps OÜ d/b/a Trustname.com (IANA #4318), effective 11 September 2026.** The [termination notice, issued on 27 August 2026](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf), sets out the grounds and the enforcement history. The [official IANA registrar registry](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) now lists #4318 as **Terminated**.
 
-**PhishDestroy welcomes this decision and thanks ICANN Contractual Compliance for seeing it through.** We have been uncompromising in our criticism of failures in registrar abuse handling and enforcement. We owe the same clarity to recognizing a result. ICANN documented the violations, examined the registrar's attempts at remediation, and withdrew accreditation when repeated failures continued. That work deserves public credit.
+**PhishDestroy thanks ICANN Contractual Compliance for acting decisively and seeing this case through.** We have been outspoken when enforcement falls short. We should be equally clear when it delivers. ICANN documented repeated violations, tested the registrar's promises of reform against its conduct, and terminated the accreditation agreement when those failures continued. That is a result worth recognizing.
+
+### ⚡ Decisive Action, Documented Pace
+
+> **78 days from the first formal breach notice to the termination notice. Accreditation ended 15 days later.**
+
+The dates make the case. ICANN issued the [first Notice of Breach on 10 June 2026](https://www.icann.org/uploads/compliance_notice/attachment/1353/hedlund-to-nestsiarovich-10jun26.pdf). Following the [fourth notice on 26 August](https://www.icann.org/uploads/compliance_notice/attachment/1365/hedlund-to-nestsiarovich-26aug26.pdf), it issued the [Notice of Termination the very next day, 27 August](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf). Termination took effect on **11 September 2026**.
+
+**ICANN deserves credit for the speed and resolve of that formal escalation.** It gave the registrar opportunities to remedy its failures, assessed the results, and imposed a meaningful consequence when compliance did not follow. These intervals measure the formal breach-to-termination stage; the termination notice also documents earlier compliance engagement.
 
 This is a consequential enforcement precedent for the domain industry. ICANN's notice records **four Notices of Breach over 78 days**, citing failures under **RAA §3.18.1** to investigate and respond appropriately to abuse reports and **§3.18.2** to take prompt, appropriate action against DNS abuse. Termination followed under **§§5.5.4 and 5.5.6**. The outcome gives those obligations practical force.
 
@@ -51,9 +59,9 @@ For phishing responders, one finding deserves particular attention. The notice r
 
 The notice also provides for transitioning the registrar's domains to a qualified ICANN-accredited registrar to protect registrants. The [ICANN enforcement index](https://www.icann.org/compliance/notices) provides the public record of these actions.
 
-**This is the kind of enforcement that earns public confidence. Thank you to the ICANN team for bringing this case to a concrete outcome.**
+**Firm action, a clear public record, and a timely conclusion to formal enforcement. This is how ICANN earns public confidence. Credit to the team that delivered it.**
 
-That standard should now guide scrutiny of **[NiceNIC (IANA #3765)](https://github.com/phishdestroy/nicenic-evidence)**. Our [published complaint and supporting evidence](https://github.com/phishdestroy/nicenic-evidence/tree/main/complaints/2026-08-05-nicenic-icann) deserve the same rigorous review and determination to follow through. Where repeated contractual breaches are established, we expect consequences. **NiceNIC should take note.**
+That standard should now guide scrutiny of **[NiceNIC (IANA #3765)](https://github.com/phishdestroy/nicenic-evidence)**. Our [published complaint and supporting evidence](https://github.com/phishdestroy/nicenic-evidence/tree/main/complaints/2026-08-05-nicenic-icann) deserve the same rigorous review, urgency, and determination to follow through. Where repeated contractual breaches are established, we expect consequences. **NiceNIC should take note.**
 
 > **Accreditation carries obligations. Repeated breaches must carry consequences.**
 
