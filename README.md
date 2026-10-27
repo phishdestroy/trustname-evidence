@@ -11,18 +11,25 @@
 
 <br/>
 
-[![IANA #4318](https://img.shields.io/badge/IANA-%234318-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml) [![Accreditation terminated](https://img.shields.io/badge/Accreditation-TERMINATED-da3633?style=for-the-badge&labelColor=0c1018)](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) [![TLP CLEAR](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.first.org/tlp/) [![MIT](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
+<p align="center">
+<a href="https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml"><img src="https://img.shields.io/badge/IANA-%234318-6ea8d7?style=for-the-badge&amp;labelColor=0c1018&amp;logo=internetcomputer&amp;logoColor=white" alt="IANA #4318" /></a>
+<a href="https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf"><img src="https://img.shields.io/badge/Accreditation-TERMINATED-da3633?style=for-the-badge&amp;labelColor=0c1018" alt="Accreditation terminated" /></a>
+<a href="https://www.first.org/tlp/"><img src="https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&amp;labelColor=0c1018" alt="TLP CLEAR" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&amp;labelColor=0c1018" alt="MIT" /></a>
+</p>
 
 <br/>
 
-[![Live Report](https://img.shields.io/badge/▶_LIVE_REPORT-phishdestroy.github.io%2Ftrustname--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/trustname-evidence) [![Phase I Article](https://img.shields.io/badge/📰_PHASE_I-Bulletproof_Exposed-6ea8d7?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.io/trustname-bulletproof-exposed/)
+<p align="center">
+<a href="https://phishdestroy.github.io/trustname-evidence"><img src="https://img.shields.io/badge/▶_LIVE_REPORT-phishdestroy.github.io%2Ftrustname--evidence-3fb950?style=for-the-badge&amp;labelColor=0c1018" alt="Live Report" /></a>
+<a href="https://phishdestroy.io/trustname-bulletproof-exposed/"><img src="https://img.shields.io/badge/📰_PHASE_I-Bulletproof_Exposed-6ea8d7?style=for-the-badge&amp;labelColor=0c1018" alt="Phase I Article" /></a>
+</p>
 
 <br/>
 
 </div>
 
----
-
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <a name="-enforcement-outcome--credit-to-icann"></a>
 
 ## ⚖️ “Bulletproof” Has an Expiry Date
@@ -38,7 +45,7 @@ Trustname described itself as a [“bulletproof domain registrar.”](https://ph
 > **NiceNIC, the precedent is now on the record.**
 
 <details>
-<summary><strong>ICANN enforcement · full statement and official sources</strong></summary>
+<summary><img src="assets/readme-polish/section-01.svg" width="26" height="24" alt="" />&nbsp; <strong>ICANN enforcement · full statement and official sources</strong></summary>
 
 We have been blunt with ICANN when enforcement falls short. Fairness demands that we be just as clear when it delivers. **In the Trustname case, ICANN Contractual Compliance deserves credit for both the decision and the pace.**
 
@@ -78,8 +85,7 @@ The notice also provides for transferring the registrar's domains to a qualified
 </details>
 
 
----
-
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-26`
@@ -171,16 +177,17 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 
 <!-- LIVE_STATS:END -->
 
----
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
+<p align="center"><sub><b>TRUSTNAME / INVESTIGATION INDEX</b></sub></p>
+
+<p align="center">
+<a href="#user-content-1--background"><img src="assets/readme-polish/investigation.svg" width="248" height="56" alt="READ INVESTIGATION: Background &amp; evidence" /></a>
+<a href="#user-content--headline-findings"><img src="assets/readme-polish/findings.svg" width="248" height="56" alt="KEY FINDINGS: Results &amp; source material" /></a>
+<a href="https://phishdestroy.github.io/trustname-evidence/#analytics"><img src="assets/readme-polish/analytics.svg" width="248" height="56" alt="LIVE ANALYTICS: Explore the dataset" /></a>
+</p>
 
 <details>
-<summary><strong>Navigation · all investigation sections</strong></summary>
-
-## 📑 Table of Contents
-
-<table>
-<tr>
-<td valign="top">
+<summary><strong>Full table of contents</strong> · 13 sections</summary>
 
 **Investigation**
 
@@ -190,8 +197,8 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 - [3 · Scope and Coverage](#user-content-3--scope-and-coverage)
 - [4 · Methodology](#user-content-4--methodology)
 
-</td>
-<td valign="top">
+
+
 
 **Evidence**
 - [5 · Headline Findings](#user-content--headline-findings)
@@ -199,8 +206,8 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 - [7 · Evidence Archive](#user-content--evidence-archive)
 - [8 · Notable Confirmed Cases](#user-content--notable-confirmed-cases)
 
-</td>
-<td valign="top">
+
+
 
 **Legal / Reuse**
 - [9 · Enforcement Posture](#user-content--enforcement-posture)
@@ -208,18 +215,14 @@ GB  █░░░░░░░░░░░░░░░░░         50 (2.5%)
 - [11 · Mirrors](#user-content--mirrors-and-long-term-access)
 - [12 · Citation & License](#user-content--citation)
 
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 </details>
 
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
+
+
+
 <details>
-<summary><strong>Investigation · background, subject, scope and methodology</strong></summary>
+<summary><img src="assets/readme-polish/section-02.svg" width="26" height="24" alt="" />&nbsp; <strong>Investigation · background, subject, scope and methodology</strong></summary>
 
 ## 1 · Background
 
@@ -347,7 +350,7 @@ This repository is the **Phase II evidence package** of the PhishDestroy investi
 </details>
 
 <details>
-<summary><strong>Evidence · findings, clusters, archives and confirmed cases</strong></summary>
+<summary><img src="assets/readme-polish/section-03.svg" width="26" height="24" alt="" />&nbsp; <strong>Evidence · findings, clusters, archives and confirmed cases</strong></summary>
 
 ## 📊 Headline Findings
 
@@ -483,8 +486,10 @@ Full per-domain narrative: [`case/HIGH_SEVERITY.md`](case/HIGH_SEVERITY.md)
 
 </details>
 
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
+
 <details>
-<summary><strong>Enforcement, repository guide, mirrors and citation</strong></summary>
+<summary><img src="assets/readme-polish/section-04.svg" width="26" height="24" alt="" />&nbsp; <strong>Enforcement, repository guide, mirrors and citation</strong></summary>
 
 ## ⚖ Enforcement Posture
 
@@ -553,9 +558,11 @@ trustname-evidence/
 
 ## 🌐 PhishDestroy
 
-[![PhishDestroy.io](https://img.shields.io/badge/Main_Site-phishdestroy.io-da3633?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0c1018)](https://phishdestroy.io/)
-[![Phase I Article](https://img.shields.io/badge/📰_Phase_I-Bulletproof_Exposed-6ea8d7?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.io/trustname-bulletproof-exposed/)
-[![Live Report](https://img.shields.io/badge/▶_Live_Report-GitHub_Pages-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/trustname-evidence/)
+<p align="center">
+<a href="https://phishdestroy.io/"><img src="https://img.shields.io/badge/Main_Site-phishdestroy.io-da3633?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white&amp;labelColor=0c1018" alt="PhishDestroy.io" /></a>
+<a href="https://phishdestroy.io/trustname-bulletproof-exposed/"><img src="https://img.shields.io/badge/📰_Phase_I-Bulletproof_Exposed-6ea8d7?style=for-the-badge&amp;labelColor=0c1018" alt="Phase I Article" /></a>
+<a href="https://phishdestroy.github.io/trustname-evidence/"><img src="https://img.shields.io/badge/▶_Live_Report-GitHub_Pages-3fb950?style=for-the-badge&amp;labelColor=0c1018" alt="Live Report" /></a>
+</p>
 
 **PhishDestroy** is an independent anti-phishing and anti-fraud research project. Our work includes:
 
@@ -612,7 +619,7 @@ https://github.com/phishdestroy/trustname-evidence
 </details>
 
 <details>
-<summary><strong>Legal notice &amp; responsible disclosure</strong></summary>
+<summary><img src="assets/readme-polish/section-05.svg" width="26" height="24" alt="" />&nbsp; <strong>Legal notice &amp; responsible disclosure</strong></summary>
 
 ## ⚖️ Legal Notice & Responsible Disclosure
 
@@ -657,7 +664,7 @@ If Trustname disputes any finding: submit documented evidence via [phishdestroy.
 </details>
 
 <details>
-<summary><strong>Related registrars &amp; operator record</strong></summary>
+<summary><img src="assets/readme-polish/section-06.svg" width="26" height="24" alt="" />&nbsp; <strong>Related registrars &amp; operator record</strong></summary>
 
 ## 🕸️ Network of Complicit Registrars
 
@@ -769,8 +776,7 @@ Trustname operates **two registrar-owned privacy proxy services** to shield its 
 
 [![NameSilo Investigation](https://img.shields.io/badge/Related-namesilo--evidence_(5.2M_domains)-6ea8d7?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1018)](https://github.com/phishdestroy/namesilo-evidence)
 
----
-
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
