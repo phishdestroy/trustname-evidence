@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-10-29",
   "count": 3,
   "registrants": [
     {
@@ -50,14 +50,15 @@
     },
     {
       "email": "support@bro-cas.net",
-      "count": 6,
+      "count": 7,
       "domains": [
         "brcsn.com",
         "brcsn300.com",
         "brcsn300.net",
         "bro-cas.com",
         "bro-cas.net",
-        "bro100500.com"
+        "bro100500.com",
+        "brocsn.com"
       ]
     },
     {
