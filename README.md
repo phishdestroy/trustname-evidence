@@ -88,17 +88,17 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-30`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-01`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>19,639</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$163,847</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>19,217</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$159,849</strong></td>
 </tr><tr>
-<td align="center"><b>📡 Deployed</b><br/><strong>51.7%</strong></td>
+<td align="center"><b>📡 Deployed</b><br/><strong>52.0%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
 </tr><tr>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.0%</strong></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><strong>1</strong></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><strong>0</strong></td>
 </tr></table>
 
 <details>
@@ -108,12 +108,12 @@ The notice also provides for transferring the registrar's domains to a qualified
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 13,952 | 398d | $125,428 |
-| `.net` | 1,039 | 431d | $10,380 |
-| `.icu` | 965 | 365d | $955 |
-| `.org` | 878 | 413d | $8,771 |
-| `.latino` | 429 | 365d | $2,141 |
-| `.pro` | 265 | 378d | $2,117 |
+| `.com` | 13,528 | 399d | $121,617 |
+| `.net` | 1,018 | 430d | $10,170 |
+| `.icu` | 966 | 365d | $956 |
+| `.org` | 860 | 413d | $8,591 |
+| `.latino` | 473 | 365d | $2,360 |
+| `.pro` | 264 | 376d | $2,109 |
 | `.live` | 226 | 384d | $2,258 |
 | `.cyou` | 193 | 365d | $191 |
 | `.cam` | 176 | 365d | $878 |
@@ -122,35 +122,35 @@ The notice also provides for transferring the registrar's domains to a qualified
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        863 (44.6%)
-DE  ████░░░░░░░░░░░░░░        210 (10.9%)
-AE  ██░░░░░░░░░░░░░░░░        140 (7.2%)
-NL  ██░░░░░░░░░░░░░░░░        138 (7.1%)
-RU  ██░░░░░░░░░░░░░░░░        114 (5.9%)
-FR  ██░░░░░░░░░░░░░░░░         98 (5.1%)
-MD  █░░░░░░░░░░░░░░░░░         70 (3.6%)
-GB  ░░░░░░░░░░░░░░░░░░         41 (2.1%)
+US  ██████████████████        911 (46.8%)
+DE  ████░░░░░░░░░░░░░░        207 (10.6%)
+AE  ██░░░░░░░░░░░░░░░░        138 (7.1%)
+NL  ██░░░░░░░░░░░░░░░░        132 (6.8%)
+FR  █░░░░░░░░░░░░░░░░░         95 (4.9%)
+RU  █░░░░░░░░░░░░░░░░░         94 (4.8%)
+MD  █░░░░░░░░░░░░░░░░░         74 (3.8%)
+GB  ░░░░░░░░░░░░░░░░░░         39 (2.0%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-12` | 378 | **10.3×** 🚨 |
-| `2026-07-13` | 293 | **8.0×** 🚨 |
+| `2026-06-12` | 422 | **11.6×** 🚨 |
+| `2026-07-13` | 293 | **8.1×** 🚨 |
 | `2026-06-15` | 227 | **6.2×** 🚨 |
-| `2026-06-25` | 217 | **5.9×** 🚨 |
-| `2026-07-22` | 217 | **5.9×** 🚨 |
+| `2026-06-25` | 217 | **6.0×** 🚨 |
+| `2026-07-22` | 217 | **6.0×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (106)` &middot; `swap (73)` &middot; `login (70)` &middot; `secure (63)` &middot; `wallet (60)` &middot; `support (49)` &middot; `crypto (45)` &middot; `binance (42)` &middot; `account (41)` &middot; `connect (41)` &middot; `verify (40)` &middot; `official (39)` &middot; `ledger (36)` &middot; `bridge (33)` &middot; `vault (32)`
+`trust (103)` &middot; `swap (73)` &middot; `login (64)` &middot; `secure (63)` &middot; `wallet (60)` &middot; `support (48)` &middot; `crypto (45)` &middot; `account (41)` &middot; `connect (41)` &middot; `binance (41)` &middot; `verify (39)` &middot; `ledger (37)` &middot; `official (34)` &middot; `bridge (33)` &middot; `vault (32)`
 
 ### 🕵️ Top Serial Registrants — 3 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `wha***@gmail.com` | **40** |
+| 1 | `wha***@gmail.com` | **7** |
 | 2 | `sup***@bro-cas.net` | **6** |
 | 3 | `sup***@mypromise.com` | **6** |
 
