@@ -1,20 +1,7 @@
 {
-  "generated": "2026-11-01",
-  "count": 3,
+  "generated": "2026-11-02",
+  "count": 1,
   "registrants": [
-    {
-      "email": "whatda112233@gmail.com",
-      "count": 7,
-      "domains": [
-        "epiclasix100.com",
-        "epiclexiprolab.com",
-        "framelasix500.com",
-        "instantlasix300.com",
-        "logiclexipro2u.com",
-        "stakecapex01.com",
-        "visioncapex100.com"
-      ]
-    },
     {
       "email": "support@bro-cas.net",
       "count": 6,
@@ -25,18 +12,6 @@
         "bro-cas.net",
         "bro100500.com",
         "brocsn.com"
-      ]
-    },
-    {
-      "email": "support@mypromise.com",
-      "count": 6,
-      "domains": [
-        "mypromisepeptides.com",
-        "promiseclinical.com",
-        "promisehealthrx.com",
-        "promisepeptide.com",
-        "promisetelemed.com",
-        "startpromise.com"
       ]
     }
   ]
