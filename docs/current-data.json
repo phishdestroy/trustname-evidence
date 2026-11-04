@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-02",
-  "domains_tracked": 18844,
+  "last_updated": "2026-11-04",
+  "domains_tracked": 17804,
   "ioc_classified": 4276,
   "ioc_high": 3293,
-  "estimated_annual_value": 156334.88,
-  "cumulative_domains_observed": 21326,
+  "estimated_annual_value": 146592.78,
+  "cumulative_domains_observed": 21401,
   "dataset_records": 19063,
   "scan_snapshot_records": 7641
 }
