@@ -336,16 +336,6 @@
       "shorts-farm-killer.com",
       "streetfarma.com"
     ],
-    "vault": [
-      "holigan-vault.cyou",
-      "jerseyvaultshop.com",
-      "kavault.xyz",
-      "nulledvault.com",
-      "regalvault.net",
-      "scriptsvaults.com",
-      "vault-spend.com",
-      "vaultlens.wiki"
-    ],
     "binance": [
       "binance-card.com",
       "binance-il.com",
@@ -355,6 +345,16 @@
       "binancesupportwalllet.info",
       "customerbinance.com",
       "in-binance.com"
+    ],
+    "vault": [
+      "holigan-vault.cyou",
+      "jerseyvaultshop.com",
+      "kavault.xyz",
+      "nulledvault.com",
+      "regalvault.net",
+      "scriptsvaults.com",
+      "vault-spend.com",
+      "vaultlens.wiki"
     ],
     "kraken": [
       "kraken-link-onion.org",
@@ -381,12 +381,12 @@
       "ledgerfirmware.app",
       "ledgerlive.icu"
     ],
-    "defi": [
-      "carbon-defi.com",
-      "defi.latino",
-      "defiswap-dex.com",
-      "finasteridefinpecia.com",
-      "tron-defi.com"
+    "token": [
+      "token.latino",
+      "tokenlon-protocol.com",
+      "tokenpilotde.com",
+      "tokensex.online",
+      "tokentax.info"
     ]
   }
 }

@@ -4071,7 +4071,7 @@
   ],
   "total_new_all_time": 21983,
   "total_domains": 8523,
-  "new_since_last_fetch": 467,
+  "new_since_last_fetch": 0,
   "total_revenue_estimate": 60534.06,
   "avg_registration_days": 405,
   "ip_countries": {
@@ -4433,12 +4433,12 @@
     "bridge": 14,
     "update": 9,
     "farm": 9,
-    "vault": 8,
     "binance": 8,
+    "vault": 8,
     "kraken": 7,
     "official": 6,
     "ledger": 6,
-    "defi": 5
+    "token": 5
   },
   "unranked_pct": 99.5,
   "ranked_count": 44,
