@@ -88,7 +88,7 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-11`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-12`
 
 <table align="center"><tr>
 <td align="center"><b>📦 Domains tracked</b><br/><strong>8,523</strong></td>
@@ -144,7 +144,7 @@ CZ  ░░░░░░░░░░░░░░░░░░         18 (1.4%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (47)` &middot; `wallet (31)` &middot; `secure (30)` &middot; `swap (27)` &middot; `account (25)` &middot; `support (23)` &middot; `crypto (22)` &middot; `verify (21)` &middot; `login (19)` &middot; `connect (15)` &middot; `bitcoin (15)` &middot; `bridge (14)` &middot; `update (9)` &middot; `farm (9)` &middot; `binance (8)`
+`trust (47)` &middot; `wallet (31)` &middot; `secure (30)` &middot; `swap (27)` &middot; `account (25)` &middot; `support (23)` &middot; `crypto (22)` &middot; `verify (21)` &middot; `login (19)` &middot; `connect (15)` &middot; `bitcoin (15)` &middot; `bridge (14)` &middot; `update (9)` &middot; `farm (9)` &middot; `vault (8)`
 
 ### 📥 Download Threat Intelligence
 

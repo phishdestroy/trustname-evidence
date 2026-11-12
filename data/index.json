@@ -4329,7 +4329,7 @@
     "within_month": 0,
     "older": 8523
   },
-  "avg_catch_age_days": 141,
+  "avg_catch_age_days": 142,
   "fresh_pct": 0.0,
   "burst_days": [
     {
@@ -4433,17 +4433,17 @@
     "bridge": 14,
     "update": 9,
     "farm": 9,
-    "binance": 8,
     "vault": 8,
+    "binance": 8,
     "kraken": 7,
-    "official": 6,
     "ledger": 6,
+    "official": 6,
     "token": 5
   },
   "unranked_pct": 99.5,
   "ranked_count": 44,
   "correlation_count": 848,
   "correlation_pct": 9.9,
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "latest_reg": "2026-10-05"
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11",
+  "generated": "2026-11-12",
   "keywords": {
     "trust": [
       "adobe-trust.com",
@@ -336,16 +336,6 @@
       "shorts-farm-killer.com",
       "streetfarma.com"
     ],
-    "binance": [
-      "binance-card.com",
-      "binance-il.com",
-      "binance-pay.live",
-      "binancebounty.com",
-      "binanceinfo.site",
-      "binancesupportwalllet.info",
-      "customerbinance.com",
-      "in-binance.com"
-    ],
     "vault": [
       "holigan-vault.cyou",
       "jerseyvaultshop.com",
@@ -356,6 +346,16 @@
       "vault-spend.com",
       "vaultlens.wiki"
     ],
+    "binance": [
+      "binance-card.com",
+      "binance-il.com",
+      "binance-pay.live",
+      "binancebounty.com",
+      "binanceinfo.site",
+      "binancesupportwalllet.info",
+      "customerbinance.com",
+      "in-binance.com"
+    ],
     "kraken": [
       "kraken-link-onion.org",
       "kraken-link-tor.org",
@@ -365,14 +365,6 @@
       "krakenplay.com",
       "krakensite.net"
     ],
-    "official": [
-      "cricfy-official.app",
-      "jojobet-official.ink",
-      "mariofficial-ua.com",
-      "nakitbahis-official.live",
-      "officialarbitrax.com",
-      "raydos-official.com"
-    ],
     "ledger": [
       "beast-ledger.online",
       "ledger-live.help",
@@ -380,6 +372,14 @@
       "ledger-tw.com",
       "ledgerfirmware.app",
       "ledgerlive.icu"
+    ],
+    "official": [
+      "cricfy-official.app",
+      "jojobet-official.ink",
+      "mariofficial-ua.com",
+      "nakitbahis-official.live",
+      "officialarbitrax.com",
+      "raydos-official.com"
     ],
     "token": [
       "token.latino",
