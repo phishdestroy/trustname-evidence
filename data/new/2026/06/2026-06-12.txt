@@ -421,6 +421,7 @@ porro.latino
 portoalegre.latino
 powedex.com
 praia.latino
+premium-acc.store
 price.latino
 pride.latino
 primevideo.latino

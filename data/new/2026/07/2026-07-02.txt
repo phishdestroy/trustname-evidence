@@ -1,4 +1,5 @@
 2026giris.site
+adresler.site
 amlbinances.org
 amlshard.org
 amlview.org
@@ -9,13 +10,19 @@ autop-cp.com
 avrupabet-girisadresi.icu
 bahisteyim127.com
 bahisteyim128.com
+bet-2026.site
 bet-adres.site
+bet-fast.site
 bet-gir.site
 bet-girisi.site
+bet-guncel.site
+bet-gunceli.site
 bet-hizli.site
 bet-popular.site
 bet-safari.site
 bet-spor.site
+bet-tr.site
+bet-web.site
 bet-yeni.site
 bet2026.site
 betbeyi890.com
@@ -87,6 +94,7 @@ fishin-frenzy-play.com
 fishin-frenzy-play.net
 fishin-frenzy-play.org
 fishin-frenzy-slot.org
+fortedasorte.site
 ggfade.com
 girisim-guncel.com
 girisimiz-guncel.com
