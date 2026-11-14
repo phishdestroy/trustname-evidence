@@ -4072,6 +4072,43 @@
   "total_new_all_time": 22065,
   "total_domains": 7404,
   "new_since_last_fetch": 82,
+  "fetch_log": [
+    {
+      "date": "2026-11-01",
+      "count": 50,
+      "path": "data/fetched/2026-11-01.txt"
+    },
+    {
+      "date": "2026-11-02",
+      "count": 42,
+      "path": "data/fetched/2026-11-02.txt"
+    },
+    {
+      "date": "2026-11-04",
+      "count": 75,
+      "path": "data/fetched/2026-11-04.txt"
+    },
+    {
+      "date": "2026-11-05",
+      "count": 32,
+      "path": "data/fetched/2026-11-05.txt"
+    },
+    {
+      "date": "2026-11-07",
+      "count": 83,
+      "path": "data/fetched/2026-11-07.txt"
+    },
+    {
+      "date": "2026-11-11",
+      "count": 467,
+      "path": "data/fetched/2026-11-11.txt"
+    },
+    {
+      "date": "2026-11-13",
+      "count": 82,
+      "path": "data/fetched/2026-11-13.txt"
+    }
+  ],
   "total_revenue_estimate": 49958.25,
   "avg_registration_days": 405,
   "ip_countries": {
