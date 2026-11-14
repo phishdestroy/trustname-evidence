@@ -245,7 +245,7 @@ token	token.latino
 token	tokenpilotde.com
 token	tokensex.online
 token	tokentax.info
-defi	carbon-defi.com
-defi	defi.latino
-defi	finasteridefinpecia.com
-defi	tron-defi.com
+mint	mintanchor.biz
+mint	minter.latino
+mint	spend-mint.com
+mint	trust-mint.com

@@ -4071,7 +4071,7 @@
   ],
   "total_new_all_time": 22122,
   "total_domains": 6499,
-  "new_since_last_fetch": 57,
+  "new_since_last_fetch": 0,
   "fetch_log": [
     {
       "date": "2026-11-01",
@@ -4480,11 +4480,11 @@
     "ledger": 6,
     "farm": 6,
     "token": 4,
-    "defi": 4
+    "mint": 4
   },
   "unranked_pct": 99.4,
   "ranked_count": 39,
-  "correlation_count": 572,
+  "correlation_count": 573,
   "correlation_pct": 8.8,
   "last_updated": "2026-11-14",
   "latest_reg": "2026-10-05"
