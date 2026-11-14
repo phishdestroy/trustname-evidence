@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "keywords": {
     "trust": [
       "ctbtrust.com",
@@ -8,7 +8,6 @@
       "premium-trust.app",
       "premium-trust.icu",
       "searchfortrust.pro",
-      "takemetotrustname.com",
       "test-lux-trust-1.sbs",
       "test-lux-trust-2.sbs",
       "test-lux-trust.sbs",
@@ -36,8 +35,7 @@
       "trustvs.com",
       "trustwalletapp.org",
       "wallet-trustcard.com",
-      "xmltrust.com",
-      "youtrustsign.com"
+      "xmltrust.com"
     ],
     "wallet": [
       "api-walletconnect.pro",
@@ -48,7 +46,6 @@
       "connect-wallet-two.org",
       "fastewallet.com",
       "googlewalletextension.com",
-      "gowalletrobot.digital",
       "gramwallet.tech",
       "lianadesktopwallet.com",
       "movvewallet.icu",
@@ -59,13 +56,11 @@
       "tw-walletcard.store",
       "wallet-base.pro",
       "wallet-confirm.pro",
-      "wallet-gift.com",
       "wallet-premium.pro",
       "wallet-settings.pro",
       "wallet-sun.pro",
       "wallet-trustcard.com",
       "wallets-card.com",
-      "zecdesktopwallet.com",
       "zkxwallet.app"
     ],
     "secure": [
@@ -77,11 +72,9 @@
       "rb6secureroyal.com",
       "rbcroyalbanksecureportal.help",
       "rbcroyalbanksecurevalidation.help",
-      "scotiabanksecuredata.com",
       "scotiaconnect-secure-web.com",
       "secure-acces.help",
       "secure24connect.net",
-      "secureailayer.com",
       "securemypass.tech",
       "secureonlinesupport.help",
       "secureplus-consorsbank.app",
@@ -89,62 +82,11 @@
       "secureroyalbank-web.com",
       "securesupport.help",
       "secureswiss.online",
-      "servicesecure.digital",
       "td-onlineresetsecure.help",
       "td-secureresetonline.help",
       "tdsecuredresolutions.help",
       "tdsecurevalidation.help",
-      "vancitylogin-secure.com",
       "wellsfargo3dsecure.pro"
-    ],
-    "account": [
-      "account-asset.com",
-      "account-asset.org",
-      "account-chain.com",
-      "account-chain.org",
-      "account-deal.com",
-      "account-deal.org",
-      "account-gain.com",
-      "account-gain.org",
-      "account-node.com",
-      "account-node.org",
-      "account-rate.com",
-      "account-rate.org",
-      "accounters-ukkrneett.com",
-      "asset-account.com",
-      "asset-account.org",
-      "chain-account.com",
-      "chain-account.org",
-      "deal-account.com",
-      "deal-account.org",
-      "gain-account.com",
-      "gain-account.org",
-      "net-account.org",
-      "rate-account.com",
-      "rate-account.org",
-      "web-account.org"
-    ],
-    "crypto": [
-      "anonymouscryptoexchange.com",
-      "bestcryptomixers.com",
-      "cryptobank.latino",
-      "cryptobetix.com",
-      "cryptocasino.latino",
-      "cryptocourse.latino",
-      "cryptolexicon.org",
-      "cryptomarket.latino",
-      "cryptomoney.latino",
-      "cryptomusgo.com",
-      "cryptonut.app",
-      "cryptoroll.app",
-      "cryptospin.bond",
-      "cryptotrade.latino",
-      "decrypto.fun",
-      "k8crypto.biz",
-      "mediumcrypto.com",
-      "mineriacrypto.latino",
-      "neocrypto.work",
-      "spark-crypto.com"
     ],
     "verify": [
       "amex-verify.com",
@@ -168,6 +110,27 @@
       "verifyinfolocal.com",
       "verifyrbcauth.com"
     ],
+    "crypto": [
+      "anonymouscryptoexchange.com",
+      "bestcryptomixers.com",
+      "cryptobank.latino",
+      "cryptobetix.com",
+      "cryptocasino.latino",
+      "cryptocourse.latino",
+      "cryptolexicon.org",
+      "cryptomarket.latino",
+      "cryptomoney.latino",
+      "cryptonut.app",
+      "cryptoroll.app",
+      "cryptospin.bond",
+      "cryptotrade.latino",
+      "decrypto.fun",
+      "k8crypto.biz",
+      "mediumcrypto.com",
+      "mineriacrypto.latino",
+      "neocrypto.work",
+      "spark-crypto.com"
+    ],
     "support": [
       "0support-resetverif.help",
       "binancesupportwalllet.info",
@@ -183,7 +146,6 @@
       "securesupport.help",
       "support-pro.site",
       "support-scotia.com",
-      "support2ca.com",
       "supportdeskpack.com",
       "tdeasywebsupport.help",
       "webglobalsupport.pro",
@@ -195,8 +157,6 @@
       "blazesswap.icu",
       "blazesswap.pro",
       "comp-swap.pro",
-      "dashboard-pacaswap.com",
-      "eurcvswap.com",
       "fartcoinswap.pro",
       "getbitswap.com",
       "honeyswap.net",
@@ -205,28 +165,23 @@
       "swap-asterdex.com",
       "swap.latino",
       "thor-swap.net",
-      "trust-swap.org",
-      "v2-cowswap.com",
-      "web-cowswap.com"
+      "trust-swap.org"
     ],
-    "login": [
-      "casinoas-direct-login.live",
-      "enjoy007-casino-login3.com",
-      "gmail-loginform.com",
-      "holiganbet-loginadress.icu",
-      "holiganbet-loginsociall.icu",
-      "holiganbet-tr2026logins.icu",
-      "joka-online-casino-login4.com",
-      "login-adresi.bond",
-      "loginmail.org",
-      "marsbahis-loginadres2026.cyou",
-      "perabetlogin.icu",
-      "vancitylogin-secure.com",
-      "zoome-casino-login-aus5.com",
-      "zoome-casino-login-aus6.com"
+    "account": [
+      "account-chain.org",
+      "account-gain.com",
+      "account-gain.org",
+      "account-node.org",
+      "account-rate.org",
+      "asset-account.org",
+      "deal-account.com",
+      "gain-account.com",
+      "gain-account.org",
+      "net-account.org",
+      "rate-account.com",
+      "rate-account.org"
     ],
     "connect": [
-      "api-tron-connect.com",
       "api-walletconnect.pro",
       "connect-clients.com",
       "connect-qatarairways.com",
@@ -234,26 +189,10 @@
       "connect-wallet-two.org",
       "connected-api.pro",
       "ekoconnect.net",
-      "link-connectips.com",
       "magicconnect.digital",
       "scotiaconnect-secure-web.com",
       "secure24connect.net",
-      "trx-connect.digital",
-      "www-scotiaconnect-web.digital"
-    ],
-    "bitcoin": [
-      "bitcoin-mastery.app",
-      "bitcoin.latino",
-      "bitcoinalpha.net",
-      "bitcoinera-fr.com",
-      "bitcoinfuture.app",
-      "bitcoinprime.software",
-      "bullbitcoinpolicy.com",
-      "buybitcoinmineronline.com",
-      "localbitcoin.net",
-      "peachbitcoinapp.com",
-      "pocketbitcoindesktop.com",
-      "thebitcoinbrief.org"
+      "trx-connect.digital"
     ],
     "bridge": [
       "alphabridgeconsultancy.com",
@@ -265,8 +204,18 @@
       "mantle-bridge.com",
       "portalbridges.com",
       "prbridgeconsultant.com",
-      "tronbridge.pro",
-      "v2-debridge.com"
+      "tronbridge.pro"
+    ],
+    "bitcoin": [
+      "bitcoin-mastery.app",
+      "bitcoin.latino",
+      "bitcoinalpha.net",
+      "bitcoinera-fr.com",
+      "bitcoinfuture.app",
+      "bullbitcoinpolicy.com",
+      "buybitcoinmineronline.com",
+      "localbitcoin.net",
+      "peachbitcoinapp.com"
     ],
     "vault": [
       "chainsvault.online",
@@ -279,33 +228,15 @@
       "vault-spend.com",
       "vaultlens.wiki"
     ],
-    "update": [
-      "brokerdocsupdates.com",
-      "firmware-updater.cloud",
-      "firmwareupdate.net",
-      "live-updates.online",
-      "microsoftupdates.pro",
-      "microssoftupdates.pro",
-      "policyupdate.dev",
-      "update-notif.com"
-    ],
-    "farm": [
-      "boredfarm.com",
-      "boredfarms.com",
-      "catfarmequipment.com",
-      "farmandcountryrealty.com",
-      "jbeatyfarmequipment.com",
-      "moneyfarm.latino",
-      "streetfarma.com"
-    ],
-    "kraken": [
-      "kraken-link-onion.org",
-      "kraken-link-tor.org",
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.online",
-      "kraken15.org",
-      "krakenplay.com",
-      "krakensite.net"
+    "login": [
+      "casinoas-direct-login.live",
+      "holiganbet-loginadress.icu",
+      "holiganbet-loginsociall.icu",
+      "holiganbet-tr2026logins.icu",
+      "login-adresi.bond",
+      "marsbahis-loginadres2026.cyou",
+      "perabetlogin.icu",
+      "zoome-casino-login-aus6.com"
     ],
     "binance": [
       "binance-card.com",
@@ -316,6 +247,23 @@
       "customerbinance.com",
       "in-binance.com"
     ],
+    "update": [
+      "brokerdocsupdates.com",
+      "firmware-updater.cloud",
+      "firmwareupdate.net",
+      "live-updates.online",
+      "microsoftupdates.pro",
+      "microssoftupdates.pro",
+      "policyupdate.dev"
+    ],
+    "kraken": [
+      "kraken-link-onion.org",
+      "kraken-link-tor.org",
+      "kraken-signin-session.icu",
+      "kraken-verifizierung.online",
+      "krakenplay.com",
+      "krakensite.net"
+    ],
     "ledger": [
       "beast-ledger.online",
       "ledger-live.help",
@@ -324,18 +272,25 @@
       "ledgerfirmware.app",
       "ledgerlive.icu"
     ],
-    "mint": [
-      "mintanchor.biz",
-      "mintcro-changeexpert.org",
-      "minter.latino",
-      "spend-mint.com",
-      "trust-mint.com"
+    "farm": [
+      "boredfarm.com",
+      "boredfarms.com",
+      "catfarmequipment.com",
+      "jbeatyfarmequipment.com",
+      "moneyfarm.latino",
+      "streetfarma.com"
     ],
     "token": [
       "token.latino",
       "tokenpilotde.com",
       "tokensex.online",
       "tokentax.info"
+    ],
+    "defi": [
+      "carbon-defi.com",
+      "defi.latino",
+      "finasteridefinpecia.com",
+      "tron-defi.com"
     ]
   }
 }

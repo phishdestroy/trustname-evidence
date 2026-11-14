@@ -34,8 +34,10 @@ floatup.bio
 floatup.cash
 floatup.club
 floatup.live
+floatup.online
 floatup.org
 floatup.pro
+floatup.site
 floatup.space
 floatup.vip
 floatup.work
