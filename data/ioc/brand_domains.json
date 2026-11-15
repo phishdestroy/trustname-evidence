@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "keywords": {
     "trust": [
       "ctbtrust.com",
@@ -29,11 +29,9 @@
       "trustify.latino",
       "trustlottery.cfd",
       "trustmixer.pro",
-      "trustname-fucking-liars.com",
       "trustprototype.tech",
       "trustrequire1.info",
       "trustvs.com",
-      "trustwalletapp.org",
       "wallet-trustcard.com",
       "xmltrust.com"
     ],
@@ -43,16 +41,12 @@
       "cards-wallets.com",
       "cards-walletts.com",
       "com-wallet.site",
-      "connect-wallet-two.org",
-      "fastewallet.com",
       "googlewalletextension.com",
       "gramwallet.tech",
-      "lianadesktopwallet.com",
       "movvewallet.icu",
       "pulsewalletdashboard.online",
       "trust-cardwallets.com",
       "trust-wallet-ai.com",
-      "trustwalletapp.org",
       "tw-walletcard.store",
       "wallet-base.pro",
       "wallet-confirm.pro",
@@ -63,56 +57,10 @@
       "wallets-card.com",
       "zkxwallet.app"
     ],
-    "secure": [
-      "3sw-secure.tech",
-      "bmosecurevalidation.help",
-      "bmosecureverify.com",
-      "mainsecured.com",
-      "payssecure.pro",
-      "rb6secureroyal.com",
-      "rbcroyalbanksecureportal.help",
-      "rbcroyalbanksecurevalidation.help",
-      "scotiaconnect-secure-web.com",
-      "secure-acces.help",
-      "secure24connect.net",
-      "securemypass.tech",
-      "secureonlinesupport.help",
-      "secureplus-consorsbank.app",
-      "securereset.help",
-      "secureroyalbank-web.com",
-      "securesupport.help",
-      "secureswiss.online",
-      "td-onlineresetsecure.help",
-      "td-secureresetonline.help",
-      "tdsecuredresolutions.help",
-      "tdsecurevalidation.help",
-      "wellsfargo3dsecure.pro"
-    ],
-    "verify": [
-      "amex-verify.com",
-      "bmosecureverify.com",
-      "faceit-goverify.com",
-      "insta-verify-now.cyou",
-      "inviteverify.com",
-      "portal-verify.app",
-      "server-verify.com",
-      "vancityverify.digital",
-      "verify-cloud.digital",
-      "verify-find.sbs",
-      "verify-invite-tracker.com",
-      "verify-invitetracker.net",
-      "verify-janoshik.com",
-      "verify-server.sbs",
-      "verify-shopify.pro",
-      "verify-your-details.com",
-      "verify2auth-ytglcvfewdf.pro",
-      "verifyidentity-nbc.info",
-      "verifyinfolocal.com",
-      "verifyrbcauth.com"
-    ],
     "crypto": [
       "anonymouscryptoexchange.com",
       "bestcryptomixers.com",
+      "crypto-race.fun",
       "cryptobank.latino",
       "cryptobetix.com",
       "cryptocasino.latino",
@@ -131,22 +79,39 @@
       "neocrypto.work",
       "spark-crypto.com"
     ],
+    "secure": [
+      "3sw-secure.tech",
+      "bmosecurevalidation.help",
+      "mainsecured.com",
+      "payssecure.pro",
+      "rbcroyalbanksecureportal.help",
+      "rbcroyalbanksecurevalidation.help",
+      "secure-acces.help",
+      "secure24connect.net",
+      "securemypass.tech",
+      "secureonlinesupport.help",
+      "secureplus-consorsbank.app",
+      "securereset.help",
+      "securesupport.help",
+      "secureswiss.online",
+      "td-onlineresetsecure.help",
+      "td-secureresetonline.help",
+      "tdsecuredresolutions.help",
+      "tdsecurevalidation.help",
+      "wellsfargo3dsecure.pro"
+    ],
     "support": [
       "0support-resetverif.help",
       "binancesupportwalllet.info",
       "bmosupportpage.help",
       "ganduscamsupport.cyou",
       "globalsupportweb.pro",
-      "globalsupportwebfund.com",
-      "helpglobalsupport.com",
       "mail-support.tech",
       "myverifsupportuidauth.online",
       "scotiaaresetsupport1.help",
       "secureonlinesupport.help",
       "securesupport.help",
       "support-pro.site",
-      "support-scotia.com",
-      "supportdeskpack.com",
       "tdeasywebsupport.help",
       "webglobalsupport.pro",
       "wehelpglobalsupport.pro"
@@ -162,60 +127,43 @@
       "honeyswap.net",
       "sun-swap.net",
       "sunswap.fun",
-      "swap-asterdex.com",
       "swap.latino",
       "thor-swap.net",
       "trust-swap.org"
     ],
-    "account": [
-      "account-chain.org",
-      "account-gain.com",
-      "account-gain.org",
-      "account-node.org",
-      "account-rate.org",
-      "asset-account.org",
-      "deal-account.com",
-      "gain-account.com",
-      "gain-account.org",
-      "net-account.org",
-      "rate-account.com",
-      "rate-account.org"
+    "verify": [
+      "amex-verify.com",
+      "insta-verify-now.cyou",
+      "inviteverify.com",
+      "portal-verify.app",
+      "server-verify.com",
+      "verify-find.sbs",
+      "verify-invite-tracker.com",
+      "verify-invitetracker.net",
+      "verify-server.sbs",
+      "verify-shopify.pro",
+      "verify2auth-ytglcvfewdf.pro",
+      "verifyidentity-nbc.info"
+    ],
+    "bridge": [
+      "arbitrum-bridge.com",
+      "avaxbridge.pro",
+      "biitbridge.online",
+      "bitbridges.online",
+      "lineabridge.net",
+      "mantle-bridge.com",
+      "portalbridges.com",
+      "tronbridge.pro"
     ],
     "connect": [
       "api-walletconnect.pro",
       "connect-clients.com",
       "connect-qatarairways.com",
       "connect-sushi.com",
-      "connect-wallet-two.org",
       "connected-api.pro",
       "ekoconnect.net",
-      "magicconnect.digital",
-      "scotiaconnect-secure-web.com",
       "secure24connect.net",
       "trx-connect.digital"
-    ],
-    "bridge": [
-      "alphabridgeconsultancy.com",
-      "apibridgekits.com",
-      "arbitrum-bridge.com",
-      "avaxbridge.pro",
-      "bitbridges.online",
-      "lineabridge.net",
-      "mantle-bridge.com",
-      "portalbridges.com",
-      "prbridgeconsultant.com",
-      "tronbridge.pro"
-    ],
-    "bitcoin": [
-      "bitcoin-mastery.app",
-      "bitcoin.latino",
-      "bitcoinalpha.net",
-      "bitcoinera-fr.com",
-      "bitcoinfuture.app",
-      "bullbitcoinpolicy.com",
-      "buybitcoinmineronline.com",
-      "localbitcoin.net",
-      "peachbitcoinapp.com"
     ],
     "vault": [
       "chainsvault.online",
@@ -223,7 +171,6 @@
       "jerseyvaultshop.com",
       "kavault.xyz",
       "nulledvault.com",
-      "regalvault.net",
       "scriptsvaults.com",
       "vault-spend.com",
       "vaultlens.wiki"
@@ -235,17 +182,7 @@
       "holiganbet-tr2026logins.icu",
       "login-adresi.bond",
       "marsbahis-loginadres2026.cyou",
-      "perabetlogin.icu",
-      "zoome-casino-login-aus6.com"
-    ],
-    "binance": [
-      "binance-card.com",
-      "binance-il.com",
-      "binance-pay.live",
-      "binanceinfo.site",
-      "binancesupportwalllet.info",
-      "customerbinance.com",
-      "in-binance.com"
+      "perabetlogin.icu"
     ],
     "update": [
       "brokerdocsupdates.com",
@@ -256,9 +193,24 @@
       "microssoftupdates.pro",
       "policyupdate.dev"
     ],
+    "bitcoin": [
+      "bitcoin-mastery.app",
+      "bitcoin.latino",
+      "bitcoinalpha.net",
+      "bitcoinera-fr.com",
+      "bitcoinfuture.app",
+      "buybitcoinmineronline.com"
+    ],
+    "binance": [
+      "binance-il.com",
+      "binance-pay.live",
+      "binanceinfo.fun",
+      "binanceinfo.site",
+      "binancesupportwalllet.info",
+      "customerbinance.com"
+    ],
     "kraken": [
       "kraken-link-onion.org",
-      "kraken-link-tor.org",
       "kraken-signin-session.icu",
       "kraken-verifizierung.online",
       "krakenplay.com",
@@ -267,7 +219,6 @@
     "ledger": [
       "beast-ledger.online",
       "ledger-live.help",
-      "ledger-recovery.live",
       "ledger-tw.com",
       "ledgerfirmware.app",
       "ledgerlive.icu"
@@ -275,22 +226,26 @@
     "farm": [
       "boredfarm.com",
       "boredfarms.com",
-      "catfarmequipment.com",
       "jbeatyfarmequipment.com",
       "moneyfarm.latino",
       "streetfarma.com"
     ],
-    "token": [
-      "token.latino",
-      "tokenpilotde.com",
-      "tokensex.online",
-      "tokentax.info"
+    "defi": [
+      "carbon-defi.com",
+      "defi.latino",
+      "finasteridefinpecia.com",
+      "tron-defi.com"
     ],
     "mint": [
       "mintanchor.biz",
       "minter.latino",
       "spend-mint.com",
       "trust-mint.com"
+    ],
+    "token": [
+      "token.latino",
+      "tokensex.online",
+      "tokentax.info"
     ]
   }
 }

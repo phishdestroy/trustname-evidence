@@ -5,6 +5,7 @@ afate.pro
 aisi-box.com
 akountr.com
 amahorses.com
+apitest-bulk1-1782302383.store
 aslanaz.vip
 assb.biz
 asterdashboard.online
@@ -67,6 +68,7 @@ safetradedashboard.online
 saints.cloud
 scotia-startdevice.help
 telegrammmy.com
+testdomainname.store
 testdomainname2.store
 tokensex.online
 toowot.com
