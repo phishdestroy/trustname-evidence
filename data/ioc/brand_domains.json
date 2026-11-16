@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "keywords": {
     "trust": [
       "ctbtrust.com",
@@ -10,14 +10,10 @@
       "searchfortrust.pro",
       "test-lux-trust-1.sbs",
       "test-lux-trust-2.sbs",
-      "test-lux-trust.sbs",
-      "test-trust-fdfcbc.sbs",
       "thetrustcard.site",
-      "trust-cardwallets.com",
       "trust-mint.com",
       "trust-swap.org",
       "trust-wallet-ai.com",
-      "trustaws.com",
       "trustcard.link",
       "trustchemist.com",
       "trusted-base.pro",
@@ -32,52 +28,7 @@
       "trustprototype.tech",
       "trustrequire1.info",
       "trustvs.com",
-      "wallet-trustcard.com",
       "xmltrust.com"
-    ],
-    "wallet": [
-      "api-walletconnect.pro",
-      "bifrostwalletapps.download",
-      "cards-wallets.com",
-      "cards-walletts.com",
-      "com-wallet.site",
-      "googlewalletextension.com",
-      "gramwallet.tech",
-      "movvewallet.icu",
-      "pulsewalletdashboard.online",
-      "trust-cardwallets.com",
-      "trust-wallet-ai.com",
-      "tw-walletcard.store",
-      "wallet-base.pro",
-      "wallet-confirm.pro",
-      "wallet-premium.pro",
-      "wallet-settings.pro",
-      "wallet-sun.pro",
-      "wallet-trustcard.com",
-      "wallets-card.com",
-      "zkxwallet.app"
-    ],
-    "crypto": [
-      "anonymouscryptoexchange.com",
-      "bestcryptomixers.com",
-      "crypto-race.fun",
-      "cryptobank.latino",
-      "cryptobetix.com",
-      "cryptocasino.latino",
-      "cryptocourse.latino",
-      "cryptolexicon.org",
-      "cryptomarket.latino",
-      "cryptomoney.latino",
-      "cryptonut.app",
-      "cryptoroll.app",
-      "cryptospin.bond",
-      "cryptotrade.latino",
-      "decrypto.fun",
-      "k8crypto.biz",
-      "mediumcrypto.com",
-      "mineriacrypto.latino",
-      "neocrypto.work",
-      "spark-crypto.com"
     ],
     "secure": [
       "3sw-secure.tech",
@@ -100,6 +51,43 @@
       "tdsecurevalidation.help",
       "wellsfargo3dsecure.pro"
     ],
+    "crypto": [
+      "bestcryptomixers.com",
+      "crypto-race.fun",
+      "cryptobank.latino",
+      "cryptobetix.com",
+      "cryptocasino.latino",
+      "cryptocourse.latino",
+      "cryptomarket.latino",
+      "cryptomoney.latino",
+      "cryptonut.app",
+      "cryptoroll.app",
+      "cryptospin.bond",
+      "cryptotrade.latino",
+      "decrypto.fun",
+      "k8crypto.biz",
+      "mediumcrypto.com",
+      "mineriacrypto.latino",
+      "neocrypto.work",
+      "spark-crypto.com"
+    ],
+    "wallet": [
+      "api-walletconnect.pro",
+      "bifrostwalletapps.download",
+      "cards-walletts.com",
+      "com-wallet.site",
+      "gramwallet.tech",
+      "movvewallet.icu",
+      "pulsewalletdashboard.online",
+      "trust-wallet-ai.com",
+      "tw-walletcard.store",
+      "wallet-base.pro",
+      "wallet-confirm.pro",
+      "wallet-premium.pro",
+      "wallet-settings.pro",
+      "wallet-sun.pro",
+      "zkxwallet.app"
+    ],
     "support": [
       "0support-resetverif.help",
       "binancesupportwalllet.info",
@@ -117,7 +105,6 @@
       "wehelpglobalsupport.pro"
     ],
     "swap": [
-      "ag-swap.org",
       "blaizeswaps.pro",
       "blazesswap.icu",
       "blazesswap.pro",
@@ -134,12 +121,10 @@
     "verify": [
       "amex-verify.com",
       "insta-verify-now.cyou",
-      "inviteverify.com",
       "portal-verify.app",
       "server-verify.com",
       "verify-find.sbs",
       "verify-invite-tracker.com",
-      "verify-invitetracker.net",
       "verify-server.sbs",
       "verify-shopify.pro",
       "verify2auth-ytglcvfewdf.pro",
@@ -155,16 +140,6 @@
       "portalbridges.com",
       "tronbridge.pro"
     ],
-    "connect": [
-      "api-walletconnect.pro",
-      "connect-clients.com",
-      "connect-qatarairways.com",
-      "connect-sushi.com",
-      "connected-api.pro",
-      "ekoconnect.net",
-      "secure24connect.net",
-      "trx-connect.digital"
-    ],
     "vault": [
       "chainsvault.online",
       "holigan-vault.cyou",
@@ -172,7 +147,6 @@
       "kavault.xyz",
       "nulledvault.com",
       "scriptsvaults.com",
-      "vault-spend.com",
       "vaultlens.wiki"
     ],
     "login": [
@@ -183,15 +157,6 @@
       "login-adresi.bond",
       "marsbahis-loginadres2026.cyou",
       "perabetlogin.icu"
-    ],
-    "update": [
-      "brokerdocsupdates.com",
-      "firmware-updater.cloud",
-      "firmwareupdate.net",
-      "live-updates.online",
-      "microsoftupdates.pro",
-      "microssoftupdates.pro",
-      "policyupdate.dev"
     ],
     "bitcoin": [
       "bitcoin-mastery.app",
@@ -209,12 +174,12 @@
       "binancesupportwalllet.info",
       "customerbinance.com"
     ],
-    "kraken": [
-      "kraken-link-onion.org",
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.online",
-      "krakenplay.com",
-      "krakensite.net"
+    "update": [
+      "firmware-updater.cloud",
+      "live-updates.online",
+      "microsoftupdates.pro",
+      "microssoftupdates.pro",
+      "policyupdate.dev"
     ],
     "ledger": [
       "beast-ledger.online",
@@ -223,18 +188,24 @@
       "ledgerfirmware.app",
       "ledgerlive.icu"
     ],
+    "connect": [
+      "api-walletconnect.pro",
+      "connect-clients.com",
+      "connected-api.pro",
+      "ekoconnect.net",
+      "secure24connect.net"
+    ],
+    "kraken": [
+      "kraken-signin-session.icu",
+      "kraken-verifizierung.online",
+      "krakenplay.com",
+      "krakensite.net"
+    ],
     "farm": [
       "boredfarm.com",
       "boredfarms.com",
-      "jbeatyfarmequipment.com",
       "moneyfarm.latino",
       "streetfarma.com"
-    ],
-    "defi": [
-      "carbon-defi.com",
-      "defi.latino",
-      "finasteridefinpecia.com",
-      "tron-defi.com"
     ],
     "mint": [
       "mintanchor.biz",
@@ -242,10 +213,15 @@
       "spend-mint.com",
       "trust-mint.com"
     ],
-    "token": [
-      "token.latino",
-      "tokensex.online",
-      "tokentax.info"
+    "official": [
+      "cricfy-official.app",
+      "jojobet-official.ink",
+      "nakitbahis-official.live"
+    ],
+    "defi": [
+      "carbon-defi.com",
+      "defi.latino",
+      "tron-defi.com"
     ]
   }
 }
