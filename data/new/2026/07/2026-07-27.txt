@@ -33,6 +33,7 @@ fdic-claim.com
 floatup.bio
 floatup.cash
 floatup.club
+floatup.fun
 floatup.live
 floatup.online
 floatup.org

@@ -1,18 +1,15 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "keywords": {
     "trust": [
       "ctbtrust.com",
       "get-trustcard.app",
-      "itrustcapitalgroup.com",
       "premium-trust.app",
       "premium-trust.icu",
       "searchfortrust.pro",
       "test-lux-trust-1.sbs",
-      "test-lux-trust-2.sbs",
       "thetrustcard.site",
       "trust-mint.com",
-      "trust-swap.org",
       "trust-wallet-ai.com",
       "trustcard.link",
       "trustchemist.com",
@@ -38,7 +35,6 @@
       "rbcroyalbanksecureportal.help",
       "rbcroyalbanksecurevalidation.help",
       "secure-acces.help",
-      "secure24connect.net",
       "securemypass.tech",
       "secureonlinesupport.help",
       "secureplus-consorsbank.app",
@@ -74,7 +70,7 @@
     "wallet": [
       "api-walletconnect.pro",
       "bifrostwalletapps.download",
-      "cards-walletts.com",
+      "com-account-wallet-12ff.fun",
       "com-wallet.site",
       "gramwallet.tech",
       "movvewallet.icu",
@@ -109,26 +105,12 @@
       "blazesswap.icu",
       "blazesswap.pro",
       "comp-swap.pro",
-      "fartcoinswap.pro",
       "getbitswap.com",
       "honeyswap.net",
       "sun-swap.net",
       "sunswap.fun",
       "swap.latino",
-      "thor-swap.net",
-      "trust-swap.org"
-    ],
-    "verify": [
-      "amex-verify.com",
-      "insta-verify-now.cyou",
-      "portal-verify.app",
-      "server-verify.com",
-      "verify-find.sbs",
-      "verify-invite-tracker.com",
-      "verify-server.sbs",
-      "verify-shopify.pro",
-      "verify2auth-ytglcvfewdf.pro",
-      "verifyidentity-nbc.info"
+      "thor-swap.net"
     ],
     "bridge": [
       "arbitrum-bridge.com",
@@ -140,14 +122,15 @@
       "portalbridges.com",
       "tronbridge.pro"
     ],
-    "vault": [
-      "chainsvault.online",
-      "holigan-vault.cyou",
-      "jerseyvaultshop.com",
-      "kavault.xyz",
-      "nulledvault.com",
-      "scriptsvaults.com",
-      "vaultlens.wiki"
+    "verify": [
+      "insta-verify-now.cyou",
+      "portal-verify.app",
+      "server-verify.com",
+      "verify-find.sbs",
+      "verify-server.sbs",
+      "verify-shopify.pro",
+      "verify2auth-ytglcvfewdf.pro",
+      "verifyidentity-nbc.info"
     ],
     "login": [
       "casinoas-direct-login.live",
@@ -158,13 +141,14 @@
       "marsbahis-loginadres2026.cyou",
       "perabetlogin.icu"
     ],
-    "bitcoin": [
-      "bitcoin-mastery.app",
-      "bitcoin.latino",
-      "bitcoinalpha.net",
-      "bitcoinera-fr.com",
-      "bitcoinfuture.app",
-      "buybitcoinmineronline.com"
+    "vault": [
+      "chainsvault.online",
+      "holigan-vault.cyou",
+      "jerseyvaultshop.com",
+      "kavault.xyz",
+      "nulledvault.com",
+      "scriptsvaults.com",
+      "vaultlens.wiki"
     ],
     "binance": [
       "binance-il.com",
@@ -174,26 +158,18 @@
       "binancesupportwalllet.info",
       "customerbinance.com"
     ],
+    "bitcoin": [
+      "bitcoin-mastery.app",
+      "bitcoin.latino",
+      "bitcoinera-fr.com",
+      "bitcoinfuture.app",
+      "buybitcoinmineronline.com"
+    ],
     "update": [
       "firmware-updater.cloud",
       "live-updates.online",
-      "microsoftupdates.pro",
       "microssoftupdates.pro",
       "policyupdate.dev"
-    ],
-    "ledger": [
-      "beast-ledger.online",
-      "ledger-live.help",
-      "ledger-tw.com",
-      "ledgerfirmware.app",
-      "ledgerlive.icu"
-    ],
-    "connect": [
-      "api-walletconnect.pro",
-      "connect-clients.com",
-      "connected-api.pro",
-      "ekoconnect.net",
-      "secure24connect.net"
     ],
     "kraken": [
       "kraken-signin-session.icu",
@@ -201,27 +177,39 @@
       "krakenplay.com",
       "krakensite.net"
     ],
-    "farm": [
-      "boredfarm.com",
-      "boredfarms.com",
-      "moneyfarm.latino",
-      "streetfarma.com"
-    ],
     "mint": [
       "mintanchor.biz",
       "minter.latino",
       "spend-mint.com",
       "trust-mint.com"
     ],
+    "connect": [
+      "api-walletconnect.pro",
+      "connect-clients.com",
+      "connected-api.pro",
+      "ekoconnect.net"
+    ],
+    "ledger": [
+      "beast-ledger.online",
+      "ledger-live.help",
+      "ledgerfirmware.app",
+      "ledgerlive.icu"
+    ],
+    "farm": [
+      "boredfarm.com",
+      "boredfarms.com",
+      "moneyfarm.latino",
+      "streetfarma.com"
+    ],
+    "token": [
+      "token.latino",
+      "tokensex.online",
+      "tokentax.info"
+    ],
     "official": [
       "cricfy-official.app",
       "jojobet-official.ink",
       "nakitbahis-official.live"
-    ],
-    "defi": [
-      "carbon-defi.com",
-      "defi.latino",
-      "tron-defi.com"
     ]
   }
 }
