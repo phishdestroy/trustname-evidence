@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17",
+  "generated": "2026-11-18",
   "keywords": {
     "trust": [
       "ctbtrust.com",
@@ -10,7 +10,6 @@
       "test-lux-trust-1.sbs",
       "thetrustcard.site",
       "trust-mint.com",
-      "trust-wallet-ai.com",
       "trustcard.link",
       "trustchemist.com",
       "trusted-base.pro",
@@ -23,29 +22,8 @@
       "trustlottery.cfd",
       "trustmixer.pro",
       "trustprototype.tech",
-      "trustrequire1.info",
       "trustvs.com",
       "xmltrust.com"
-    ],
-    "secure": [
-      "3sw-secure.tech",
-      "bmosecurevalidation.help",
-      "mainsecured.com",
-      "payssecure.pro",
-      "rbcroyalbanksecureportal.help",
-      "rbcroyalbanksecurevalidation.help",
-      "secure-acces.help",
-      "securemypass.tech",
-      "secureonlinesupport.help",
-      "secureplus-consorsbank.app",
-      "securereset.help",
-      "securesupport.help",
-      "secureswiss.online",
-      "td-onlineresetsecure.help",
-      "td-secureresetonline.help",
-      "tdsecuredresolutions.help",
-      "tdsecurevalidation.help",
-      "wellsfargo3dsecure.pro"
     ],
     "crypto": [
       "bestcryptomixers.com",
@@ -67,22 +45,25 @@
       "neocrypto.work",
       "spark-crypto.com"
     ],
-    "wallet": [
-      "api-walletconnect.pro",
-      "bifrostwalletapps.download",
-      "com-account-wallet-12ff.fun",
-      "com-wallet.site",
-      "gramwallet.tech",
-      "movvewallet.icu",
-      "pulsewalletdashboard.online",
-      "trust-wallet-ai.com",
-      "tw-walletcard.store",
-      "wallet-base.pro",
-      "wallet-confirm.pro",
-      "wallet-premium.pro",
-      "wallet-settings.pro",
-      "wallet-sun.pro",
-      "zkxwallet.app"
+    "secure": [
+      "3sw-secure.tech",
+      "bmosecurevalidation.help",
+      "mainsecured.com",
+      "payssecure.pro",
+      "rbcroyalbanksecureportal.help",
+      "rbcroyalbanksecurevalidation.help",
+      "secure-acces.help",
+      "securemypass.tech",
+      "secureonlinesupport.help",
+      "secureplus-consorsbank.app",
+      "securereset.help",
+      "securesupport.help",
+      "secureswiss.online",
+      "td-onlineresetsecure.help",
+      "td-secureresetonline.help",
+      "tdsecuredresolutions.help",
+      "tdsecurevalidation.help",
+      "wellsfargo3dsecure.pro"
     ],
     "support": [
       "0support-resetverif.help",
@@ -100,6 +81,22 @@
       "webglobalsupport.pro",
       "wehelpglobalsupport.pro"
     ],
+    "wallet": [
+      "api-walletconnect.pro",
+      "bifrostwalletapps.download",
+      "com-account-wallet-12ff.fun",
+      "com-wallet.site",
+      "gramwallet.tech",
+      "movvewallet.icu",
+      "pulsewalletdashboard.online",
+      "tw-walletcard.store",
+      "wallet-base.pro",
+      "wallet-confirm.pro",
+      "wallet-premium.pro",
+      "wallet-settings.pro",
+      "wallet-sun.pro",
+      "zkxwallet.app"
+    ],
     "swap": [
       "blaizeswaps.pro",
       "blazesswap.icu",
@@ -107,6 +104,7 @@
       "comp-swap.pro",
       "getbitswap.com",
       "honeyswap.net",
+      "pumpswappss.fun",
       "sun-swap.net",
       "sunswap.fun",
       "swap.latino",
@@ -141,15 +139,6 @@
       "marsbahis-loginadres2026.cyou",
       "perabetlogin.icu"
     ],
-    "vault": [
-      "chainsvault.online",
-      "holigan-vault.cyou",
-      "jerseyvaultshop.com",
-      "kavault.xyz",
-      "nulledvault.com",
-      "scriptsvaults.com",
-      "vaultlens.wiki"
-    ],
     "binance": [
       "binance-il.com",
       "binance-pay.live",
@@ -158,18 +147,13 @@
       "binancesupportwalllet.info",
       "customerbinance.com"
     ],
-    "bitcoin": [
-      "bitcoin-mastery.app",
-      "bitcoin.latino",
-      "bitcoinera-fr.com",
-      "bitcoinfuture.app",
-      "buybitcoinmineronline.com"
-    ],
-    "update": [
-      "firmware-updater.cloud",
-      "live-updates.online",
-      "microssoftupdates.pro",
-      "policyupdate.dev"
+    "vault": [
+      "chainsvault.online",
+      "holigan-vault.cyou",
+      "kavault.xyz",
+      "nulledvault.com",
+      "scriptsvaults.com",
+      "vaultlens.wiki"
     ],
     "kraken": [
       "kraken-signin-session.icu",
@@ -177,11 +161,11 @@
       "krakenplay.com",
       "krakensite.net"
     ],
-    "mint": [
-      "mintanchor.biz",
-      "minter.latino",
-      "spend-mint.com",
-      "trust-mint.com"
+    "ledger": [
+      "beast-ledger.online",
+      "ledger-live.help",
+      "ledgerfirmware.app",
+      "ledgerlive.icu"
     ],
     "connect": [
       "api-walletconnect.pro",
@@ -189,27 +173,38 @@
       "connected-api.pro",
       "ekoconnect.net"
     ],
-    "ledger": [
-      "beast-ledger.online",
-      "ledger-live.help",
-      "ledgerfirmware.app",
-      "ledgerlive.icu"
-    ],
     "farm": [
       "boredfarm.com",
       "boredfarms.com",
       "moneyfarm.latino",
       "streetfarma.com"
     ],
+    "update": [
+      "firmware-updater.cloud",
+      "live-updates.online",
+      "microssoftupdates.pro",
+      "policyupdate.dev"
+    ],
+    "bitcoin": [
+      "bitcoin-mastery.app",
+      "bitcoin.latino",
+      "bitcoinfuture.app",
+      "buybitcoinmineronline.com"
+    ],
     "token": [
       "token.latino",
       "tokensex.online",
       "tokentax.info"
     ],
-    "official": [
-      "cricfy-official.app",
-      "jojobet-official.ink",
-      "nakitbahis-official.live"
+    "defi": [
+      "carbon-defi.com",
+      "defi.latino",
+      "tron-defi.com"
+    ],
+    "mint": [
+      "mintanchor.biz",
+      "minter.latino",
+      "trust-mint.com"
     ]
   }
 }

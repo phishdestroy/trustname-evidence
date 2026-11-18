@@ -88,17 +88,17 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-17`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-18`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>5,030</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$26,894</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>4,850</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$25,482</strong></td>
 </tr><tr>
-<td align="center"><b>📡 Deployed</b><br/><strong>49.9%</strong></td>
+<td align="center"><b>📡 Deployed</b><br/><strong>49.6%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
 </tr><tr>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.0%</strong></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><strong>0</strong></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><strong>1</strong></td>
 </tr></table>
 
 <details>
@@ -110,11 +110,11 @@ The notice also provides for transferring the registrar's domains to a qualified
 |:--|--:|--:|--:|
 | `.icu` | 958 | 365d | $948 |
 | `.latino` | 630 | 365d | $3,144 |
-| `.com` | 552 | 626d | $4,962 |
+| `.com` | 436 | 573d | $3,920 |
 | `.online` | 340 | 371d | $1,697 |
-| `.live` | 219 | 381d | $2,188 |
-| `.fun` | 214 | 365d | $1,068 |
-| `.pro` | 204 | 368d | $1,630 |
+| `.fun` | 222 | 365d | $1,108 |
+| `.live` | 214 | 380d | $2,138 |
+| `.pro` | 199 | 368d | $1,590 |
 | `.cyou` | 193 | 365d | $191 |
 | `.cam` | 176 | 365d | $878 |
 | `.site` | 175 | 365d | $873 |
@@ -122,13 +122,13 @@ The notice also provides for transferring the registrar's domains to a qualified
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        750 (71.3%)
-BR  █░░░░░░░░░░░░░░░░░         74 (7.0%)
-DE  ░░░░░░░░░░░░░░░░░░         35 (3.3%)
+US  ██████████████████        743 (71.6%)
+BR  █░░░░░░░░░░░░░░░░░         74 (7.1%)
+DE  ░░░░░░░░░░░░░░░░░░         35 (3.4%)
 FR  ░░░░░░░░░░░░░░░░░░         29 (2.8%)
-MD  ░░░░░░░░░░░░░░░░░░         24 (2.3%)
-NL  ░░░░░░░░░░░░░░░░░░         23 (2.2%)
-AE  ░░░░░░░░░░░░░░░░░░         18 (1.7%)
+NL  ░░░░░░░░░░░░░░░░░░         22 (2.1%)
+MD  ░░░░░░░░░░░░░░░░░░         21 (2.0%)
+AE  ░░░░░░░░░░░░░░░░░░         17 (1.6%)
 CZ  ░░░░░░░░░░░░░░░░░░         16 (1.5%)
 ```
 
@@ -136,21 +136,23 @@ CZ  ░░░░░░░░░░░░░░░░░░         16 (1.5%)
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-12` | 511 | **33.8×** 🚨 |
-| `2026-07-13` | 163 | **10.8×** 🚨 |
-| `2026-06-15` | 117 | **7.7×** 🚨 |
-| `2026-06-19` | 99 | **6.6×** 🚨 |
-| `2026-07-22` | 79 | **5.2×** 🚨 |
+| `2026-06-12` | 511 | **31.5×** 🚨 |
+| `2026-07-13` | 163 | **10.0×** 🚨 |
+| `2026-06-15` | 116 | **7.2×** 🚨 |
+| `2026-06-19` | 99 | **6.1×** 🚨 |
+| `2026-06-05` | 76 | **4.7×** 🔥 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (24)` &middot; `secure (18)` &middot; `crypto (18)` &middot; `wallet (15)` &middot; `support (14)` &middot; `swap (10)` &middot; `bridge (8)` &middot; `verify (8)` &middot; `login (7)` &middot; `vault (7)` &middot; `binance (6)` &middot; `bitcoin (5)` &middot; `update (4)` &middot; `kraken (4)` &middot; `mint (4)`
+`trust (22)` &middot; `crypto (18)` &middot; `secure (18)` &middot; `support (14)` &middot; `wallet (14)` &middot; `swap (11)` &middot; `bridge (8)` &middot; `verify (8)` &middot; `login (7)` &middot; `binance (6)` &middot; `vault (6)` &middot; `kraken (4)` &middot; `ledger (4)` &middot; `connect (4)` &middot; `farm (4)`
 
-### 🕵️ Top Serial Registrants — 1 emails with ≥5 domains
+### 🕵️ Top Serial Registrants — 3 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `sup***@mostbet.com` | **6** |
+| 1 | `sup***@mostbet.com` | **11** |
+| 2 | `i***@mostbet.com` | **8** |
+| 3 | `tec***@mostbet.com` | **5** |
 
 ### 📥 Download Threat Intelligence
 
