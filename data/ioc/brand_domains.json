@@ -1,12 +1,11 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "keywords": {
     "trust": [
       "ctbtrust.com",
       "get-trustcard.app",
       "premium-trust.app",
       "premium-trust.icu",
-      "searchfortrust.pro",
       "test-lux-trust-1.sbs",
       "thetrustcard.site",
       "trust-mint.com",
@@ -15,7 +14,6 @@
       "trusted-base.pro",
       "trusted-confirm.pro",
       "trusted-premium.pro",
-      "trusted-sun.pro",
       "trustfee.icu",
       "trustidcard.com",
       "trustify.latino",
@@ -24,26 +22,6 @@
       "trustprototype.tech",
       "trustvs.com",
       "xmltrust.com"
-    ],
-    "crypto": [
-      "bestcryptomixers.com",
-      "crypto-race.fun",
-      "cryptobank.latino",
-      "cryptobetix.com",
-      "cryptocasino.latino",
-      "cryptocourse.latino",
-      "cryptomarket.latino",
-      "cryptomoney.latino",
-      "cryptonut.app",
-      "cryptoroll.app",
-      "cryptospin.bond",
-      "cryptotrade.latino",
-      "decrypto.fun",
-      "k8crypto.biz",
-      "mediumcrypto.com",
-      "mineriacrypto.latino",
-      "neocrypto.work",
-      "spark-crypto.com"
     ],
     "secure": [
       "3sw-secure.tech",
@@ -65,9 +43,28 @@
       "tdsecurevalidation.help",
       "wellsfargo3dsecure.pro"
     ],
+    "crypto": [
+      "bestcryptomixers.com",
+      "crypto-race.fun",
+      "cryptobank.latino",
+      "cryptobetix.com",
+      "cryptocasino.latino",
+      "cryptocourse.latino",
+      "cryptomarket.latino",
+      "cryptomoney.latino",
+      "cryptonut.app",
+      "cryptoroll.app",
+      "cryptospin.bond",
+      "cryptotrade.latino",
+      "decrypto.fun",
+      "k8crypto.biz",
+      "mediumcrypto.com",
+      "mineriacrypto.latino",
+      "neocrypto.work",
+      "spark-crypto.com"
+    ],
     "support": [
       "0support-resetverif.help",
-      "binancesupportwalllet.info",
       "bmosupportpage.help",
       "ganduscamsupport.cyou",
       "globalsupportweb.pro",
@@ -92,16 +89,13 @@
       "tw-walletcard.store",
       "wallet-base.pro",
       "wallet-confirm.pro",
-      "wallet-premium.pro",
       "wallet-settings.pro",
-      "wallet-sun.pro",
       "zkxwallet.app"
     ],
     "swap": [
       "blaizeswaps.pro",
       "blazesswap.icu",
       "blazesswap.pro",
-      "comp-swap.pro",
       "getbitswap.com",
       "honeyswap.net",
       "pumpswappss.fun",
@@ -127,8 +121,7 @@
       "verify-find.sbs",
       "verify-server.sbs",
       "verify-shopify.pro",
-      "verify2auth-ytglcvfewdf.pro",
-      "verifyidentity-nbc.info"
+      "verify2auth-ytglcvfewdf.pro"
     ],
     "login": [
       "casinoas-direct-login.live",
@@ -139,14 +132,6 @@
       "marsbahis-loginadres2026.cyou",
       "perabetlogin.icu"
     ],
-    "binance": [
-      "binance-il.com",
-      "binance-pay.live",
-      "binanceinfo.fun",
-      "binanceinfo.site",
-      "binancesupportwalllet.info",
-      "customerbinance.com"
-    ],
     "vault": [
       "chainsvault.online",
       "holigan-vault.cyou",
@@ -155,11 +140,12 @@
       "scriptsvaults.com",
       "vaultlens.wiki"
     ],
-    "kraken": [
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.online",
-      "krakenplay.com",
-      "krakensite.net"
+    "binance": [
+      "binance-il.com",
+      "binance-pay.live",
+      "binanceinfo.fun",
+      "binanceinfo.site",
+      "customerbinance.com"
     ],
     "ledger": [
       "beast-ledger.online",
@@ -167,17 +153,11 @@
       "ledgerfirmware.app",
       "ledgerlive.icu"
     ],
-    "connect": [
-      "api-walletconnect.pro",
-      "connect-clients.com",
-      "connected-api.pro",
-      "ekoconnect.net"
-    ],
-    "farm": [
-      "boredfarm.com",
-      "boredfarms.com",
-      "moneyfarm.latino",
-      "streetfarma.com"
+    "kraken": [
+      "kraken-signin-session.icu",
+      "kraken-verifizierung.online",
+      "krakenplay.com",
+      "krakensite.net"
     ],
     "update": [
       "firmware-updater.cloud",
@@ -185,26 +165,38 @@
       "microssoftupdates.pro",
       "policyupdate.dev"
     ],
+    "connect": [
+      "api-walletconnect.pro",
+      "connect-clients.com",
+      "connected-api.pro",
+      "ekoconnect.net"
+    ],
     "bitcoin": [
       "bitcoin-mastery.app",
       "bitcoin.latino",
       "bitcoinfuture.app",
       "buybitcoinmineronline.com"
     ],
-    "token": [
-      "token.latino",
-      "tokensex.online",
-      "tokentax.info"
+    "farm": [
+      "boredfarm.com",
+      "boredfarms.com",
+      "moneyfarm.latino",
+      "streetfarma.com"
     ],
-    "defi": [
-      "carbon-defi.com",
-      "defi.latino",
-      "tron-defi.com"
+    "official": [
+      "cricfy-official.app",
+      "jojobet-official.ink",
+      "nakitbahis-official.live"
     ],
     "mint": [
       "mintanchor.biz",
       "minter.latino",
       "trust-mint.com"
+    ],
+    "defi": [
+      "carbon-defi.com",
+      "defi.latino",
+      "tron-defi.com"
     ]
   }
 }

@@ -88,17 +88,17 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-18`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-19`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>4,850</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$25,482</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>4,731</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$24,529</strong></td>
 </tr><tr>
-<td align="center"><b>📡 Deployed</b><br/><strong>49.6%</strong></td>
+<td align="center"><b>📡 Deployed</b><br/><strong>49.8%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
 </tr><tr>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.0%</strong></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><strong>1</strong></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><strong>3</strong></td>
 </tr></table>
 
 <details>
@@ -108,51 +108,51 @@ The notice also provides for transferring the registrar's domains to a qualified
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.icu` | 958 | 365d | $948 |
+| `.icu` | 956 | 365d | $946 |
 | `.latino` | 630 | 365d | $3,144 |
-| `.com` | 436 | 573d | $3,920 |
+| `.com` | 398 | 523d | $3,578 |
 | `.online` | 340 | 371d | $1,697 |
-| `.fun` | 222 | 365d | $1,108 |
-| `.live` | 214 | 380d | $2,138 |
-| `.pro` | 199 | 368d | $1,590 |
+| `.fun` | 223 | 365d | $1,113 |
+| `.live` | 195 | 381d | $1,948 |
 | `.cyou` | 193 | 365d | $191 |
 | `.cam` | 176 | 365d | $878 |
-| `.site` | 175 | 365d | $873 |
+| `.site` | 174 | 365d | $868 |
+| `.pro` | 171 | 365d | $1,366 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        743 (71.6%)
-BR  █░░░░░░░░░░░░░░░░░         74 (7.1%)
-DE  ░░░░░░░░░░░░░░░░░░         35 (3.4%)
-FR  ░░░░░░░░░░░░░░░░░░         29 (2.8%)
-NL  ░░░░░░░░░░░░░░░░░░         22 (2.1%)
-MD  ░░░░░░░░░░░░░░░░░░         21 (2.0%)
-AE  ░░░░░░░░░░░░░░░░░░         17 (1.6%)
-CZ  ░░░░░░░░░░░░░░░░░░         16 (1.5%)
+US  ██████████████████        730 (71.9%)
+BR  █░░░░░░░░░░░░░░░░░         74 (7.3%)
+DE  ░░░░░░░░░░░░░░░░░░         31 (3.1%)
+FR  ░░░░░░░░░░░░░░░░░░         28 (2.8%)
+NL  ░░░░░░░░░░░░░░░░░░         21 (2.1%)
+MD  ░░░░░░░░░░░░░░░░░░         21 (2.1%)
+AE  ░░░░░░░░░░░░░░░░░░         16 (1.6%)
+CZ  ░░░░░░░░░░░░░░░░░░         16 (1.6%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-12` | 511 | **31.5×** 🚨 |
-| `2026-07-13` | 163 | **10.0×** 🚨 |
-| `2026-06-15` | 116 | **7.2×** 🚨 |
-| `2026-06-19` | 99 | **6.1×** 🚨 |
-| `2026-06-05` | 76 | **4.7×** 🔥 |
+| `2026-06-12` | 511 | **30.7×** 🚨 |
+| `2026-07-13` | 163 | **9.8×** 🚨 |
+| `2026-06-15` | 116 | **7.0×** 🚨 |
+| `2026-06-19` | 99 | **5.9×** 🚨 |
+| `2026-06-05` | 76 | **4.6×** 🔥 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`trust (22)` &middot; `crypto (18)` &middot; `secure (18)` &middot; `support (14)` &middot; `wallet (14)` &middot; `swap (11)` &middot; `bridge (8)` &middot; `verify (8)` &middot; `login (7)` &middot; `binance (6)` &middot; `vault (6)` &middot; `kraken (4)` &middot; `ledger (4)` &middot; `connect (4)` &middot; `farm (4)`
+`trust (20)` &middot; `secure (18)` &middot; `crypto (18)` &middot; `support (13)` &middot; `wallet (12)` &middot; `swap (10)` &middot; `bridge (8)` &middot; `verify (7)` &middot; `login (7)` &middot; `vault (6)` &middot; `binance (5)` &middot; `ledger (4)` &middot; `kraken (4)` &middot; `update (4)` &middot; `connect (4)`
 
 ### 🕵️ Top Serial Registrants — 3 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `sup***@mostbet.com` | **11** |
-| 2 | `i***@mostbet.com` | **8** |
-| 3 | `tec***@mostbet.com` | **5** |
+| 1 | `sup***@mostbet.com` | **16** |
+| 2 | `i***@mostbet.com` | **13** |
+| 3 | `tec***@mostbet.com` | **10** |
 
 ### 📥 Download Threat Intelligence
 
