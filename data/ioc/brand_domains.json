@@ -1,48 +1,6 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "keywords": {
-    "trust": [
-      "ctbtrust.com",
-      "get-trustcard.app",
-      "premium-trust.app",
-      "premium-trust.icu",
-      "test-lux-trust-1.sbs",
-      "thetrustcard.site",
-      "trust-mint.com",
-      "trustcard.link",
-      "trustchemist.com",
-      "trusted-base.pro",
-      "trusted-confirm.pro",
-      "trusted-premium.pro",
-      "trustfee.icu",
-      "trustidcard.com",
-      "trustify.latino",
-      "trustlottery.cfd",
-      "trustmixer.pro",
-      "trustprototype.tech",
-      "trustvs.com",
-      "xmltrust.com"
-    ],
-    "secure": [
-      "3sw-secure.tech",
-      "bmosecurevalidation.help",
-      "mainsecured.com",
-      "payssecure.pro",
-      "rbcroyalbanksecureportal.help",
-      "rbcroyalbanksecurevalidation.help",
-      "secure-acces.help",
-      "securemypass.tech",
-      "secureonlinesupport.help",
-      "secureplus-consorsbank.app",
-      "securereset.help",
-      "securesupport.help",
-      "secureswiss.online",
-      "td-onlineresetsecure.help",
-      "td-secureresetonline.help",
-      "tdsecuredresolutions.help",
-      "tdsecurevalidation.help",
-      "wellsfargo3dsecure.pro"
-    ],
     "crypto": [
       "bestcryptomixers.com",
       "crypto-race.fun",
@@ -63,6 +21,42 @@
       "neocrypto.work",
       "spark-crypto.com"
     ],
+    "secure": [
+      "3sw-secure.tech",
+      "bmosecurevalidation.help",
+      "mainsecured.com",
+      "payssecure.pro",
+      "rbcroyalbanksecureportal.help",
+      "rbcroyalbanksecurevalidation.help",
+      "secure-acces.help",
+      "securemypass.tech",
+      "secureonlinesupport.help",
+      "secureplus-consorsbank.app",
+      "securereset.help",
+      "securesupport.help",
+      "secureswiss.online",
+      "td-onlineresetsecure.help",
+      "td-secureresetonline.help",
+      "tdsecuredresolutions.help",
+      "tdsecurevalidation.help"
+    ],
+    "trust": [
+      "ctbtrust.com",
+      "get-trustcard.app",
+      "premium-trust.app",
+      "premium-trust.icu",
+      "test-lux-trust-1.sbs",
+      "thetrustcard.site",
+      "trust-mint.com",
+      "trustcard.link",
+      "trustchemist.com",
+      "trustfee.icu",
+      "trustify.latino",
+      "trustlottery.cfd",
+      "trustprototype.tech",
+      "trustvs.com",
+      "xmltrust.com"
+    ],
     "support": [
       "0support-resetverif.help",
       "bmosupportpage.help",
@@ -79,7 +73,6 @@
       "wehelpglobalsupport.pro"
     ],
     "wallet": [
-      "api-walletconnect.pro",
       "bifrostwalletapps.download",
       "com-account-wallet-12ff.fun",
       "com-wallet.site",
@@ -88,7 +81,6 @@
       "pulsewalletdashboard.online",
       "tw-walletcard.store",
       "wallet-base.pro",
-      "wallet-confirm.pro",
       "wallet-settings.pro",
       "zkxwallet.app"
     ],
@@ -106,7 +98,6 @@
     ],
     "bridge": [
       "arbitrum-bridge.com",
-      "avaxbridge.pro",
       "biitbridge.online",
       "bitbridges.online",
       "lineabridge.net",
@@ -147,17 +138,17 @@
       "binanceinfo.site",
       "customerbinance.com"
     ],
+    "bitcoin": [
+      "bitcoin-mastery.app",
+      "bitcoin.latino",
+      "bitcoinfuture.app",
+      "buybitcoinmineronline.com"
+    ],
     "ledger": [
       "beast-ledger.online",
       "ledger-live.help",
       "ledgerfirmware.app",
       "ledgerlive.icu"
-    ],
-    "kraken": [
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.online",
-      "krakenplay.com",
-      "krakensite.net"
     ],
     "update": [
       "firmware-updater.cloud",
@@ -165,28 +156,17 @@
       "microssoftupdates.pro",
       "policyupdate.dev"
     ],
-    "connect": [
-      "api-walletconnect.pro",
-      "connect-clients.com",
-      "connected-api.pro",
-      "ekoconnect.net"
-    ],
-    "bitcoin": [
-      "bitcoin-mastery.app",
-      "bitcoin.latino",
-      "bitcoinfuture.app",
-      "buybitcoinmineronline.com"
+    "kraken": [
+      "kraken-signin-session.icu",
+      "kraken-verifizierung.online",
+      "krakenplay.com",
+      "krakensite.net"
     ],
     "farm": [
       "boredfarm.com",
       "boredfarms.com",
       "moneyfarm.latino",
       "streetfarma.com"
-    ],
-    "official": [
-      "cricfy-official.app",
-      "jojobet-official.ink",
-      "nakitbahis-official.live"
     ],
     "mint": [
       "mintanchor.biz",
@@ -197,6 +177,14 @@
       "carbon-defi.com",
       "defi.latino",
       "tron-defi.com"
+    ],
+    "connect": [
+      "connect-clients.com",
+      "ekoconnect.net"
+    ],
+    "token": [
+      "token.latino",
+      "tokensex.online"
     ]
   }
 }
