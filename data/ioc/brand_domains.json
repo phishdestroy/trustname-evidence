@@ -1,26 +1,6 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "keywords": {
-    "crypto": [
-      "bestcryptomixers.com",
-      "crypto-race.fun",
-      "cryptobank.latino",
-      "cryptobetix.com",
-      "cryptocasino.latino",
-      "cryptocourse.latino",
-      "cryptomarket.latino",
-      "cryptomoney.latino",
-      "cryptonut.app",
-      "cryptoroll.app",
-      "cryptospin.bond",
-      "cryptotrade.latino",
-      "decrypto.fun",
-      "k8crypto.biz",
-      "mediumcrypto.com",
-      "mineriacrypto.latino",
-      "neocrypto.work",
-      "spark-crypto.com"
-    ],
     "secure": [
       "3sw-secure.tech",
       "bmosecurevalidation.help",
@@ -40,22 +20,24 @@
       "tdsecuredresolutions.help",
       "tdsecurevalidation.help"
     ],
-    "trust": [
-      "ctbtrust.com",
-      "get-trustcard.app",
-      "premium-trust.app",
-      "premium-trust.icu",
-      "test-lux-trust-1.sbs",
-      "thetrustcard.site",
-      "trust-mint.com",
-      "trustcard.link",
-      "trustchemist.com",
-      "trustfee.icu",
-      "trustify.latino",
-      "trustlottery.cfd",
-      "trustprototype.tech",
-      "trustvs.com",
-      "xmltrust.com"
+    "crypto": [
+      "bestcryptomixers.com",
+      "crypto-race.fun",
+      "cryptobank.latino",
+      "cryptocasino.latino",
+      "cryptocourse.latino",
+      "cryptomarket.latino",
+      "cryptomoney.latino",
+      "cryptonut.app",
+      "cryptoroll.app",
+      "cryptospin.bond",
+      "cryptotrade.latino",
+      "decrypto.fun",
+      "k8crypto.biz",
+      "mediumcrypto.com",
+      "mineriacrypto.latino",
+      "neocrypto.work",
+      "spark-crypto.com"
     ],
     "support": [
       "0support-resetverif.help",
@@ -72,6 +54,20 @@
       "webglobalsupport.pro",
       "wehelpglobalsupport.pro"
     ],
+    "trust": [
+      "get-trustcard.app",
+      "premium-trust.app",
+      "premium-trust.icu",
+      "test-lux-trust-1.sbs",
+      "thetrustcard.site",
+      "trust-mint.com",
+      "trustcard.link",
+      "trustchemist.com",
+      "trustfee.icu",
+      "trustify.latino",
+      "trustlottery.cfd",
+      "trustprototype.tech"
+    ],
     "wallet": [
       "bifrostwalletapps.download",
       "com-account-wallet-12ff.fun",
@@ -80,7 +76,6 @@
       "movvewallet.icu",
       "pulsewalletdashboard.online",
       "tw-walletcard.store",
-      "wallet-base.pro",
       "wallet-settings.pro",
       "zkxwallet.app"
     ],
@@ -88,34 +83,13 @@
       "blaizeswaps.pro",
       "blazesswap.icu",
       "blazesswap.pro",
-      "getbitswap.com",
       "honeyswap.net",
       "pumpswappss.fun",
-      "sun-swap.net",
       "sunswap.fun",
       "swap.latino",
       "thor-swap.net"
     ],
-    "bridge": [
-      "arbitrum-bridge.com",
-      "biitbridge.online",
-      "bitbridges.online",
-      "lineabridge.net",
-      "mantle-bridge.com",
-      "portalbridges.com",
-      "tronbridge.pro"
-    ],
-    "verify": [
-      "insta-verify-now.cyou",
-      "portal-verify.app",
-      "server-verify.com",
-      "verify-find.sbs",
-      "verify-server.sbs",
-      "verify-shopify.pro",
-      "verify2auth-ytglcvfewdf.pro"
-    ],
     "login": [
-      "casinoas-direct-login.live",
       "holiganbet-loginadress.icu",
       "holiganbet-loginsociall.icu",
       "holiganbet-tr2026logins.icu",
@@ -123,20 +97,33 @@
       "marsbahis-loginadres2026.cyou",
       "perabetlogin.icu"
     ],
-    "vault": [
-      "chainsvault.online",
-      "holigan-vault.cyou",
-      "kavault.xyz",
-      "nulledvault.com",
-      "scriptsvaults.com",
-      "vaultlens.wiki"
-    ],
     "binance": [
       "binance-il.com",
       "binance-pay.live",
       "binanceinfo.fun",
       "binanceinfo.site",
       "customerbinance.com"
+    ],
+    "vault": [
+      "chainsvault.online",
+      "holigan-vault.cyou",
+      "kavault.xyz",
+      "scriptsvaults.com",
+      "vaultlens.wiki"
+    ],
+    "bridge": [
+      "arbitrum-bridge.com",
+      "biitbridge.online",
+      "bitbridges.online",
+      "lineabridge.net",
+      "portalbridges.com"
+    ],
+    "verify": [
+      "insta-verify-now.cyou",
+      "portal-verify.app",
+      "verify-find.sbs",
+      "verify-server.sbs",
+      "verify-shopify.pro"
     ],
     "bitcoin": [
       "bitcoin-mastery.app",
@@ -153,18 +140,15 @@
     "update": [
       "firmware-updater.cloud",
       "live-updates.online",
-      "microssoftupdates.pro",
       "policyupdate.dev"
     ],
-    "kraken": [
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.online",
-      "krakenplay.com",
-      "krakensite.net"
+    "defi": [
+      "carbon-defi.com",
+      "defi.latino",
+      "tron-defi.com"
     ],
     "farm": [
       "boredfarm.com",
-      "boredfarms.com",
       "moneyfarm.latino",
       "streetfarma.com"
     ],
@@ -173,10 +157,9 @@
       "minter.latino",
       "trust-mint.com"
     ],
-    "defi": [
-      "carbon-defi.com",
-      "defi.latino",
-      "tron-defi.com"
+    "kraken": [
+      "kraken-signin-session.icu",
+      "kraken-verifizierung.online"
     ],
     "connect": [
       "connect-clients.com",

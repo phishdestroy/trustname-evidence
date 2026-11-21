@@ -1,15 +1,15 @@
 {
   "month": "2026-11",
-  "generated": "2026-11-20",
-  "total_domains": 4587,
-  "total_revenue": 23293.92,
-  "avg_reg_days": 384,
-  "deployment_rate": 50.1,
+  "generated": "2026-11-21",
+  "total_domains": 4340,
+  "total_revenue": 21070.39,
+  "avg_reg_days": 377,
+  "deployment_rate": 50.8,
   "fresh_pct": 0.0,
   "unranked_pct": 99.6,
-  "correlation_pct": 6.9,
+  "correlation_pct": 6.5,
   "serial_registrants": 3,
   "top_tld": "icu",
   "top_country": "US",
-  "top_brand": "crypto"
+  "top_brand": "secure"
 }
