@@ -88,13 +88,13 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-22`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-23`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>4,113</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$18,987</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>3,919</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$17,211</strong></td>
 </tr><tr>
-<td align="center"><b>📡 Deployed</b><br/><strong>50.4%</strong></td>
+<td align="center"><b>📡 Deployed</b><br/><strong>50.3%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
 </tr><tr>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.0%</strong></td>
@@ -117,42 +117,42 @@ The notice also provides for transferring the registrar's domains to a qualified
 | `.site` | 174 | 365d | $868 |
 | `.cfd` | 153 | 365d | $763 |
 | `.app` | 129 | 418d | $1,806 |
-| `.com` | 118 | 414d | $1,061 |
+| `.tech` | 117 | 365d | $1,169 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        697 (74.0%)
-BR  █░░░░░░░░░░░░░░░░░         75 (8.0%)
-FR  ░░░░░░░░░░░░░░░░░░         26 (2.8%)
-DE  ░░░░░░░░░░░░░░░░░░         24 (2.5%)
-NL  ░░░░░░░░░░░░░░░░░░         19 (2.0%)
-MD  ░░░░░░░░░░░░░░░░░░         15 (1.6%)
-CZ  ░░░░░░░░░░░░░░░░░░         13 (1.4%)
-RU  ░░░░░░░░░░░░░░░░░░          8 (0.8%)
+US  ██████████████████        691 (75.3%)
+BR  █░░░░░░░░░░░░░░░░░         75 (8.2%)
+FR  ░░░░░░░░░░░░░░░░░░         24 (2.6%)
+DE  ░░░░░░░░░░░░░░░░░░         22 (2.4%)
+NL  ░░░░░░░░░░░░░░░░░░         18 (2.0%)
+MD  ░░░░░░░░░░░░░░░░░░         10 (1.1%)
+CZ  ░░░░░░░░░░░░░░░░░░          9 (1.0%)
+RU  ░░░░░░░░░░░░░░░░░░          8 (0.9%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-12` | 511 | **30.3×** 🚨 |
-| `2026-07-13` | 160 | **9.5×** 🚨 |
-| `2026-06-15` | 112 | **6.6×** 🚨 |
-| `2026-06-19` | 98 | **5.8×** 🚨 |
-| `2026-06-05` | 76 | **4.5×** 🔥 |
+| `2026-06-12` | 510 | **30.8×** 🚨 |
+| `2026-07-13` | 158 | **9.6×** 🚨 |
+| `2026-06-15` | 112 | **6.8×** 🚨 |
+| `2026-06-19` | 97 | **5.9×** 🚨 |
+| `2026-06-05` | 75 | **4.5×** 🔥 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`secure (16)` &middot; `crypto (14)` &middot; `support (12)` &middot; `trust (11)` &middot; `wallet (8)` &middot; `login (6)` &middot; `swap (5)` &middot; `vault (5)` &middot; `verify (4)` &middot; `bridge (4)` &middot; `bitcoin (4)` &middot; `ledger (4)` &middot; `update (3)` &middot; `binance (3)` &middot; `mint (2)`
+`secure (16)` &middot; `crypto (14)` &middot; `support (10)` &middot; `trust (10)` &middot; `wallet (8)` &middot; `login (6)` &middot; `swap (4)` &middot; `verify (4)` &middot; `vault (4)` &middot; `ledger (4)` &middot; `update (3)` &middot; `bitcoin (3)` &middot; `mint (2)` &middot; `official (2)` &middot; `binance (2)`
 
 ### 🕵️ Top Serial Registrants — 4 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `sup***@mostbet.com` | **26** |
-| 2 | `i***@mostbet.com` | **23** |
-| 3 | `tec***@mostbet.com` | **17** |
+| 1 | `sup***@mostbet.com` | **28** |
+| 2 | `i***@mostbet.com` | **27** |
+| 3 | `tec***@mostbet.com` | **21** |
 | 4 | `off***@mostbet.com` | **6** |
 
 ### 📥 Download Threat Intelligence
