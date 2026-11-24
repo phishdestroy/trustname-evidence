@@ -88,11 +88,11 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-23`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-24`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>3,919</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$17,211</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>3,904</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$17,087</strong></td>
 </tr><tr>
 <td align="center"><b>📡 Deployed</b><br/><strong>50.3%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
@@ -108,7 +108,7 @@ The notice also provides for transferring the registrar's domains to a qualified
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.icu` | 956 | 365d | $946 |
+| `.icu` | 955 | 365d | $945 |
 | `.latino` | 630 | 365d | $3,144 |
 | `.online` | 340 | 371d | $1,697 |
 | `.fun` | 223 | 365d | $1,113 |
@@ -122,14 +122,14 @@ The notice also provides for transferring the registrar's domains to a qualified
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        691 (75.3%)
+US  ██████████████████        690 (75.3%)
 BR  █░░░░░░░░░░░░░░░░░         75 (8.2%)
 FR  ░░░░░░░░░░░░░░░░░░         24 (2.6%)
-DE  ░░░░░░░░░░░░░░░░░░         22 (2.4%)
+DE  ░░░░░░░░░░░░░░░░░░         20 (2.2%)
 NL  ░░░░░░░░░░░░░░░░░░         18 (2.0%)
-MD  ░░░░░░░░░░░░░░░░░░         10 (1.1%)
+MD  ░░░░░░░░░░░░░░░░░░          9 (1.0%)
+RU  ░░░░░░░░░░░░░░░░░░          9 (1.0%)
 CZ  ░░░░░░░░░░░░░░░░░░          9 (1.0%)
-RU  ░░░░░░░░░░░░░░░░░░          8 (0.9%)
 ```
 
 ### 📈 Registration Burst Days
@@ -144,7 +144,7 @@ RU  ░░░░░░░░░░░░░░░░░░          8 (0.9%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`secure (16)` &middot; `crypto (14)` &middot; `support (10)` &middot; `trust (10)` &middot; `wallet (8)` &middot; `login (6)` &middot; `swap (4)` &middot; `verify (4)` &middot; `vault (4)` &middot; `ledger (4)` &middot; `update (3)` &middot; `bitcoin (3)` &middot; `mint (2)` &middot; `official (2)` &middot; `binance (2)`
+`secure (15)` &middot; `crypto (14)` &middot; `trust (10)` &middot; `support (10)` &middot; `wallet (8)` &middot; `login (6)` &middot; `swap (4)` &middot; `verify (4)` &middot; `vault (4)` &middot; `ledger (4)` &middot; `update (3)` &middot; `bitcoin (3)` &middot; `official (2)` &middot; `token (2)` &middot; `binance (2)`
 
 ### 🕵️ Top Serial Registrants — 4 emails with ≥5 domains
 

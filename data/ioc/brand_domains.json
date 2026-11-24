@@ -1,10 +1,9 @@
 {
-  "generated": "2026-11-23",
+  "generated": "2026-11-24",
   "keywords": {
     "secure": [
       "3sw-secure.tech",
       "bmosecurevalidation.help",
-      "payssecure.pro",
       "rbcroyalbanksecureportal.help",
       "rbcroyalbanksecurevalidation.help",
       "secure-acces.help",
@@ -35,18 +34,6 @@
       "mineriacrypto.latino",
       "neocrypto.work"
     ],
-    "support": [
-      "0support-resetverif.help",
-      "bmosupportpage.help",
-      "ganduscamsupport.cyou",
-      "mail-support.tech",
-      "myverifsupportuidauth.online",
-      "scotiaaresetsupport1.help",
-      "secureonlinesupport.help",
-      "securesupport.help",
-      "support-pro.site",
-      "tdeasywebsupport.help"
-    ],
     "trust": [
       "get-trustcard.app",
       "premium-trust.app",
@@ -58,6 +45,18 @@
       "trustify.latino",
       "trustlottery.cfd",
       "trustprototype.tech"
+    ],
+    "support": [
+      "0support-resetverif.help",
+      "bmosupportpage.help",
+      "ganduscamsupport.cyou",
+      "mail-support.tech",
+      "myverifsupportuidauth.online",
+      "scotiaaresetsupport1.help",
+      "secureonlinesupport.help",
+      "securesupport.help",
+      "support-pro.site",
+      "tdeasywebsupport.help"
     ],
     "wallet": [
       "bifrostwalletapps.download",
@@ -111,32 +110,32 @@
       "bitcoin.latino",
       "bitcoinfuture.app"
     ],
-    "mint": [
-      "mintanchor.biz",
-      "minter.latino"
-    ],
     "official": [
       "cricfy-official.app",
       "jojobet-official.ink"
-    ],
-    "binance": [
-      "binanceinfo.fun",
-      "binanceinfo.site"
-    ],
-    "kraken": [
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.online"
-    ],
-    "bridge": [
-      "biitbridge.online",
-      "bitbridges.online"
     ],
     "token": [
       "token.latino",
       "tokensex.online"
     ],
-    "claim": [
-      "claim-cgeb-ab.help"
+    "binance": [
+      "binanceinfo.fun",
+      "binanceinfo.site"
+    ],
+    "bridge": [
+      "biitbridge.online",
+      "bitbridges.online"
+    ],
+    "mint": [
+      "mintanchor.biz",
+      "minter.latino"
+    ],
+    "kraken": [
+      "kraken-signin-session.icu",
+      "kraken-verifizierung.online"
+    ],
+    "ethereum": [
+      "ethereum.latino"
     ],
     "coinbase": [
       "coinbase-card.vip"

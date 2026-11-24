@@ -2385,7 +2385,7 @@
     {
       "date": "2025-12-24",
       "count": 11,
-      "revenue": 8.99,
+      "revenue": 100.89,
       "path": "data/new/2025/12/2025-12-24.txt"
     },
     {
@@ -3513,7 +3513,7 @@
     {
       "date": "2026-07-05",
       "count": 114,
-      "revenue": 104.84,
+      "revenue": 95.85,
       "path": "data/new/2026/07/2026-07-05.txt"
     },
     {
@@ -3651,7 +3651,7 @@
     {
       "date": "2026-07-28",
       "count": 175,
-      "revenue": 217.4,
+      "revenue": 216.41,
       "path": "data/new/2026/07/2026-07-28.txt"
     },
     {
@@ -3807,7 +3807,7 @@
     {
       "date": "2026-08-23",
       "count": 128,
-      "revenue": 61.75,
+      "revenue": 53.76,
       "path": "data/new/2026/08/2026-08-23.txt"
     },
     {
@@ -3819,25 +3819,25 @@
     {
       "date": "2026-08-25",
       "count": 204,
-      "revenue": 137.64,
+      "revenue": 119.66,
       "path": "data/new/2026/08/2026-08-25.txt"
     },
     {
       "date": "2026-08-26",
       "count": 202,
-      "revenue": 218.38,
+      "revenue": 210.39,
       "path": "data/new/2026/08/2026-08-26.txt"
     },
     {
       "date": "2026-08-27",
       "count": 191,
-      "revenue": 156.97,
+      "revenue": 133.0,
       "path": "data/new/2026/08/2026-08-27.txt"
     },
     {
       "date": "2026-08-28",
       "count": 143,
-      "revenue": 289.85,
+      "revenue": 258.88,
       "path": "data/new/2026/08/2026-08-28.txt"
     },
     {
@@ -3891,7 +3891,7 @@
     {
       "date": "2026-09-06",
       "count": 31,
-      "revenue": 11.98,
+      "revenue": 3.99,
       "path": "data/new/2026/09/2026-09-06.txt"
     },
     {
@@ -3915,7 +3915,7 @@
     {
       "date": "2026-09-10",
       "count": 24,
-      "revenue": 12.98,
+      "revenue": 4.99,
       "path": "data/new/2026/09/2026-09-10.txt"
     },
     {
@@ -4070,7 +4070,7 @@
     }
   ],
   "total_new_all_time": 22344,
-  "total_domains": 3919,
+  "total_domains": 3904,
   "new_since_last_fetch": 0,
   "fetch_log": [
     {
@@ -4139,48 +4139,48 @@
       "path": "data/fetched/2026-11-19.txt"
     }
   ],
-  "total_revenue_estimate": 17210.6,
+  "total_revenue_estimate": 17086.75,
   "avg_registration_days": 374,
   "ip_countries": {
-    "US": 691,
+    "US": 690,
     "BR": 75,
     "FR": 24,
-    "DE": 22,
+    "DE": 20,
     "NL": 18,
-    "MD": 10,
+    "MD": 9,
+    "RU": 9,
     "CZ": 9,
-    "RU": 8,
     "AE": 6,
-    "TR": 6
+    "FI": 6
   },
   "top_shared_ips": {
-    "188.114.97.3": 257,
-    "188.114.96.3": 256,
-    "64.176.195.8": 126,
-    "149.28.63.113": 116,
-    "45.77.200.164": 113,
-    "149.28.42.111": 98,
-    "45.77.102.235": 96,
-    "45.77.110.111": 81,
+    "188.114.97.3": 255,
+    "188.114.96.3": 254,
+    "64.176.195.8": 128,
+    "149.28.63.113": 117,
+    "45.77.200.164": 114,
+    "45.77.102.235": 99,
+    "149.28.42.111": 92,
+    "45.77.110.111": 80,
     "50.6.138.176": 53,
     "69.49.241.129": 21,
     "89.117.51.233": 15,
     "104.21.58.179": 9,
-    "104.21.77.181": 8,
     "172.67.148.41": 8,
     "172.67.204.91": 7,
-    "172.67.160.118": 7,
-    "172.67.162.105": 6,
-    "104.21.49.37": 6,
+    "172.67.162.105": 7,
+    "104.21.77.181": 7,
+    "104.21.42.92": 6,
+    "172.67.160.118": 6,
     "185.153.231.141": 6,
     "104.21.71.194": 6
   },
-  "deployed_count": 1970,
-  "no_ip_count": 1949,
+  "deployed_count": 1962,
+  "no_ip_count": 1942,
   "deployment_rate": 50.3,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 3879,
+    "eq_1yr": 3864,
     "yr_2": 19,
     "yr_3plus": 21
   },
@@ -4188,7 +4188,7 @@
   "pct_gt_2yr": 0.5,
   "tld_stats": {
     "icu": {
-      "count": 956,
+      "count": 955,
       "avg_days": 365
     },
     "latino": {
@@ -4270,16 +4270,16 @@
   },
   "revenue_by_tld": {
     "icu": {
-      "count": 956,
+      "count": 955,
       "price": 0.99,
-      "revenue": 946.44,
+      "revenue": 945.45,
       "pct": 5.5
     },
     "latino": {
       "count": 630,
       "price": 4.99,
       "revenue": 3143.7,
-      "pct": 18.3
+      "pct": 18.4
     },
     "online": {
       "count": 340,
@@ -4309,19 +4309,19 @@
       "count": 174,
       "price": 4.99,
       "revenue": 868.26,
-      "pct": 5.0
+      "pct": 5.1
     },
     "cfd": {
       "count": 153,
       "price": 4.99,
       "revenue": 763.47,
-      "pct": 4.4
+      "pct": 4.5
     },
     "app": {
       "count": 129,
       "price": 14.0,
       "revenue": 1806.0,
-      "pct": 10.5
+      "pct": 10.6
     },
     "tech": {
       "count": 117,
@@ -4345,7 +4345,7 @@
       "count": 73,
       "price": 5.99,
       "revenue": 437.27,
-      "pct": 2.5
+      "pct": 2.6
     },
     "ink": {
       "count": 61,
@@ -4381,7 +4381,7 @@
       "count": 30,
       "price": 9.99,
       "revenue": 299.7,
-      "pct": 1.7
+      "pct": 1.8
     },
     "win": {
       "count": 29,
@@ -4394,9 +4394,9 @@
     "same_day": 0,
     "within_week": 0,
     "within_month": 0,
-    "older": 3919
+    "older": 3904
   },
-  "avg_catch_age_days": 155,
+  "avg_catch_age_days": 156,
   "fresh_pct": 0.0,
   "burst_days": [
     {
@@ -4425,14 +4425,14 @@
       "x_avg": 4.5
     },
     {
-      "date": "2026-08-28",
-      "count": 65,
-      "x_avg": 3.9
+      "date": "2026-08-26",
+      "count": 62,
+      "x_avg": 3.7
     },
     {
-      "date": "2026-08-26",
-      "count": 63,
-      "x_avg": 3.8
+      "date": "2026-08-28",
+      "count": 62,
+      "x_avg": 3.7
     },
     {
       "date": "2026-06-21",
@@ -4441,7 +4441,7 @@
     },
     {
       "date": "2026-07-28",
-      "count": 60,
+      "count": 59,
       "x_avg": 3.6
     },
     {
@@ -4462,6 +4462,7 @@
     "kontakt@hry-aplikace.app": 1,
     "kontakt@hry-aplikacie.app": 1,
     "kontakt@igri-prilozheniya.app": 1,
+    "hei@pelit-sovellus.app": 1,
     "hej@spil-apps.app": 1,
     "help@etavisaonline.online": 1,
     "info@certoracle.cloud": 1,
@@ -4469,8 +4470,7 @@
     "support@hoster.kz": 1,
     "support@922proxys5.com": 1,
     "support@leadonline.online": 1,
-    "contact@swislife.online": 1,
-    "hello@meha.biz": 1
+    "contact@swislife.online": 1
   },
   "top_registrant_phones": {
     "+442038077601": 10,
@@ -4486,10 +4486,10 @@
   },
   "serial_email_count": 3,
   "brand_heatmap": {
-    "secure": 16,
+    "secure": 15,
     "crypto": 14,
-    "support": 10,
     "trust": 10,
+    "support": 10,
     "wallet": 8,
     "login": 6,
     "swap": 4,
@@ -4498,19 +4498,19 @@
     "ledger": 4,
     "update": 3,
     "bitcoin": 3,
-    "mint": 2,
     "official": 2,
-    "binance": 2,
-    "kraken": 2,
-    "bridge": 2,
     "token": 2,
-    "claim": 1,
+    "binance": 2,
+    "bridge": 2,
+    "mint": 2,
+    "kraken": 2,
+    "ethereum": 1,
     "coinbase": 1
   },
   "unranked_pct": 99.7,
   "ranked_count": 13,
   "correlation_count": 237,
-  "correlation_pct": 6.0,
-  "last_updated": "2026-11-23",
+  "correlation_pct": 6.1,
+  "last_updated": "2026-11-24",
   "latest_reg": "2026-09-19"
 }
