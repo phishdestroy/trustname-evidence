@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "keywords": {
     "secure": [
       "3sw-secure.tech",
@@ -76,18 +76,6 @@
       "marsbahis-loginadres2026.cyou",
       "perabetlogin.icu"
     ],
-    "swap": [
-      "blazesswap.icu",
-      "pumpswappss.fun",
-      "sunswap.fun",
-      "swap.latino"
-    ],
-    "verify": [
-      "insta-verify-now.cyou",
-      "portal-verify.app",
-      "verify-find.sbs",
-      "verify-server.sbs"
-    ],
     "vault": [
       "chainsvault.online",
       "holigan-vault.cyou",
@@ -100,6 +88,18 @@
       "ledgerfirmware.app",
       "ledgerlive.icu"
     ],
+    "swap": [
+      "blazesswap.icu",
+      "pumpswappss.fun",
+      "sunswap.fun",
+      "swap.latino"
+    ],
+    "verify": [
+      "insta-verify-now.cyou",
+      "portal-verify.app",
+      "verify-find.sbs",
+      "verify-server.sbs"
+    ],
     "update": [
       "firmware-updater.cloud",
       "live-updates.online",
@@ -110,35 +110,35 @@
       "bitcoin.latino",
       "bitcoinfuture.app"
     ],
-    "official": [
-      "cricfy-official.app",
-      "jojobet-official.ink"
-    ],
     "token": [
       "token.latino",
       "tokensex.online"
-    ],
-    "binance": [
-      "binanceinfo.fun",
-      "binanceinfo.site"
-    ],
-    "bridge": [
-      "biitbridge.online",
-      "bitbridges.online"
     ],
     "mint": [
       "mintanchor.biz",
       "minter.latino"
     ],
+    "bridge": [
+      "biitbridge.online",
+      "bitbridges.online"
+    ],
+    "binance": [
+      "binanceinfo.fun",
+      "binanceinfo.site"
+    ],
     "kraken": [
       "kraken-signin-session.icu",
       "kraken-verifizierung.online"
     ],
-    "ethereum": [
-      "ethereum.latino"
+    "official": [
+      "cricfy-official.app",
+      "jojobet-official.ink"
     ],
-    "coinbase": [
-      "coinbase-card.vip"
+    "farm": [
+      "moneyfarm.latino"
+    ],
+    "bybit": [
+      "bybit.ing"
     ]
   }
 }
