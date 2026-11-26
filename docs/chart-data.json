@@ -3369,7 +3369,7 @@
     {
       "date": "2026-06-11",
       "count": 191,
-      "revenue": 149.65,
+      "revenue": 141.66,
       "path": "data/new/2026/06/2026-06-11.txt"
     },
     {
@@ -3711,7 +3711,7 @@
     {
       "date": "2026-08-07",
       "count": 124,
-      "revenue": 86.77,
+      "revenue": 85.78,
       "path": "data/new/2026/08/2026-08-07.txt"
     },
     {
@@ -3927,7 +3927,7 @@
     {
       "date": "2026-09-12",
       "count": 26,
-      "revenue": 4.99,
+      "revenue": 234.74,
       "path": "data/new/2026/09/2026-09-12.txt"
     },
     {
@@ -4070,7 +4070,7 @@
     }
   ],
   "total_new_all_time": 22344,
-  "total_domains": 3899,
+  "total_domains": 3896,
   "new_since_last_fetch": 0,
   "fetch_log": [
     {
@@ -4139,14 +4139,14 @@
       "path": "data/fetched/2026-11-19.txt"
     }
   ],
-  "total_revenue_estimate": 17043.79,
+  "total_revenue_estimate": 17029.82,
   "avg_registration_days": 374,
   "ip_countries": {
     "US": 691,
-    "BR": 75,
+    "BR": 70,
     "FR": 24,
     "DE": 20,
-    "NL": 18,
+    "NL": 19,
     "RU": 9,
     "MD": 8,
     "CZ": 8,
@@ -4154,33 +4154,33 @@
     "FI": 6
   },
   "top_shared_ips": {
-    "188.114.97.3": 254,
-    "188.114.96.3": 253,
-    "64.176.195.8": 122,
+    "188.114.97.3": 252,
+    "188.114.96.3": 252,
+    "64.176.195.8": 121,
     "45.77.200.164": 117,
-    "149.28.63.113": 113,
-    "149.28.42.111": 99,
-    "45.77.102.235": 97,
-    "45.77.110.111": 82,
-    "50.6.138.176": 53,
-    "69.49.241.129": 21,
+    "149.28.63.113": 112,
+    "45.77.102.235": 103,
+    "149.28.42.111": 97,
+    "45.77.110.111": 80,
+    "50.6.138.176": 50,
+    "69.49.241.129": 19,
     "89.117.51.233": 15,
     "104.21.58.179": 9,
-    "172.67.204.91": 7,
+    "104.21.42.92": 7,
     "172.67.162.105": 7,
     "104.21.77.181": 7,
     "104.21.71.194": 7,
     "172.67.148.41": 7,
     "176.97.75.178": 7,
-    "104.21.42.92": 6,
-    "172.67.160.118": 6
+    "172.67.204.91": 6,
+    "185.153.231.141": 6
   },
-  "deployed_count": 1960,
-  "no_ip_count": 1939,
-  "deployment_rate": 50.3,
+  "deployed_count": 1953,
+  "no_ip_count": 1943,
+  "deployment_rate": 50.1,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 3858,
+    "eq_1yr": 3855,
     "yr_2": 20,
     "yr_3plus": 21
   },
@@ -4188,7 +4188,7 @@
   "pct_gt_2yr": 0.5,
   "tld_stats": {
     "icu": {
-      "count": 955,
+      "count": 954,
       "avg_days": 365
     },
     "latino": {
@@ -4270,16 +4270,16 @@
   },
   "revenue_by_tld": {
     "icu": {
-      "count": 955,
+      "count": 954,
       "price": 0.99,
-      "revenue": 945.45,
+      "revenue": 944.46,
       "pct": 5.5
     },
     "latino": {
       "count": 630,
       "price": 4.99,
       "revenue": 3143.7,
-      "pct": 18.4
+      "pct": 18.5
     },
     "online": {
       "count": 340,
@@ -4394,20 +4394,20 @@
     "same_day": 0,
     "within_week": 0,
     "within_month": 0,
-    "older": 3899
+    "older": 3896
   },
-  "avg_catch_age_days": 158,
+  "avg_catch_age_days": 159,
   "fresh_pct": 0.0,
   "burst_days": [
     {
       "date": "2026-06-12",
       "count": 510,
-      "x_avg": 30.6
+      "x_avg": 30.5
     },
     {
       "date": "2026-07-13",
       "count": 158,
-      "x_avg": 9.5
+      "x_avg": 9.4
     },
     {
       "date": "2026-06-15",
@@ -4451,9 +4451,9 @@
     }
   ],
   "top_registrant_emails": {
-    "support@mostbet.com": 30,
-    "id@mostbet.com": 30,
-    "techsupport@mostbet.com": 24,
+    "support@mostbet.com": 29,
+    "id@mostbet.com": 29,
+    "techsupport@mostbet.com": 23,
     "offerpayments@mostbet.com": 6,
     "support@1win.social": 4,
     "hello@aybatbet.com": 2,
@@ -4492,25 +4492,25 @@
     "support": 10,
     "wallet": 8,
     "login": 6,
-    "vault": 4,
-    "ledger": 4,
-    "swap": 4,
     "verify": 4,
-    "update": 3,
+    "ledger": 4,
+    "vault": 4,
+    "swap": 4,
     "bitcoin": 3,
-    "token": 2,
-    "mint": 2,
-    "bridge": 2,
-    "binance": 2,
-    "kraken": 2,
+    "update": 3,
     "official": 2,
-    "farm": 1,
-    "bybit": 1
+    "token": 2,
+    "binance": 2,
+    "bridge": 2,
+    "mint": 2,
+    "kraken": 2,
+    "ethereum": 1,
+    "claim": 1
   },
   "unranked_pct": 99.8,
-  "ranked_count": 8,
-  "correlation_count": 236,
-  "correlation_pct": 6.1,
-  "last_updated": "2026-11-25",
+  "ranked_count": 7,
+  "correlation_count": 235,
+  "correlation_pct": 6.0,
+  "last_updated": "2026-11-26",
   "latest_reg": "2026-09-19"
 }
