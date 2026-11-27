@@ -88,13 +88,13 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-26`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-27`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>3,896</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$17,030</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>3,893</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$17,017</strong></td>
 </tr><tr>
-<td align="center"><b>📡 Deployed</b><br/><strong>50.1%</strong></td>
+<td align="center"><b>📡 Deployed</b><br/><strong>49.9%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
 </tr><tr>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.0%</strong></td>
@@ -122,10 +122,10 @@ The notice also provides for transferring the registrar's domains to a qualified
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        691 (75.8%)
-BR  █░░░░░░░░░░░░░░░░░         70 (7.7%)
-FR  ░░░░░░░░░░░░░░░░░░         24 (2.6%)
-DE  ░░░░░░░░░░░░░░░░░░         20 (2.2%)
+US  ██████████████████        691 (76.4%)
+BR  █░░░░░░░░░░░░░░░░░         62 (6.9%)
+FR  ░░░░░░░░░░░░░░░░░░         24 (2.7%)
+DE  ░░░░░░░░░░░░░░░░░░         21 (2.3%)
 NL  ░░░░░░░░░░░░░░░░░░         19 (2.1%)
 RU  ░░░░░░░░░░░░░░░░░░          9 (1.0%)
 MD  ░░░░░░░░░░░░░░░░░░          8 (0.9%)
@@ -137,22 +137,22 @@ CZ  ░░░░░░░░░░░░░░░░░░          8 (0.9%)
 | Date | Domains | × Average |
 |:--|--:|--:|
 | `2026-06-12` | 510 | **30.5×** 🚨 |
-| `2026-07-13` | 158 | **9.4×** 🚨 |
+| `2026-07-13` | 158 | **9.5×** 🚨 |
 | `2026-06-15` | 112 | **6.7×** 🚨 |
 | `2026-06-19` | 97 | **5.8×** 🚨 |
 | `2026-06-05` | 75 | **4.5×** 🔥 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`secure (15)` &middot; `crypto (14)` &middot; `trust (10)` &middot; `support (10)` &middot; `wallet (8)` &middot; `login (6)` &middot; `verify (4)` &middot; `ledger (4)` &middot; `vault (4)` &middot; `swap (4)` &middot; `bitcoin (3)` &middot; `update (3)` &middot; `official (2)` &middot; `token (2)` &middot; `binance (2)`
+`secure (15)` &middot; `crypto (14)` &middot; `trust (10)` &middot; `support (10)` &middot; `wallet (8)` &middot; `login (6)` &middot; `verify (4)` &middot; `ledger (4)` &middot; `swap (4)` &middot; `vault (4)` &middot; `bitcoin (3)` &middot; `update (3)` &middot; `mint (2)` &middot; `bridge (2)` &middot; `binance (2)`
 
 ### 🕵️ Top Serial Registrants — 4 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `sup***@mostbet.com` | **29** |
-| 2 | `i***@mostbet.com` | **29** |
-| 3 | `tec***@mostbet.com` | **23** |
+| 1 | `sup***@mostbet.com` | **28** |
+| 2 | `i***@mostbet.com` | **28** |
+| 3 | `tec***@mostbet.com` | **22** |
 | 4 | `off***@mostbet.com` | **6** |
 
 ### 📥 Download Threat Intelligence

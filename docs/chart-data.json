@@ -3141,7 +3141,7 @@
     {
       "date": "2026-05-04",
       "count": 142,
-      "revenue": 98.79,
+      "revenue": 94.8,
       "path": "data/new/2026/05/2026-05-04.txt"
     },
     {
@@ -3597,7 +3597,7 @@
     {
       "date": "2026-07-19",
       "count": 84,
-      "revenue": 19.95,
+      "revenue": 15.96,
       "path": "data/new/2026/07/2026-07-19.txt"
     },
     {
@@ -3885,7 +3885,7 @@
     {
       "date": "2026-09-05",
       "count": 25,
-      "revenue": 10.98,
+      "revenue": 5.99,
       "path": "data/new/2026/09/2026-09-05.txt"
     },
     {
@@ -4070,7 +4070,7 @@
     }
   ],
   "total_new_all_time": 22344,
-  "total_domains": 3896,
+  "total_domains": 3893,
   "new_since_last_fetch": 0,
   "fetch_log": [
     {
@@ -4139,13 +4139,13 @@
       "path": "data/fetched/2026-11-19.txt"
     }
   ],
-  "total_revenue_estimate": 17029.82,
+  "total_revenue_estimate": 17016.85,
   "avg_registration_days": 374,
   "ip_countries": {
     "US": 691,
-    "BR": 70,
+    "BR": 62,
     "FR": 24,
-    "DE": 20,
+    "DE": 21,
     "NL": 19,
     "RU": 9,
     "MD": 8,
@@ -4154,17 +4154,17 @@
     "FI": 6
   },
   "top_shared_ips": {
-    "188.114.97.3": 252,
-    "188.114.96.3": 252,
-    "64.176.195.8": 121,
-    "45.77.200.164": 117,
-    "149.28.63.113": 112,
+    "188.114.96.3": 259,
+    "188.114.97.3": 244,
+    "45.77.200.164": 122,
+    "64.176.195.8": 115,
+    "149.28.63.113": 110,
     "45.77.102.235": 103,
-    "149.28.42.111": 97,
+    "149.28.42.111": 100,
     "45.77.110.111": 80,
-    "50.6.138.176": 50,
-    "69.49.241.129": 19,
+    "50.6.138.176": 47,
     "89.117.51.233": 15,
+    "69.49.241.129": 14,
     "104.21.58.179": 9,
     "104.21.42.92": 7,
     "172.67.162.105": 7,
@@ -4175,16 +4175,16 @@
     "172.67.204.91": 6,
     "185.153.231.141": 6
   },
-  "deployed_count": 1953,
-  "no_ip_count": 1943,
-  "deployment_rate": 50.1,
+  "deployed_count": 1943,
+  "no_ip_count": 1950,
+  "deployment_rate": 49.9,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 3855,
-    "yr_2": 20,
+    "eq_1yr": 3853,
+    "yr_2": 19,
     "yr_3plus": 21
   },
-  "pct_gt_1yr": 1.1,
+  "pct_gt_1yr": 1.0,
   "pct_gt_2yr": 0.5,
   "tld_stats": {
     "icu": {
@@ -4273,7 +4273,7 @@
       "count": 954,
       "price": 0.99,
       "revenue": 944.46,
-      "pct": 5.5
+      "pct": 5.6
     },
     "latino": {
       "count": 630,
@@ -4387,16 +4387,16 @@
       "count": 29,
       "price": 4.99,
       "revenue": 144.71,
-      "pct": 0.8
+      "pct": 0.9
     }
   },
   "catch_age_buckets": {
     "same_day": 0,
     "within_week": 0,
     "within_month": 0,
-    "older": 3896
+    "older": 3893
   },
-  "avg_catch_age_days": 159,
+  "avg_catch_age_days": 160,
   "fresh_pct": 0.0,
   "burst_days": [
     {
@@ -4407,7 +4407,7 @@
     {
       "date": "2026-07-13",
       "count": 158,
-      "x_avg": 9.4
+      "x_avg": 9.5
     },
     {
       "date": "2026-06-15",
@@ -4451,9 +4451,9 @@
     }
   ],
   "top_registrant_emails": {
-    "support@mostbet.com": 29,
-    "id@mostbet.com": 29,
-    "techsupport@mostbet.com": 23,
+    "support@mostbet.com": 28,
+    "id@mostbet.com": 28,
+    "techsupport@mostbet.com": 22,
     "offerpayments@mostbet.com": 6,
     "support@1win.social": 4,
     "hello@aybatbet.com": 2,
@@ -4494,23 +4494,23 @@
     "login": 6,
     "verify": 4,
     "ledger": 4,
-    "vault": 4,
     "swap": 4,
+    "vault": 4,
     "bitcoin": 3,
     "update": 3,
+    "mint": 2,
+    "bridge": 2,
+    "binance": 2,
+    "kraken": 2,
     "official": 2,
     "token": 2,
-    "binance": 2,
-    "bridge": 2,
-    "mint": 2,
-    "kraken": 2,
-    "ethereum": 1,
-    "claim": 1
+    "account": 1,
+    "farm": 1
   },
   "unranked_pct": 99.8,
   "ranked_count": 7,
   "correlation_count": 235,
   "correlation_pct": 6.0,
-  "last_updated": "2026-11-26",
+  "last_updated": "2026-11-27",
   "latest_reg": "2026-09-19"
 }
