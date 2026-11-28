@@ -88,13 +88,13 @@ The notice also provides for transferring the registrar's domains to a qualified
 <p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-27`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-28`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>3,893</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$17,017</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>3,887</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$16,970</strong></td>
 </tr><tr>
-<td align="center"><b>📡 Deployed</b><br/><strong>49.9%</strong></td>
+<td align="center"><b>📡 Deployed</b><br/><strong>49.8%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>4,276</strong> (3,293 HIGH)</td>
 </tr><tr>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.0%</strong></td>
@@ -116,14 +116,14 @@ The notice also provides for transferring the registrar's domains to a qualified
 | `.cam` | 176 | 365d | $878 |
 | `.site` | 174 | 365d | $868 |
 | `.cfd` | 153 | 365d | $763 |
-| `.app` | 128 | 419d | $1,792 |
+| `.app` | 127 | 419d | $1,778 |
 | `.tech` | 117 | 365d | $1,169 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████        691 (76.4%)
-BR  █░░░░░░░░░░░░░░░░░         62 (6.9%)
+US  ██████████████████        689 (76.8%)
+BR  █░░░░░░░░░░░░░░░░░         56 (6.2%)
 FR  ░░░░░░░░░░░░░░░░░░         24 (2.7%)
 DE  ░░░░░░░░░░░░░░░░░░         21 (2.3%)
 NL  ░░░░░░░░░░░░░░░░░░         19 (2.1%)
@@ -136,15 +136,15 @@ CZ  ░░░░░░░░░░░░░░░░░░          8 (0.9%)
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-12` | 510 | **30.5×** 🚨 |
-| `2026-07-13` | 158 | **9.5×** 🚨 |
-| `2026-06-15` | 112 | **6.7×** 🚨 |
-| `2026-06-19` | 97 | **5.8×** 🚨 |
-| `2026-06-05` | 75 | **4.5×** 🔥 |
+| `2026-06-12` | 510 | **30.2×** 🚨 |
+| `2026-07-13` | 158 | **9.3×** 🚨 |
+| `2026-06-15` | 112 | **6.6×** 🚨 |
+| `2026-06-19` | 97 | **5.7×** 🚨 |
+| `2026-06-05` | 75 | **4.4×** 🔥 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`secure (15)` &middot; `crypto (14)` &middot; `trust (10)` &middot; `support (10)` &middot; `wallet (8)` &middot; `login (6)` &middot; `verify (4)` &middot; `ledger (4)` &middot; `swap (4)` &middot; `vault (4)` &middot; `bitcoin (3)` &middot; `update (3)` &middot; `mint (2)` &middot; `bridge (2)` &middot; `binance (2)`
+`secure (15)` &middot; `crypto (14)` &middot; `trust (10)` &middot; `support (10)` &middot; `wallet (8)` &middot; `login (6)` &middot; `swap (4)` &middot; `vault (4)` &middot; `verify (4)` &middot; `ledger (4)` &middot; `bitcoin (3)` &middot; `update (3)` &middot; `mint (2)` &middot; `token (2)` &middot; `official (2)`
 
 ### 🕵️ Top Serial Registrants — 4 emails with ≥5 domains
 

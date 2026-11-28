@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27",
+  "generated": "2026-11-28",
   "keywords": {
     "secure": [
       "3sw-secure.tech",
@@ -76,18 +76,6 @@
       "marsbahis-loginadres2026.cyou",
       "perabetlogin.icu"
     ],
-    "verify": [
-      "insta-verify-now.cyou",
-      "portal-verify.app",
-      "verify-find.sbs",
-      "verify-server.sbs"
-    ],
-    "ledger": [
-      "beast-ledger.online",
-      "ledger-live.help",
-      "ledgerfirmware.app",
-      "ledgerlive.icu"
-    ],
     "swap": [
       "blazesswap.icu",
       "pumpswappss.fun",
@@ -99,6 +87,18 @@
       "holigan-vault.cyou",
       "kavault.xyz",
       "vaultlens.wiki"
+    ],
+    "verify": [
+      "insta-verify-now.cyou",
+      "portal-verify.app",
+      "verify-find.sbs",
+      "verify-server.sbs"
+    ],
+    "ledger": [
+      "beast-ledger.online",
+      "ledger-live.help",
+      "ledgerfirmware.app",
+      "ledgerlive.icu"
     ],
     "bitcoin": [
       "bitcoin-mastery.app",
@@ -114,31 +114,31 @@
       "mintanchor.biz",
       "minter.latino"
     ],
-    "bridge": [
-      "biitbridge.online",
-      "bitbridges.online"
-    ],
-    "binance": [
-      "binanceinfo.fun",
-      "binanceinfo.site"
-    ],
-    "kraken": [
-      "kraken-signin-session.icu",
-      "kraken-verifizierung.online"
+    "token": [
+      "token.latino",
+      "tokensex.online"
     ],
     "official": [
       "cricfy-official.app",
       "jojobet-official.ink"
     ],
-    "token": [
-      "token.latino",
-      "tokensex.online"
+    "bridge": [
+      "biitbridge.online",
+      "bitbridges.online"
     ],
-    "account": [
-      "com-account-wallet-12ff.fun"
+    "kraken": [
+      "kraken-signin-session.icu",
+      "kraken-verifizierung.online"
     ],
-    "farm": [
-      "moneyfarm.latino"
+    "binance": [
+      "binanceinfo.fun",
+      "binanceinfo.site"
+    ],
+    "solana": [
+      "instasolana.bond"
+    ],
+    "claim": [
+      "claim-cgeb-ab.help"
     ]
   }
 }
